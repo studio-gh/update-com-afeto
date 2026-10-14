@@ -1,0 +1,90 @@
+{
+  "edition_name": "Update com Afeto",
+  "timezone": "America/Sao_Paulo",
+  "daily_target_time": "08:00",
+  "series_a": [
+    {
+      "name": "B9",
+      "url": "https://www.b9.com.br/"
+    },
+    {
+      "name": "Think with Google",
+      "url": "https://business.google.com/br/think/"
+    },
+    {
+      "name": "Resumido",
+      "url": "https://resumido.cc/"
+    },
+    {
+      "name": "Famous Campaigns",
+      "url": "https://famouscampaigns.substack.com/"
+    },
+    {
+      "name": "The Summer Hunter",
+      "url": "https://thesummerhunter.com/"
+    },
+    {
+      "name": "Bits to Brands",
+      "url": "https://bitstobrands.substack.com/"
+    },
+    {
+      "name": "Update or Die!",
+      "url": "https://updateordie.com/"
+    },
+    {
+      "name": "Cool Hunting",
+      "url": "https://coolhunting.com/"
+    },
+    {
+      "name": "Ana Couto",
+      "url": "https://anacouto.com.br/"
+    },
+    {
+      "name": "Float Vibes",
+      "url": "https://floatvibes.substack.com/"
+    },
+    {
+      "name": "Seiva / Aurora",
+      "url": "https://www.seiva.com.br/aurora"
+    },
+    {
+      "name": "Fast Company Brasil",
+      "url": "https://fastcompanybrasil.com/"
+    }
+  ],
+  "series_b_pending_approval": [
+    {
+      "name": "The Drum",
+      "url": "https://www.thedrum.com/brand"
+    },
+    {
+      "name": "LBB",
+      "url": "https://lbbonline.com/"
+    },
+    {
+      "name": "Meio & Mensagem",
+      "url": "https://www.meioemensagem.com.br/comunicacao"
+    },
+    {
+      "name": "Mundo do Marketing",
+      "url": "https://mundodomarketing.com.br/"
+    },
+    {
+      "name": "Marketing Brew",
+      "url": "https://www.marketingbrew.com/"
+    },
+    {
+      "name": "Contagious",
+      "url": "https://www.contagious.com/en/reports"
+    }
+  ],
+  "editorial_rules": {
+    "stories_per_edition": 10,
+    "date_window_days": 14,
+    "max_stories_per_source": 2,
+    "minimum_distinct_sources": 6,
+    "require_direct_article_url": true,
+    "never_invent_stories_or_urls": true,
+    "do_not_publish_if_validation_fails": true
+  }
+}
