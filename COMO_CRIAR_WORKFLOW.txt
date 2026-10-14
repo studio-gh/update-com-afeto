@@ -1,0 +1,17 @@
+IMPORTANTE: a pasta .github começa com ponto e fica OCULTA no Finder do macOS.
+
+O arquivo correto para o GitHub Actions fica em:
+.github/workflows/pages.yml
+
+Se não conseguir ver a pasta no Finder:
+1. Abra a pasta extraída do ZIP.
+2. Pressione Command + Shift + . (ponto) para mostrar arquivos ocultos.
+3. A pasta .github deverá aparecer.
+4. Envie a pasta .github para a raiz do repositório.
+
+Alternativa: no GitHub, clique em Add file > Create new file e, no nome do arquivo,
+digite exatamente .github/workflows/pages.yml. Cole o conteúdo do arquivo pages.yml
+que está na raiz deste pacote e faça Commit changes.
+
+O arquivo pages.yml na raiz é apenas uma cópia de apoio. O workflow precisa estar
+no caminho .github/workflows/pages.yml para ser reconhecido pelo GitHub Actions.
