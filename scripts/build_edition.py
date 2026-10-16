@@ -101,8 +101,7 @@ Não invente. Só inclua matérias cuja data e URL você consiga confirmar. Não
             "filters": {"allowed_domains": domains},
             "search_context_size": "high"
         }],
-        "input": search_prompt,
-        "text": {"format": {"type": "json_object"}}
+        "input": search_prompt
     }
     response = requests.post(
         "https://api.openai.com/v1/responses",
