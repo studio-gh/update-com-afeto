@@ -51,6 +51,7 @@ jobs:
             echo "No edition files changed."
           else
             git commit -m "Publish Update com Afeto edition $(date -u +%F)"
+            git push origin HEAD
           fi
 
       - name: Configure GitHub Pages
