@@ -318,8 +318,10 @@ def main():
     target = int(rules.get("stories_per_edition", 10))
     max_per_source = int(rules.get("max_stories_per_source", 2))
     min_sources = int(rules.get("minimum_distinct_sources", 6))
-    sources = config["series_a"]
-    print(f"Pesquisa gratuita: {len(sources)} fontes Série A; janela {MIN_DATE} a {TODAY}.")
+    series_a = config.get("series_a", [])
+    series_b = config.get("series_b_pending_approval", [])
+    sources = series_a + series_b
+    print(f"Pesquisa gratuita: {len(series_a)} fontes Série A + {len(series_b)} fontes Série B; total {len(sources)}; janela {MIN_DATE} a {TODAY}.")
     candidates = discover_candidates(sources)
     candidate_counts = {}
     for item in candidates:
