@@ -1,6 +1,11 @@
 name: Daily Update com Afeto Edition
 
 on:
+  push:
+    paths:
+      - "scripts/build_edition.py"
+      - "data/sources.json"
+      - ".github/workflows/daily-edition.yml"
   schedule:
     - cron: "7 8 * * *"
       timezone: "America/Sao_Paulo"
