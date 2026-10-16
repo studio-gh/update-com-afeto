@@ -2,6 +2,7 @@
 """Build a validated Update com Afeto edition from approved Series A sources."""
 import json, os, re, sys, time
 from datetime import date, datetime, timedelta
+from zoneinfo import ZoneInfo
 from urllib.parse import urlparse, urljoin
 import requests
 from bs4 import BeautifulSoup
@@ -10,7 +11,7 @@ ROOT = os.getcwd()
 SOURCES_FILE = os.path.join(ROOT, "data/sources.json")
 LATEST_FILE = os.path.join(ROOT, "data/latest.json")
 EDITION_DIR = os.path.join(ROOT, "data/editions")
-TODAY = datetime.now().astimezone().date()
+TODAY = datetime.now(ZoneInfo("America/Sao_Paulo")).date()
 HEADERS = {"User-Agent": "UpdateComAfetoEditorialBot/1.0 (+https://studio-gh.github.io/update-com-afeto/)"}
 TIMEOUT = 18
 
@@ -20,8 +21,8 @@ def read_json(path):
 
 def allowed_domain(url, source_url):
     try:
-        host = (urlparse(url).hostname or "").lower()
-        base = (urlparse(source_url).hostname or "").lower()
+        host = (urlparse(url).hostname or "").lower().removeprefix("www.")
+        base = (urlparse(source_url).hostname or "").lower().removeprefix("www.")
         return bool(host and base and (host == base or host.endswith("." + base)))
     except Exception:
         return False
