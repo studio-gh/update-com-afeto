@@ -155,10 +155,21 @@ def parse_feed(feed_url, source):
         return items
     return items
 
-def google_news_feed(source):
+def google_news_feeds(source):
     domain = host(source["url"])
-    query = quote_plus(f"site:{domain} after:{MIN_DATE.isoformat()}")
-    return f"https://news.google.com/rss/search?q={query}&hl=pt-BR&gl=BR&ceid=BR:pt-419"
+    # Several focused queries improve coverage for sources with weak/no public RSS.
+    # Keep every query restricted to the approved source domain and the 7-day window.
+    topics = [
+        '"campanha" OR "campaign" OR publicidade OR advertising',
+        'marca OR branding OR marketing OR comunicação',
+        'consumidor OR comportamento OR cultura OR tendência',
+        'experiência OR ativação OR criatividade OR design',
+    ]
+    feeds = []
+    for topic in topics:
+        query = quote_plus(f"site:{domain} after:{MIN_DATE.isoformat()} ({topic})")
+        feeds.append(f"https://news.google.com/rss/search?q={query}&hl=pt-BR&gl=BR&ceid=BR:pt-419")
+    return feeds
 
 def category_for(text):
     t = text.casefold()
@@ -193,8 +204,10 @@ def discover_candidates(sources):
         source_items = []
         for feed in feed_urls[:4]:
             source_items.extend(parse_feed(feed, source))
-        # Search feed is a free fallback for sources without a working public RSS feed.
-        source_items.extend(parse_feed(google_news_feed(source), source))
+        # Free fallback: multiple topical Google News RSS queries, restricted to
+        # each approved domain. This is discovery only; original pages are validated below.
+        for search_feed in google_news_feeds(source):
+            source_items.extend(parse_feed(search_feed, source))
         seen = set()
         for item in source_items:
             if item["url"] in seen:
@@ -308,9 +321,17 @@ def main():
     sources = config["series_a"]
     print(f"Pesquisa gratuita: {len(sources)} fontes Série A; janela {MIN_DATE} a {TODAY}.")
     candidates = discover_candidates(sources)
+    candidate_counts = {}
+    for item in candidates:
+        candidate_counts[item["source"]] = candidate_counts.get(item["source"], 0) + 1
     print(f"Encontradas {len(candidates)} candidatas em feeds e busca RSS.")
+    print("Candidatas por fonte: " + ", ".join(f"{name}={count}" for name, count in sorted(candidate_counts.items())))
     validated = validate_candidates(candidates)
+    validated_counts = {}
+    for item in validated:
+        validated_counts[item["source"]] = validated_counts.get(item["source"], 0) + 1
     print(f"Validadas {len(validated)} matérias com URL original e data.")
+    print("Validadas por fonte: " + ", ".join(f"{name}={count}" for name, count in sorted(validated_counts.items())))
     stories = choose_stories(validated, target, max_per_source, min_sources)
     lead = max(stories, key=lambda s: (sum(1 for w in ["campanha", "marca", "publicidade", "comportamento", "experiência"] if w in s["title"].casefold()), s["published_date"]))
     categories = {}
