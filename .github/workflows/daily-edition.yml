@@ -51,7 +51,10 @@ jobs:
             echo "No edition files changed."
           else
             git commit -m "Publish Update com Afeto edition $(date -u +%F)"
-            git push origin HEAD
+            # Another repository update can land while research is running.
+            # Rebase the generated edition on the latest main before pushing.
+            git pull --rebase origin main
+            git push origin HEAD:main
           fi
 
       - name: Configure GitHub Pages
