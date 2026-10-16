@@ -20,11 +20,11 @@ Este repositório contém a primeira versão publicável do site do **Update com
 O HTML preserva o protótipo editorial e os cards usados na demonstração. Os títulos, datas e links dessas matérias ainda precisam de uma auditoria de publicação. O arquivo `data/latest.json` está marcado como `prototype` e não deve ser tratado como uma edição validada.
 
 ## Atualização diária: estado atual
-A publicação do site está automatizada após cada push, mas a **curadoria diária ainda não está ligada**. Não queremos fingir que uma edição foi apurada quando as fontes, as datas ou os links não foram verificados. A próxima etapa é instalar o pipeline de coleta, curadoria com modelo via segredo `OPENAI_API_KEY`, validação editorial e atualização de `data/latest.json` + arquivo datado. A chave nunca deve entrar no HTML nem no repositório.
+A publicação do site está automatizada após cada push, mas a **curadoria diária ainda não está ligada**. Não queremos fingir que uma edição foi apurada quando as fontes, as datas ou os links não foram verificados. O workflow `.github/workflows/daily-edition.yml` pesquisa as 12 fontes da Série A, valida URLs e datas nas páginas originais, usa `OPENAI_API_KEY` para seleção editorial e atualiza `data/latest.json` + arquivo datado. A rotina é agendada para 08:07 em `America/Sao_Paulo` e também pode ser executada manualmente em Actions. A chave nunca deve entrar no HTML nem no repositório.
 
 ## Regras editoriais
 - Exatamente 10 matérias por edição.
-- Janela de publicação: 14 dias corridos anteriores à execução.
+- Janela de publicação: últimos 7 dias corridos, incluindo a data da edição.
 - No máximo 2 matérias por fonte e pelo menos 6 fontes distintas.
 - Links diretos para a matéria, com data e fonte verificáveis.
 - Não inventar títulos, datas, resumos ou URLs.
@@ -34,4 +34,4 @@ A publicação do site está automatizada após cada push, mas a **curadoria di�
 
 ## Rotina sugerida
 - Edição diária desejada: 08:00, horário de Brasília (`America/Sao_Paulo`).
-- O agendamento da curadoria será configurado na etapa do pipeline diário; este repositório ainda não afirma que isso esteja ativo.
+- O agendamento da curadoria será configurado na etapa do pipeline diário; o workflow diário está configurado para 08:07, horário de Brasília; a primeira execução precisa terminar com sucesso antes de considerar a edição automatizada validada.
