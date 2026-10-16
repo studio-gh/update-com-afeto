@@ -35,9 +35,6 @@ jobs:
         run: pip install requests beautifulsoup4
 
       - name: Research, curate and validate edition
-        env:
-          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-          OPENAI_MODEL: gpt-5
         run: python scripts/build_edition.py
 
       - name: Commit validated edition
