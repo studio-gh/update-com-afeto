@@ -80,7 +80,7 @@
   ],
   "editorial_rules": {
     "stories_per_edition": 10,
-    "date_window_days": 14,
+    "date_window_days": 7,
     "max_stories_per_source": 2,
     "minimum_distinct_sources": 6,
     "require_direct_article_url": true,
