@@ -81,4 +81,68 @@ header,main,footer{display:none!important}.print-cover,.print-edition{display:bl
 <script>
 document.querySelectorAll('.filter').forEach(btn=>btn.addEventListener('click',()=>{document.querySelectorAll('.filter').forEach(b=>b.classList.remove('active'));btn.classList.add('active');const f=btn.dataset.filter;document.querySelectorAll('#story-list .story').forEach(card=>card.classList.toggle('hidden',f!=='all'&&card.dataset.series!==f));}));
 </script>
+
+<script id="live-edition-loader">
+(async function(){
+  const $ = (s, r=document) => r.querySelector(s);
+  const esc = v => String(v ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+  const dateObj = s => { const d = new Date((s || '') + 'T12:00:00'); return Number.isNaN(d.getTime()) ? null : d; };
+  const fmt = s => { const d=dateObj(s); return d ? new Intl.DateTimeFormat('pt-BR',{day:'2-digit',month:'short',year:'numeric'}).format(d).replace(/\./g,'') : 'Data não confirmada'; };
+  const fullDate = s => { const d=dateObj(s); return d ? new Intl.DateTimeFormat('pt-BR',{day:'numeric',month:'long',year:'numeric'}).format(d) : 'Edição em validação'; };
+  const weekday = s => { const d=dateObj(s); return d ? new Intl.DateTimeFormat('pt-BR',{weekday:'long'}).format(d) : 'Edição em preparação'; };
+  const safeUrl = u => { try { const x=new URL(u); return x.protocol==='https:' ? x.href : ''; } catch(e){ return ''; } };
+  const sourceShort = s => esc(s || 'Fonte oficial');
+  const makeCard = (s,i) => {
+    const img=safeUrl(s.image_url), url=safeUrl(s.url), artClass=['a','b','c','d','e','f','g','h','i','j'][i%10];
+    return '<article class="story" data-series="Série A"><div class="art '+artClass+'">'+(img?'<img alt="'+esc(s.title)+'" class="source-photo" decoding="async" loading="lazy" referrerpolicy="no-referrer" src="'+esc(img)+'" onerror="this.remove();">':'')+'</div><div class="story-content"><div class="story-meta"><span class="tag">'+esc(s.category || 'Cultura digital')+'</span><span class="date">'+esc(fmt(s.published_date))+'</span></div><h3>'+esc(s.title)+'</h3><p>'+esc(s.summary)+'</p><div class="story-bottom"><span>'+sourceShort(s.source)+'<em>Série A · fonte oficial</em></span>'+(url?'<a href="'+esc(url)+'" target="_blank" rel="noopener noreferrer">Ler matéria ↗</a>':'')+'</div></div></article>';
+  };
+  const makePrint = s => {
+    const url=safeUrl(s.url);
+    return '<article class="print-story"><div class="meta"><span>'+esc(s.category || 'Cultura digital')+'</span><span>'+esc(fmt(s.published_date))+'</span></div><h3>'+esc(s.title)+'</h3><p>'+esc(s.summary)+'</p><div class="source">'+sourceShort(s.source)+' · Série A</div>'+(url?'<a href="'+esc(url)+'">Ler matéria no site original →</a>':'')+'</article>';
+  };
+  try {
+    const response=await fetch('./data/latest.json?live='+Date.now(),{cache:'no-store'});
+    if(!response.ok) throw new Error('latest edition unavailable');
+    const edition=await response.json();
+    const valid=edition && edition.status==='published' && Array.isArray(edition.stories) && edition.stories.length===10;
+    if(!valid){
+      const lead=$('.lead');
+      if(lead) lead.innerHTML='<div class="lead-art"></div><div class="lead-copy"><div class="eyebrow">Edição em preparação</div><h2>A próxima edição está sendo apurada.</h2><p>As matérias só aparecem aqui depois da validação de datas, fontes e links originais.</p><div class="lead-foot"><span>UPDATE COM AFETO · INTELLIGENCE DESK</span><span class="pill">Validação editorial</span></div></div>';
+      const list=$('#story-list');
+      if(list) list.innerHTML='<div class="panel" style="grid-column:1/-1"><h2 style="font:23px Georgia,serif;margin:0 0 8px">A edição ainda não foi validada</h2><p style="margin:0;color:#68727A">O jornal não exibirá matérias de demonstração como se fossem notícias atuais. Tente novamente depois da execução editorial.</p></div>';
+      const filter=$('.filters'); if(filter) filter.style.display='none';
+      const printList=$('.print-stories'); if(printList) printList.innerHTML='';
+      const leadPrint=$('.print-cover .print-head strong'); if(leadPrint) leadPrint.textContent='EDIÇÃO EM PREPARAÇÃO';
+      return;
+    }
+    const stories=edition.stories, day=fullDate(edition.edition_date);
+    const headerDate=$('.top-right > span:nth-child(2)');
+    if(headerDate) headerDate.textContent=day.toLocaleUpperCase('pt-BR');
+    const introEyebrow=$('.intro .eyebrow');
+    if(introEyebrow) introEyebrow.textContent=weekday(edition.edition_date)+' · Edição diária';
+    const editionStrong=$('.edition strong'); if(editionStrong) editionStrong.textContent=day;
+    const editionSpan=$('.edition span'); if(editionSpan) editionSpan.textContent='10 histórias selecionadas · últimos 7 dias';
+    const leadStory=stories.find(s=>s.url===edition.lead_url)||stories[0], lead=$('.lead');
+    if(lead && leadStory){
+      const img=safeUrl(leadStory.image_url);
+      lead.innerHTML='<div class="lead-art">'+(img?'<img alt="'+esc(leadStory.title)+'" class="source-photo lead-photo" decoding="async" loading="eager" referrerpolicy="no-referrer" src="'+esc(img)+'" onerror="this.remove();">':'')+'</div><div class="lead-copy"><div class="eyebrow">Escolha da editora · destaque da edição</div><h2>'+esc(leadStory.title)+'</h2><p>'+esc(leadStory.summary)+'</p><div class="lead-foot"><span>'+sourceShort(leadStory.source)+' · '+esc(fmt(leadStory.published_date))+'</span><a href="'+esc(safeUrl(leadStory.url))+'" rel="noopener noreferrer" target="_blank">Ler a matéria ↗</a><span class="pill">Série A · verificada</span></div></div>';
+    }
+    const signals=Array.isArray(edition.signals)?edition.signals.slice(0,3):[], signalPanel=$('#radar');
+    if(signalPanel && signals.length){
+      const panelHead=$('.panel-head',signalPanel);
+      signalPanel.innerHTML=(panelHead?panelHead.outerHTML:'<div class="panel-head"><h2>Radar de campanhas</h2><span>3 sinais</span></div>')+signals.map((x,i)=>'<div class="signal"><div class="signal-num">'+String(i+1).padStart(2,'0')+'</div><div><h3>'+esc(x.title)+'</h3><p>'+esc(x.description)+'</p><small>'+esc(x.category || 'SINAL EDITORIAL')+'</small></div></div>').join('');
+    }
+    const list=$('#story-list'); if(list) list.innerHTML=stories.map(makeCard).join('');
+    const filters=$('.filters'); if(filters) filters.style.display='none';
+    const printStories=$('.print-stories'); if(printStories) printStories.innerHTML=stories.map(makePrint).join('');
+    const printTitle=$('.print-edition > h2'); if(printTitle) printTitle.textContent='O que merece atenção · '+day;
+    const coverDate=$('.print-cover .print-head strong'); if(coverDate) coverDate.textContent=weekday(edition.edition_date).toLocaleUpperCase('pt-BR')+' · '+day.toLocaleUpperCase('pt-BR');
+    const letter=$('.print-cover .letter'); if(letter && edition.editor_letter) letter.textContent=edition.editor_letter;
+    const printNote=$('.print-note'); if(printNote) printNote.textContent='Edição curada a partir das 12 fontes oficiais da Série A. Matérias publicadas nos últimos 7 dias.';
+  } catch(error) {
+    console.warn('Não foi possível carregar a edição atualizada.',error);
+  }
+})();
+</script>
+
 </body></html>
