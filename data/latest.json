@@ -1,20 +1,20 @@
 {
-  "edition_date": "2026-10-16",
+  "edition_date": "2026-10-17",
   "status": "published",
   "notice": "Curadoria automática gratuita baseada em RSS e metadados das fontes originais.",
-  "window_start": "2026-10-10",
-  "window_end": "2026-10-16",
+  "window_start": "2026-10-11",
+  "window_end": "2026-10-17",
   "edition_name": "Update com Afeto",
   "editor_letter": "Esta edição reúne 10 histórias publicadas nos últimos sete dias, selecionadas entre as fontes aprovadas da Série A. A curadoria prioriza campanhas, marcas, estratégia, comportamento e cultura digital. Os resumos partem das descrições publicadas pelas próprias fontes; abra os links originais para ler o contexto completo.",
   "signals": [
     {
       "title": "Campanhas",
-      "description": "4 matéria(s) desta edição exploram campanhas. Veja como as marcas e a cultura estão se movimentando neste tema.",
+      "description": "5 matéria(s) desta edição exploram campanhas. Veja como as marcas e a cultura estão se movimentando neste tema.",
       "category": "SINAL EDITORIAL"
     },
     {
       "title": "Branding",
-      "description": "4 matéria(s) desta edição exploram branding. Veja como as marcas e a cultura estão se movimentando neste tema.",
+      "description": "2 matéria(s) desta edição exploram branding. Veja como as marcas e a cultura estão se movimentando neste tema.",
       "category": "SINAL EDITORIAL"
     },
     {
@@ -25,6 +25,18 @@
   ],
   "lead_url": "https://anacouto.com.br/artigos/2026/10/14/brand-lift-como-saber-se-sua-comunicacao-esta-realmente-movendo-a-percepcao-da-marca/",
   "stories": [
+    {
+      "title": "Damasco Filmes passa a fazer parte do grupo A300",
+      "original_title": "Damasco Filmes passa a fazer parte do grupo A300",
+      "summary": "A Damasco Filmes passa a fazer parte do grupo A300 como parte de estratégia de expansão e consolidação do grupo, criado a partir da experiência dos",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre campanhas e suas implicações para marcas e comunicação.",
+      "category": "Campanhas",
+      "source": "Meio & Mensagem",
+      "published_date": "2026-10-16",
+      "url": "https://www.meioemensagem.com.br/comunicacao/damasco-filmes-passa-a-fazer-parte-do-grupo-a300",
+      "image_url": "https://www.meioemensagem.com.br/wp-content/uploads/2026/10/Damasco-Filmes-e-A300.jpg",
+      "series": "Série A"
+    },
     {
       "title": "Herbalife volta à mídia tradicional após uma década",
       "original_title": "Herbalife volta à mídia tradicional após uma década",
@@ -38,15 +50,15 @@
       "series": "Série A"
     },
     {
-      "title": "Ana Castela é novo rosto da perfumaria árabe Mawwal",
-      "original_title": "Ana Castela é novo rosto da perfumaria árabe Mawwal",
-      "summary": "A Mawwal Arabia, marca de perfumes e cosméticos árabes, anunciou a cantora Ana Castela como sua nova embaixadora. A parceria faz parte da estratégia da",
-      "why_it_matters": "Vale observar o que esta publicação revela sobre branding e suas implicações para marcas e comunicação.",
-      "category": "Branding",
-      "source": "Meio & Mensagem",
-      "published_date": "2026-10-13",
-      "url": "https://www.meioemensagem.com.br/comunicacao/ana-castela-e-novo-rosto-da-perfumaria-arabe-mawwal",
-      "image_url": "https://www.meioemensagem.com.br/wp-content/uploads/2026/10/Ana-Castela-Mawwal-Arabia.jpg",
+      "title": "Spotify Audiolivros chega ao Brasil: como funciona",
+      "original_title": "Spotify Audiolivros chega ao Brasil: como funciona",
+      "summary": "Com 12 horas mensais no Premium e mais de 6 mil títulos em português, o recurso coloca livros narrados no mesmo app de músicas e podcasts. Testamos a experiência, os limites da franquia e as alternativas.",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre experiência de marca e suas implicações para marcas e comunicação.",
+      "category": "Experiência de marca",
+      "source": "Update or Die!",
+      "published_date": "2026-10-17",
+      "url": "https://updateordie.com/2026/10/17/spotify-audiolivros-chega-ao-brasil-como-funciona/",
+      "image_url": "https://updateordie.com/wp-content/uploads/2026/10/whatsapp-image-2026-10-16-at-11.20.29.jpeg",
       "series": "Série A"
     },
     {
@@ -62,42 +74,6 @@
       "series": "Série A"
     },
     {
-      "title": "Patagonia integra roupas novas e usadas no mesmo site | Fast Company Brasil",
-      "original_title": "Patagonia integra roupas novas e usadas no mesmo site | Fast Company Brasil",
-      "summary": "A Worn Wear passa a fazer parte da loja principal da marca, que quer normalizar a revenda e reduzir o impacto ambiental da moda.",
-      "why_it_matters": "Vale observar o que esta publicação revela sobre branding e suas implicações para marcas e comunicação.",
-      "category": "Branding",
-      "source": "Fast Company Brasil",
-      "published_date": "2026-10-16",
-      "url": "https://fastcompanybrasil.com/impacto/patagonia-integra-roupas-novas-e-usadas-no-mesmo-site/",
-      "image_url": "https://fastcompanybrasil.com/wp-content/uploads/2026/10/Patagonia_venda-de-roupas-usadas.jpg",
-      "series": "Série A"
-    },
-    {
-      "title": "Hotéis começam a se adaptar aos viajantes que usam Ozempic | Fast Company Brasil",
-      "original_title": "Hotéis começam a se adaptar aos viajantes que usam Ozempic | Fast Company Brasil",
-      "summary": "Usuários buscam hotéis com geladeiras para armazenar as doses, cardápios ricos em proteínas e experiências voltadas ao bem-estar.",
-      "why_it_matters": "Vale observar o que esta publicação revela sobre experiência de marca e suas implicações para marcas e comunicação.",
-      "category": "Experiência de marca",
-      "source": "Fast Company Brasil",
-      "published_date": "2026-10-16",
-      "url": "https://fastcompanybrasil.com/worklife/bem-estar/hoteis-comecam-a-se-adaptar-aos-viajantes-que-usam-ozempic/",
-      "image_url": "https://fastcompanybrasil.com/wp-content/uploads/2026/10/turismo-de-saude_Ozempic_hotel.jpg",
-      "series": "Série A"
-    },
-    {
-      "title": "Q3 Bellwether Reactions: Why 7 Channels Are Seeing Budget Surges â LBB",
-      "original_title": "Q3 Bellwether Reactions: Why 7 Channels Are Seeing Budget Surges â LBB",
-      "summary": "With UK marketing budgets at a two-year high, agency leaders unpack the surge in PR and experiential, alongside the battle between brand and activation",
-      "why_it_matters": "Vale observar o que esta publicação revela sobre branding e suas implicações para marcas e comunicação.",
-      "category": "Branding",
-      "source": "LBB",
-      "published_date": "2026-10-16",
-      "url": "https://lbbonline.com/news/ipa-bellwether-reactions-Q3-2026",
-      "image_url": "https://d3q27bh1u24u2o.cloudfront.net/resized/1200/news_hero/2026-10/tea-leaves.KItrYZ9h.png",
-      "series": "Série A"
-    },
-    {
       "title": "Brand lift: como saber se sua comunicação está realmente movendo a percepção da marca",
       "original_title": "Brand lift: como saber se sua comunicação está realmente movendo a percepção da marca",
       "summary": "Alcance, visualizações e cliques dizem o que as pessoas fizeram diante do anúncio. O brand lift mostra o que elas passaram a pensar depois dele, e é essa a resposta que a liderança costuma cobrar.",
@@ -110,39 +86,63 @@
       "series": "Série A"
     },
     {
-      "title": "Do digital ao OOH: McDonald’s quer emplacar a versatilidade do Méqui Box",
-      "original_title": "Do digital ao OOH: McDonald’s quer emplacar a versatilidade do Méqui Box",
-      "summary": "Campanha destaca refeições em grupo como opção prática e econômica para encontros familiares e entre amigos.",
-      "why_it_matters": "Vale observar o que esta publicação revela sobre campanhas e suas implicações para marcas e comunicação.",
-      "category": "Campanhas",
-      "source": "Update or Die!",
-      "published_date": "2026-10-13",
-      "url": "https://updateordie.com/2026/10/13/galeria-ag-lanca-campanha-da-mequi-box/",
-      "image_url": "https://updateordie.com/wp-content/uploads/2026/10/maxresdefault-29.jpg",
+      "title": "Brasil cria regras para games e prevê apoio a estúdios nacionais | Fast Company Brasil",
+      "original_title": "Brasil cria regras para games e prevê apoio a estúdios nacionais | Fast Company Brasil",
+      "summary": "Marco Legal dos Jogos Eletrônicos prevê estímulos ao mercado, enquanto a ANPD acompanha a adequação de games às regras de proteção infantil.",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre estratégia & negócios e suas implicações para marcas e comunicação.",
+      "category": "Estratégia & negócios",
+      "source": "Fast Company Brasil",
+      "published_date": "2026-10-16",
+      "url": "https://fastcompanybrasil.com/games/brasil-cria-regras-games-preve-apoio-estudios-nacionais/",
+      "image_url": "https://fastcompanybrasil.com/wp-content/uploads/2026/10/games-br.jpg",
       "series": "Série A"
     },
     {
-      "title": "Gut Feelings and Divided Opinions: Inside the German Immortal Awards Jury Room â LBB",
-      "original_title": "Gut Feelings and Divided Opinions: Inside the German Immortal Awards Jury Room â LBB",
-      "summary": "Jurors from BBDO, Essity, Commerzbank, INNOCEAN, Scholz & Friends, and more discuss the campaigns that made an immediate impression, the ideas that sparked debate and why five very different pieces of work made the cut in Germany this year",
+      "title": "Philip Hambi Joins The Post Arm as Senior Colourist â LBB",
+      "original_title": "Philip Hambi Joins The Post Arm as Senior Colourist â LBB",
+      "summary": "Senior colourist joins The Post Arm following senior roles at MPC, The Mill and Absolute Post, bringing a portfolio spanning global brands, culture-shaping campaigns and award-winning work",
       "why_it_matters": "Vale observar o que esta publicação revela sobre campanhas e suas implicações para marcas e comunicação.",
       "category": "Campanhas",
       "source": "LBB",
       "published_date": "2026-10-16",
-      "url": "https://lbbonline.com/news/immortal-awards-2026-germany-jury-room-insights",
-      "image_url": "https://d3q27bh1u24u2o.cloudfront.net/resized/1200/news/2026-10/1791973549000-r0000733.lIHl8cqz.jpg",
+      "url": "https://lbbonline.com/news/philip-hambi-joins-the-post-arm-as-senior-colourist",
+      "image_url": "https://d3q27bh1u24u2o.cloudfront.net/resized/1200/news/2026-10/philip-hambi.pwT_PeU_.png",
       "series": "Série A"
     },
     {
-      "title": "Links do Ep. #385 - RESUMIDO",
-      "original_title": "Links do Ep. #385 - RESUMIDO",
-      "summary": "A matéria aborda “Links do Ep. #385 - RESUMIDO”. Abra a publicação original para conferir os detalhes, o contexto e os exemplos apresentados pela fonte.",
-      "why_it_matters": "Vale observar o que esta publicação revela sobre criatividade e suas implicações para marcas e comunicação.",
-      "category": "Criatividade",
-      "source": "Resumido",
+      "title": "Contrario Takes General Optica to the Wild West â LBB",
+      "original_title": "Contrario Takes General Optica to the Wild West â LBB",
+      "summary": "A familiar Western showdown becomes an unexpected way to talk about presbyopia, turning an everyday gesture into a humorous campaign for General Optica",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre campanhas e suas implicações para marcas e comunicação.",
+      "category": "Campanhas",
+      "source": "LBB",
+      "published_date": "2026-10-16",
+      "url": "https://lbbonline.com/news/contrario-takes-general-optica-to-the-wild-west",
+      "image_url": "https://d3q27bh1u24u2o.cloudfront.net/resized/1200/news/2026-10/general-optica.GcHZ-cmM.png",
+      "series": "Série A"
+    },
+    {
+      "title": "Highlights from Los Angeles Design Week/end - COOL HUNTING®",
+      "original_title": "Highlights from Los Angeles Design Week/end - COOL HUNTING®",
+      "summary": "In large cities with major cultural institutions, supporting independent artists and makers strengthens the vitality of the creative community. While the openings of the David Geffen Galleries at L…",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre comportamento e suas implicações para marcas e comunicação.",
+      "category": "Comportamento",
+      "source": "Cool Hunting",
+      "published_date": "2026-10-15",
+      "url": "https://coolhunting.com/design/highlights-from-los-angeles-design-week-end/",
+      "image_url": "https://coolhunting.com/wp-content/uploads/2026/10/688A2756-scaled.jpg",
+      "series": "Série A"
+    },
+    {
+      "title": "Friar Park x Niwaki Meditation Jacket - COOL HUNTING®",
+      "original_title": "Friar Park x Niwaki Meditation Jacket - COOL HUNTING®",
+      "summary": "Niwaki—one of our favorite gardening brands—has launched a collection inspired by the gardens at Friar Park, the long time family estate of George Harrison known for its quirky architecture and ext…",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre branding e suas implicações para marcas e comunicação.",
+      "category": "Branding",
+      "source": "Cool Hunting",
       "published_date": "2026-10-13",
-      "url": "https://resumido.cc/2026/10/13/links-do-ep-385/",
-      "image_url": "",
+      "url": "https://coolhunting.com/buy/449957/",
+      "image_url": "https://coolhunting.com/wp-content/uploads/2026/10/780AA3FF-386E-4C0C-B5F6-4E178F87C611_1_201_a.jpeg",
       "series": "Série A"
     }
   ]
