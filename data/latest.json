@@ -1,9 +1,9 @@
 {
-  "edition_date": "2026-10-17",
+  "edition_date": "2026-10-18",
   "status": "published",
   "notice": "Curadoria automática gratuita baseada em RSS e metadados das fontes originais.",
-  "window_start": "2026-10-11",
-  "window_end": "2026-10-17",
+  "window_start": "2026-10-12",
+  "window_end": "2026-10-18",
   "edition_name": "Update com Afeto",
   "editor_letter": "Esta edição reúne 10 histórias publicadas nos últimos sete dias, selecionadas entre as fontes aprovadas da Série A. A curadoria prioriza campanhas, marcas, estratégia, comportamento e cultura digital. Os resumos partem das descrições publicadas pelas próprias fontes; abra os links originais para ler o contexto completo.",
   "signals": [
@@ -18,8 +18,8 @@
       "category": "SINAL EDITORIAL"
     },
     {
-      "title": "Experiência de marca",
-      "description": "1 matéria(s) desta edição exploram experiência de marca. Veja como as marcas e a cultura estão se movimentando neste tema.",
+      "title": "Estratégia & negócios",
+      "description": "1 matéria(s) desta edição exploram estratégia & negócios. Veja como as marcas e a cultura estão se movimentando neste tema.",
       "category": "SINAL EDITORIAL"
     }
   ],
@@ -47,6 +47,18 @@
       "published_date": "2026-10-16",
       "url": "https://www.meioemensagem.com.br/comunicacao/herbalife-volta-a-midia-tradicional-apos-uma-decada",
       "image_url": "https://www.meioemensagem.com.br/wp-content/uploads/2026/10/herbalife-campanha-tv-cred-divulgacao-1280x85-1.jpg",
+      "series": "Série A"
+    },
+    {
+      "title": "Quatro maneiras de começar a pensar no longo prazo | Fast Company Brasil",
+      "original_title": "Quatro maneiras de começar a pensar no longo prazo | Fast Company Brasil",
+      "summary": "Definir um horizonte de tempo, aceitar parecer errado e aprender a dizer não são algumas das estratégias para alcançar objetivos ambiciosos.",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre estratégia & negócios e suas implicações para marcas e comunicação.",
+      "category": "Estratégia & negócios",
+      "source": "Fast Company Brasil",
+      "published_date": "2026-10-18",
+      "url": "https://fastcompanybrasil.com/futuro-do-trabalho/quatro-maneiras-de-comecar-a-pensar-no-longo-prazo/",
+      "image_url": "https://fastcompanybrasil.com/wp-content/uploads/2026/10/planejamento_celular_rotina_sucesso.jpg",
       "series": "Série A"
     },
     {
@@ -83,18 +95,6 @@
       "published_date": "2026-10-14",
       "url": "https://anacouto.com.br/artigos/2026/10/14/brand-lift-como-saber-se-sua-comunicacao-esta-realmente-movendo-a-percepcao-da-marca/",
       "image_url": "https://anacouto.com.br/wp-content/uploads/2026/10/cropped-artigo-brand-lift.png",
-      "series": "Série A"
-    },
-    {
-      "title": "Brasil cria regras para games e prevê apoio a estúdios nacionais | Fast Company Brasil",
-      "original_title": "Brasil cria regras para games e prevê apoio a estúdios nacionais | Fast Company Brasil",
-      "summary": "Marco Legal dos Jogos Eletrônicos prevê estímulos ao mercado, enquanto a ANPD acompanha a adequação de games às regras de proteção infantil.",
-      "why_it_matters": "Vale observar o que esta publicação revela sobre estratégia & negócios e suas implicações para marcas e comunicação.",
-      "category": "Estratégia & negócios",
-      "source": "Fast Company Brasil",
-      "published_date": "2026-10-16",
-      "url": "https://fastcompanybrasil.com/games/brasil-cria-regras-games-preve-apoio-estudios-nacionais/",
-      "image_url": "https://fastcompanybrasil.com/wp-content/uploads/2026/10/games-br.jpg",
       "series": "Série A"
     },
     {
