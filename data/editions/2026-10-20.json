@@ -1,0 +1,149 @@
+{
+  "edition_date": "2026-10-20",
+  "status": "published",
+  "notice": "Curadoria automática gratuita baseada em RSS e metadados das fontes originais.",
+  "window_start": "2026-10-14",
+  "window_end": "2026-10-20",
+  "edition_name": "Update com Afeto",
+  "editor_letter": "Esta edição reúne 10 histórias publicadas nos últimos sete dias, selecionadas entre as fontes aprovadas da Série A. A curadoria prioriza campanhas, marcas, estratégia, comportamento e cultura digital. Os resumos partem das descrições publicadas pelas próprias fontes; abra os links originais para ler o contexto completo.",
+  "signals": [
+    {
+      "title": "Campanhas",
+      "description": "6 matéria(s) desta edição exploram campanhas. Veja como as marcas e a cultura estão se movimentando neste tema.",
+      "category": "SINAL EDITORIAL"
+    },
+    {
+      "title": "Branding",
+      "description": "2 matéria(s) desta edição exploram branding. Veja como as marcas e a cultura estão se movimentando neste tema.",
+      "category": "SINAL EDITORIAL"
+    },
+    {
+      "title": "Criatividade",
+      "description": "1 matéria(s) desta edição exploram criatividade. Veja como as marcas e a cultura estão se movimentando neste tema.",
+      "category": "SINAL EDITORIAL"
+    }
+  ],
+  "lead_url": "https://anacouto.com.br/artigos/2026/10/14/brand-lift-como-saber-se-sua-comunicacao-esta-realmente-movendo-a-percepcao-da-marca/",
+  "stories": [
+    {
+      "title": "Até fazer amigos virou um modelo de negócio",
+      "original_title": "Até fazer amigos virou um modelo de negócio",
+      "summary": "Transformamos convivência em produto, pertencimento em estratégia de marca e agora pagamos para experimentar algo que antes acontecia de graça.",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre branding e suas implicações para marcas e comunicação.",
+      "category": "Branding",
+      "source": "Update or Die!",
+      "published_date": "2026-10-20",
+      "url": "https://updateordie.com/2026/10/20/ate-fazer-amigos-virou-um-modelo-de-negocio/",
+      "image_url": "https://updateordie.com/wp-content/uploads/2026/10/Noite-Dourada-entre-Amigos.png",
+      "series": "Série A"
+    },
+    {
+      "title": "Damasco Filmes passa a fazer parte do grupo A300",
+      "original_title": "Damasco Filmes passa a fazer parte do grupo A300",
+      "summary": "A Damasco Filmes passa a fazer parte do grupo A300 como parte de estratégia de expansão e consolidação do grupo, criado a partir da experiência dos",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre campanhas e suas implicações para marcas e comunicação.",
+      "category": "Campanhas",
+      "source": "Meio & Mensagem",
+      "published_date": "2026-10-16",
+      "url": "https://www.meioemensagem.com.br/comunicacao/damasco-filmes-passa-a-fazer-parte-do-grupo-a300",
+      "image_url": "https://www.meioemensagem.com.br/wp-content/uploads/2026/10/Damasco-Filmes-e-A300.jpg",
+      "series": "Série A"
+    },
+    {
+      "title": "Herbalife volta à mídia tradicional após uma década",
+      "original_title": "Herbalife volta à mídia tradicional após uma década",
+      "summary": "Herbalife lança campanha 'Experimente' em TV e rádio após dez anos, conectando marca a novos públicos e consolidando saúde e bem-estar.",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre campanhas e suas implicações para marcas e comunicação.",
+      "category": "Campanhas",
+      "source": "Meio & Mensagem",
+      "published_date": "2026-10-16",
+      "url": "https://www.meioemensagem.com.br/comunicacao/herbalife-volta-a-midia-tradicional-apos-uma-decada",
+      "image_url": "https://www.meioemensagem.com.br/wp-content/uploads/2026/10/herbalife-campanha-tv-cred-divulgacao-1280x85-1.jpg",
+      "series": "Série A"
+    },
+    {
+      "title": "Verisure escolhe vampiro como protagonista do Halloween",
+      "original_title": "Verisure escolhe vampiro como protagonista do Halloween",
+      "summary": "Criado pela Milà, o filme 'Entrevista com o Vampiro' usa humor e referências do terror para mostrar o sistema de Alarmes com Videomonitoramento da marca.",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre campanhas e suas implicações para marcas e comunicação.",
+      "category": "Campanhas",
+      "source": "Update or Die!",
+      "published_date": "2026-10-20",
+      "url": "https://updateordie.com/2026/10/20/verisure-escolhe-vampiro-como-protagonista-do-halloween/",
+      "image_url": "https://updateordie.com/wp-content/uploads/2026/10/maxresdefault-46.jpg",
+      "series": "Série A"
+    },
+    {
+      "title": "‘Pro and Tell', da Apple, já tem data para acontecer; saiba o que esperar | Fast Company Brasil",
+      "original_title": "‘Pro and Tell', da Apple, já tem data para acontecer; saiba o que esperar | Fast Company Brasil",
+      "summary": "Marcado para 28 de outubro, evento deve revelar atualizações de hardware e mudanças na linha de computadores profissionais da Apple.",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre branding e suas implicações para marcas e comunicação.",
+      "category": "Branding",
+      "source": "Fast Company Brasil",
+      "published_date": "2026-10-20",
+      "url": "https://fastcompanybrasil.com/tech/pro-and-tell-apple-tem-data-acontecer-saiba-que-esperar/",
+      "image_url": "https://fastcompanybrasil.com/wp-content/uploads/2026/10/apple-pro.jpg",
+      "series": "Série A"
+    },
+    {
+      "title": "Brand lift: como saber se sua comunicação está realmente movendo a percepção da marca",
+      "original_title": "Brand lift: como saber se sua comunicação está realmente movendo a percepção da marca",
+      "summary": "Alcance, visualizações e cliques dizem o que as pessoas fizeram diante do anúncio. O brand lift mostra o que elas passaram a pensar depois dele, e é essa a resposta que a liderança costuma cobrar.",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre campanhas e suas implicações para marcas e comunicação.",
+      "category": "Campanhas",
+      "source": "Ana Couto",
+      "published_date": "2026-10-14",
+      "url": "https://anacouto.com.br/artigos/2026/10/14/brand-lift-como-saber-se-sua-comunicacao-esta-realmente-movendo-a-percepcao-da-marca/",
+      "image_url": "https://anacouto.com.br/wp-content/uploads/2026/10/cropped-artigo-brand-lift.png",
+      "series": "Série A"
+    },
+    {
+      "title": "Entrevista com Rubens Slaviski, head comercial da BGS | Fast Company Brasil",
+      "original_title": "Entrevista com Rubens Slaviski, head comercial da BGS | Fast Company Brasil",
+      "summary": "O executivo fala sobre a transformação dos games em negócio e sobre o impacto da inteligência artificial no futuro da indústria.",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre campanhas e suas implicações para marcas e comunicação.",
+      "category": "Campanhas",
+      "source": "Fast Company Brasil",
+      "published_date": "2026-10-20",
+      "url": "https://fastcompanybrasil.com/5-perguntas/5-perguntas-para-rubens-slaviski-head-comercial-da-brasil-game-show/",
+      "image_url": "https://fastcompanybrasil.com/wp-content/uploads/2026/10/Rubens-Slaviski_BGS.jpg",
+      "series": "Série A"
+    },
+    {
+      "title": "City of Laughlin, Nevada Wants Travelers to 'Keep It Floaty' â LBB",
+      "original_title": "City of Laughlin, Nevada Wants Travelers to 'Keep It Floaty' â LBB",
+      "summary": "Developed for the as Vegas Convention and Visitors Authority, the campaign from R&R partners positions Laughlin as a laid-back alternative to over-planned holidays, with surreal creative celebrating the destinationâs easy-going spirit",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre campanhas e suas implicações para marcas e comunicação.",
+      "category": "Campanhas",
+      "source": "LBB",
+      "published_date": "2026-10-20",
+      "url": "https://lbbonline.com/news/city-of-laughlin-nevada-wants-travelers-to-keep-it-floaty",
+      "image_url": "https://d3q27bh1u24u2o.cloudfront.net/resized/1200/news/2026-10/city-of-laughlin-nevada.LzeMrOW8.png",
+      "series": "Série A"
+    },
+    {
+      "title": "Pedigree Thinking: How Mars Is Unleashing Creativity and Driving Growth in Pet Care â LBB",
+      "original_title": "Pedigree Thinking: How Mars Is Unleashing Creativity and Driving Growth in Pet Care â LBB",
+      "summary": "Whether elevating Brazilâs stray Caramelos, erecting 10-metre tall lucky cats or using AI to drive dog adoption, Marsâ creative ambition has never been greater. Chris Rodi talks about driving creative excellence and how theyâre taking advantage of new opportunities without losing sight of marketing fundamentals",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre criatividade e suas implicações para marcas e comunicação.",
+      "category": "Criatividade",
+      "source": "LBB",
+      "published_date": "2026-10-20",
+      "url": "https://lbbonline.com/news/Mars-Pedigree-dogs-Chris-Rodi-creativity-AI-caramelo-adoptable-marketing-fundamentals",
+      "image_url": "https://d3q27bh1u24u2o.cloudfront.net/resized/1200/news_hero/2026-10/mars-petcare-1.tow3J2By.jpg",
+      "series": "Série A"
+    },
+    {
+      "title": "Highlights from Los Angeles Design Week/end - COOL HUNTING®",
+      "original_title": "Highlights from Los Angeles Design Week/end - COOL HUNTING®",
+      "summary": "In large cities with major cultural institutions, supporting independent artists and makers strengthens the vitality of the creative community. While the openings of the David Geffen Galleries at L…",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre comportamento e suas implicações para marcas e comunicação.",
+      "category": "Comportamento",
+      "source": "Cool Hunting",
+      "published_date": "2026-10-15",
+      "url": "https://coolhunting.com/design/highlights-from-los-angeles-design-week-end/",
+      "image_url": "https://coolhunting.com/wp-content/uploads/2026/10/688A2756-scaled.jpg",
+      "series": "Série A"
+    }
+  ]
+}
