@@ -1,0 +1,149 @@
+{
+  "edition_date": "2026-10-21",
+  "status": "published",
+  "notice": "Curadoria automática gratuita baseada em RSS e metadados das fontes originais.",
+  "window_start": "2026-10-15",
+  "window_end": "2026-10-21",
+  "edition_name": "Update com Afeto",
+  "editor_letter": "Esta edição reúne 10 histórias publicadas nos últimos sete dias, selecionadas entre as fontes aprovadas da Série A. A curadoria prioriza campanhas, marcas, estratégia, comportamento e cultura digital. Os resumos partem das descrições publicadas pelas próprias fontes; abra os links originais para ler o contexto completo.",
+  "signals": [
+    {
+      "title": "Branding",
+      "description": "5 matéria(s) desta edição exploram branding. Veja como as marcas e a cultura estão se movimentando neste tema.",
+      "category": "SINAL EDITORIAL"
+    },
+    {
+      "title": "Campanhas",
+      "description": "3 matéria(s) desta edição exploram campanhas. Veja como as marcas e a cultura estão se movimentando neste tema.",
+      "category": "SINAL EDITORIAL"
+    },
+    {
+      "title": "Estratégia & negócios",
+      "description": "1 matéria(s) desta edição exploram estratégia & negócios. Veja como as marcas e a cultura estão se movimentando neste tema.",
+      "category": "SINAL EDITORIAL"
+    }
+  ],
+  "lead_url": "https://anacouto.com.br/artigos/2026/10/21/marketing-visual-identidade-visual-como-estrategia/",
+  "stories": [
+    {
+      "title": "Marketing visual: da estética à estratégia de marca",
+      "original_title": "Marketing visual: da estética à estratégia de marca",
+      "summary": "Marketing visual é mais que design bonito. Veja como a identidade visual constrói reconhecimento, diferenciação e valor, e quando é hora de revisar a sua.",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre branding e suas implicações para marcas e comunicação.",
+      "category": "Branding",
+      "source": "Ana Couto",
+      "published_date": "2026-10-21",
+      "url": "https://anacouto.com.br/artigos/2026/10/21/marketing-visual-identidade-visual-como-estrategia/",
+      "image_url": "https://anacouto.com.br/wp-content/uploads/2026/10/cropped-cover-artigo-marketing-visual.png",
+      "series": "Série A"
+    },
+    {
+      "title": "British Gas lança campanha “Parece um trabalho para a British Gas”",
+      "original_title": "British Gas lança campanha “Parece um trabalho para a British Gas”",
+      "summary": "Com a VCCP London e a OMD, a marca quer ser vista como especialista em serviços residenciais, e não só como fornecedora de energia, trazendo de volta os personagens azuis e peludos \"The Things\".",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre campanhas e suas implicações para marcas e comunicação.",
+      "category": "Campanhas",
+      "source": "Update or Die!",
+      "published_date": "2026-10-21",
+      "url": "https://updateordie.com/2026/10/21/british-gas-lanca-campanha-parece-um-trabalho-para-a-british-gas/",
+      "image_url": "",
+      "series": "Série A"
+    },
+    {
+      "title": "Até fazer amigos virou um modelo de negócio",
+      "original_title": "Até fazer amigos virou um modelo de negócio",
+      "summary": "Transformamos convivência em produto, pertencimento em estratégia de marca e agora pagamos para experimentar algo que antes acontecia de graça.",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre branding e suas implicações para marcas e comunicação.",
+      "category": "Branding",
+      "source": "Update or Die!",
+      "published_date": "2026-10-20",
+      "url": "https://updateordie.com/2026/10/20/ate-fazer-amigos-virou-um-modelo-de-negocio/",
+      "image_url": "https://updateordie.com/wp-content/uploads/2026/10/Noite-Dourada-entre-Amigos.png",
+      "series": "Série A"
+    },
+    {
+      "title": "Damasco Filmes passa a fazer parte do grupo A300",
+      "original_title": "Damasco Filmes passa a fazer parte do grupo A300",
+      "summary": "A Damasco Filmes passa a fazer parte do grupo A300 como parte de estratégia de expansão e consolidação do grupo, criado a partir da experiência dos",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre campanhas e suas implicações para marcas e comunicação.",
+      "category": "Campanhas",
+      "source": "Meio & Mensagem",
+      "published_date": "2026-10-16",
+      "url": "https://www.meioemensagem.com.br/comunicacao/damasco-filmes-passa-a-fazer-parte-do-grupo-a300",
+      "image_url": "https://www.meioemensagem.com.br/wp-content/uploads/2026/10/Damasco-Filmes-e-A300.jpg",
+      "series": "Série A"
+    },
+    {
+      "title": "Herbalife volta à mídia tradicional após uma década",
+      "original_title": "Herbalife volta à mídia tradicional após uma década",
+      "summary": "Herbalife lança campanha 'Experimente' em TV e rádio após dez anos, conectando marca a novos públicos e consolidando saúde e bem-estar.",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre campanhas e suas implicações para marcas e comunicação.",
+      "category": "Campanhas",
+      "source": "Meio & Mensagem",
+      "published_date": "2026-10-16",
+      "url": "https://www.meioemensagem.com.br/comunicacao/herbalife-volta-a-midia-tradicional-apos-uma-decada",
+      "image_url": "https://www.meioemensagem.com.br/wp-content/uploads/2026/10/herbalife-campanha-tv-cred-divulgacao-1280x85-1.jpg",
+      "series": "Série A"
+    },
+    {
+      "title": "5 maneiras de uma marca escapar das convenções | Fast Company Brasil",
+      "original_title": "5 maneiras de uma marca escapar das convenções | Fast Company Brasil",
+      "summary": "Por que tantas marcas acabam parecidas entre si e o que é preciso fazer para romper padrões e construir uma diferença relevante.",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre branding e suas implicações para marcas e comunicação.",
+      "category": "Branding",
+      "source": "Fast Company Brasil",
+      "published_date": "2026-10-20",
+      "url": "https://fastcompanybrasil.com/tech/martech/sua-marca-esta-presa-a-propria-orbita-5-maneiras-de-escapar-das-convencoes/",
+      "image_url": "https://fastcompanybrasil.com/wp-content/uploads/2026/10/marcas-em-orbita.jpg",
+      "series": "Série A"
+    },
+    {
+      "title": "Global TDC73 Competition Kicks Off with âBoldâ Branding by Grafis Nusantara â LBB",
+      "original_title": "Global TDC73 Competition Kicks Off with âBoldâ Branding by Grafis Nusantara â LBB",
+      "summary": "This yearâs show includes a major overhaul and clarification of the categories",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre branding e suas implicações para marcas e comunicação.",
+      "category": "Branding",
+      "source": "LBB",
+      "published_date": "2026-10-21",
+      "url": "https://lbbonline.com/news/global-tdc73-competition-kicks-off-with-bold-branding-by-grafis-nusantara",
+      "image_url": "https://d3q27bh1u24u2o.cloudfront.net/resized/1200/news/2026-10/tdc73.PyUn3Dre.png",
+      "series": "Série A"
+    },
+    {
+      "title": "Site recria escritório de Elizabeth Holmes com ajuda de IA | Fast Company Brasil",
+      "original_title": "Site recria escritório de Elizabeth Holmes com ajuda de IA | Fast Company Brasil",
+      "summary": "Criado com IA, o site reconstrói o espaço de trabalho da fundadora da empresa envolvida em uma das maiores fraudes do Vale do Silício.",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre estratégia & negócios e suas implicações para marcas e comunicação.",
+      "category": "Estratégia & negócios",
+      "source": "Fast Company Brasil",
+      "published_date": "2026-10-21",
+      "url": "https://fastcompanybrasil.com/tech/agora-voce-pode-vasculhar-a-mesa-de-elizabeth-holmes-veja-como/",
+      "image_url": "https://fastcompanybrasil.com/wp-content/uploads/2026/10/Elizabeth-Holmes_Theranos_site.jpg",
+      "series": "Série A"
+    },
+    {
+      "title": "Apple Music Finds Its New Identity in the Sound of Music Itself â LBB",
+      "original_title": "Apple Music Finds Its New Identity in the Sound of Music Itself â LBB",
+      "summary": "Developed withTBWA\\Media Arts Lab, Fred again.. and NEST Acoustics, Apple Musicâs new visual identity turns sound waves into a distinctive brand mark, bringing music to the heart of how the platform looks, moves and sounds",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre branding e suas implicações para marcas e comunicação.",
+      "category": "Branding",
+      "source": "LBB",
+      "published_date": "2026-10-21",
+      "url": "https://lbbonline.com/news/apple-music-finds-its-new-identity-in-the-sound-of-music-itself",
+      "image_url": "https://d3q27bh1u24u2o.cloudfront.net/resized/1200/news_hero/2026-10/apple-music.z8fqFq-L.png",
+      "series": "Série A"
+    },
+    {
+      "title": "Highlights from Los Angeles Design Week/end - COOL HUNTING®",
+      "original_title": "Highlights from Los Angeles Design Week/end - COOL HUNTING®",
+      "summary": "In large cities with major cultural institutions, supporting independent artists and makers strengthens the vitality of the creative community. While the openings of the David Geffen Galleries at L…",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre comportamento e suas implicações para marcas e comunicação.",
+      "category": "Comportamento",
+      "source": "Cool Hunting",
+      "published_date": "2026-10-15",
+      "url": "https://coolhunting.com/design/highlights-from-los-angeles-design-week-end/",
+      "image_url": "https://coolhunting.com/wp-content/uploads/2026/10/688A2756-scaled.jpg",
+      "series": "Série A"
+    }
+  ]
+}
