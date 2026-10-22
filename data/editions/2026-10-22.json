@@ -1,0 +1,149 @@
+{
+  "edition_date": "2026-10-22",
+  "status": "published",
+  "notice": "Curadoria automática gratuita baseada em RSS e metadados das fontes originais.",
+  "window_start": "2026-10-16",
+  "window_end": "2026-10-22",
+  "edition_name": "Update com Afeto",
+  "editor_letter": "Esta edição reúne 10 histórias publicadas nos últimos sete dias, selecionadas entre as fontes aprovadas da Série A. A curadoria prioriza campanhas, marcas, estratégia, comportamento e cultura digital. Os resumos partem das descrições publicadas pelas próprias fontes; abra os links originais para ler o contexto completo.",
+  "signals": [
+    {
+      "title": "Campanhas",
+      "description": "5 matéria(s) desta edição exploram campanhas. Veja como as marcas e a cultura estão se movimentando neste tema.",
+      "category": "SINAL EDITORIAL"
+    },
+    {
+      "title": "Branding",
+      "description": "2 matéria(s) desta edição exploram branding. Veja como as marcas e a cultura estão se movimentando neste tema.",
+      "category": "SINAL EDITORIAL"
+    },
+    {
+      "title": "Comportamento",
+      "description": "2 matéria(s) desta edição exploram comportamento. Veja como as marcas e a cultura estão se movimentando neste tema.",
+      "category": "SINAL EDITORIAL"
+    }
+  ],
+  "lead_url": "https://anacouto.com.br/artigos/2026/10/21/marketing-visual-identidade-visual-como-estrategia/",
+  "stories": [
+    {
+      "title": "Marketing visual: da estética à estratégia de marca",
+      "original_title": "Marketing visual: da estética à estratégia de marca",
+      "summary": "Marketing visual é mais que design bonito. Veja como a identidade visual constrói reconhecimento, diferenciação e valor, e quando é hora de revisar a sua.",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre branding e suas implicações para marcas e comunicação.",
+      "category": "Branding",
+      "source": "Ana Couto",
+      "published_date": "2026-10-21",
+      "url": "https://anacouto.com.br/artigos/2026/10/21/marketing-visual-identidade-visual-como-estrategia/",
+      "image_url": "https://anacouto.com.br/wp-content/uploads/2026/10/cropped-cover-artigo-marketing-visual.png",
+      "series": "Série A"
+    },
+    {
+      "title": "Até fazer amigos virou um modelo de negócio",
+      "original_title": "Até fazer amigos virou um modelo de negócio",
+      "summary": "Transformamos convivência em produto, pertencimento em estratégia de marca e agora pagamos para experimentar algo que antes acontecia de graça.",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre branding e suas implicações para marcas e comunicação.",
+      "category": "Branding",
+      "source": "Update or Die!",
+      "published_date": "2026-10-20",
+      "url": "https://updateordie.com/2026/10/20/ate-fazer-amigos-virou-um-modelo-de-negocio/",
+      "image_url": "https://updateordie.com/wp-content/uploads/2026/10/Noite-Dourada-entre-Amigos.png",
+      "series": "Série A"
+    },
+    {
+      "title": "Damasco Filmes passa a fazer parte do grupo A300",
+      "original_title": "Damasco Filmes passa a fazer parte do grupo A300",
+      "summary": "A Damasco Filmes passa a fazer parte do grupo A300 como parte de estratégia de expansão e consolidação do grupo, criado a partir da experiência dos",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre campanhas e suas implicações para marcas e comunicação.",
+      "category": "Campanhas",
+      "source": "Meio & Mensagem",
+      "published_date": "2026-10-16",
+      "url": "https://www.meioemensagem.com.br/comunicacao/damasco-filmes-passa-a-fazer-parte-do-grupo-a300",
+      "image_url": "https://www.meioemensagem.com.br/wp-content/uploads/2026/10/Damasco-Filmes-e-A300.jpg",
+      "series": "Série A"
+    },
+    {
+      "title": "Herbalife volta à mídia tradicional após uma década",
+      "original_title": "Herbalife volta à mídia tradicional após uma década",
+      "summary": "Herbalife lança campanha 'Experimente' em TV e rádio após dez anos, conectando marca a novos públicos e consolidando saúde e bem-estar.",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre campanhas e suas implicações para marcas e comunicação.",
+      "category": "Campanhas",
+      "source": "Meio & Mensagem",
+      "published_date": "2026-10-16",
+      "url": "https://www.meioemensagem.com.br/comunicacao/herbalife-volta-a-midia-tradicional-apos-uma-decada",
+      "image_url": "https://www.meioemensagem.com.br/wp-content/uploads/2026/10/herbalife-campanha-tv-cred-divulgacao-1280x85-1.jpg",
+      "series": "Série A"
+    },
+    {
+      "title": "Computação quântica no Brasil: acessar, comprar ou construir? | Fast Company Brasil",
+      "original_title": "Computação quântica no Brasil: acessar, comprar ou construir? | Fast Company Brasil",
+      "summary": "A decisão é sobre qual posição queremos ocupar na nova cadeia tecnológica global: consumidores, usuários ou produtores de conhecimento.",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre comportamento e suas implicações para marcas e comunicação.",
+      "category": "Comportamento",
+      "source": "Fast Company Brasil",
+      "published_date": "2026-10-22",
+      "url": "https://fastcompanybrasil.com/tech/computacao-quantica-no-brasil-acessar-comprar-ou-construir/",
+      "image_url": "https://fastcompanybrasil.com/wp-content/uploads/2026/10/computacao-quantica_maos.jpg",
+      "series": "Série A"
+    },
+    {
+      "title": "Getnet lança 1ª campanha global de Black Friday",
+      "original_title": "Getnet lança 1ª campanha global de Black Friday",
+      "summary": "Assinada pela W3haus, \"Get+ Vendas\" chega a sete países com um conceito único e adaptações locais de linguagem, benefícios e calendário comercial.",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre campanhas e suas implicações para marcas e comunicação.",
+      "category": "Campanhas",
+      "source": "Update or Die!",
+      "published_date": "2026-10-21",
+      "url": "https://updateordie.com/2026/10/21/getnet-lanca-1a-campanha-global-de-black-friday/",
+      "image_url": "https://updateordie.com/wp-content/uploads/2026/10/maxresdefault-50.jpg",
+      "series": "Série A"
+    },
+    {
+      "title": "BTS terá loja pop-up em São Paulo; saiba como reservar uma visita | Fast Company Brasil",
+      "original_title": "BTS terá loja pop-up em São Paulo; saiba como reservar uma visita | Fast Company Brasil",
+      "summary": "1. Loja oficial do BTS chega a São Paulo com produtos da turnê ARIRANG e visitas organizadas por agendamento.",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre experiência de marca e suas implicações para marcas e comunicação.",
+      "category": "Experiência de marca",
+      "source": "Fast Company Brasil",
+      "published_date": "2026-10-22",
+      "url": "https://fastcompanybrasil.com/news/bts-tera-loja-pop-up-sao-paulo-saiba-como-reservar-visita/",
+      "image_url": "https://fastcompanybrasil.com/wp-content/uploads/2026/10/bts.jpg",
+      "series": "Série A"
+    },
+    {
+      "title": "Wpromote X Giant Spoon Elevates Ian Grody to Global Chief Creative Officer â LBB",
+      "original_title": "Wpromote X Giant Spoon Elevates Ian Grody to Global Chief Creative Officer â LBB",
+      "summary": "Previously chief creative officer of Giant Spoon, Ian Grody oversaw brand campaigns, experiential, content production, and design",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre campanhas e suas implicações para marcas e comunicação.",
+      "category": "Campanhas",
+      "source": "LBB",
+      "published_date": "2026-10-22",
+      "url": "https://lbbonline.com/news/wpromote-x-giant-spoon-elevates-ian-grody-to-global-chief-creative-officer",
+      "image_url": "https://d3q27bh1u24u2o.cloudfront.net/resized/1200/news/2026-10/iangrody.MRVwKRTg.png",
+      "series": "Série A"
+    },
+    {
+      "title": "Cerveza Victoria Marks the Day of the Dead with Visit from Stop-Motion Hummingbird â LBB",
+      "original_title": "Cerveza Victoria Marks the Day of the Dead with Visit from Stop-Motion Hummingbird â LBB",
+      "summary": "Day of the Dead campaign from Wieden+Kennedy Mexico, directed by The Youth, celebrates love that transcends death through a combination of live action and handcrafted, stop-motion storytelling",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre campanhas e suas implicações para marcas e comunicação.",
+      "category": "Campanhas",
+      "source": "LBB",
+      "published_date": "2026-10-22",
+      "url": "https://lbbonline.com/news/cerveza-victoria-day-of-the-dead-el-amor-es-eterno",
+      "image_url": "https://d3q27bh1u24u2o.cloudfront.net/resized/1200/news_hero/2026-10/cerveza-victoria.8U34187C.png",
+      "series": "Série A"
+    },
+    {
+      "title": "Faça parte da comunidade do RESUMIDO! - RESUMIDO",
+      "original_title": "Faça parte da comunidade do RESUMIDO! - RESUMIDO",
+      "summary": "O RESUMIDO é independente se mantém com o apoio dos ouvintes. Assine e faça parte do grupo de pessoas que garante que o podcast continue existindo.” E o link pro O Futuro do RESUMIDO no final.",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre comportamento e suas implicações para marcas e comunicação.",
+      "category": "Comportamento",
+      "source": "Resumido",
+      "published_date": "2026-10-21",
+      "url": "https://resumido.cc/2026/10/21/faca-parte-da-comunidade-do-resumido/",
+      "image_url": "https://resumido.cc/wp-content/uploads/2025/06/capa-RESUMIDO-1.png",
+      "series": "Série A"
+    }
+  ]
+}
