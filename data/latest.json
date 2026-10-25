@@ -1,29 +1,29 @@
 {
-  "edition_date": "2026-10-24",
+  "edition_date": "2026-10-25",
   "status": "published",
   "notice": "Curadoria automática gratuita baseada em RSS e metadados das fontes originais.",
-  "window_start": "2026-10-18",
-  "window_end": "2026-10-24",
+  "window_start": "2026-10-19",
+  "window_end": "2026-10-25",
   "edition_name": "Update com Afeto",
   "editor_letter": "Esta edição reúne 10 histórias publicadas nos últimos sete dias, selecionadas entre as fontes aprovadas da Série A. A curadoria prioriza campanhas, marcas, estratégia, comportamento e cultura digital. Os resumos partem das descrições publicadas pelas próprias fontes; abra os links originais para ler o contexto completo.",
   "signals": [
     {
       "title": "Branding",
-      "description": "4 matéria(s) desta edição exploram branding. Veja como as marcas e a cultura estão se movimentando neste tema.",
-      "category": "SINAL EDITORIAL"
-    },
-    {
-      "title": "Criatividade",
-      "description": "3 matéria(s) desta edição exploram criatividade. Veja como as marcas e a cultura estão se movimentando neste tema.",
+      "description": "5 matéria(s) desta edição exploram branding. Veja como as marcas e a cultura estão se movimentando neste tema.",
       "category": "SINAL EDITORIAL"
     },
     {
       "title": "Campanhas",
-      "description": "2 matéria(s) desta edição exploram campanhas. Veja como as marcas e a cultura estão se movimentando neste tema.",
+      "description": "3 matéria(s) desta edição exploram campanhas. Veja como as marcas e a cultura estão se movimentando neste tema.",
+      "category": "SINAL EDITORIAL"
+    },
+    {
+      "title": "Estratégia & negócios",
+      "description": "1 matéria(s) desta edição exploram estratégia & negócios. Veja como as marcas e a cultura estão se movimentando neste tema.",
       "category": "SINAL EDITORIAL"
     }
   ],
-  "lead_url": "https://anacouto.com.br/artigos/2026/10/21/marketing-visual-identidade-visual-como-estrategia/",
+  "lead_url": "https://fastcompanybrasil.com/creators-tech/eleicao-2026-campanha-2030-redes-sociais-copiar/",
   "stories": [
     {
       "title": "Marketing visual: da estética à estratégia de marca",
@@ -35,6 +35,30 @@
       "published_date": "2026-10-21",
       "url": "https://anacouto.com.br/artigos/2026/10/21/marketing-visual-identidade-visual-como-estrategia/",
       "image_url": "https://anacouto.com.br/wp-content/uploads/2026/10/cropped-cover-artigo-marketing-visual.png",
+      "series": "Série A"
+    },
+    {
+      "title": "Eleição 2026: campanha de 2030 já começou nas redes Copiar",
+      "original_title": "Eleição 2026: campanha de 2030 já começou nas redes Copiar",
+      "summary": "A eleição de 2026 termina, mas a campanha de 2030 já começou nas redes. Dados da Fast Company Brasil mostram como políticos mantêm suas audiências ativas.",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre campanhas e suas implicações para marcas e comunicação.",
+      "category": "Campanhas",
+      "source": "Fast Company Brasil",
+      "published_date": "2026-10-25",
+      "url": "https://fastcompanybrasil.com/creators-tech/eleicao-2026-campanha-2030-redes-sociais-copiar/",
+      "image_url": "https://fastcompanybrasil.com/wp-content/uploads/2026/10/eleicao-2030-politicos-influencers-redes-sociais.jpg",
+      "series": "Série A"
+    },
+    {
+      "title": "Overman ganha filme com Otávio Müller",
+      "original_title": "Overman ganha filme com Otávio Müller",
+      "summary": "O super-herói criado por Laerte Coutinho chega aos cinemas em comédia dirigida por Tomas Portella, com estreia marcada para outubro de 2026.",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre campanhas e suas implicações para marcas e comunicação.",
+      "category": "Campanhas",
+      "source": "Update or Die!",
+      "published_date": "2026-10-23",
+      "url": "https://updateordie.com/2026/10/23/overman-ganha-filme-com-otavio-muller/",
+      "image_url": "https://updateordie.com/wp-content/uploads/2026/10/overman_movie_poster.webp",
       "series": "Série A"
     },
     {
@@ -50,6 +74,18 @@
       "series": "Série A"
     },
     {
+      "title": "iPhone Duo customizado por marca russa custa R$ 450 mil",
+      "original_title": "iPhone Duo customizado por marca russa custa R$ 450 mil",
+      "summary": "A versão Dali do iPhone Duo custa mais de US$ 90 mil, cerca de R$ 450 mil, e leva o logotipo da Apple cravejado de diamantes.",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre branding e suas implicações para marcas e comunicação.",
+      "category": "Branding",
+      "source": "Update or Die!",
+      "published_date": "2026-10-22",
+      "url": "https://updateordie.com/2026/10/22/caviar-cria-iphone-duo-de-r-450-mil/",
+      "image_url": "https://updateordie.com/wp-content/uploads/2026/10/luxury_custom_smartphones_designs.webp",
+      "series": "Série A"
+    },
+    {
       "title": "Apple Music usa ondas sonoras para criar identidade visual",
       "original_title": "Apple Music usa ondas sonoras para criar identidade visual",
       "summary": "Por Tim Nudd, do Ad Age A Apple Music revelou sua nova identidade de marca, que, de forma literal, expressa a ideia de ser movida pela música. Em vez de",
@@ -62,27 +98,15 @@
       "series": "Série A"
     },
     {
-      "title": "Startup quer gerar energia limpa a partir de vulcões submarinos | Fast Company Brasil",
-      "original_title": "Startup quer gerar energia limpa a partir de vulcões submarinos | Fast Company Brasil",
-      "summary": "Após cinco operações no oceano, a Endurance Energy prepara um gerador comercial de 2 megawatts para um projeto no Pacífico.",
-      "why_it_matters": "Vale observar o que esta publicação revela sobre campanhas e suas implicações para marcas e comunicação.",
-      "category": "Campanhas",
+      "title": "Kings League: a liga de milhões que você talvez não conheça | Fast Company Brasil",
+      "original_title": "Kings League: a liga de milhões que você talvez não conheça | Fast Company Brasil",
+      "summary": "Competição com influenciadores já captou mais de US$ 160 milhões e transforma comunidades digitais em um novo negócio do futebol.",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre estratégia & negócios e suas implicações para marcas e comunicação.",
+      "category": "Estratégia & negócios",
       "source": "Fast Company Brasil",
-      "published_date": "2026-10-24",
-      "url": "https://fastcompanybrasil.com/impacto/startup-quer-gerar-energia-limpa-a-partir-de-vulcoes-submarinos/",
-      "image_url": "https://fastcompanybrasil.com/wp-content/uploads/2026/10/energia-limpa-de-vulcao.jpg",
-      "series": "Série A"
-    },
-    {
-      "title": "A IA encurta o caminho. E se ele for a melhor parte? | Fast Company Brasil",
-      "original_title": "A IA encurta o caminho. E se ele for a melhor parte? | Fast Company Brasil",
-      "summary": "Thomas Bangalter, ex-Daft Punk, levanta uma questão sobre criatividade em tempos de respostas cada vez mais rápidas.",
-      "why_it_matters": "Vale observar o que esta publicação revela sobre criatividade e suas implicações para marcas e comunicação.",
-      "category": "Criatividade",
-      "source": "Fast Company Brasil",
-      "published_date": "2026-10-24",
-      "url": "https://fastcompanybrasil.com/ia/a-ia-encurta-o-caminho-e-se-ele-for-a-melhor-parte/",
-      "image_url": "https://fastcompanybrasil.com/wp-content/uploads/2026/10/inteligencia-artificial_caminho_criatividade.jpg",
+      "published_date": "2026-10-25",
+      "url": "https://fastcompanybrasil.com/games/kings-league-a-liga-de-milhoes-que-voce-talvez-ainda-nao-conheca/",
+      "image_url": "https://fastcompanybrasil.com/wp-content/uploads/2026/10/games_kings-league.jpg",
       "series": "Série A"
     },
     {
@@ -119,30 +143,6 @@
       "published_date": "2026-10-21",
       "url": "https://resumido.cc/2026/10/21/faca-parte-da-comunidade-do-resumido/",
       "image_url": "https://resumido.cc/wp-content/uploads/2025/06/capa-RESUMIDO-1.png",
-      "series": "Série A"
-    },
-    {
-      "title": "Asian Cocktail Culture’s Influence at The World’s Best Bar Awards in Milan - COOL HUNTING®",
-      "original_title": "Asian Cocktail Culture’s Influence at The World’s Best Bar Awards in Milan - COOL HUNTING®",
-      "summary": "At The World’s 50 Best Bars 2026, revealed in Milan earlier this month, the momentum behind Asian cocktail culture was unmistakable. More than a dozen bars from Asian cities appeared in the global …",
-      "why_it_matters": "Vale observar o que esta publicação revela sobre criatividade e suas implicações para marcas e comunicação.",
-      "category": "Criatividade",
-      "source": "Cool Hunting",
-      "published_date": "2026-10-23",
-      "url": "https://coolhunting.com/food-drink/asian-cocktail-cultures-influence-at-the-worlds-best-bar-awards-in-milan/",
-      "image_url": "https://coolhunting.com/wp-content/uploads/2026/10/THE50-T50BB2607.10.26-AWARDPARTNERS-@JACKCOOPERMEDIA-@LIGHTFOOTAGENCY-48-crop-scaled.jpg",
-      "series": "Série A"
-    },
-    {
-      "title": "Time:Space Sherry Cask - COOL HUNTING®",
-      "original_title": "Time:Space Sherry Cask - COOL HUNTING®",
-      "summary": "The third release in its Time:Space collection, The Macallan’s Time:Space Sherry Cask single malt whisky has matured for 20 years. It’s also the first expression aged in The Macallan’s own sherry c…",
-      "why_it_matters": "Vale observar o que esta publicação revela sobre criatividade e suas implicações para marcas e comunicação.",
-      "category": "Criatividade",
-      "source": "Cool Hunting",
-      "published_date": "2026-10-22",
-      "url": "https://coolhunting.com/buy/timespace-sherry-cask/",
-      "image_url": "https://coolhunting.com/wp-content/uploads/2026/10/MAC-2026-TIMESPACE-SherryCask-Mood-S2-16x9-CMYK-300dpi.jpg",
       "series": "Série A"
     }
   ]

@@ -1,0 +1,149 @@
+{
+  "edition_date": "2026-10-25",
+  "status": "published",
+  "notice": "Curadoria automática gratuita baseada em RSS e metadados das fontes originais.",
+  "window_start": "2026-10-19",
+  "window_end": "2026-10-25",
+  "edition_name": "Update com Afeto",
+  "editor_letter": "Esta edição reúne 10 histórias publicadas nos últimos sete dias, selecionadas entre as fontes aprovadas da Série A. A curadoria prioriza campanhas, marcas, estratégia, comportamento e cultura digital. Os resumos partem das descrições publicadas pelas próprias fontes; abra os links originais para ler o contexto completo.",
+  "signals": [
+    {
+      "title": "Branding",
+      "description": "5 matéria(s) desta edição exploram branding. Veja como as marcas e a cultura estão se movimentando neste tema.",
+      "category": "SINAL EDITORIAL"
+    },
+    {
+      "title": "Campanhas",
+      "description": "3 matéria(s) desta edição exploram campanhas. Veja como as marcas e a cultura estão se movimentando neste tema.",
+      "category": "SINAL EDITORIAL"
+    },
+    {
+      "title": "Estratégia & negócios",
+      "description": "1 matéria(s) desta edição exploram estratégia & negócios. Veja como as marcas e a cultura estão se movimentando neste tema.",
+      "category": "SINAL EDITORIAL"
+    }
+  ],
+  "lead_url": "https://fastcompanybrasil.com/creators-tech/eleicao-2026-campanha-2030-redes-sociais-copiar/",
+  "stories": [
+    {
+      "title": "Marketing visual: da estética à estratégia de marca",
+      "original_title": "Marketing visual: da estética à estratégia de marca",
+      "summary": "Marketing visual é mais que design bonito. Veja como a identidade visual constrói reconhecimento, diferenciação e valor, e quando é hora de revisar a sua.",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre branding e suas implicações para marcas e comunicação.",
+      "category": "Branding",
+      "source": "Ana Couto",
+      "published_date": "2026-10-21",
+      "url": "https://anacouto.com.br/artigos/2026/10/21/marketing-visual-identidade-visual-como-estrategia/",
+      "image_url": "https://anacouto.com.br/wp-content/uploads/2026/10/cropped-cover-artigo-marketing-visual.png",
+      "series": "Série A"
+    },
+    {
+      "title": "Eleição 2026: campanha de 2030 já começou nas redes Copiar",
+      "original_title": "Eleição 2026: campanha de 2030 já começou nas redes Copiar",
+      "summary": "A eleição de 2026 termina, mas a campanha de 2030 já começou nas redes. Dados da Fast Company Brasil mostram como políticos mantêm suas audiências ativas.",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre campanhas e suas implicações para marcas e comunicação.",
+      "category": "Campanhas",
+      "source": "Fast Company Brasil",
+      "published_date": "2026-10-25",
+      "url": "https://fastcompanybrasil.com/creators-tech/eleicao-2026-campanha-2030-redes-sociais-copiar/",
+      "image_url": "https://fastcompanybrasil.com/wp-content/uploads/2026/10/eleicao-2030-politicos-influencers-redes-sociais.jpg",
+      "series": "Série A"
+    },
+    {
+      "title": "Overman ganha filme com Otávio Müller",
+      "original_title": "Overman ganha filme com Otávio Müller",
+      "summary": "O super-herói criado por Laerte Coutinho chega aos cinemas em comédia dirigida por Tomas Portella, com estreia marcada para outubro de 2026.",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre campanhas e suas implicações para marcas e comunicação.",
+      "category": "Campanhas",
+      "source": "Update or Die!",
+      "published_date": "2026-10-23",
+      "url": "https://updateordie.com/2026/10/23/overman-ganha-filme-com-otavio-muller/",
+      "image_url": "https://updateordie.com/wp-content/uploads/2026/10/overman_movie_poster.webp",
+      "series": "Série A"
+    },
+    {
+      "title": "Grupo In Press inicia operação da Bloom PR",
+      "original_title": "Grupo In Press inicia operação da Bloom PR",
+      "summary": "O Grupo In Press oficializa o lançamento da Bloom PR, agência de relações públicas voltada ao fortalecimento da presença e reputação de marcas que",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre branding e suas implicações para marcas e comunicação.",
+      "category": "Branding",
+      "source": "Meio & Mensagem",
+      "published_date": "2026-10-23",
+      "url": "https://www.meioemensagem.com.br/comunicacao/grupo-in-press-inicia-operacao-da-bloom-pr",
+      "image_url": "https://www.meioemensagem.com.br/wp-content/uploads/2026/10/Bloom-PR.jpg",
+      "series": "Série A"
+    },
+    {
+      "title": "iPhone Duo customizado por marca russa custa R$ 450 mil",
+      "original_title": "iPhone Duo customizado por marca russa custa R$ 450 mil",
+      "summary": "A versão Dali do iPhone Duo custa mais de US$ 90 mil, cerca de R$ 450 mil, e leva o logotipo da Apple cravejado de diamantes.",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre branding e suas implicações para marcas e comunicação.",
+      "category": "Branding",
+      "source": "Update or Die!",
+      "published_date": "2026-10-22",
+      "url": "https://updateordie.com/2026/10/22/caviar-cria-iphone-duo-de-r-450-mil/",
+      "image_url": "https://updateordie.com/wp-content/uploads/2026/10/luxury_custom_smartphones_designs.webp",
+      "series": "Série A"
+    },
+    {
+      "title": "Apple Music usa ondas sonoras para criar identidade visual",
+      "original_title": "Apple Music usa ondas sonoras para criar identidade visual",
+      "summary": "Por Tim Nudd, do Ad Age A Apple Music revelou sua nova identidade de marca, que, de forma literal, expressa a ideia de ser movida pela música. Em vez de",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre branding e suas implicações para marcas e comunicação.",
+      "category": "Branding",
+      "source": "Meio & Mensagem",
+      "published_date": "2026-10-22",
+      "url": "https://www.meioemensagem.com.br/comunicacao/apple-music-usa-ondas-sonoras-para-criar-identidade-visual",
+      "image_url": "https://www.meioemensagem.com.br/wp-content/uploads/2026/10/Apple-Music.jpg",
+      "series": "Série A"
+    },
+    {
+      "title": "Kings League: a liga de milhões que você talvez não conheça | Fast Company Brasil",
+      "original_title": "Kings League: a liga de milhões que você talvez não conheça | Fast Company Brasil",
+      "summary": "Competição com influenciadores já captou mais de US$ 160 milhões e transforma comunidades digitais em um novo negócio do futebol.",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre estratégia & negócios e suas implicações para marcas e comunicação.",
+      "category": "Estratégia & negócios",
+      "source": "Fast Company Brasil",
+      "published_date": "2026-10-25",
+      "url": "https://fastcompanybrasil.com/games/kings-league-a-liga-de-milhoes-que-voce-talvez-ainda-nao-conheca/",
+      "image_url": "https://fastcompanybrasil.com/wp-content/uploads/2026/10/games_kings-league.jpg",
+      "series": "Série A"
+    },
+    {
+      "title": "Corteiz x Nike Ad Goes All Out for \"Generational Creps\" â LBB",
+      "original_title": "Corteiz x Nike Ad Goes All Out for \"Generational Creps\" â LBB",
+      "summary": "Streetwear brand Corteiz and Nike launch the Shox R419 sneaker with âHow to Make an Advertâ, a fast-paced, Dizzee Rascal-soundtracked spot from magna studios director duo UNCANNY, and agencies Out of Office and Actually Creative",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre branding e suas implicações para marcas e comunicação.",
+      "category": "Branding",
+      "source": "LBB",
+      "published_date": "2026-10-23",
+      "url": "https://lbbonline.com/news/Corteiz-Nike-How-to-make-an-advert-UNCANNY-magna-studios",
+      "image_url": "https://d3q27bh1u24u2o.cloudfront.net/resized/1200/news/2026-10/corteiz-x-nike.sYo8iqHF.png",
+      "series": "Série A"
+    },
+    {
+      "title": "Kalshi Mutes Lebron James with NBA Star Dillon Brooks â LBB",
+      "original_title": "Kalshi Mutes Lebron James with NBA Star Dillon Brooks â LBB",
+      "summary": "Cheeky campaign from es muy good. introduces the âKing Blocker,â a device designed to block out any mention of Dillon Brooks' well-known NBA nemesis and all nicknames associated with him",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre campanhas e suas implicações para marcas e comunicação.",
+      "category": "Campanhas",
+      "source": "LBB",
+      "published_date": "2026-10-23",
+      "url": "https://lbbonline.com/news/kalshi-mutes-lebron-james-with-nba-star-dillon-brooks",
+      "image_url": "https://d3q27bh1u24u2o.cloudfront.net/resized/1200/news/2026-10/king-blocker.9MJcreVl.png",
+      "series": "Série A"
+    },
+    {
+      "title": "Faça parte da comunidade do RESUMIDO! - RESUMIDO",
+      "original_title": "Faça parte da comunidade do RESUMIDO! - RESUMIDO",
+      "summary": "O RESUMIDO é independente se mantém com o apoio dos ouvintes. Assine e faça parte do grupo de pessoas que garante que o podcast continue existindo.” E o link pro O Futuro do RESUMIDO no final.",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre comportamento e suas implicações para marcas e comunicação.",
+      "category": "Comportamento",
+      "source": "Resumido",
+      "published_date": "2026-10-21",
+      "url": "https://resumido.cc/2026/10/21/faca-parte-da-comunidade-do-resumido/",
+      "image_url": "https://resumido.cc/wp-content/uploads/2025/06/capa-RESUMIDO-1.png",
+      "series": "Série A"
+    }
+  ]
+}
