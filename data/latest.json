@@ -2,33 +2,33 @@
   "edition_date": "2026-10-26",
   "status": "published",
   "notice": "Curadoria automática gratuita baseada em RSS e metadados das fontes originais.",
-  "window_start": "2026-10-12",
+  "window_start": "2026-10-20",
   "window_end": "2026-10-26",
   "edition_name": "Update com Afeto",
-  "editor_letter": "Bom dia, da Dani! Nesta edição, observamos como as marcas tornam suas ideias mais reconhecíveis: códigos culturais que ajudam a explicar uma promessa, experiências que convidam à participação e escolhas visuais que dão forma à estratégia. O fio comum é simples: marcas memoráveis não apenas anunciam benefícios, criam formas próprias de serem percebidas, entendidas e lembradas.",
+  "editor_letter": "Esta edição reúne 10 histórias publicadas nos últimos sete dias, selecionadas entre as fontes aprovadas da Série A. A curadoria prioriza campanhas, marcas, estratégia, comportamento e cultura digital. Os resumos partem das descrições publicadas pelas próprias fontes; abra os links originais para ler o contexto completo.",
   "signals": [
     {
-      "title": "Cultura como atalho",
-      "description": "Campanhas usam repertório conhecido para tornar uma promessa mais fácil de reconhecer.",
-      "category": "CAMPANHAS · CULTURA"
+      "title": "Campanhas",
+      "description": "6 matéria(s) desta edição exploram campanhas. Veja como as marcas e a cultura estão se movimentando neste tema.",
+      "category": "SINAL EDITORIAL"
     },
     {
-      "title": "Comunidade como ativo",
-      "description": "Criadores e projetos editoriais aproximam audiência, participação e negócio.",
-      "category": "COMUNIDADE · NEGÓCIOS"
+      "title": "Branding",
+      "description": "3 matéria(s) desta edição exploram branding. Veja como as marcas e a cultura estão se movimentando neste tema.",
+      "category": "SINAL EDITORIAL"
     },
     {
-      "title": "Distinção visual",
-      "description": "Num mar de códigos semelhantes, escolhas visuais próprias voltam a ser vantagem.",
-      "category": "BRANDING · DESIGN"
+      "title": "Comportamento",
+      "description": "1 matéria(s) desta edição exploram comportamento. Veja como as marcas e a cultura estão se movimentando neste tema.",
+      "category": "SINAL EDITORIAL"
     }
   ],
-  "lead_url": "https://www.meioemensagem.com.br/comunicacao/apple-music-usa-ondas-sonoras-para-criar-identidade-visual",
+  "lead_url": "https://fastcompanybrasil.com/creators-tech/eleicao-2026-campanha-2030-redes-sociais-copiar/",
   "stories": [
     {
-      "title": "Marketing visual: quando a imagem sustenta a estratégia",
+      "title": "Marketing visual: da estética à estratégia de marca",
       "original_title": "Marketing visual: da estética à estratégia de marca",
-      "summary": "Cor, tipografia, símbolo e fotografia não são acabamento: são a forma como a estratégia se torna visível e reconhecível nos pontos de contato.",
+      "summary": "Marketing visual é mais que design bonito. Veja como a identidade visual constrói reconhecimento, diferenciação e valor, e quando é hora de revisar a sua.",
       "why_it_matters": "Vale observar o que esta publicação revela sobre branding e suas implicações para marcas e comunicação.",
       "category": "Branding",
       "source": "Ana Couto",
@@ -38,9 +38,57 @@
       "series": "Série A"
     },
     {
-      "title": "Eleição 2026: campanha de 2030 já começou nas redes",
+      "title": "O caminho do SEO para o GEO | Fast Company Brasil",
+      "original_title": "O caminho do SEO para o GEO | Fast Company Brasil",
+      "summary": "De ajustes técnicos à reputação em plataformas de avaliação, quatro estratégias ajudam marcas a ganhar espaço nas respostas geradas por IA.",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre branding e suas implicações para marcas e comunicação.",
+      "category": "Branding",
+      "source": "Fast Company Brasil",
+      "published_date": "2026-10-26",
+      "url": "https://fastcompanybrasil.com/creators-tech/o-caminho-do-seo-para-o-geo/",
+      "image_url": "https://fastcompanybrasil.com/wp-content/uploads/2026/10/busca_SEO_GEO_pesquisa.jpg",
+      "series": "Série A"
+    },
+    {
+      "title": "Hyundai apresenta designers do IONIQ 3 em série",
+      "original_title": "Hyundai apresenta designers do IONIQ 3 em série",
+      "summary": "\"Points of Inspiration\" leva a Amsterdã, Frankfurt e Rüsselsheim para mostrar lugares, materiais e referências que inspiraram o carro. A ideia é tornar o processo criativo parte da campanha \"This is more than freedom\".",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre campanhas e suas implicações para marcas e comunicação.",
+      "category": "Campanhas",
+      "source": "Update or Die!",
+      "published_date": "2026-10-26",
+      "url": "https://updateordie.com/2026/10/26/hyundai-apresenta-designers-do-ioniq-3-em-serie/",
+      "image_url": "https://updateordie.com/wp-content/uploads/2026/10/red-electric-suv-street.webp",
+      "series": "Série A"
+    },
+    {
+      "title": "Firefox Wants You Back, Calls on OG Internet Icons to Help â LBB",
+      "original_title": "Firefox Wants You Back, Calls on OG Internet Icons to Help â LBB",
+      "summary": "Mozilla, We Believers and nobodysâ Sunny Sixteen enlist some of the Apparently Kid, Annoying Orange, Tay Zonday and more of the internet's early viral sensations for a nostalgia-filled campaign",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre campanhas e suas implicações para marcas e comunicação.",
+      "category": "Campanhas",
+      "source": "LBB",
+      "published_date": "2026-10-26",
+      "url": "https://lbbonline.com/news/firefox-mozilla-we-believers-viral-internet-stars-campaign-come-back",
+      "image_url": "https://d3q27bh1u24u2o.cloudfront.net/resized/1200/news/2026-10/firefox-main-pic.CswoP1hJ.png",
+      "series": "Série A"
+    },
+    {
+      "title": "Dança das Contas: Localiza, Graal e outros",
+      "original_title": "Dança das Contas: Localiza, Graal e outros",
+      "summary": "AlmapBBDO vence concorrência por marca de carro, enquanto, FourHands será agência da rede de restaurantes",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre branding e suas implicações para marcas e comunicação.",
+      "category": "Branding",
+      "source": "Meio & Mensagem",
+      "published_date": "2026-10-26",
+      "url": "https://www.meioemensagem.com.br/comunicacao/danca-das-contas-localiza-graal-e-outros",
+      "image_url": "https://www.meioemensagem.com.br/wp-content/uploads/2026/10/localiza-cred-reproducao-instagram-1280x852-1.jpg",
+      "series": "Série A"
+    },
+    {
+      "title": "Eleição 2026: campanha de 2030 já começou nas redes Copiar",
       "original_title": "Eleição 2026: campanha de 2030 já começou nas redes Copiar",
-      "summary": "A análise mostra como políticos mantêm suas audiências ativas nas redes mesmo entre ciclos eleitorais, tratando atenção e comunidade como ativos de longo prazo.",
+      "summary": "A eleição de 2026 termina, mas a campanha de 2030 já começou nas redes. Dados da Fast Company Brasil mostram como políticos mantêm suas audiências ativas.",
       "why_it_matters": "Vale observar o que esta publicação revela sobre campanhas e suas implicações para marcas e comunicação.",
       "category": "Campanhas",
       "source": "Fast Company Brasil",
@@ -52,7 +100,7 @@
     {
       "title": "Overman ganha filme com Otávio Müller",
       "original_title": "Overman ganha filme com Otávio Müller",
-      "summary": "O super-herói criado por Laerte Coutinho chega aos cinemas numa comédia dirigida por Tomas Portella. Um personagem autoral atravessa formatos e gera novas conversas culturais.",
+      "summary": "O super-herói criado por Laerte Coutinho chega aos cinemas em comédia dirigida por Tomas Portella, com estreia marcada para outubro de 2026.",
       "why_it_matters": "Vale observar o que esta publicação revela sobre campanhas e suas implicações para marcas e comunicação.",
       "category": "Campanhas",
       "source": "Update or Die!",
@@ -62,81 +110,33 @@
       "series": "Série A"
     },
     {
-      "title": "Grupo In Press inicia operação da Bloom PR",
-      "original_title": "Grupo In Press inicia operação da Bloom PR",
-      "summary": "O lançamento de uma nova operação de relações públicas reflete a busca por especialização e posicionamento mais claro no mercado de comunicação.",
-      "why_it_matters": "Vale observar o que esta publicação revela sobre branding e suas implicações para marcas e comunicação.",
-      "category": "Branding",
+      "title": "Campanhas da semana: grandes causas e ideias globais",
+      "original_title": "Campanhas da semana: grandes causas e ideias globais",
+      "summary": "Mercado Livre e Mercado Pago lançam ações de Black Friday enquanto Veja se une a Patrícia Poeta e Dani Calabresa",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre campanhas e suas implicações para marcas e comunicação.",
+      "category": "Campanhas",
       "source": "Meio & Mensagem",
       "published_date": "2026-10-23",
-      "url": "https://www.meioemensagem.com.br/comunicacao/grupo-in-press-inicia-operacao-da-bloom-pr",
-      "image_url": "https://www.meioemensagem.com.br/wp-content/uploads/2026/10/Bloom-PR.jpg",
+      "url": "https://www.meioemensagem.com.br/comunicacao/campanhas-da-semana-grandes-causas-e-ideias-globais",
+      "image_url": "https://www.meioemensagem.com.br/wp-content/uploads/2026/10/Fotos-Divulgacao-2026-10-23T164850.292.jpg",
       "series": "Série A"
     },
     {
-      "title": "iPhone Duo customizado por marca russa custa R$ 450 mil",
-      "original_title": "iPhone Duo customizado por marca russa custa R$ 450 mil",
-      "summary": "Uma versão de luxo transforma o aparelho em objeto de ostentação, mostrando como personalização extrema e escassez podem reposicionar um produto tecnológico.",
-      "why_it_matters": "Vale observar o que esta publicação revela sobre branding e suas implicações para marcas e comunicação.",
-      "category": "Branding",
-      "source": "Update or Die!",
-      "published_date": "2026-10-22",
-      "url": "https://updateordie.com/2026/10/22/caviar-cria-iphone-duo-de-r-450-mil/",
-      "image_url": "https://updateordie.com/wp-content/uploads/2026/10/luxury_custom_smartphones_designs.webp",
-      "series": "Série A"
-    },
-    {
-      "title": "Apple Music usa ondas sonoras para criar identidade visual",
-      "original_title": "Apple Music usa ondas sonoras para criar identidade visual",
-      "summary": "A identidade traduz um mnemônico musical em formas visuais. O som deixa de ser apenas assinatura auditiva e passa a oferecer um código visual reconhecível.",
-      "why_it_matters": "Vale observar o que esta publicação revela sobre branding e suas implicações para marcas e comunicação.",
-      "category": "Branding",
-      "source": "Meio & Mensagem",
-      "published_date": "2026-10-22",
-      "url": "https://www.meioemensagem.com.br/comunicacao/apple-music-usa-ondas-sonoras-para-criar-identidade-visual",
-      "image_url": "https://www.meioemensagem.com.br/wp-content/uploads/2026/10/Apple-Music.jpg",
-      "series": "Série A"
-    },
-    {
-      "title": "Kings League transforma comunidade digital em negócio esportivo",
-      "original_title": "Kings League: a liga de milhões que você talvez não conheça | Fast Company Brasil",
-      "summary": "A competição ligada a influenciadores combina futebol, entretenimento e comunidades digitais, transformando audiência em parte central de uma propriedade esportiva.",
-      "why_it_matters": "Vale observar o que esta publicação revela sobre estratégia & negócios e suas implicações para marcas e comunicação.",
-      "category": "Estratégia & negócios",
-      "source": "Fast Company Brasil",
-      "published_date": "2026-10-25",
-      "url": "https://fastcompanybrasil.com/games/kings-league-a-liga-de-milhoes-que-voce-talvez-ainda-nao-conheca/",
-      "image_url": "https://fastcompanybrasil.com/wp-content/uploads/2026/10/games_kings-league.jpg",
-      "series": "Série A"
-    },
-    {
-      "title": "Corteiz e Nike levam o tênis a uma campanha de ritmo acelerado",
-      "original_title": "Corteiz x Nike Ad Goes All Out for \"Generational Creps\" â LBB",
-      "summary": "A colaboração usa energia musical e linguagem de streetwear para dar personalidade à campanha e conectar produto, cultura jovem e entretenimento.",
-      "why_it_matters": "Vale observar o que esta publicação revela sobre branding e suas implicações para marcas e comunicação.",
-      "category": "Branding",
-      "source": "LBB",
-      "published_date": "2026-10-23",
-      "url": "https://lbbonline.com/news/Corteiz-Nike-How-to-make-an-advert-UNCANNY-magna-studios",
-      "image_url": "https://d3q27bh1u24u2o.cloudfront.net/resized/1200/news/2026-10/corteiz-x-nike.sYo8iqHF.png",
-      "series": "Série A"
-    },
-    {
-      "title": "Kalshi transforma rivalidade esportiva em produto de campanha",
-      "original_title": "Kalshi Mutes Lebron James with NBA Star Dillon Brooks â LBB",
-      "summary": "A campanha usa humor e uma ideia de produto fictício para explorar uma rivalidade conhecida do basquete e tornar a marca parte da conversa entre fãs.",
+      "title": "Owen Thiele, Tove Lo and Ken Eurich Showcase Tinder's New Social Features â LBB",
+      "original_title": "Owen Thiele, Tove Lo and Ken Eurich Showcase Tinder's New Social Features â LBB",
+      "summary": "VIRTUE Worldwide campaign highlights the dating apps newest features: Group Hangouts, IRL Events, Double Date, Astrology Mode, and Music Mode",
       "why_it_matters": "Vale observar o que esta publicação revela sobre campanhas e suas implicações para marcas e comunicação.",
       "category": "Campanhas",
       "source": "LBB",
-      "published_date": "2026-10-23",
-      "url": "https://lbbonline.com/news/kalshi-mutes-lebron-james-with-nba-star-dillon-brooks",
-      "image_url": "https://d3q27bh1u24u2o.cloudfront.net/resized/1200/news/2026-10/king-blocker.9MJcreVl.png",
+      "published_date": "2026-10-26",
+      "url": "https://lbbonline.com/news/owen-thiele-tove-lo-and-ken-eurich-showcase-tinder-s-new-social-features",
+      "image_url": "https://d3q27bh1u24u2o.cloudfront.net/resized/1200/news/2026-10/tinder-social-features.tkvz5tpr.png",
       "series": "Série A"
     },
     {
-      "title": "Resumido aposta na comunidade para sustentar seu projeto editorial",
+      "title": "Faça parte da comunidade do RESUMIDO! - RESUMIDO",
       "original_title": "Faça parte da comunidade do RESUMIDO! - RESUMIDO",
-      "summary": "O convite à participação explicita como um projeto de conteúdo independente depende do vínculo com sua audiência, não apenas da distribuição de episódios.",
+      "summary": "O RESUMIDO é independente se mantém com o apoio dos ouvintes. Assine e faça parte do grupo de pessoas que garante que o podcast continue existindo.” E o link pro O Futuro do RESUMIDO no final.",
       "why_it_matters": "Vale observar o que esta publicação revela sobre comportamento e suas implicações para marcas e comunicação.",
       "category": "Comportamento",
       "source": "Resumido",
