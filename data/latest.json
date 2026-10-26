@@ -1,34 +1,34 @@
 {
-  "edition_date": "2026-10-25",
+  "edition_date": "2026-10-26",
   "status": "published",
   "notice": "Curadoria automática gratuita baseada em RSS e metadados das fontes originais.",
-  "window_start": "2026-10-19",
-  "window_end": "2026-10-25",
+  "window_start": "2026-10-12",
+  "window_end": "2026-10-26",
   "edition_name": "Update com Afeto",
-  "editor_letter": "Esta edição reúne 10 histórias publicadas nos últimos sete dias, selecionadas entre as fontes aprovadas da Série A. A curadoria prioriza campanhas, marcas, estratégia, comportamento e cultura digital. Os resumos partem das descrições publicadas pelas próprias fontes; abra os links originais para ler o contexto completo.",
+  "editor_letter": "Bom dia, da Dani! Nesta edição, observamos como as marcas tornam suas ideias mais reconhecíveis: códigos culturais que ajudam a explicar uma promessa, experiências que convidam à participação e escolhas visuais que dão forma à estratégia. O fio comum é simples: marcas memoráveis não apenas anunciam benefícios, criam formas próprias de serem percebidas, entendidas e lembradas.",
   "signals": [
     {
-      "title": "Branding",
-      "description": "5 matéria(s) desta edição exploram branding. Veja como as marcas e a cultura estão se movimentando neste tema.",
-      "category": "SINAL EDITORIAL"
+      "title": "Cultura como atalho",
+      "description": "Campanhas usam repertório conhecido para tornar uma promessa mais fácil de reconhecer.",
+      "category": "CAMPANHAS · CULTURA"
     },
     {
-      "title": "Campanhas",
-      "description": "3 matéria(s) desta edição exploram campanhas. Veja como as marcas e a cultura estão se movimentando neste tema.",
-      "category": "SINAL EDITORIAL"
+      "title": "Comunidade como ativo",
+      "description": "Criadores e projetos editoriais aproximam audiência, participação e negócio.",
+      "category": "COMUNIDADE · NEGÓCIOS"
     },
     {
-      "title": "Estratégia & negócios",
-      "description": "1 matéria(s) desta edição exploram estratégia & negócios. Veja como as marcas e a cultura estão se movimentando neste tema.",
-      "category": "SINAL EDITORIAL"
+      "title": "Distinção visual",
+      "description": "Num mar de códigos semelhantes, escolhas visuais próprias voltam a ser vantagem.",
+      "category": "BRANDING · DESIGN"
     }
   ],
-  "lead_url": "https://fastcompanybrasil.com/creators-tech/eleicao-2026-campanha-2030-redes-sociais-copiar/",
+  "lead_url": "https://www.meioemensagem.com.br/comunicacao/apple-music-usa-ondas-sonoras-para-criar-identidade-visual",
   "stories": [
     {
-      "title": "Marketing visual: da estética à estratégia de marca",
+      "title": "Marketing visual: quando a imagem sustenta a estratégia",
       "original_title": "Marketing visual: da estética à estratégia de marca",
-      "summary": "Marketing visual é mais que design bonito. Veja como a identidade visual constrói reconhecimento, diferenciação e valor, e quando é hora de revisar a sua.",
+      "summary": "Cor, tipografia, símbolo e fotografia não são acabamento: são a forma como a estratégia se torna visível e reconhecível nos pontos de contato.",
       "why_it_matters": "Vale observar o que esta publicação revela sobre branding e suas implicações para marcas e comunicação.",
       "category": "Branding",
       "source": "Ana Couto",
@@ -38,9 +38,9 @@
       "series": "Série A"
     },
     {
-      "title": "Eleição 2026: campanha de 2030 já começou nas redes Copiar",
+      "title": "Eleição 2026: campanha de 2030 já começou nas redes",
       "original_title": "Eleição 2026: campanha de 2030 já começou nas redes Copiar",
-      "summary": "A eleição de 2026 termina, mas a campanha de 2030 já começou nas redes. Dados da Fast Company Brasil mostram como políticos mantêm suas audiências ativas.",
+      "summary": "A análise mostra como políticos mantêm suas audiências ativas nas redes mesmo entre ciclos eleitorais, tratando atenção e comunidade como ativos de longo prazo.",
       "why_it_matters": "Vale observar o que esta publicação revela sobre campanhas e suas implicações para marcas e comunicação.",
       "category": "Campanhas",
       "source": "Fast Company Brasil",
@@ -52,7 +52,7 @@
     {
       "title": "Overman ganha filme com Otávio Müller",
       "original_title": "Overman ganha filme com Otávio Müller",
-      "summary": "O super-herói criado por Laerte Coutinho chega aos cinemas em comédia dirigida por Tomas Portella, com estreia marcada para outubro de 2026.",
+      "summary": "O super-herói criado por Laerte Coutinho chega aos cinemas numa comédia dirigida por Tomas Portella. Um personagem autoral atravessa formatos e gera novas conversas culturais.",
       "why_it_matters": "Vale observar o que esta publicação revela sobre campanhas e suas implicações para marcas e comunicação.",
       "category": "Campanhas",
       "source": "Update or Die!",
@@ -64,7 +64,7 @@
     {
       "title": "Grupo In Press inicia operação da Bloom PR",
       "original_title": "Grupo In Press inicia operação da Bloom PR",
-      "summary": "O Grupo In Press oficializa o lançamento da Bloom PR, agência de relações públicas voltada ao fortalecimento da presença e reputação de marcas que",
+      "summary": "O lançamento de uma nova operação de relações públicas reflete a busca por especialização e posicionamento mais claro no mercado de comunicação.",
       "why_it_matters": "Vale observar o que esta publicação revela sobre branding e suas implicações para marcas e comunicação.",
       "category": "Branding",
       "source": "Meio & Mensagem",
@@ -76,7 +76,7 @@
     {
       "title": "iPhone Duo customizado por marca russa custa R$ 450 mil",
       "original_title": "iPhone Duo customizado por marca russa custa R$ 450 mil",
-      "summary": "A versão Dali do iPhone Duo custa mais de US$ 90 mil, cerca de R$ 450 mil, e leva o logotipo da Apple cravejado de diamantes.",
+      "summary": "Uma versão de luxo transforma o aparelho em objeto de ostentação, mostrando como personalização extrema e escassez podem reposicionar um produto tecnológico.",
       "why_it_matters": "Vale observar o que esta publicação revela sobre branding e suas implicações para marcas e comunicação.",
       "category": "Branding",
       "source": "Update or Die!",
@@ -88,7 +88,7 @@
     {
       "title": "Apple Music usa ondas sonoras para criar identidade visual",
       "original_title": "Apple Music usa ondas sonoras para criar identidade visual",
-      "summary": "Por Tim Nudd, do Ad Age A Apple Music revelou sua nova identidade de marca, que, de forma literal, expressa a ideia de ser movida pela música. Em vez de",
+      "summary": "A identidade traduz um mnemônico musical em formas visuais. O som deixa de ser apenas assinatura auditiva e passa a oferecer um código visual reconhecível.",
       "why_it_matters": "Vale observar o que esta publicação revela sobre branding e suas implicações para marcas e comunicação.",
       "category": "Branding",
       "source": "Meio & Mensagem",
@@ -98,9 +98,9 @@
       "series": "Série A"
     },
     {
-      "title": "Kings League: a liga de milhões que você talvez não conheça | Fast Company Brasil",
+      "title": "Kings League transforma comunidade digital em negócio esportivo",
       "original_title": "Kings League: a liga de milhões que você talvez não conheça | Fast Company Brasil",
-      "summary": "Competição com influenciadores já captou mais de US$ 160 milhões e transforma comunidades digitais em um novo negócio do futebol.",
+      "summary": "A competição ligada a influenciadores combina futebol, entretenimento e comunidades digitais, transformando audiência em parte central de uma propriedade esportiva.",
       "why_it_matters": "Vale observar o que esta publicação revela sobre estratégia & negócios e suas implicações para marcas e comunicação.",
       "category": "Estratégia & negócios",
       "source": "Fast Company Brasil",
@@ -110,9 +110,9 @@
       "series": "Série A"
     },
     {
-      "title": "Corteiz x Nike Ad Goes All Out for \"Generational Creps\" â LBB",
+      "title": "Corteiz e Nike levam o tênis a uma campanha de ritmo acelerado",
       "original_title": "Corteiz x Nike Ad Goes All Out for \"Generational Creps\" â LBB",
-      "summary": "Streetwear brand Corteiz and Nike launch the Shox R419 sneaker with âHow to Make an Advertâ, a fast-paced, Dizzee Rascal-soundtracked spot from magna studios director duo UNCANNY, and agencies Out of Office and Actually Creative",
+      "summary": "A colaboração usa energia musical e linguagem de streetwear para dar personalidade à campanha e conectar produto, cultura jovem e entretenimento.",
       "why_it_matters": "Vale observar o que esta publicação revela sobre branding e suas implicações para marcas e comunicação.",
       "category": "Branding",
       "source": "LBB",
@@ -122,9 +122,9 @@
       "series": "Série A"
     },
     {
-      "title": "Kalshi Mutes Lebron James with NBA Star Dillon Brooks â LBB",
+      "title": "Kalshi transforma rivalidade esportiva em produto de campanha",
       "original_title": "Kalshi Mutes Lebron James with NBA Star Dillon Brooks â LBB",
-      "summary": "Cheeky campaign from es muy good. introduces the âKing Blocker,â a device designed to block out any mention of Dillon Brooks' well-known NBA nemesis and all nicknames associated with him",
+      "summary": "A campanha usa humor e uma ideia de produto fictício para explorar uma rivalidade conhecida do basquete e tornar a marca parte da conversa entre fãs.",
       "why_it_matters": "Vale observar o que esta publicação revela sobre campanhas e suas implicações para marcas e comunicação.",
       "category": "Campanhas",
       "source": "LBB",
@@ -134,9 +134,9 @@
       "series": "Série A"
     },
     {
-      "title": "Faça parte da comunidade do RESUMIDO! - RESUMIDO",
+      "title": "Resumido aposta na comunidade para sustentar seu projeto editorial",
       "original_title": "Faça parte da comunidade do RESUMIDO! - RESUMIDO",
-      "summary": "O RESUMIDO é independente se mantém com o apoio dos ouvintes. Assine e faça parte do grupo de pessoas que garante que o podcast continue existindo.” E o link pro O Futuro do RESUMIDO no final.",
+      "summary": "O convite à participação explicita como um projeto de conteúdo independente depende do vínculo com sua audiência, não apenas da distribuição de episódios.",
       "why_it_matters": "Vale observar o que esta publicação revela sobre comportamento e suas implicações para marcas e comunicação.",
       "category": "Comportamento",
       "source": "Resumido",
