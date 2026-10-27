@@ -1,29 +1,29 @@
 {
-  "edition_date": "2026-10-26",
+  "edition_date": "2026-10-27",
   "status": "published",
   "notice": "Curadoria automática gratuita baseada em RSS e metadados das fontes originais.",
-  "window_start": "2026-10-20",
-  "window_end": "2026-10-26",
+  "window_start": "2026-10-21",
+  "window_end": "2026-10-27",
   "edition_name": "Update com Afeto",
   "editor_letter": "Esta edição reúne 10 histórias publicadas nos últimos sete dias, selecionadas entre as fontes aprovadas da Série A. A curadoria prioriza campanhas, marcas, estratégia, comportamento e cultura digital. Os resumos partem das descrições publicadas pelas próprias fontes; abra os links originais para ler o contexto completo.",
   "signals": [
     {
-      "title": "Campanhas",
-      "description": "6 matéria(s) desta edição exploram campanhas. Veja como as marcas e a cultura estão se movimentando neste tema.",
+      "title": "Branding",
+      "description": "4 matéria(s) desta edição exploram branding. Veja como as marcas e a cultura estão se movimentando neste tema.",
       "category": "SINAL EDITORIAL"
     },
     {
-      "title": "Branding",
-      "description": "3 matéria(s) desta edição exploram branding. Veja como as marcas e a cultura estão se movimentando neste tema.",
+      "title": "Campanhas",
+      "description": "3 matéria(s) desta edição exploram campanhas. Veja como as marcas e a cultura estão se movimentando neste tema.",
       "category": "SINAL EDITORIAL"
     },
     {
       "title": "Comportamento",
-      "description": "1 matéria(s) desta edição exploram comportamento. Veja como as marcas e a cultura estão se movimentando neste tema.",
+      "description": "2 matéria(s) desta edição exploram comportamento. Veja como as marcas e a cultura estão se movimentando neste tema.",
       "category": "SINAL EDITORIAL"
     }
   ],
-  "lead_url": "https://fastcompanybrasil.com/creators-tech/eleicao-2026-campanha-2030-redes-sociais-copiar/",
+  "lead_url": "https://www.meioemensagem.com.br/comunicacao/campanhas-da-semana-grandes-causas-e-ideias-globais",
   "stories": [
     {
       "title": "Marketing visual: da estética à estratégia de marca",
@@ -38,15 +38,39 @@
       "series": "Série A"
     },
     {
-      "title": "O caminho do SEO para o GEO | Fast Company Brasil",
-      "original_title": "O caminho do SEO para o GEO | Fast Company Brasil",
-      "summary": "De ajustes técnicos à reputação em plataformas de avaliação, quatro estratégias ajudam marcas a ganhar espaço nas respostas geradas por IA.",
+      "title": "Sheryl Sandberg alerta para o avanço do sexismo nas empresas | Fast Company Brasil",
+      "original_title": "Sheryl Sandberg alerta para o avanço do sexismo nas empresas | Fast Company Brasil",
+      "summary": "Pesquisa mostra que ideias sexistas difundidas na internet reforçam estereótipos de gênero e afetam a maneira como mulheres são avaliadas.",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre estratégia & negócios e suas implicações para marcas e comunicação.",
+      "category": "Estratégia & negócios",
+      "source": "Fast Company Brasil",
+      "published_date": "2026-10-27",
+      "url": "https://fastcompanybrasil.com/worklife/sheryl-sandberg-alerta-para-avanco-do-sexismo-nas-empresas/",
+      "image_url": "https://fastcompanybrasil.com/wp-content/uploads/2026/10/machismo_mulheres_ambiente-de-trabalho.jpg",
+      "series": "Série A"
+    },
+    {
+      "title": "BT on Doing âBrilliant Thingsâ and Becoming âthe Burberry of Technologyâ â LBB",
+      "original_title": "BT on Doing âBrilliant Thingsâ and Becoming âthe Burberry of Technologyâ â LBB",
+      "summary": "The telco giant is five months into its new platform. Whether theyâre putting colleagues on screen or showing up in Coronation Street and Emmerdale, BT is on a mission to build community and retake its position as an iconic British brand.",
       "why_it_matters": "Vale observar o que esta publicação revela sobre branding e suas implicações para marcas e comunicação.",
       "category": "Branding",
-      "source": "Fast Company Brasil",
-      "published_date": "2026-10-26",
-      "url": "https://fastcompanybrasil.com/creators-tech/o-caminho-do-seo-para-o-geo/",
-      "image_url": "https://fastcompanybrasil.com/wp-content/uploads/2026/10/busca_SEO_GEO_pesquisa.jpg",
+      "source": "LBB",
+      "published_date": "2026-10-27",
+      "url": "https://lbbonline.com/news/Bt-brilliant-things-marketing-strategy-British-coronation-street-emmerdale",
+      "image_url": "https://d3q27bh1u24u2o.cloudfront.net/resized/1200/news_hero/2026-10/bt-brilliant-things.QktIf9Rf.jpg",
+      "series": "Série A"
+    },
+    {
+      "title": "VaynerX and The Female Quotient Unite at the Fourth Future CMO Summit â LBB",
+      "original_title": "VaynerX and The Female Quotient Unite at the Fourth Future CMO Summit â LBB",
+      "summary": "An all-women gathering, joined by VaynerX chairman Gary Vaynerchuk and The Female Quotient founder and CEO Shelley Zalis, fostered candid conversations on AI discovery, personal branding, and the future of media",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre branding e suas implicações para marcas e comunicação.",
+      "category": "Branding",
+      "source": "LBB",
+      "published_date": "2026-10-27",
+      "url": "https://lbbonline.com/news/vaynerx-female-quotient-fourth-future-cmo-summit",
+      "image_url": "https://d3q27bh1u24u2o.cloudfront.net/resized/1200/news/2026-10/vaynerx-and-the-female-quotient.LosqdnN9.png",
       "series": "Série A"
     },
     {
@@ -62,18 +86,6 @@
       "series": "Série A"
     },
     {
-      "title": "Firefox Wants You Back, Calls on OG Internet Icons to Help â LBB",
-      "original_title": "Firefox Wants You Back, Calls on OG Internet Icons to Help â LBB",
-      "summary": "Mozilla, We Believers and nobodysâ Sunny Sixteen enlist some of the Apparently Kid, Annoying Orange, Tay Zonday and more of the internet's early viral sensations for a nostalgia-filled campaign",
-      "why_it_matters": "Vale observar o que esta publicação revela sobre campanhas e suas implicações para marcas e comunicação.",
-      "category": "Campanhas",
-      "source": "LBB",
-      "published_date": "2026-10-26",
-      "url": "https://lbbonline.com/news/firefox-mozilla-we-believers-viral-internet-stars-campaign-come-back",
-      "image_url": "https://d3q27bh1u24u2o.cloudfront.net/resized/1200/news/2026-10/firefox-main-pic.CswoP1hJ.png",
-      "series": "Série A"
-    },
-    {
       "title": "Dança das Contas: Localiza, Graal e outros",
       "original_title": "Dança das Contas: Localiza, Graal e outros",
       "summary": "AlmapBBDO vence concorrência por marca de carro, enquanto, FourHands será agência da rede de restaurantes",
@@ -83,18 +95,6 @@
       "published_date": "2026-10-26",
       "url": "https://www.meioemensagem.com.br/comunicacao/danca-das-contas-localiza-graal-e-outros",
       "image_url": "https://www.meioemensagem.com.br/wp-content/uploads/2026/10/localiza-cred-reproducao-instagram-1280x852-1.jpg",
-      "series": "Série A"
-    },
-    {
-      "title": "Eleição 2026: campanha de 2030 já começou nas redes Copiar",
-      "original_title": "Eleição 2026: campanha de 2030 já começou nas redes Copiar",
-      "summary": "A eleição de 2026 termina, mas a campanha de 2030 já começou nas redes. Dados da Fast Company Brasil mostram como políticos mantêm suas audiências ativas.",
-      "why_it_matters": "Vale observar o que esta publicação revela sobre campanhas e suas implicações para marcas e comunicação.",
-      "category": "Campanhas",
-      "source": "Fast Company Brasil",
-      "published_date": "2026-10-25",
-      "url": "https://fastcompanybrasil.com/creators-tech/eleicao-2026-campanha-2030-redes-sociais-copiar/",
-      "image_url": "https://fastcompanybrasil.com/wp-content/uploads/2026/10/eleicao-2030-politicos-influencers-redes-sociais.jpg",
       "series": "Série A"
     },
     {
@@ -122,15 +122,15 @@
       "series": "Série A"
     },
     {
-      "title": "Owen Thiele, Tove Lo and Ken Eurich Showcase Tinder's New Social Features â LBB",
-      "original_title": "Owen Thiele, Tove Lo and Ken Eurich Showcase Tinder's New Social Features â LBB",
-      "summary": "VIRTUE Worldwide campaign highlights the dating apps newest features: Group Hangouts, IRL Events, Double Date, Astrology Mode, and Music Mode",
-      "why_it_matters": "Vale observar o que esta publicação revela sobre campanhas e suas implicações para marcas e comunicação.",
-      "category": "Campanhas",
-      "source": "LBB",
-      "published_date": "2026-10-26",
-      "url": "https://lbbonline.com/news/owen-thiele-tove-lo-and-ken-eurich-showcase-tinder-s-new-social-features",
-      "image_url": "https://d3q27bh1u24u2o.cloudfront.net/resized/1200/news/2026-10/tinder-social-features.tkvz5tpr.png",
+      "title": "Alia Domus: conheça o jogo brasileiro com gráficos de Tibia que pode ser testado de graça | Fast Company Brasil",
+      "original_title": "Alia Domus: conheça o jogo brasileiro com gráficos de Tibia que pode ser testado de graça | Fast Company Brasil",
+      "summary": "Inspirado na estética dos RPGs clássicos, Alia Domus combina coleta de recursos, agricultura, combate e pesquisa tecnológica.",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre comportamento e suas implicações para marcas e comunicação.",
+      "category": "Comportamento",
+      "source": "Fast Company Brasil",
+      "published_date": "2026-10-27",
+      "url": "https://fastcompanybrasil.com/games/alia-domus-conheca-jogo-brasileiro-graficos-tibia-pode-ser-testado-graca/",
+      "image_url": "https://fastcompanybrasil.com/wp-content/uploads/2026/10/game-brasil.jpg",
       "series": "Série A"
     },
     {
