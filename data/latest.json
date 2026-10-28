@@ -1,9 +1,9 @@
 {
-  "edition_date": "2026-10-27",
+  "edition_date": "2026-10-28",
   "status": "published",
   "notice": "Curadoria automática gratuita baseada em RSS e metadados das fontes originais.",
-  "window_start": "2026-10-21",
-  "window_end": "2026-10-27",
+  "window_start": "2026-10-22",
+  "window_end": "2026-10-28",
   "edition_name": "Update com Afeto",
   "editor_letter": "Esta edição reúne 10 histórias publicadas nos últimos sete dias, selecionadas entre as fontes aprovadas da Série A. A curadoria prioriza campanhas, marcas, estratégia, comportamento e cultura digital. Os resumos partem das descrições publicadas pelas próprias fontes; abra os links originais para ler o contexto completo.",
   "signals": [
@@ -14,63 +14,51 @@
     },
     {
       "title": "Campanhas",
-      "description": "3 matéria(s) desta edição exploram campanhas. Veja como as marcas e a cultura estão se movimentando neste tema.",
+      "description": "4 matéria(s) desta edição exploram campanhas. Veja como as marcas e a cultura estão se movimentando neste tema.",
       "category": "SINAL EDITORIAL"
     },
     {
-      "title": "Comportamento",
-      "description": "2 matéria(s) desta edição exploram comportamento. Veja como as marcas e a cultura estão se movimentando neste tema.",
+      "title": "Experiência de marca",
+      "description": "1 matéria(s) desta edição exploram experiência de marca. Veja como as marcas e a cultura estão se movimentando neste tema.",
       "category": "SINAL EDITORIAL"
     }
   ],
-  "lead_url": "https://www.meioemensagem.com.br/comunicacao/campanhas-da-semana-grandes-causas-e-ideias-globais",
+  "lead_url": "https://anacouto.com.br/artigos/2026/10/27/brand-valuation-o-que-e-como-calcular-valor-da-marca/",
   "stories": [
     {
-      "title": "Marketing visual: da estética à estratégia de marca",
-      "original_title": "Marketing visual: da estética à estratégia de marca",
-      "summary": "Marketing visual é mais que design bonito. Veja como a identidade visual constrói reconhecimento, diferenciação e valor, e quando é hora de revisar a sua.",
+      "title": "O Brasil mandou um recado para o mundo | Fast Company Brasil",
+      "original_title": "O Brasil mandou um recado para o mundo | Fast Company Brasil",
+      "summary": "Employee advocacy é o nome dado às estratégias em que colaboradores se tornam embaixadores da marca em suas próprias redes.",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre branding e suas implicações para marcas e comunicação.",
+      "category": "Branding",
+      "source": "Fast Company Brasil",
+      "published_date": "2026-10-28",
+      "url": "https://fastcompanybrasil.com/coluna/o-brasil-mandou-um-recado-para-o-mundo/",
+      "image_url": "https://fastcompanybrasil.com/wp-content/uploads/2026/10/brasil-mandou-recado_maos.jpg",
+      "series": "Série A"
+    },
+    {
+      "title": "Medalha da Nike vira colar, pulseira e acessório para o cinto | Fast Company Brasil",
+      "original_title": "Medalha da Nike vira colar, pulseira e acessório para o cinto | Fast Company Brasil",
+      "summary": "A iniciativa faz parte da estratégia da Nike para se aproximar do público feminino por meio de produtos, parcerias e eventos esportivos.",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre experiência de marca e suas implicações para marcas e comunicação.",
+      "category": "Experiência de marca",
+      "source": "Fast Company Brasil",
+      "published_date": "2026-10-28",
+      "url": "https://fastcompanybrasil.com/design/medalha-da-nike-vira-colar-pulseira-e-acessorio-para-o-cinto/",
+      "image_url": "https://fastcompanybrasil.com/wp-content/uploads/2026/10/Nike_medalhas-viram-joias.jpg",
+      "series": "Série A"
+    },
+    {
+      "title": "Brand valuation: o que é e como calcular o valor da marca",
+      "original_title": "Brand valuation: o que é e como calcular o valor da marca",
+      "summary": "Entenda o que é brand valuation, a diferença para brand equity, as abordagens de cálculo e como usar o valor da marca nas decisões estratégicas do negócio.",
       "why_it_matters": "Vale observar o que esta publicação revela sobre branding e suas implicações para marcas e comunicação.",
       "category": "Branding",
       "source": "Ana Couto",
-      "published_date": "2026-10-21",
-      "url": "https://anacouto.com.br/artigos/2026/10/21/marketing-visual-identidade-visual-como-estrategia/",
-      "image_url": "https://anacouto.com.br/wp-content/uploads/2026/10/cropped-cover-artigo-marketing-visual.png",
-      "series": "Série A"
-    },
-    {
-      "title": "Sheryl Sandberg alerta para o avanço do sexismo nas empresas | Fast Company Brasil",
-      "original_title": "Sheryl Sandberg alerta para o avanço do sexismo nas empresas | Fast Company Brasil",
-      "summary": "Pesquisa mostra que ideias sexistas difundidas na internet reforçam estereótipos de gênero e afetam a maneira como mulheres são avaliadas.",
-      "why_it_matters": "Vale observar o que esta publicação revela sobre estratégia & negócios e suas implicações para marcas e comunicação.",
-      "category": "Estratégia & negócios",
-      "source": "Fast Company Brasil",
       "published_date": "2026-10-27",
-      "url": "https://fastcompanybrasil.com/worklife/sheryl-sandberg-alerta-para-avanco-do-sexismo-nas-empresas/",
-      "image_url": "https://fastcompanybrasil.com/wp-content/uploads/2026/10/machismo_mulheres_ambiente-de-trabalho.jpg",
-      "series": "Série A"
-    },
-    {
-      "title": "BT on Doing âBrilliant Thingsâ and Becoming âthe Burberry of Technologyâ â LBB",
-      "original_title": "BT on Doing âBrilliant Thingsâ and Becoming âthe Burberry of Technologyâ â LBB",
-      "summary": "The telco giant is five months into its new platform. Whether theyâre putting colleagues on screen or showing up in Coronation Street and Emmerdale, BT is on a mission to build community and retake its position as an iconic British brand.",
-      "why_it_matters": "Vale observar o que esta publicação revela sobre branding e suas implicações para marcas e comunicação.",
-      "category": "Branding",
-      "source": "LBB",
-      "published_date": "2026-10-27",
-      "url": "https://lbbonline.com/news/Bt-brilliant-things-marketing-strategy-British-coronation-street-emmerdale",
-      "image_url": "https://d3q27bh1u24u2o.cloudfront.net/resized/1200/news_hero/2026-10/bt-brilliant-things.QktIf9Rf.jpg",
-      "series": "Série A"
-    },
-    {
-      "title": "VaynerX and The Female Quotient Unite at the Fourth Future CMO Summit â LBB",
-      "original_title": "VaynerX and The Female Quotient Unite at the Fourth Future CMO Summit â LBB",
-      "summary": "An all-women gathering, joined by VaynerX chairman Gary Vaynerchuk and The Female Quotient founder and CEO Shelley Zalis, fostered candid conversations on AI discovery, personal branding, and the future of media",
-      "why_it_matters": "Vale observar o que esta publicação revela sobre branding e suas implicações para marcas e comunicação.",
-      "category": "Branding",
-      "source": "LBB",
-      "published_date": "2026-10-27",
-      "url": "https://lbbonline.com/news/vaynerx-female-quotient-fourth-future-cmo-summit",
-      "image_url": "https://d3q27bh1u24u2o.cloudfront.net/resized/1200/news/2026-10/vaynerx-and-the-female-quotient.LosqdnN9.png",
+      "url": "https://anacouto.com.br/artigos/2026/10/27/brand-valuation-o-que-e-como-calcular-valor-da-marca/",
+      "image_url": "https://anacouto.com.br/wp-content/uploads/2026/10/cropped-brand-value-artigo-2048x1074.png",
       "series": "Série A"
     },
     {
@@ -83,6 +71,18 @@
       "published_date": "2026-10-26",
       "url": "https://updateordie.com/2026/10/26/hyundai-apresenta-designers-do-ioniq-3-em-serie/",
       "image_url": "https://updateordie.com/wp-content/uploads/2026/10/red-electric-suv-street.webp",
+      "series": "Série A"
+    },
+    {
+      "title": "Com Belo, Uber apresenta funcionalidade Preço Fixo",
+      "original_title": "Com Belo, Uber apresenta funcionalidade Preço Fixo",
+      "summary": "Criada Wieden+Kennedy SP, campanha conta com vídeo estrelado pelo cantor Belo, presença na mídia exterior e no digital",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre campanhas e suas implicações para marcas e comunicação.",
+      "category": "Campanhas",
+      "source": "Meio & Mensagem",
+      "published_date": "2026-10-26",
+      "url": "https://www.meioemensagem.com.br/comunicacao/com-belo-uber-apresenta-funcionalidade-preco-fixo",
+      "image_url": "https://www.meioemensagem.com.br/wp-content/uploads/2026/10/belo-campanha-uber-div.jpg",
       "series": "Série A"
     },
     {
@@ -110,39 +110,39 @@
       "series": "Série A"
     },
     {
-      "title": "Campanhas da semana: grandes causas e ideias globais",
-      "original_title": "Campanhas da semana: grandes causas e ideias globais",
-      "summary": "Mercado Livre e Mercado Pago lançam ações de Black Friday enquanto Veja se une a Patrícia Poeta e Dani Calabresa",
+      "title": "The Art of Being Indispensable â LBB",
+      "original_title": "The Art of Being Indispensable â LBB",
+      "summary": "Freelance creative Erica Sand, a regular collaborator with Maison BETC Paris, reflects on the realities of balancing luxury advertising and chemotherapy",
       "why_it_matters": "Vale observar o que esta publicação revela sobre campanhas e suas implicações para marcas e comunicação.",
       "category": "Campanhas",
-      "source": "Meio & Mensagem",
-      "published_date": "2026-10-23",
-      "url": "https://www.meioemensagem.com.br/comunicacao/campanhas-da-semana-grandes-causas-e-ideias-globais",
-      "image_url": "https://www.meioemensagem.com.br/wp-content/uploads/2026/10/Fotos-Divulgacao-2026-10-23T164850.292.jpg",
+      "source": "LBB",
+      "published_date": "2026-10-28",
+      "url": "https://lbbonline.com/news/erica-sand-freelance-creative-advertising-chemotherapy",
+      "image_url": "https://d3q27bh1u24u2o.cloudfront.net/resized/1200/news/2026-10/erica-sand.nCRAgWtW.png",
       "series": "Série A"
     },
     {
-      "title": "Alia Domus: conheça o jogo brasileiro com gráficos de Tibia que pode ser testado de graça | Fast Company Brasil",
-      "original_title": "Alia Domus: conheça o jogo brasileiro com gráficos de Tibia que pode ser testado de graça | Fast Company Brasil",
-      "summary": "Inspirado na estética dos RPGs clássicos, Alia Domus combina coleta de recursos, agricultura, combate e pesquisa tecnológica.",
-      "why_it_matters": "Vale observar o que esta publicação revela sobre comportamento e suas implicações para marcas e comunicação.",
-      "category": "Comportamento",
-      "source": "Fast Company Brasil",
-      "published_date": "2026-10-27",
-      "url": "https://fastcompanybrasil.com/games/alia-domus-conheca-jogo-brasileiro-graficos-tibia-pode-ser-testado-graca/",
-      "image_url": "https://fastcompanybrasil.com/wp-content/uploads/2026/10/game-brasil.jpg",
+      "title": "Tool Signs Director Aaron Ruell â LBB",
+      "original_title": "Tool Signs Director Aaron Ruell â LBB",
+      "summary": "Aaron Ruell has worked with brands such as Advil, Dutch Boy, Kerrygold, In The Raw, IHOP, Lyft, and Serta",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre branding e suas implicações para marcas e comunicação.",
+      "category": "Branding",
+      "source": "LBB",
+      "published_date": "2026-10-28",
+      "url": "https://lbbonline.com/news/tool-signs-director-aaron-ruell",
+      "image_url": "https://d3q27bh1u24u2o.cloudfront.net/resized/1200/news/2026-10/tool.a8F4BOML.png",
       "series": "Série A"
     },
     {
-      "title": "Faça parte da comunidade do RESUMIDO! - RESUMIDO",
-      "original_title": "Faça parte da comunidade do RESUMIDO! - RESUMIDO",
-      "summary": "O RESUMIDO é independente se mantém com o apoio dos ouvintes. Assine e faça parte do grupo de pessoas que garante que o podcast continue existindo.” E o link pro O Futuro do RESUMIDO no final.",
-      "why_it_matters": "Vale observar o que esta publicação revela sobre comportamento e suas implicações para marcas e comunicação.",
-      "category": "Comportamento",
-      "source": "Resumido",
-      "published_date": "2026-10-21",
-      "url": "https://resumido.cc/2026/10/21/faca-parte-da-comunidade-do-resumido/",
-      "image_url": "https://resumido.cc/wp-content/uploads/2025/06/capa-RESUMIDO-1.png",
+      "title": "Pickled Eggs and Bourbon With Valtteri Bottas in Austin - COOL HUNTING®",
+      "original_title": "Pickled Eggs and Bourbon With Valtteri Bottas in Austin - COOL HUNTING®",
+      "summary": "“I was excited when I learned about it, because I’m actually a whiskey guy,” Valtteri Bottas told us of Jim Beam signing on as the Cadillac Formula 1 Team’s spirits partner. We sat down with him in…",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre criatividade e suas implicações para marcas e comunicação.",
+      "category": "Criatividade",
+      "source": "Cool Hunting",
+      "published_date": "2026-10-28",
+      "url": "https://coolhunting.com/food-drink/pickled-eggs-and-bourbon-with-valtteri-bottas-in-austin/",
+      "image_url": "https://coolhunting.com/wp-content/uploads/2026/10/CadillacF1Team_17218_HiRes-scaled.jpg",
       "series": "Série A"
     }
   ]
