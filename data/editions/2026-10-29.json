@@ -1,0 +1,149 @@
+{
+  "edition_date": "2026-10-29",
+  "status": "published",
+  "notice": "Curadoria automática gratuita baseada em RSS e metadados das fontes originais.",
+  "window_start": "2026-10-23",
+  "window_end": "2026-10-29",
+  "edition_name": "Update com Afeto",
+  "editor_letter": "Esta edição reúne 10 histórias publicadas nos últimos sete dias, selecionadas entre as fontes aprovadas da Série A. A curadoria prioriza campanhas, marcas, estratégia, comportamento e cultura digital. Os resumos partem das descrições publicadas pelas próprias fontes; abra os links originais para ler o contexto completo.",
+  "signals": [
+    {
+      "title": "Branding",
+      "description": "4 matéria(s) desta edição exploram branding. Veja como as marcas e a cultura estão se movimentando neste tema.",
+      "category": "SINAL EDITORIAL"
+    },
+    {
+      "title": "Campanhas",
+      "description": "3 matéria(s) desta edição exploram campanhas. Veja como as marcas e a cultura estão se movimentando neste tema.",
+      "category": "SINAL EDITORIAL"
+    },
+    {
+      "title": "Estratégia & negócios",
+      "description": "1 matéria(s) desta edição exploram estratégia & negócios. Veja como as marcas e a cultura estão se movimentando neste tema.",
+      "category": "SINAL EDITORIAL"
+    }
+  ],
+  "lead_url": "https://updateordie.com/2026/10/29/a-espontaneidade-agora-tem-horario-marcado/",
+  "stories": [
+    {
+      "title": "A espontaneidade agora tem horário marcado",
+      "original_title": "A espontaneidade agora tem horário marcado",
+      "summary": "Depois de transformar a vida em espetáculo, as redes sociais descobriram um novo negócio: fazer da intimidade uma obrigação e vender como liberdade aquilo que continua sendo uma rotina de publicação.",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre branding e suas implicações para marcas e comunicação.",
+      "category": "Branding",
+      "source": "Update or Die!",
+      "published_date": "2026-10-29",
+      "url": "https://updateordie.com/2026/10/29/a-espontaneidade-agora-tem-horario-marcado/",
+      "image_url": "https://updateordie.com/wp-content/uploads/2026/10/setlog_001.webp",
+      "series": "Série A"
+    },
+    {
+      "title": "Moda literária: por que as marcas estão se inspirando nos livros? | Fast Company Brasil",
+      "original_title": "Moda literária: por que as marcas estão se inspirando nos livros? | Fast Company Brasil",
+      "summary": "Camisetas, bolsas e coleções inspiradas em livros transformam a leitura em símbolo de identidade, estilo e pertencimento.",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre branding e suas implicações para marcas e comunicação.",
+      "category": "Branding",
+      "source": "Fast Company Brasil",
+      "published_date": "2026-10-29",
+      "url": "https://fastcompanybrasil.com/design/moda-literaria-por-que-as-marcas-estao-se-inspirando-nos-livros/",
+      "image_url": "https://fastcompanybrasil.com/wp-content/uploads/2026/10/moda-literaria.jpg",
+      "series": "Série A"
+    },
+    {
+      "title": "Momentum Appoints Kevin McNulty to Global CEO Role â LBB",
+      "original_title": "Momentum Appoints Kevin McNulty to Global CEO Role â LBB",
+      "summary": "One of Momentum's original employees, KevinÂ McNulty most recently served as global president and chief marketing officer",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre estratégia & negócios e suas implicações para marcas e comunicação.",
+      "category": "Estratégia & negócios",
+      "source": "LBB",
+      "published_date": "2026-10-29",
+      "url": "https://lbbonline.com/news/momentum-appoints-kevin-mcnulty-to-global-ceo-role",
+      "image_url": "https://d3q27bh1u24u2o.cloudfront.net/resized/1200/news/2026-10/KM-1850x1042.V39OtaPH.png",
+      "series": "Série A"
+    },
+    {
+      "title": "Brand valuation: o que é e como calcular o valor da marca",
+      "original_title": "Brand valuation: o que é e como calcular o valor da marca",
+      "summary": "Entenda o que é brand valuation, a diferença para brand equity, as abordagens de cálculo e como usar o valor da marca nas decisões estratégicas do negócio.",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre branding e suas implicações para marcas e comunicação.",
+      "category": "Branding",
+      "source": "Ana Couto",
+      "published_date": "2026-10-27",
+      "url": "https://anacouto.com.br/artigos/2026/10/27/brand-valuation-o-que-e-como-calcular-valor-da-marca/",
+      "image_url": "https://anacouto.com.br/wp-content/uploads/2026/10/cropped-brand-value-artigo-2048x1074.png",
+      "series": "Série A"
+    },
+    {
+      "title": "Hyundai apresenta designers do IONIQ 3 em série",
+      "original_title": "Hyundai apresenta designers do IONIQ 3 em série",
+      "summary": "\"Points of Inspiration\" leva a Amsterdã, Frankfurt e Rüsselsheim para mostrar lugares, materiais e referências que inspiraram o carro. A ideia é tornar o processo criativo parte da campanha \"This is more than freedom\".",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre campanhas e suas implicações para marcas e comunicação.",
+      "category": "Campanhas",
+      "source": "Update or Die!",
+      "published_date": "2026-10-26",
+      "url": "https://updateordie.com/2026/10/26/hyundai-apresenta-designers-do-ioniq-3-em-serie/",
+      "image_url": "https://updateordie.com/wp-content/uploads/2026/10/red-electric-suv-street.webp",
+      "series": "Série A"
+    },
+    {
+      "title": "Com Belo, Uber apresenta funcionalidade Preço Fixo",
+      "original_title": "Com Belo, Uber apresenta funcionalidade Preço Fixo",
+      "summary": "Criada Wieden+Kennedy SP, campanha conta com vídeo estrelado pelo cantor Belo, presença na mídia exterior e no digital",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre campanhas e suas implicações para marcas e comunicação.",
+      "category": "Campanhas",
+      "source": "Meio & Mensagem",
+      "published_date": "2026-10-26",
+      "url": "https://www.meioemensagem.com.br/comunicacao/com-belo-uber-apresenta-funcionalidade-preco-fixo",
+      "image_url": "https://www.meioemensagem.com.br/wp-content/uploads/2026/10/belo-campanha-uber-div.jpg",
+      "series": "Série A"
+    },
+    {
+      "title": "Dança das Contas: Localiza, Graal e outros",
+      "original_title": "Dança das Contas: Localiza, Graal e outros",
+      "summary": "AlmapBBDO vence concorrência por marca de carro, enquanto, FourHands será agência da rede de restaurantes",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre branding e suas implicações para marcas e comunicação.",
+      "category": "Branding",
+      "source": "Meio & Mensagem",
+      "published_date": "2026-10-26",
+      "url": "https://www.meioemensagem.com.br/comunicacao/danca-das-contas-localiza-graal-e-outros",
+      "image_url": "https://www.meioemensagem.com.br/wp-content/uploads/2026/10/localiza-cred-reproducao-instagram-1280x852-1.jpg",
+      "series": "Série A"
+    },
+    {
+      "title": "BTS no Brasil: como o turismo de fandom movimenta milhões",
+      "original_title": "BTS no Brasil: como o turismo de fandom movimenta milhões",
+      "summary": "A passagem do BTS por São Paulo mostra como o turismo de fandom movimenta hotéis, transporte, gastronomia e o consumo de fãs.",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre comportamento e suas implicações para marcas e comunicação.",
+      "category": "Comportamento",
+      "source": "Fast Company Brasil",
+      "published_date": "2026-10-29",
+      "url": "https://fastcompanybrasil.com/money/bts-brasil-turismo-fandom/",
+      "image_url": "https://fastcompanybrasil.com/wp-content/uploads/2026/10/bts-turismo-fandom-viagens.jpg",
+      "series": "Série A"
+    },
+    {
+      "title": "Joel Simon: âGreat Creativity Requires Talent. Immortal Creativity Requires Courageâ â LBB",
+      "original_title": "Joel Simon: âGreat Creativity Requires Talent. Immortal Creativity Requires Courageâ â LBB",
+      "summary": "JSM Musicâs founder, chief creative officer and Immortal Awards juror speaks to LBB about his longtime support for the competition, and the âextraordinary responsibilityâ of shaping advertising history",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre campanhas e suas implicações para marcas e comunicação.",
+      "category": "Campanhas",
+      "source": "LBB",
+      "published_date": "2026-10-29",
+      "url": "https://lbbonline.com/news/Joel-Simon-JSM-Music-Immortal-Awards",
+      "image_url": "https://d3q27bh1u24u2o.cloudfront.net/resized/1200/news_hero/2026-10/2026-immortal-jury-story-graphic-8.Y275GoXy.png",
+      "series": "Série A"
+    },
+    {
+      "title": "The Truth Arrives in Nashville - COOL HUNTING®",
+      "original_title": "The Truth Arrives in Nashville - COOL HUNTING®",
+      "summary": "Nearly 24/7, and certainly 365 days a year, you can go hear live music in Nashville. The venue might be one of Lower Broadway’s famous honky-tonks, a dive bar in East Nashville or Bridgestone…",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre criatividade e suas implicações para marcas e comunicação.",
+      "category": "Criatividade",
+      "source": "Cool Hunting",
+      "published_date": "2026-10-29",
+      "url": "https://coolhunting.com/design/the-truth-arrives-in-nashville/",
+      "image_url": "https://coolhunting.com/wp-content/uploads/2026/10/The_Truth_Exterior.jpg",
+      "series": "Série A"
+    }
+  ]
+}
