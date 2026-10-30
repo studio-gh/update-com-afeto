@@ -1,0 +1,149 @@
+{
+  "edition_date": "2026-10-30",
+  "status": "published",
+  "notice": "Curadoria automática gratuita baseada em RSS e metadados das fontes originais.",
+  "window_start": "2026-10-24",
+  "window_end": "2026-10-30",
+  "edition_name": "Update com Afeto",
+  "editor_letter": "Esta edição reúne 10 histórias publicadas nos últimos sete dias, selecionadas entre as fontes aprovadas da Série A. A curadoria prioriza campanhas, marcas, estratégia, comportamento e cultura digital. Os resumos partem das descrições publicadas pelas próprias fontes; abra os links originais para ler o contexto completo.",
+  "signals": [
+    {
+      "title": "Branding",
+      "description": "4 matéria(s) desta edição exploram branding. Veja como as marcas e a cultura estão se movimentando neste tema.",
+      "category": "SINAL EDITORIAL"
+    },
+    {
+      "title": "Campanhas",
+      "description": "3 matéria(s) desta edição exploram campanhas. Veja como as marcas e a cultura estão se movimentando neste tema.",
+      "category": "SINAL EDITORIAL"
+    },
+    {
+      "title": "Cultura digital",
+      "description": "2 matéria(s) desta edição exploram cultura digital. Veja como as marcas e a cultura estão se movimentando neste tema.",
+      "category": "SINAL EDITORIAL"
+    }
+  ],
+  "lead_url": "https://updateordie.com/2026/10/29/a-espontaneidade-agora-tem-horario-marcado/",
+  "stories": [
+    {
+      "title": "Baygon faz baratas temerem baratas no Halloween",
+      "original_title": "Baygon faz baratas temerem baratas no Halloween",
+      "summary": "Campanha da Ogilvy Brasil para a marca da SC Johnson inverte a lógica do terror e coloca o inseticida como causador do pavor, em um curta musical inspirado em \"A Baratinha\".",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre campanhas e suas implicações para marcas e comunicação.",
+      "category": "Campanhas",
+      "source": "Update or Die!",
+      "published_date": "2026-10-30",
+      "url": "https://updateordie.com/2026/10/30/baygon-faz-baratas-temerem-baratas-no-halloween/",
+      "image_url": "https://updateordie.com/wp-content/uploads/2026/10/maxresdefault-63.jpg",
+      "series": "Série A"
+    },
+    {
+      "title": "Fiat apresenta microcarro elétrico de quatro lugares inspirado em modelo dos anos 1950 | Fast Company Brasil",
+      "original_title": "Fiat apresenta microcarro elétrico de quatro lugares inspirado em modelo dos anos 1950 | Fast Company Brasil",
+      "summary": "Novo conceito da Fiat tem carroceria compacta, espaço para quatro ocupantes e inspiração em um modelo histórico da marca.",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre branding e suas implicações para marcas e comunicação.",
+      "category": "Branding",
+      "source": "Fast Company Brasil",
+      "published_date": "2026-10-30",
+      "url": "https://fastcompanybrasil.com/design/fiat-apresenta-microcarro-eletrico-quatro-lugares-inspirado-modelo-anos-1950/",
+      "image_url": "https://fastcompanybrasil.com/wp-content/uploads/2026/10/multiplina-fiat-1.jpg",
+      "series": "Série A"
+    },
+    {
+      "title": "A espontaneidade agora tem horário marcado",
+      "original_title": "A espontaneidade agora tem horário marcado",
+      "summary": "Depois de transformar a vida em espetáculo, as redes sociais descobriram um novo negócio: fazer da intimidade uma obrigação e vender como liberdade aquilo que continua sendo uma rotina de publicação.",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre branding e suas implicações para marcas e comunicação.",
+      "category": "Branding",
+      "source": "Update or Die!",
+      "published_date": "2026-10-29",
+      "url": "https://updateordie.com/2026/10/29/a-espontaneidade-agora-tem-horario-marcado/",
+      "image_url": "https://updateordie.com/wp-content/uploads/2026/10/setlog_001.webp",
+      "series": "Série A"
+    },
+    {
+      "title": "Brand valuation: o que é e como calcular o valor da marca",
+      "original_title": "Brand valuation: o que é e como calcular o valor da marca",
+      "summary": "Entenda o que é brand valuation, a diferença para brand equity, as abordagens de cálculo e como usar o valor da marca nas decisões estratégicas do negócio.",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre branding e suas implicações para marcas e comunicação.",
+      "category": "Branding",
+      "source": "Ana Couto",
+      "published_date": "2026-10-27",
+      "url": "https://anacouto.com.br/artigos/2026/10/27/brand-valuation-o-que-e-como-calcular-valor-da-marca/",
+      "image_url": "https://anacouto.com.br/wp-content/uploads/2026/10/cropped-brand-value-artigo-2048x1074.png",
+      "series": "Série A"
+    },
+    {
+      "title": "Com Belo, Uber apresenta funcionalidade Preço Fixo",
+      "original_title": "Com Belo, Uber apresenta funcionalidade Preço Fixo",
+      "summary": "Criada Wieden+Kennedy SP, campanha conta com vídeo estrelado pelo cantor Belo, presença na mídia exterior e no digital",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre campanhas e suas implicações para marcas e comunicação.",
+      "category": "Campanhas",
+      "source": "Meio & Mensagem",
+      "published_date": "2026-10-26",
+      "url": "https://www.meioemensagem.com.br/comunicacao/com-belo-uber-apresenta-funcionalidade-preco-fixo",
+      "image_url": "https://www.meioemensagem.com.br/wp-content/uploads/2026/10/belo-campanha-uber-div.jpg",
+      "series": "Série A"
+    },
+    {
+      "title": "Dança das Contas: Localiza, Graal e outros",
+      "original_title": "Dança das Contas: Localiza, Graal e outros",
+      "summary": "AlmapBBDO vence concorrência por marca de carro, enquanto, FourHands será agência da rede de restaurantes",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre branding e suas implicações para marcas e comunicação.",
+      "category": "Branding",
+      "source": "Meio & Mensagem",
+      "published_date": "2026-10-26",
+      "url": "https://www.meioemensagem.com.br/comunicacao/danca-das-contas-localiza-graal-e-outros",
+      "image_url": "https://www.meioemensagem.com.br/wp-content/uploads/2026/10/localiza-cred-reproducao-instagram-1280x852-1.jpg",
+      "series": "Série A"
+    },
+    {
+      "title": "Creepypastas: como histórias assustadoras viraram lendas urbanas da internet? | Fast Company Brasil",
+      "original_title": "Creepypastas: como histórias assustadoras viraram lendas urbanas da internet? | Fast Company Brasil",
+      "summary": "Entenda a origem das creepypastas e por que relatos de terror compartilhados na web continuam despertando curiosidade.",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre cultura digital e suas implicações para marcas e comunicação.",
+      "category": "Cultura digital",
+      "source": "Fast Company Brasil",
+      "published_date": "2026-10-30",
+      "url": "https://fastcompanybrasil.com/tech/creepypastas-como-historias-assustadoras-viraram-lendas-urbanas-internet/",
+      "image_url": "https://fastcompanybrasil.com/wp-content/uploads/2026/10/creepypasta-lendas.jpg",
+      "series": "Série A"
+    },
+    {
+      "title": "Archer Expands PR Services, Names Anna Wilgan Director of Public Relations â LBB",
+      "original_title": "Archer Expands PR Services, Names Anna Wilgan Director of Public Relations â LBB",
+      "summary": "Agency clients will benefit from enhanced earned media expertise to extend the reach and impact of brand campaigns",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre campanhas e suas implicações para marcas e comunicação.",
+      "category": "Campanhas",
+      "source": "LBB",
+      "published_date": "2026-10-30",
+      "url": "https://lbbonline.com/news/archer-expands-pr-services-names-anna-wilgan-director-of-public-relations",
+      "image_url": "https://d3q27bh1u24u2o.cloudfront.net/resized/1200/news/2026-10/archer.7l1wDTFW.png",
+      "series": "Série A"
+    },
+    {
+      "title": "What Haunted Ads Taught Me About the Future of Creator Marketing â LBB",
+      "original_title": "What Haunted Ads Taught Me About the Future of Creator Marketing â LBB",
+      "summary": "Smarter targeting is expanding the potential of creator marketing, explains Steve Parker of PrettyGreen",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre cultura digital e suas implicações para marcas e comunicação.",
+      "category": "Cultura digital",
+      "source": "LBB",
+      "published_date": "2026-10-30",
+      "url": "https://lbbonline.com/news/what-haunted-ads-taught-me-about-the-future-of-creator-marketing",
+      "image_url": "https://d3q27bh1u24u2o.cloudfront.net/resized/1200/news/2026-10/Steve-Parker-Incoming-Managing-Partner-Social-Influencer-PrettyGreen-copy.0dYYxjmE.jpg",
+      "series": "Série A"
+    },
+    {
+      "title": "The Thread That Runs Through Peru - COOL HUNTING®",
+      "original_title": "The Thread That Runs Through Peru - COOL HUNTING®",
+      "summary": "We recently traveled to the magical land of Peru, where nature is immersed with the country’s history, lively culture, local food offerings and ancestral traditions. Our route explored four p…",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre criatividade e suas implicações para marcas e comunicação.",
+      "category": "Criatividade",
+      "source": "Cool Hunting",
+      "published_date": "2026-10-30",
+      "url": "https://coolhunting.com/travel/the-thread-that-runs-through-peru/",
+      "image_url": "https://coolhunting.com/wp-content/uploads/2026/10/Tambo-del-Inka-Aerial-1-scaled.jpg",
+      "series": "Série A"
+    }
+  ]
+}
