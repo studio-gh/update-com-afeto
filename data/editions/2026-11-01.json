@@ -1,0 +1,149 @@
+{
+  "edition_date": "2026-11-01",
+  "status": "published",
+  "notice": "Curadoria automática gratuita baseada em RSS e metadados das fontes originais.",
+  "window_start": "2026-10-26",
+  "window_end": "2026-11-01",
+  "edition_name": "Update com Afeto",
+  "editor_letter": "Esta edição reúne 10 histórias publicadas nos últimos sete dias, selecionadas entre as fontes aprovadas da Série A. A curadoria prioriza campanhas, marcas, estratégia, comportamento e cultura digital. Os resumos partem das descrições publicadas pelas próprias fontes; abra os links originais para ler o contexto completo.",
+  "signals": [
+    {
+      "title": "Campanhas",
+      "description": "5 matéria(s) desta edição exploram campanhas. Veja como as marcas e a cultura estão se movimentando neste tema.",
+      "category": "SINAL EDITORIAL"
+    },
+    {
+      "title": "Branding",
+      "description": "2 matéria(s) desta edição exploram branding. Veja como as marcas e a cultura estão se movimentando neste tema.",
+      "category": "SINAL EDITORIAL"
+    },
+    {
+      "title": "Criatividade",
+      "description": "2 matéria(s) desta edição exploram criatividade. Veja como as marcas e a cultura estão se movimentando neste tema.",
+      "category": "SINAL EDITORIAL"
+    }
+  ],
+  "lead_url": "https://www.meioemensagem.com.br/comunicacao/outubro-rosa-agencias-analisam-abordagem-em-torno-da-causa",
+  "stories": [
+    {
+      "title": "Vai Canvar o que hoje?",
+      "original_title": "Vai Canvar o que hoje?",
+      "summary": "Criada pela Goodby Silverstein & Partners para EUA e Canadá, a campanha troca o \"design\" pelo próprio nome da marca e tenta fazer do Canva o atalho para qualquer criação.",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre campanhas e suas implicações para marcas e comunicação.",
+      "category": "Campanhas",
+      "source": "Update or Die!",
+      "published_date": "2026-10-30",
+      "url": "https://updateordie.com/2026/10/30/vai-canvar-o-que-hoje/",
+      "image_url": "https://updateordie.com/wp-content/uploads/2026/10/canva_billboard_advertisement.webp",
+      "series": "Série A"
+    },
+    {
+      "title": "Baygon faz baratas temerem baratas no Halloween",
+      "original_title": "Baygon faz baratas temerem baratas no Halloween",
+      "summary": "Campanha da Ogilvy Brasil para a marca da SC Johnson inverte a lógica do terror e coloca o inseticida como causador do pavor, em um curta musical inspirado em \"A Baratinha\".",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre campanhas e suas implicações para marcas e comunicação.",
+      "category": "Campanhas",
+      "source": "Update or Die!",
+      "published_date": "2026-10-30",
+      "url": "https://updateordie.com/2026/10/30/baygon-faz-baratas-temerem-baratas-no-halloween/",
+      "image_url": "https://updateordie.com/wp-content/uploads/2026/10/maxresdefault-63.jpg",
+      "series": "Série A"
+    },
+    {
+      "title": "Outubro Rosa: o papel das agências e das marcas",
+      "original_title": "Outubro Rosa: o papel das agências e das marcas",
+      "summary": "Como agências e marcas usam criatividade para transformar comunicação em acesso, exames e acolhimento real",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre branding e suas implicações para marcas e comunicação.",
+      "category": "Branding",
+      "source": "Meio & Mensagem",
+      "published_date": "2026-10-30",
+      "url": "https://www.meioemensagem.com.br/comunicacao/outubro-rosa-agencias-analisam-abordagem-em-torno-da-causa",
+      "image_url": "https://www.meioemensagem.com.br/wp-content/uploads/2026/10/outubro-rosa-cred-jhorna-adobestock-2149217160-1280x852-1.jpg",
+      "series": "Série A"
+    },
+    {
+      "title": "OMO convida consumidor para conversa sobre performance",
+      "original_title": "OMO convida consumidor para conversa sobre performance",
+      "summary": "Campanha leva o conceito “Entrega muito e custa menos” e traz o público para falar de custo-benefício",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre campanhas e suas implicações para marcas e comunicação.",
+      "category": "Campanhas",
+      "source": "Meio & Mensagem",
+      "published_date": "2026-10-30",
+      "url": "https://www.meioemensagem.com.br/comunicacao/omo-convida-consumidor-para-conversa-sobre-performance",
+      "image_url": "https://www.meioemensagem.com.br/wp-content/uploads/2026/10/Novo-OMO-Todo-Ciclo_cred_rep_YouTube_SITE-1280X852.jpg",
+      "series": "Série A"
+    },
+    {
+      "title": "Brand valuation: o que é e como calcular o valor da marca",
+      "original_title": "Brand valuation: o que é e como calcular o valor da marca",
+      "summary": "Entenda o que é brand valuation, a diferença para brand equity, as abordagens de cálculo e como usar o valor da marca nas decisões estratégicas do negócio.",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre branding e suas implicações para marcas e comunicação.",
+      "category": "Branding",
+      "source": "Ana Couto",
+      "published_date": "2026-10-27",
+      "url": "https://anacouto.com.br/artigos/2026/10/27/brand-valuation-o-que-e-como-calcular-valor-da-marca/",
+      "image_url": "https://anacouto.com.br/wp-content/uploads/2026/10/cropped-brand-value-artigo-2048x1074.png",
+      "series": "Série A"
+    },
+    {
+      "title": "Airbnb quer oferecer 1 milhão de diárias gratuitas por ano | Fast Company Brasil",
+      "original_title": "Airbnb quer oferecer 1 milhão de diárias gratuitas por ano | Fast Company Brasil",
+      "summary": "Empresa prevê investir US$ 500 milhões em cinco anos para ampliar programa que oferece moradia emergencial a pessoas em situação de crise.",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre estratégia & negócios e suas implicações para marcas e comunicação.",
+      "category": "Estratégia & negócios",
+      "source": "Fast Company Brasil",
+      "published_date": "2026-11-01",
+      "url": "https://fastcompanybrasil.com/impacto/airbnb-quer-oferecer-1-milhao-de-diarias-gratuitas-por-ano-a-vitimas-de-desastres/",
+      "image_url": "https://fastcompanybrasil.com/wp-content/uploads/2026/10/hospedagem_parentalidade_criancas.jpg",
+      "series": "Série A"
+    },
+    {
+      "title": "The Strategic Craft of Advertising with Felipe Lima â LBB",
+      "original_title": "The Strategic Craft of Advertising with Felipe Lima â LBB",
+      "summary": "The creative director of Ways & Means on the small conversations that create memorable work, growing up surrounded by art, and pushing creative boundaries as part of LBBâs Creativity Squared series",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre campanhas e suas implicações para marcas e comunicação.",
+      "category": "Campanhas",
+      "source": "LBB",
+      "published_date": "2026-10-30",
+      "url": "https://lbbonline.com/news/the-strategic-craft-of-advertising-with-felipe-lima",
+      "image_url": "https://d3q27bh1u24u2o.cloudfront.net/resized/1200/news/2026-10/felipe-lima-waysandmeans.gJDn2AVX.png",
+      "series": "Série A"
+    },
+    {
+      "title": "Class Is in Session at Targetâs Academy of Giftology â LBB",
+      "original_title": "Class Is in Session at Targetâs Academy of Giftology â LBB",
+      "summary": "Created by Mythology and directed by 'Hacks' co-creator Lucia Aniello, the holiday campaign sees DâArcy Carden and a cast of familiar faces teach shoppers the art of gifting",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre campanhas e suas implicações para marcas e comunicação.",
+      "category": "Campanhas",
+      "source": "LBB",
+      "published_date": "2026-10-30",
+      "url": "https://lbbonline.com/news/target-holiday-gifts-christmas-emmy-college-new-york",
+      "image_url": "https://d3q27bh1u24u2o.cloudfront.net/resized/1200/news_hero/2026-10/behind-the-work-1.7pK8-tjd.png",
+      "series": "Série A"
+    },
+    {
+      "title": "O VAR está estragando o futebol? Ex-jogador acredita que sim | Fast Company Brasil",
+      "original_title": "O VAR está estragando o futebol? Ex-jogador acredita que sim | Fast Company Brasil",
+      "summary": "Ao substituir a emoção imediata pela análise de imagens, a tecnologia pode estar comprometendo a essência do esporte.",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre criatividade e suas implicações para marcas e comunicação.",
+      "category": "Criatividade",
+      "source": "Fast Company Brasil",
+      "published_date": "2026-11-01",
+      "url": "https://fastcompanybrasil.com/tech/o-var-esta-estragando-o-futebol-ex-jogador-acredita-que-sim/",
+      "image_url": "https://fastcompanybrasil.com/wp-content/uploads/2026/10/futebol_gol_VAR.jpg",
+      "series": "Série A"
+    },
+    {
+      "title": "The Thread That Runs Through Peru - COOL HUNTING®",
+      "original_title": "The Thread That Runs Through Peru - COOL HUNTING®",
+      "summary": "We recently traveled to the magical land of Peru, where nature is immersed with the country’s history, lively culture, local food offerings and ancestral traditions. Our route explored four p…",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre criatividade e suas implicações para marcas e comunicação.",
+      "category": "Criatividade",
+      "source": "Cool Hunting",
+      "published_date": "2026-10-30",
+      "url": "https://coolhunting.com/travel/the-thread-that-runs-through-peru/",
+      "image_url": "https://coolhunting.com/wp-content/uploads/2026/10/Tambo-del-Inka-Aerial-1-scaled.jpg",
+      "series": "Série A"
+    }
+  ]
+}

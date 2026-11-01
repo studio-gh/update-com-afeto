@@ -1,9 +1,9 @@
 {
-  "edition_date": "2026-10-31",
+  "edition_date": "2026-11-01",
   "status": "published",
   "notice": "Curadoria automática gratuita baseada em RSS e metadados das fontes originais.",
-  "window_start": "2026-10-25",
-  "window_end": "2026-10-31",
+  "window_start": "2026-10-26",
+  "window_end": "2026-11-01",
   "edition_name": "Update com Afeto",
   "editor_letter": "Esta edição reúne 10 histórias publicadas nos últimos sete dias, selecionadas entre as fontes aprovadas da Série A. A curadoria prioriza campanhas, marcas, estratégia, comportamento e cultura digital. Os resumos partem das descrições publicadas pelas próprias fontes; abra os links originais para ler o contexto completo.",
   "signals": [
@@ -18,8 +18,8 @@
       "category": "SINAL EDITORIAL"
     },
     {
-      "title": "Cultura digital",
-      "description": "1 matéria(s) desta edição exploram cultura digital. Veja como as marcas e a cultura estão se movimentando neste tema.",
+      "title": "Criatividade",
+      "description": "2 matéria(s) desta edição exploram criatividade. Veja como as marcas e a cultura estão se movimentando neste tema.",
       "category": "SINAL EDITORIAL"
     }
   ],
@@ -86,27 +86,15 @@
       "series": "Série A"
     },
     {
-      "title": "5 lendas urbanas da internet para conhecer (e temer) neste Halloween | Fast Company Brasil",
-      "original_title": "5 lendas urbanas da internet para conhecer (e temer) neste Halloween | Fast Company Brasil",
-      "summary": "Neste Halloween, descubra as origens de cinco personagens e histórias que assustaram usuários da internet. Veja na íntegra.",
-      "why_it_matters": "Vale observar o que esta publicação revela sobre cultura digital e suas implicações para marcas e comunicação.",
-      "category": "Cultura digital",
-      "source": "Fast Company Brasil",
-      "published_date": "2026-10-31",
-      "url": "https://fastcompanybrasil.com/tech/5-lendas-urbanas-internet-para-conhecer-temer-neste-halloween/",
-      "image_url": "https://fastcompanybrasil.com/wp-content/uploads/2026/10/lendas-halloween.jpg",
-      "series": "Série A"
-    },
-    {
-      "title": "Ozempic muda hábitos de consumo e afeta negócios no Brasil",
-      "original_title": "Ozempic muda hábitos de consumo e afeta negócios no Brasil",
-      "summary": "Ozempic e outros medicamentos GLP-1 mudam hábitos de consumo, de roupas a alimentos. Veja os números e os impactos da tendência no Brasil.",
+      "title": "Airbnb quer oferecer 1 milhão de diárias gratuitas por ano | Fast Company Brasil",
+      "original_title": "Airbnb quer oferecer 1 milhão de diárias gratuitas por ano | Fast Company Brasil",
+      "summary": "Empresa prevê investir US$ 500 milhões em cinco anos para ampliar programa que oferece moradia emergencial a pessoas em situação de crise.",
       "why_it_matters": "Vale observar o que esta publicação revela sobre estratégia & negócios e suas implicações para marcas e comunicação.",
       "category": "Estratégia & negócios",
       "source": "Fast Company Brasil",
-      "published_date": "2026-10-30",
-      "url": "https://fastcompanybrasil.com/money/ozempic-muda-habitos-consumo-brasil/",
-      "image_url": "https://fastcompanybrasil.com/wp-content/uploads/2026/10/ozempic-glp1-mudancas-habitos-consumo.jpg",
+      "published_date": "2026-11-01",
+      "url": "https://fastcompanybrasil.com/impacto/airbnb-quer-oferecer-1-milhao-de-diarias-gratuitas-por-ano-a-vitimas-de-desastres/",
+      "image_url": "https://fastcompanybrasil.com/wp-content/uploads/2026/10/hospedagem_parentalidade_criancas.jpg",
       "series": "Série A"
     },
     {
@@ -131,6 +119,18 @@
       "published_date": "2026-10-30",
       "url": "https://lbbonline.com/news/target-holiday-gifts-christmas-emmy-college-new-york",
       "image_url": "https://d3q27bh1u24u2o.cloudfront.net/resized/1200/news_hero/2026-10/behind-the-work-1.7pK8-tjd.png",
+      "series": "Série A"
+    },
+    {
+      "title": "O VAR está estragando o futebol? Ex-jogador acredita que sim | Fast Company Brasil",
+      "original_title": "O VAR está estragando o futebol? Ex-jogador acredita que sim | Fast Company Brasil",
+      "summary": "Ao substituir a emoção imediata pela análise de imagens, a tecnologia pode estar comprometendo a essência do esporte.",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre criatividade e suas implicações para marcas e comunicação.",
+      "category": "Criatividade",
+      "source": "Fast Company Brasil",
+      "published_date": "2026-11-01",
+      "url": "https://fastcompanybrasil.com/tech/o-var-esta-estragando-o-futebol-ex-jogador-acredita-que-sim/",
+      "image_url": "https://fastcompanybrasil.com/wp-content/uploads/2026/10/futebol_gol_VAR.jpg",
       "series": "Série A"
     },
     {
