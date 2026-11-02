@@ -1,0 +1,149 @@
+{
+  "edition_date": "2026-11-02",
+  "status": "published",
+  "notice": "Curadoria automática gratuita baseada em RSS e metadados das fontes originais.",
+  "window_start": "2026-10-27",
+  "window_end": "2026-11-02",
+  "edition_name": "Update com Afeto",
+  "editor_letter": "Esta edição reúne 10 histórias publicadas nos últimos sete dias, selecionadas entre as fontes aprovadas da Série A. A curadoria prioriza campanhas, marcas, estratégia, comportamento e cultura digital. Os resumos partem das descrições publicadas pelas próprias fontes; abra os links originais para ler o contexto completo.",
+  "signals": [
+    {
+      "title": "Campanhas",
+      "description": "4 matéria(s) desta edição exploram campanhas. Veja como as marcas e a cultura estão se movimentando neste tema.",
+      "category": "SINAL EDITORIAL"
+    },
+    {
+      "title": "Branding",
+      "description": "3 matéria(s) desta edição exploram branding. Veja como as marcas e a cultura estão se movimentando neste tema.",
+      "category": "SINAL EDITORIAL"
+    },
+    {
+      "title": "Experiência de marca",
+      "description": "1 matéria(s) desta edição exploram experiência de marca. Veja como as marcas e a cultura estão se movimentando neste tema.",
+      "category": "SINAL EDITORIAL"
+    }
+  ],
+  "lead_url": "https://www.meioemensagem.com.br/comunicacao/outubro-rosa-agencias-analisam-abordagem-em-torno-da-causa",
+  "stories": [
+    {
+      "title": "Vai Canvar o que hoje?",
+      "original_title": "Vai Canvar o que hoje?",
+      "summary": "Criada pela Goodby Silverstein & Partners para EUA e Canadá, a campanha troca o \"design\" pelo próprio nome da marca e tenta fazer do Canva o atalho para qualquer criação.",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre campanhas e suas implicações para marcas e comunicação.",
+      "category": "Campanhas",
+      "source": "Update or Die!",
+      "published_date": "2026-10-30",
+      "url": "https://updateordie.com/2026/10/30/vai-canvar-o-que-hoje/",
+      "image_url": "https://updateordie.com/wp-content/uploads/2026/10/canva_billboard_advertisement.webp",
+      "series": "Série A"
+    },
+    {
+      "title": "Baygon faz baratas temerem baratas no Halloween",
+      "original_title": "Baygon faz baratas temerem baratas no Halloween",
+      "summary": "Campanha da Ogilvy Brasil para a marca da SC Johnson inverte a lógica do terror e coloca o inseticida como causador do pavor, em um curta musical inspirado em \"A Baratinha\".",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre campanhas e suas implicações para marcas e comunicação.",
+      "category": "Campanhas",
+      "source": "Update or Die!",
+      "published_date": "2026-10-30",
+      "url": "https://updateordie.com/2026/10/30/baygon-faz-baratas-temerem-baratas-no-halloween/",
+      "image_url": "https://updateordie.com/wp-content/uploads/2026/10/maxresdefault-63.jpg",
+      "series": "Série A"
+    },
+    {
+      "title": "Outubro Rosa: o papel das agências e das marcas",
+      "original_title": "Outubro Rosa: o papel das agências e das marcas",
+      "summary": "Como agências e marcas usam criatividade para transformar comunicação em acesso, exames e acolhimento real",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre branding e suas implicações para marcas e comunicação.",
+      "category": "Branding",
+      "source": "Meio & Mensagem",
+      "published_date": "2026-10-30",
+      "url": "https://www.meioemensagem.com.br/comunicacao/outubro-rosa-agencias-analisam-abordagem-em-torno-da-causa",
+      "image_url": "https://www.meioemensagem.com.br/wp-content/uploads/2026/10/outubro-rosa-cred-jhorna-adobestock-2149217160-1280x852-1.jpg",
+      "series": "Série A"
+    },
+    {
+      "title": "OMO convida consumidor para conversa sobre performance",
+      "original_title": "OMO convida consumidor para conversa sobre performance",
+      "summary": "Campanha leva o conceito “Entrega muito e custa menos” e traz o público para falar de custo-benefício",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre campanhas e suas implicações para marcas e comunicação.",
+      "category": "Campanhas",
+      "source": "Meio & Mensagem",
+      "published_date": "2026-10-30",
+      "url": "https://www.meioemensagem.com.br/comunicacao/omo-convida-consumidor-para-conversa-sobre-performance",
+      "image_url": "https://www.meioemensagem.com.br/wp-content/uploads/2026/10/Novo-OMO-Todo-Ciclo_cred_rep_YouTube_SITE-1280X852.jpg",
+      "series": "Série A"
+    },
+    {
+      "title": "Dia de Finados: conheça os diferentes tipos de luto e como eles se manifestam | Fast Company Brasil",
+      "original_title": "Dia de Finados: conheça os diferentes tipos de luto e como eles se manifestam | Fast Company Brasil",
+      "summary": "Cada pessoa reage de uma maneira à perda, e conhecer os diferentes tipos de luto ajuda a compreender essas experiências.",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre experiência de marca e suas implicações para marcas e comunicação.",
+      "category": "Experiência de marca",
+      "source": "Fast Company Brasil",
+      "published_date": "2026-11-02",
+      "url": "https://fastcompanybrasil.com/worklife/bem-estar/dia-de-finados-conheca-diferentes-tipos-luto-como-eles-se-manifestam/",
+      "image_url": "https://fastcompanybrasil.com/wp-content/uploads/2026/10/dia-finados-luto.jpg",
+      "series": "Série A"
+    },
+    {
+      "title": "Brand valuation: o que é e como calcular o valor da marca",
+      "original_title": "Brand valuation: o que é e como calcular o valor da marca",
+      "summary": "Entenda o que é brand valuation, a diferença para brand equity, as abordagens de cálculo e como usar o valor da marca nas decisões estratégicas do negócio.",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre branding e suas implicações para marcas e comunicação.",
+      "category": "Branding",
+      "source": "Ana Couto",
+      "published_date": "2026-10-27",
+      "url": "https://anacouto.com.br/artigos/2026/10/27/brand-valuation-o-que-e-como-calcular-valor-da-marca/",
+      "image_url": "https://anacouto.com.br/wp-content/uploads/2026/10/cropped-brand-value-artigo-2048x1074.png",
+      "series": "Série A"
+    },
+    {
+      "title": "Como a leitura de ficção pode transformar a forma como lidamos com outras pessoas? | Fast Company Brasil",
+      "original_title": "Como a leitura de ficção pode transformar a forma como lidamos com outras pessoas? | Fast Company Brasil",
+      "summary": "A ficção pode ir além do entretenimento e influenciar a maneira como leitores interpretam conflitos e pedidos de desculpas.",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre comportamento e suas implicações para marcas e comunicação.",
+      "category": "Comportamento",
+      "source": "Fast Company Brasil",
+      "published_date": "2026-11-02",
+      "url": "https://fastcompanybrasil.com/worklife/bem-estar/como-leitura-ficcao-pode-transformar-forma-como-lidamos-com-outras-pessoas/",
+      "image_url": "https://fastcompanybrasil.com/wp-content/uploads/2026/10/ficcao-empatia.jpg",
+      "series": "Série A"
+    },
+    {
+      "title": "Onassis Foundation Looks Beyond the Obvious with 50th Anniversary Campaign â LBB",
+      "original_title": "Onassis Foundation Looks Beyond the Obvious with 50th Anniversary Campaign â LBB",
+      "summary": "Ogilvy Greece uses unexpected visual pairings to highlight the interconnected worlds of culture, health and education across the Foundation",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre campanhas e suas implicações para marcas e comunicação.",
+      "category": "Campanhas",
+      "source": "LBB",
+      "published_date": "2026-11-02",
+      "url": "https://lbbonline.com/news/onassis-foundation-50th-anniversary-campaign",
+      "image_url": "https://d3q27bh1u24u2o.cloudfront.net/resized/1200/news/2026-11/onassis-foundation.WdK0Vl9H.png",
+      "series": "Série A"
+    },
+    {
+      "title": "Makemake Signs Editor Tobias Suhm â LBB",
+      "original_title": "Makemake Signs Editor Tobias Suhm â LBB",
+      "summary": "Tobias Suhm has worked with brands including Google, Netflix, Nike, Coca-Cola, Xbox, Mercedes-Benz, Disney, and Gucci",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre branding e suas implicações para marcas e comunicação.",
+      "category": "Branding",
+      "source": "LBB",
+      "published_date": "2026-11-02",
+      "url": "https://lbbonline.com/news/makemake-signs-editor-tobias-suhm",
+      "image_url": "https://d3q27bh1u24u2o.cloudfront.net/resized/1200/news/2026-11/makemake.xQD4_pcb.png",
+      "series": "Série A"
+    },
+    {
+      "title": "The Bridge “X” Marks 10 Years On The Car Show Scene - COOL HUNTING®",
+      "original_title": "The Bridge “X” Marks 10 Years On The Car Show Scene - COOL HUNTING®",
+      "summary": "Since watching the sun slip beyond Peconic Bay last year at the ninth The Bridge, we’ve been looking forward to this year, it’s 10th edition. It’s rare to be excited to return to …",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre criatividade e suas implicações para marcas e comunicação.",
+      "category": "Criatividade",
+      "source": "Cool Hunting",
+      "published_date": "2026-11-02",
+      "url": "https://coolhunting.com/culture/the-bridge-x-marks-10-years-on-the-car-show-scene/",
+      "image_url": "https://coolhunting.com/wp-content/uploads/2026/11/L1030843-scaled.jpg",
+      "series": "Série A"
+    }
+  ]
+}

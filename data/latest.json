@@ -1,25 +1,25 @@
 {
-  "edition_date": "2026-11-01",
+  "edition_date": "2026-11-02",
   "status": "published",
   "notice": "Curadoria automática gratuita baseada em RSS e metadados das fontes originais.",
-  "window_start": "2026-10-26",
-  "window_end": "2026-11-01",
+  "window_start": "2026-10-27",
+  "window_end": "2026-11-02",
   "edition_name": "Update com Afeto",
   "editor_letter": "Esta edição reúne 10 histórias publicadas nos últimos sete dias, selecionadas entre as fontes aprovadas da Série A. A curadoria prioriza campanhas, marcas, estratégia, comportamento e cultura digital. Os resumos partem das descrições publicadas pelas próprias fontes; abra os links originais para ler o contexto completo.",
   "signals": [
     {
       "title": "Campanhas",
-      "description": "5 matéria(s) desta edição exploram campanhas. Veja como as marcas e a cultura estão se movimentando neste tema.",
+      "description": "4 matéria(s) desta edição exploram campanhas. Veja como as marcas e a cultura estão se movimentando neste tema.",
       "category": "SINAL EDITORIAL"
     },
     {
       "title": "Branding",
-      "description": "2 matéria(s) desta edição exploram branding. Veja como as marcas e a cultura estão se movimentando neste tema.",
+      "description": "3 matéria(s) desta edição exploram branding. Veja como as marcas e a cultura estão se movimentando neste tema.",
       "category": "SINAL EDITORIAL"
     },
     {
-      "title": "Criatividade",
-      "description": "2 matéria(s) desta edição exploram criatividade. Veja como as marcas e a cultura estão se movimentando neste tema.",
+      "title": "Experiência de marca",
+      "description": "1 matéria(s) desta edição exploram experiência de marca. Veja como as marcas e a cultura estão se movimentando neste tema.",
       "category": "SINAL EDITORIAL"
     }
   ],
@@ -74,6 +74,18 @@
       "series": "Série A"
     },
     {
+      "title": "Dia de Finados: conheça os diferentes tipos de luto e como eles se manifestam | Fast Company Brasil",
+      "original_title": "Dia de Finados: conheça os diferentes tipos de luto e como eles se manifestam | Fast Company Brasil",
+      "summary": "Cada pessoa reage de uma maneira à perda, e conhecer os diferentes tipos de luto ajuda a compreender essas experiências.",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre experiência de marca e suas implicações para marcas e comunicação.",
+      "category": "Experiência de marca",
+      "source": "Fast Company Brasil",
+      "published_date": "2026-11-02",
+      "url": "https://fastcompanybrasil.com/worklife/bem-estar/dia-de-finados-conheca-diferentes-tipos-luto-como-eles-se-manifestam/",
+      "image_url": "https://fastcompanybrasil.com/wp-content/uploads/2026/10/dia-finados-luto.jpg",
+      "series": "Série A"
+    },
+    {
       "title": "Brand valuation: o que é e como calcular o valor da marca",
       "original_title": "Brand valuation: o que é e como calcular o valor da marca",
       "summary": "Entenda o que é brand valuation, a diferença para brand equity, as abordagens de cálculo e como usar o valor da marca nas decisões estratégicas do negócio.",
@@ -86,63 +98,51 @@
       "series": "Série A"
     },
     {
-      "title": "Airbnb quer oferecer 1 milhão de diárias gratuitas por ano | Fast Company Brasil",
-      "original_title": "Airbnb quer oferecer 1 milhão de diárias gratuitas por ano | Fast Company Brasil",
-      "summary": "Empresa prevê investir US$ 500 milhões em cinco anos para ampliar programa que oferece moradia emergencial a pessoas em situação de crise.",
-      "why_it_matters": "Vale observar o que esta publicação revela sobre estratégia & negócios e suas implicações para marcas e comunicação.",
-      "category": "Estratégia & negócios",
+      "title": "Como a leitura de ficção pode transformar a forma como lidamos com outras pessoas? | Fast Company Brasil",
+      "original_title": "Como a leitura de ficção pode transformar a forma como lidamos com outras pessoas? | Fast Company Brasil",
+      "summary": "A ficção pode ir além do entretenimento e influenciar a maneira como leitores interpretam conflitos e pedidos de desculpas.",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre comportamento e suas implicações para marcas e comunicação.",
+      "category": "Comportamento",
       "source": "Fast Company Brasil",
-      "published_date": "2026-11-01",
-      "url": "https://fastcompanybrasil.com/impacto/airbnb-quer-oferecer-1-milhao-de-diarias-gratuitas-por-ano-a-vitimas-de-desastres/",
-      "image_url": "https://fastcompanybrasil.com/wp-content/uploads/2026/10/hospedagem_parentalidade_criancas.jpg",
+      "published_date": "2026-11-02",
+      "url": "https://fastcompanybrasil.com/worklife/bem-estar/como-leitura-ficcao-pode-transformar-forma-como-lidamos-com-outras-pessoas/",
+      "image_url": "https://fastcompanybrasil.com/wp-content/uploads/2026/10/ficcao-empatia.jpg",
       "series": "Série A"
     },
     {
-      "title": "The Strategic Craft of Advertising with Felipe Lima â LBB",
-      "original_title": "The Strategic Craft of Advertising with Felipe Lima â LBB",
-      "summary": "The creative director of Ways & Means on the small conversations that create memorable work, growing up surrounded by art, and pushing creative boundaries as part of LBBâs Creativity Squared series",
+      "title": "Onassis Foundation Looks Beyond the Obvious with 50th Anniversary Campaign â LBB",
+      "original_title": "Onassis Foundation Looks Beyond the Obvious with 50th Anniversary Campaign â LBB",
+      "summary": "Ogilvy Greece uses unexpected visual pairings to highlight the interconnected worlds of culture, health and education across the Foundation",
       "why_it_matters": "Vale observar o que esta publicação revela sobre campanhas e suas implicações para marcas e comunicação.",
       "category": "Campanhas",
       "source": "LBB",
-      "published_date": "2026-10-30",
-      "url": "https://lbbonline.com/news/the-strategic-craft-of-advertising-with-felipe-lima",
-      "image_url": "https://d3q27bh1u24u2o.cloudfront.net/resized/1200/news/2026-10/felipe-lima-waysandmeans.gJDn2AVX.png",
+      "published_date": "2026-11-02",
+      "url": "https://lbbonline.com/news/onassis-foundation-50th-anniversary-campaign",
+      "image_url": "https://d3q27bh1u24u2o.cloudfront.net/resized/1200/news/2026-11/onassis-foundation.WdK0Vl9H.png",
       "series": "Série A"
     },
     {
-      "title": "Class Is in Session at Targetâs Academy of Giftology â LBB",
-      "original_title": "Class Is in Session at Targetâs Academy of Giftology â LBB",
-      "summary": "Created by Mythology and directed by 'Hacks' co-creator Lucia Aniello, the holiday campaign sees DâArcy Carden and a cast of familiar faces teach shoppers the art of gifting",
-      "why_it_matters": "Vale observar o que esta publicação revela sobre campanhas e suas implicações para marcas e comunicação.",
-      "category": "Campanhas",
+      "title": "Makemake Signs Editor Tobias Suhm â LBB",
+      "original_title": "Makemake Signs Editor Tobias Suhm â LBB",
+      "summary": "Tobias Suhm has worked with brands including Google, Netflix, Nike, Coca-Cola, Xbox, Mercedes-Benz, Disney, and Gucci",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre branding e suas implicações para marcas e comunicação.",
+      "category": "Branding",
       "source": "LBB",
-      "published_date": "2026-10-30",
-      "url": "https://lbbonline.com/news/target-holiday-gifts-christmas-emmy-college-new-york",
-      "image_url": "https://d3q27bh1u24u2o.cloudfront.net/resized/1200/news_hero/2026-10/behind-the-work-1.7pK8-tjd.png",
+      "published_date": "2026-11-02",
+      "url": "https://lbbonline.com/news/makemake-signs-editor-tobias-suhm",
+      "image_url": "https://d3q27bh1u24u2o.cloudfront.net/resized/1200/news/2026-11/makemake.xQD4_pcb.png",
       "series": "Série A"
     },
     {
-      "title": "O VAR está estragando o futebol? Ex-jogador acredita que sim | Fast Company Brasil",
-      "original_title": "O VAR está estragando o futebol? Ex-jogador acredita que sim | Fast Company Brasil",
-      "summary": "Ao substituir a emoção imediata pela análise de imagens, a tecnologia pode estar comprometendo a essência do esporte.",
-      "why_it_matters": "Vale observar o que esta publicação revela sobre criatividade e suas implicações para marcas e comunicação.",
-      "category": "Criatividade",
-      "source": "Fast Company Brasil",
-      "published_date": "2026-11-01",
-      "url": "https://fastcompanybrasil.com/tech/o-var-esta-estragando-o-futebol-ex-jogador-acredita-que-sim/",
-      "image_url": "https://fastcompanybrasil.com/wp-content/uploads/2026/10/futebol_gol_VAR.jpg",
-      "series": "Série A"
-    },
-    {
-      "title": "The Thread That Runs Through Peru - COOL HUNTING®",
-      "original_title": "The Thread That Runs Through Peru - COOL HUNTING®",
-      "summary": "We recently traveled to the magical land of Peru, where nature is immersed with the country’s history, lively culture, local food offerings and ancestral traditions. Our route explored four p…",
+      "title": "The Bridge “X” Marks 10 Years On The Car Show Scene - COOL HUNTING®",
+      "original_title": "The Bridge “X” Marks 10 Years On The Car Show Scene - COOL HUNTING®",
+      "summary": "Since watching the sun slip beyond Peconic Bay last year at the ninth The Bridge, we’ve been looking forward to this year, it’s 10th edition. It’s rare to be excited to return to …",
       "why_it_matters": "Vale observar o que esta publicação revela sobre criatividade e suas implicações para marcas e comunicação.",
       "category": "Criatividade",
       "source": "Cool Hunting",
-      "published_date": "2026-10-30",
-      "url": "https://coolhunting.com/travel/the-thread-that-runs-through-peru/",
-      "image_url": "https://coolhunting.com/wp-content/uploads/2026/10/Tambo-del-Inka-Aerial-1-scaled.jpg",
+      "published_date": "2026-11-02",
+      "url": "https://coolhunting.com/culture/the-bridge-x-marks-10-years-on-the-car-show-scene/",
+      "image_url": "https://coolhunting.com/wp-content/uploads/2026/11/L1030843-scaled.jpg",
       "series": "Série A"
     }
   ]
