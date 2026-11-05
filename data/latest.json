@@ -1,53 +1,84 @@
 {
-  "edition_date": "2026-11-03",
+  "edition_date": "2026-11-05",
   "status": "published",
   "notice": "Curadoria automática gratuita baseada em RSS e metadados das fontes originais.",
-  "window_start": "2026-10-28",
-  "window_end": "2026-11-03",
+  "window_start": "2026-10-30",
+  "window_end": "2026-11-05",
   "edition_name": "Update com Afeto",
-  "editor_letter": "Esta edição reúne 10 histórias publicadas nos últimos sete dias, selecionadas entre as fontes aprovadas da Série A. A curadoria prioriza campanhas, marcas, estratégia, comportamento e cultura digital. Os resumos partem das descrições publicadas pelas próprias fontes; abra os links originais para ler o contexto completo.",
+  "editor_letter": "Esta edição reúne 10 histórias publicadas nos últimos sete dias, selecionadas entre as fontes do registro editorial unificado. A curadoria prioriza campanhas, marcas, estratégia, comportamento e cultura digital. Os resumos partem das descrições publicadas pelas próprias fontes; abra os links originais para ler o contexto completo.",
   "signals": [
     {
       "title": "Campanhas",
-      "description": "5 matéria(s) desta edição exploram campanhas. Veja como as marcas e a cultura estão se movimentando neste tema.",
+      "description": "4 matéria(s) desta edição exploram campanhas. Veja como as marcas e a cultura estão se movimentando neste tema.",
       "category": "SINAL EDITORIAL"
     },
     {
       "title": "Branding",
-      "description": "2 matéria(s) desta edição exploram branding. Veja como as marcas e a cultura estão se movimentando neste tema.",
+      "description": "3 matéria(s) desta edição exploram branding. Veja como as marcas e a cultura estão se movimentando neste tema.",
       "category": "SINAL EDITORIAL"
     },
     {
-      "title": "Criatividade",
-      "description": "2 matéria(s) desta edição exploram criatividade. Veja como as marcas e a cultura estão se movimentando neste tema.",
+      "title": "Experiência de marca",
+      "description": "2 matéria(s) desta edição exploram experiência de marca. Veja como as marcas e a cultura estão se movimentando neste tema.",
       "category": "SINAL EDITORIAL"
     }
   ],
-  "lead_url": "https://www.meioemensagem.com.br/comunicacao/outubro-rosa-agencias-analisam-abordagem-em-torno-da-causa",
+  "lead_url": "https://updateordie.com/2026/11/05/dengo-lanca-campanha-de-natal-com-12-novidades/",
   "stories": [
     {
-      "title": "Vai Canvar o que hoje?",
-      "original_title": "Vai Canvar o que hoje?",
-      "summary": "Criada pela Goodby Silverstein & Partners para EUA e Canadá, a campanha troca o \"design\" pelo próprio nome da marca e tenta fazer do Canva o atalho para qualquer criação.",
+      "title": "Burberry comemora 170 anos com a fantasia definitiva do Natal britânico",
+      "original_title": "Burberry comemora 170 anos com a fantasia definitiva do Natal britânico",
+      "summary": "Harmony Korine dirige Pierce Brosnan e Fiona Shaw numa festa em uma mansão histórica inglesa que transforma a campanha de fim de ano em síntese da estratégia atual da marca",
       "why_it_matters": "Vale observar o que esta publicação revela sobre campanhas e suas implicações para marcas e comunicação.",
       "category": "Campanhas",
-      "source": "Update or Die!",
-      "published_date": "2026-10-30",
-      "url": "https://updateordie.com/2026/10/30/vai-canvar-o-que-hoje/",
-      "image_url": "https://updateordie.com/wp-content/uploads/2026/10/canva_billboard_advertisement.webp",
-      "series": "Série A"
+      "source": "B9",
+      "published_date": "2026-11-04",
+      "url": "https://www.b9.com.br/burberry-comemora-170-anos-com-a-fantasia-definitiva-do-natal-britanico/",
+      "image_url": "https://storage.ghost.io/c/b8/a4/b8a4ba23-e08d-42f7-b459-b1bcab5b8867/content/images/size/w1200/2026/11/burberry-170.jpg"
     },
     {
-      "title": "Baygon faz baratas temerem baratas no Halloween",
-      "original_title": "Baygon faz baratas temerem baratas no Halloween",
-      "summary": "Campanha da Ogilvy Brasil para a marca da SC Johnson inverte a lógica do terror e coloca o inseticida como causador do pavor, em um curta musical inspirado em \"A Baratinha\".",
+      "title": "Dengo lança campanha de Natal com 12 novidades",
+      "original_title": "Dengo lança campanha de Natal com 12 novidades",
+      "summary": "Com o mote \"Natal é feito com Dengo\", a marca reúne 26 opções de presente, ingredientes brasileiros e embalagens que ganham novos usos depois das festas, com ilustrações inéditas de Winny Tapajós.",
       "why_it_matters": "Vale observar o que esta publicação revela sobre campanhas e suas implicações para marcas e comunicação.",
       "category": "Campanhas",
       "source": "Update or Die!",
-      "published_date": "2026-10-30",
-      "url": "https://updateordie.com/2026/10/30/baygon-faz-baratas-temerem-baratas-no-halloween/",
-      "image_url": "https://updateordie.com/wp-content/uploads/2026/10/maxresdefault-63.jpg",
-      "series": "Série A"
+      "published_date": "2026-11-05",
+      "url": "https://updateordie.com/2026/11/05/dengo-lanca-campanha-de-natal-com-12-novidades/",
+      "image_url": "https://updateordie.com/wp-content/uploads/2026/11/maxresdefault-7.jpg"
+    },
+    {
+      "title": "KFC é salvo da destruição do Doutor Destino",
+      "original_title": "KFC é salvo da destruição do Doutor Destino",
+      "summary": "Criada pela Mother, a campanha global marca a maior parceria da KFC até hoje com a Marvel Studios e chega a mais de 100 países com cardápio, embalagens e colecionáveis inspirados no vilão de Vingadores: Doomsday.",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre campanhas e suas implicações para marcas e comunicação.",
+      "category": "Campanhas",
+      "source": "Update or Die!",
+      "published_date": "2026-11-05",
+      "url": "https://updateordie.com/2026/11/05/kfc-e-salvo-da-destruicao-do-doutor-destino/",
+      "image_url": "https://updateordie.com/wp-content/uploads/2026/11/marvel-heroes-villains-crossover-dMQP0LllCy.webp"
+    },
+    {
+      "title": "Valiant: a diversificação na era da experiência",
+      "original_title": "Valiant: a diversificação na era da experiência",
+      "summary": "Caio Thomaz, CEO da agência, faz um balanço do primeiro ano e explica como busca atender todas as frentes de negócios para as marcas",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre branding e suas implicações para marcas e comunicação.",
+      "category": "Branding",
+      "source": "Meio & Mensagem",
+      "published_date": "2026-11-05",
+      "url": "https://www.meioemensagem.com.br/comunicacao/com-um-ano-de-operacao-valiant-pretende-ir-alem-do-esporte",
+      "image_url": "https://www.meioemensagem.com.br/wp-content/uploads/2026/11/Valiant-thumb-2.jpg"
+    },
+    {
+      "title": "Gap transforma coral em tradição de Natal e revisita Jackson 5 em nova campanha",
+      "original_title": "Gap transforma coral em tradição de Natal e revisita Jackson 5 em nova campanha",
+      "summary": "Terceira edição de “Give Your Gift” reúne três grupos vocais em uma nova versão de “I’ll Be There” e consolida música, comunidade e básicos da marca como fórmula para o fim do ano",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre campanhas e suas implicações para marcas e comunicação.",
+      "category": "Campanhas",
+      "source": "B9",
+      "published_date": "2026-11-04",
+      "url": "https://www.b9.com.br/gap-natal-2026-give-your-gift-jackson-5/",
+      "image_url": "https://storage.ghost.io/c/b8/a4/b8a4ba23-e08d-42f7-b459-b1bcab5b8867/content/images/size/w1200/2026/11/gap-2026.jpg"
     },
     {
       "title": "Outubro Rosa: o papel das agências e das marcas",
@@ -58,92 +89,51 @@
       "source": "Meio & Mensagem",
       "published_date": "2026-10-30",
       "url": "https://www.meioemensagem.com.br/comunicacao/outubro-rosa-agencias-analisam-abordagem-em-torno-da-causa",
-      "image_url": "https://www.meioemensagem.com.br/wp-content/uploads/2026/10/outubro-rosa-cred-jhorna-adobestock-2149217160-1280x852-1.jpg",
-      "series": "Série A"
+      "image_url": "https://www.meioemensagem.com.br/wp-content/uploads/2026/10/outubro-rosa-cred-jhorna-adobestock-2149217160-1280x852-1.jpg"
     },
     {
-      "title": "OMO convida consumidor para conversa sobre performance",
-      "original_title": "OMO convida consumidor para conversa sobre performance",
-      "summary": "Campanha leva o conceito “Entrega muito e custa menos” e traz o público para falar de custo-benefício",
-      "why_it_matters": "Vale observar o que esta publicação revela sobre campanhas e suas implicações para marcas e comunicação.",
-      "category": "Campanhas",
-      "source": "Meio & Mensagem",
-      "published_date": "2026-10-30",
-      "url": "https://www.meioemensagem.com.br/comunicacao/omo-convida-consumidor-para-conversa-sobre-performance",
-      "image_url": "https://www.meioemensagem.com.br/wp-content/uploads/2026/10/Novo-OMO-Todo-Ciclo_cred_rep_YouTube_SITE-1280X852.jpg",
-      "series": "Série A"
+      "title": "5 práticas ancestrais que a ciência comprova que funcionam | Fast Company Brasil",
+      "original_title": "5 práticas ancestrais que a ciência comprova que funcionam | Fast Company Brasil",
+      "summary": "Ciência revela como desafios físicos, experiências coletivas e rituais ancestrais podem transformar o cérebro, o corpo e o humor.",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre experiência de marca e suas implicações para marcas e comunicação.",
+      "category": "Experiência de marca",
+      "source": "Fast Company Brasil",
+      "published_date": "2026-11-05",
+      "url": "https://fastcompanybrasil.com/worklife/bem-estar/5-praticas-ancestrais-que-a-ciencia-comprova-que-funcionam/",
+      "image_url": "https://fastcompanybrasil.com/wp-content/uploads/2026/11/antiguidade_egito_ancestral.jpg"
     },
     {
-      "title": "Make-A-Wish Canada Promotes Alyssa Huggins to SVP, Brand and Integrated Marketing â LBB",
-      "original_title": "Make-A-Wish Canada Promotes Alyssa Huggins to SVP, Brand and Integrated Marketing â LBB",
-      "summary": "Coming just five months after joining the organisation, she will lead its integrated approach to brand, and will work closely with Zulu Alpha Kilo to continue developing the âWishes Are Medicineâ platform",
+      "title": "ANA Unifies Awards Portfolio Under Masters of Marketing Brand â LBB",
+      "original_title": "ANA Unifies Awards Portfolio Under Masters of Marketing Brand â LBB",
+      "summary": "An evolved awards platform establishes a new framework for recognising marketing excellence, enterprise growth, and the leaders shaping the future of marketing",
       "why_it_matters": "Vale observar o que esta publicação revela sobre branding e suas implicações para marcas e comunicação.",
       "category": "Branding",
       "source": "LBB",
-      "published_date": "2026-11-03",
-      "url": "https://lbbonline.com/news/make-a-wish-canada-promotes-alyssa-huggins-to-svp-brand-and-integrated-marketing",
-      "image_url": "https://d3q27bh1u24u2o.cloudfront.net/resized/1200/news_hero/2026-11/alyssa-huggins-400x400.Bjl1TqoL.jpg",
-      "series": "Série A"
+      "published_date": "2026-11-05",
+      "url": "https://lbbonline.com/news/ana-unifies-awards-portfolio-under-masters-of-marketing-brand",
+      "image_url": "https://d3q27bh1u24u2o.cloudfront.net/resized/1200/news/2026-11/27-mom-main-awards-banners-1152-x-840-1.abp6P6Wu.jpg"
     },
     {
-      "title": "No seu 20º comercial de Natal, John Lewis pede: não desista de escolher o presente",
-      "original_title": "No seu 20º comercial de Natal, John Lewis pede: não desista de escolher o presente",
-      "summary": "Kristin Scott Thomas estrela “Gloria and Pickles”, história sobre uma avó que quase recorre ao dinheiro no envelope antes de encontrar outra maneira de se conectar com os netos",
-      "why_it_matters": "Vale observar o que esta publicação revela sobre campanhas e suas implicações para marcas e comunicação.",
-      "category": "Campanhas",
-      "source": "B9",
-      "published_date": "2026-11-03",
-      "url": "https://www.b9.com.br/john-lewis-natal-2026-gloria-pickles/",
-      "image_url": "https://storage.ghost.io/c/b8/a4/b8a4ba23-e08d-42f7-b459-b1bcab5b8867/content/images/size/w1200/2026/11/Captura-de-Tela-2026-11-03-a--s-12.02.23.png",
-      "series": "Série A"
+      "title": "TRO Unveils Experiential Project at The BMW PGA Championship â LBB",
+      "original_title": "TRO Unveils Experiential Project at The BMW PGA Championship â LBB",
+      "summary": "âHole in Oneâ âDigital Activationâ debuted at Wentworth last week, giving participating DP World Tour players the chance to win a BMW chosen from a selection of 10 models, while inviting fans to put their own skills to the test",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre experiência de marca e suas implicações para marcas e comunicação.",
+      "category": "Experiência de marca",
+      "source": "LBB",
+      "published_date": "2026-11-05",
+      "url": "https://lbbonline.com/news/tro-unveils-experiential-project-at-the-bmw-pga-championship",
+      "image_url": "https://d3q27bh1u24u2o.cloudfront.net/resized/1200/news/2026-11/mtw3512.xlEikudr.jpg"
     },
     {
-      "title": "Vazamento de dados no Brasil chegou a R$ 7,44 milhões em 2026 | Fast Company Brasil",
-      "original_title": "Vazamento de dados no Brasil chegou a R$ 7,44 milhões em 2026 | Fast Company Brasil",
-      "summary": "Com ataques mais rápidos e vulnerabilidades em fornecedores, empresas precisam investir em prevenção, monitoramento e resposta a incidentes.",
+      "title": "Prospera MEI: o que muda para os pequenos negócios? | Fast Company Brasil",
+      "original_title": "Prospera MEI: o que muda para os pequenos negócios? | Fast Company Brasil",
+      "summary": "Prospera MEI reúne benefícios tributários, crédito renegociado e incentivo financeiro com prioridade para mulheres.",
       "why_it_matters": "Vale observar o que esta publicação revela sobre estratégia & negócios e suas implicações para marcas e comunicação.",
       "category": "Estratégia & negócios",
       "source": "Fast Company Brasil",
-      "published_date": "2026-11-03",
-      "url": "https://fastcompanybrasil.com/tech/vazamento-de-dados-no-brasil-chegou-a-r-744-milhoes-em-2026/",
-      "image_url": "https://fastcompanybrasil.com/wp-content/uploads/2026/11/vazamento-de-dados_torneira.jpg",
-      "series": "Série A"
-    },
-    {
-      "title": "Big Gestures and Quick Thinking: Inside the European Immortal Awards Jury Room â LBB",
-      "original_title": "Big Gestures and Quick Thinking: Inside the European Immortal Awards Jury Room â LBB",
-      "summary": "Jurors from Wieden+Kennedy, BETC, Droga5, Serviceplan and more discuss the big ideas, creative agility and differing opinions that saw six campaigns through to the final round of The Immortal Awards 2026",
-      "why_it_matters": "Vale observar o que esta publicação revela sobre campanhas e suas implicações para marcas e comunicação.",
-      "category": "Campanhas",
-      "source": "LBB",
-      "published_date": "2026-11-03",
-      "url": "https://lbbonline.com/news/big-gestures-and-quick-thinking-inside-the-european-immortal-awards-jury-room",
-      "image_url": "https://d3q27bh1u24u2o.cloudfront.net/resized/1200/news_hero/2026-11/jury-zoom.4y2XZA3b.png",
-      "series": "Série A"
-    },
-    {
-      "title": "AC Hotels’ 20-Minute Edit Highlights Spots in Walking Distance - COOL HUNTING®",
-      "original_title": "AC Hotels’ 20-Minute Edit Highlights Spots in Walking Distance - COOL HUNTING®",
-      "summary": "There is a distinct art to navigating a metropolis on foot. In an era of packed itineraries and endless saved lists, the most meaningful urban discoveries often happen within a tightly bounded radi…",
-      "why_it_matters": "Vale observar o que esta publicação revela sobre criatividade e suas implicações para marcas e comunicação.",
-      "category": "Criatividade",
-      "source": "Cool Hunting",
-      "published_date": "2026-11-03",
-      "url": "https://coolhunting.com/travel/ac-hotels-20-minute-edit-highlights-spots-in-walking-distance/",
-      "image_url": "https://coolhunting.com/wp-content/uploads/2026/11/ar-tyoar-ac-tyoar-exterior-01-24289-Classic-Hor.jpeg",
-      "series": "Série A"
-    },
-    {
-      "title": "At Your Service - COOL HUNTING®",
-      "original_title": "At Your Service - COOL HUNTING®",
-      "summary": "Converse has rebuilt the Chuck Taylor All Star for restaurant floors. At Your Service pairs a diamond-pattern tread reworked for grip with CX foam cushioning.",
-      "why_it_matters": "Vale observar o que esta publicação revela sobre criatividade e suas implicações para marcas e comunicação.",
-      "category": "Criatividade",
-      "source": "Cool Hunting",
-      "published_date": "2026-11-03",
-      "url": "https://coolhunting.com/buy/at-your-service/",
-      "image_url": "https://coolhunting.com/wp-content/uploads/2026/11/A18479C_E_08X1-Cropped.png",
-      "series": "Série A"
+      "published_date": "2026-11-04",
+      "url": "https://fastcompanybrasil.com/money/prospera-mei-que-muda-para-pequenos-negocios/",
+      "image_url": "https://fastcompanybrasil.com/wp-content/uploads/2026/11/prospera-mei.jpg"
     }
   ]
 }
