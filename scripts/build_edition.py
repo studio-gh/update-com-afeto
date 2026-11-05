@@ -280,7 +280,6 @@ def validate_candidates(candidates):
             "published_date": published.isoformat(),
             "url": final,
             "image_url": image_url,
-            "series": "Série A",
             "_description": desc
         })
         time.sleep(0.12)
@@ -318,10 +317,8 @@ def main():
     target = int(rules.get("stories_per_edition", 10))
     max_per_source = int(rules.get("max_stories_per_source", 2))
     min_sources = int(rules.get("minimum_distinct_sources", 6))
-    series_a = config.get("series_a", [])
-    series_b = config.get("series_b", [])
-    sources = series_a + series_b
-    print(f"Pesquisa gratuita: {len(series_a)} fontes Série A + {len(series_b)} fontes Série B; total {len(sources)}; janela {MIN_DATE} a {TODAY}.")
+    sources = config.get("sources") or (config.get("series_a", []) + config.get("series_b", []))
+    print(f"Pesquisa gratuita: {len(sources)} fontes no registro unificado; janela {MIN_DATE} a {TODAY}.")
     candidates = discover_candidates(sources)
     candidate_counts = {}
     for item in candidates:
@@ -350,7 +347,7 @@ def main():
         "window_start": MIN_DATE.isoformat(),
         "window_end": TODAY.isoformat(),
         "edition_name": config.get("edition_name", "Update com Afeto"),
-        "editor_letter": f"Esta edição reúne {len(stories)} histórias publicadas nos últimos sete dias, selecionadas entre as fontes aprovadas da Série A. A curadoria prioriza campanhas, marcas, estratégia, comportamento e cultura digital. Os resumos partem das descrições publicadas pelas próprias fontes; abra os links originais para ler o contexto completo.",
+        "editor_letter": f"Esta edição reúne {len(stories)} histórias publicadas nos últimos sete dias, selecionadas entre as fontes do registro editorial unificado. A curadoria prioriza campanhas, marcas, estratégia, comportamento e cultura digital. Os resumos partem das descrições publicadas pelas próprias fontes; abra os links originais para ler o contexto completo.",
         "signals": signals,
         "lead_url": lead["url"],
         "stories": stories
