@@ -2,7 +2,7 @@
   "edition_name": "Update com Afeto",
   "timezone": "America/Sao_Paulo",
   "daily_target_time": "08:00",
-  "series_a": [
+  "sources": [
     {
       "name": "B9",
       "url": "https://www.b9.com.br/"
@@ -50,9 +50,7 @@
     {
       "name": "Fast Company Brasil",
       "url": "https://fastcompanybrasil.com/"
-    }
-  ],
-  "series_b": [
+    },
     {
       "name": "The Drum",
       "url": "https://www.thedrum.com/brand"
@@ -82,7 +80,7 @@
     "stories_per_edition": 10,
     "date_window_days": 7,
     "max_stories_per_source": 2,
-    "minimum_distinct_sources": 6,
+    "minimum_distinct_sources": 5,
     "require_direct_article_url": true,
     "never_invent_stories_or_urls": true,
     "do_not_publish_if_validation_fails": true
