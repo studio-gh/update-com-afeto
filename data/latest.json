@@ -9,22 +9,33 @@
   "signals": [
     {
       "title": "Campanhas",
-      "description": "7 matéria(s) desta edição exploram campanhas. Veja como as marcas e a cultura estão se movimentando neste tema.",
+      "description": "5 matéria(s) desta edição exploram campanhas. Veja como as marcas e a cultura estão se movimentando neste tema.",
       "category": "SINAL EDITORIAL"
     },
     {
       "title": "Branding",
-      "description": "1 matéria(s) desta edição exploram branding. Veja como as marcas e a cultura estão se movimentando neste tema.",
+      "description": "2 matéria(s) desta edição exploram branding. Veja como as marcas e a cultura estão se movimentando neste tema.",
       "category": "SINAL EDITORIAL"
     },
     {
-      "title": "Comportamento",
-      "description": "1 matéria(s) desta edição exploram comportamento. Veja como as marcas e a cultura estão se movimentando neste tema.",
+      "title": "Estratégia & negócios",
+      "description": "2 matéria(s) desta edição exploram estratégia & negócios. Veja como as marcas e a cultura estão se movimentando neste tema.",
       "category": "SINAL EDITORIAL"
     }
   ],
-  "lead_url": "https://updateordie.com/2026/11/05/dengo-lanca-campanha-de-natal-com-12-novidades/",
+  "lead_url": "https://www.meioemensagem.com.br/comunicacao/realities-ganham-espaco-nas-estrategias-das-marcas",
   "stories": [
+    {
+      "title": "Realities ganham espaço nas estratégias das marcas",
+      "original_title": "Realities ganham espaço nas estratégias das marcas",
+      "summary": "Com projetos para PepsiCo e Fanta, BR Media e VML discutem como o entretenimento amplia as possibilidades de conexão com os consumidores",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre branding e suas implicações para marcas e comunicação.",
+      "category": "Branding",
+      "source": "Meio & Mensagem",
+      "published_date": "2026-11-06",
+      "url": "https://www.meioemensagem.com.br/comunicacao/realities-ganham-espaco-nas-estrategias-das-marcas",
+      "image_url": "https://www.meioemensagem.com.br/wp-content/uploads/2026/11/realities.jpg"
+    },
     {
       "title": "Burberry comemora 170 anos com a fantasia definitiva do Natal britânico",
       "original_title": "Burberry comemora 170 anos com a fantasia definitiva do Natal britânico",
@@ -70,17 +81,6 @@
       "image_url": "https://www.meioemensagem.com.br/wp-content/uploads/2026/11/Rebeca-Andrade-Intimus-.jpg"
     },
     {
-      "title": "Valiant: a diversificação na era da experiência",
-      "original_title": "Valiant: a diversificação na era da experiência",
-      "summary": "Caio Thomaz, CEO da agência, faz um balanço do primeiro ano e explica como busca atender todas as frentes de negócios para as marcas",
-      "why_it_matters": "Vale observar o que esta publicação revela sobre branding e suas implicações para marcas e comunicação.",
-      "category": "Branding",
-      "source": "Meio & Mensagem",
-      "published_date": "2026-11-05",
-      "url": "https://www.meioemensagem.com.br/comunicacao/com-um-ano-de-operacao-valiant-pretende-ir-alem-do-esporte",
-      "image_url": "https://www.meioemensagem.com.br/wp-content/uploads/2026/11/Valiant-thumb-2.jpg"
-    },
-    {
       "title": "Gap transforma coral em tradição de Natal e revisita Jackson 5 em nova campanha",
       "original_title": "Gap transforma coral em tradição de Natal e revisita Jackson 5 em nova campanha",
       "summary": "Terceira edição de “Give Your Gift” reúne três grupos vocais em uma nova versão de “I’ll Be There” e consolida música, comunidade e básicos da marca como fórmula para o fim do ano",
@@ -92,48 +92,48 @@
       "image_url": "https://storage.ghost.io/c/b8/a4/b8a4ba23-e08d-42f7-b459-b1bcab5b8867/content/images/size/w1200/2026/11/gap-2026.jpg"
     },
     {
-      "title": "DOOH.com Wins Ad Tech Innovation Award at the Performance Marketing World Awards 2026 â LBB",
-      "original_title": "DOOH.com Wins Ad Tech Innovation Award at the Performance Marketing World Awards 2026 â LBB",
-      "summary": "The team also celebrated a further win in the Hospitality and Travel category, as well as the Grand Prix of the evening, for Transport for London's Car Driver Nudges campaign",
-      "why_it_matters": "Vale observar o que esta publicação revela sobre campanhas e suas implicações para marcas e comunicação.",
-      "category": "Campanhas",
-      "source": "LBB",
+      "title": "OpenAI desenvolve modelo de IA para identificar vulnerabilidades em softwares | Fast Company Brasil",
+      "original_title": "OpenAI desenvolve modelo de IA para identificar vulnerabilidades em softwares | Fast Company Brasil",
+      "summary": "GPT-6 Cyber foi testado em sistemas conhecidos e integra a estratégia da empresa para reforçar a proteção de infraestruturas digitais.",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre estratégia & negócios e suas implicações para marcas e comunicação.",
+      "category": "Estratégia & negócios",
+      "source": "Fast Company Brasil",
       "published_date": "2026-11-06",
-      "url": "https://lbbonline.com/news/dooh-com-performance-marketing-world-awards-2026",
-      "image_url": "https://d3q27bh1u24u2o.cloudfront.net/resized/1200/news/2026-11/performance-marketing-world-awards.ONCrAhIa.png"
+      "url": "https://fastcompanybrasil.com/ia/openai-desenvolve-modelo-ia-para-identificar-vulnerabilidade-softwares/",
+      "image_url": "https://fastcompanybrasil.com/wp-content/uploads/2026/11/chatgpt-lancamento.jpg"
     },
     {
-      "title": "Iconic Costumes Get into the Festive Spirit in Sky Christmas Spot â LBB",
-      "original_title": "Iconic Costumes Get into the Festive Spirit in Sky Christmas Spot â LBB",
-      "summary": "Directed by Dave Meyers, the campaign celebrates Sky's expansive entertainment offering this festive season",
-      "why_it_matters": "Vale observar o que esta publicação revela sobre campanhas e suas implicações para marcas e comunicação.",
-      "category": "Campanhas",
-      "source": "LBB",
+      "title": "5 jogos brasileiros que mostram a criatividade da indústria nacional | Fast Company Brasil",
+      "original_title": "5 jogos brasileiros que mostram a criatividade da indústria nacional | Fast Company Brasil",
+      "summary": "Jogos independentes brasileiros apostam em narrativas originais, combates e desafios para conquistar espaço no mercado.",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre estratégia & negócios e suas implicações para marcas e comunicação.",
+      "category": "Estratégia & negócios",
+      "source": "Fast Company Brasil",
       "published_date": "2026-11-06",
-      "url": "https://lbbonline.com/news/costumes-sky-christmas-campaign",
-      "image_url": "https://d3q27bh1u24u2o.cloudfront.net/resized/1200/news_hero/2026-11/sky-christmas-costumes.snzZbRcy.png"
+      "url": "https://fastcompanybrasil.com/games/5-jogos-brasileiros-mostram-criatividade-industria-nacional/",
+      "image_url": "https://fastcompanybrasil.com/wp-content/uploads/2026/11/jogos-brasileiros.jpg"
     },
     {
-      "title": "ChatGPT agora cria GIFs com IA; veja como funciona o novo recurso | Fast Company Brasil",
-      "original_title": "ChatGPT agora cria GIFs com IA; veja como funciona o novo recurso | Fast Company Brasil",
-      "summary": "Images 2.6 amplia as possibilidades de criação visual no ChatGPT com animações e melhorias na geração de imagens.",
+      "title": "Soon, Not Having Sonic Branding Will Create a Vacuum â LBB",
+      "original_title": "Soon, Not Having Sonic Branding Will Create a Vacuum â LBB",
+      "summary": "WithFeeling's John Smeddle explains why sonic branding is about to become a must-have, not a nice-to-have",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre branding e suas implicações para marcas e comunicação.",
+      "category": "Branding",
+      "source": "LBB",
+      "published_date": "2026-11-06",
+      "url": "https://lbbonline.com/news/soon-not-having-sonic-branding-will-create-a-vacuum",
+      "image_url": "https://d3q27bh1u24u2o.cloudfront.net/resized/1200/news/2026-11/withfeeling.Q00mnpoc.png"
+    },
+    {
+      "title": "Quiet Revolt Media Group Launches New Connected Media and Entertainment Production Ecosystem â LBB",
+      "original_title": "Quiet Revolt Media Group Launches New Connected Media and Entertainment Production Ecosystem â LBB",
+      "summary": "Aiming to be a home for world-class storytelling, the company brings together high-end production, distribution, live cultural touchpoints, and original IP incubation, with an active slate of projects covering food, travel, music, lifestyle, and more",
       "why_it_matters": "Vale observar o que esta publicação revela sobre comportamento e suas implicações para marcas e comunicação.",
       "category": "Comportamento",
-      "source": "Fast Company Brasil",
-      "published_date": "2026-11-05",
-      "url": "https://fastcompanybrasil.com/ia/chatgpt-agora-cria-gifs-com-ia-veja-como-funciona-o-novo-recurso/",
-      "image_url": "https://fastcompanybrasil.com/wp-content/uploads/2026/11/chatgpt-gifs.jpg"
-    },
-    {
-      "title": "Held Together: Bound at Secteur Privé - COOL HUNTING®",
-      "original_title": "Held Together: Bound at Secteur Privé - COOL HUNTING®",
-      "summary": "“Bound,” the autumn exhibition at Secteur Privé, gathers Sonia Navarro, Soojin Choi and Maliha Abidi in a Grade II-listed London townhouse at 35 Portland Place, where wool, clay and pai…",
-      "why_it_matters": "Vale observar o que esta publicação revela sobre criatividade e suas implicações para marcas e comunicação.",
-      "category": "Criatividade",
-      "source": "Cool Hunting",
+      "source": "LBB",
       "published_date": "2026-11-06",
-      "url": "https://coolhunting.com/culture/held-together-bound-at-secteur-prive/",
-      "image_url": "https://coolhunting.com/wp-content/uploads/2026/11/Bound_-Exhibition-Installation-View-scaled.jpg"
+      "url": "https://lbbonline.com/news/quiet-revolt-media-group-new-launch",
+      "image_url": "https://d3q27bh1u24u2o.cloudfront.net/resized/1200/news/2026-11/quiet-revolt-media-group.EIRkCtyE.jpg"
     }
   ]
 }
