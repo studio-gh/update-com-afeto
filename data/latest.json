@@ -1,25 +1,25 @@
 {
-  "edition_date": "2026-11-05",
+  "edition_date": "2026-11-06",
   "status": "published",
   "notice": "Curadoria automática gratuita baseada em RSS e metadados das fontes originais.",
-  "window_start": "2026-10-30",
-  "window_end": "2026-11-05",
+  "window_start": "2026-10-31",
+  "window_end": "2026-11-06",
   "edition_name": "Update com Afeto",
   "editor_letter": "Esta edição reúne 10 histórias publicadas nos últimos sete dias, selecionadas entre as fontes do registro editorial unificado. A curadoria prioriza campanhas, marcas, estratégia, comportamento e cultura digital. Os resumos partem das descrições publicadas pelas próprias fontes; abra os links originais para ler o contexto completo.",
   "signals": [
     {
       "title": "Campanhas",
-      "description": "6 matéria(s) desta edição exploram campanhas. Veja como as marcas e a cultura estão se movimentando neste tema.",
+      "description": "7 matéria(s) desta edição exploram campanhas. Veja como as marcas e a cultura estão se movimentando neste tema.",
       "category": "SINAL EDITORIAL"
     },
     {
       "title": "Branding",
-      "description": "2 matéria(s) desta edição exploram branding. Veja como as marcas e a cultura estão se movimentando neste tema.",
+      "description": "1 matéria(s) desta edição exploram branding. Veja como as marcas e a cultura estão se movimentando neste tema.",
       "category": "SINAL EDITORIAL"
     },
     {
-      "title": "Experiência de marca",
-      "description": "1 matéria(s) desta edição exploram experiência de marca. Veja como as marcas e a cultura estão se movimentando neste tema.",
+      "title": "Comportamento",
+      "description": "1 matéria(s) desta edição exploram comportamento. Veja como as marcas e a cultura estão se movimentando neste tema.",
       "category": "SINAL EDITORIAL"
     }
   ],
@@ -92,26 +92,26 @@
       "image_url": "https://storage.ghost.io/c/b8/a4/b8a4ba23-e08d-42f7-b459-b1bcab5b8867/content/images/size/w1200/2026/11/gap-2026.jpg"
     },
     {
-      "title": "5 práticas ancestrais que a ciência comprova que funcionam | Fast Company Brasil",
-      "original_title": "5 práticas ancestrais que a ciência comprova que funcionam | Fast Company Brasil",
-      "summary": "Ciência revela como desafios físicos, experiências coletivas e rituais ancestrais podem transformar o cérebro, o corpo e o humor.",
-      "why_it_matters": "Vale observar o que esta publicação revela sobre experiência de marca e suas implicações para marcas e comunicação.",
-      "category": "Experiência de marca",
-      "source": "Fast Company Brasil",
-      "published_date": "2026-11-05",
-      "url": "https://fastcompanybrasil.com/worklife/bem-estar/5-praticas-ancestrais-que-a-ciencia-comprova-que-funcionam/",
-      "image_url": "https://fastcompanybrasil.com/wp-content/uploads/2026/11/antiguidade_egito_ancestral.jpg"
+      "title": "DOOH.com Wins Ad Tech Innovation Award at the Performance Marketing World Awards 2026 â LBB",
+      "original_title": "DOOH.com Wins Ad Tech Innovation Award at the Performance Marketing World Awards 2026 â LBB",
+      "summary": "The team also celebrated a further win in the Hospitality and Travel category, as well as the Grand Prix of the evening, for Transport for London's Car Driver Nudges campaign",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre campanhas e suas implicações para marcas e comunicação.",
+      "category": "Campanhas",
+      "source": "LBB",
+      "published_date": "2026-11-06",
+      "url": "https://lbbonline.com/news/dooh-com-performance-marketing-world-awards-2026",
+      "image_url": "https://d3q27bh1u24u2o.cloudfront.net/resized/1200/news/2026-11/performance-marketing-world-awards.ONCrAhIa.png"
     },
     {
-      "title": "ANA Unifies Awards Portfolio Under Masters of Marketing Brand â LBB",
-      "original_title": "ANA Unifies Awards Portfolio Under Masters of Marketing Brand â LBB",
-      "summary": "An evolved awards platform establishes a new framework for recognising marketing excellence, enterprise growth, and the leaders shaping the future of marketing",
-      "why_it_matters": "Vale observar o que esta publicação revela sobre branding e suas implicações para marcas e comunicação.",
-      "category": "Branding",
+      "title": "Iconic Costumes Get into the Festive Spirit in Sky Christmas Spot â LBB",
+      "original_title": "Iconic Costumes Get into the Festive Spirit in Sky Christmas Spot â LBB",
+      "summary": "Directed by Dave Meyers, the campaign celebrates Sky's expansive entertainment offering this festive season",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre campanhas e suas implicações para marcas e comunicação.",
+      "category": "Campanhas",
       "source": "LBB",
-      "published_date": "2026-11-05",
-      "url": "https://lbbonline.com/news/ana-unifies-awards-portfolio-under-masters-of-marketing-brand",
-      "image_url": "https://d3q27bh1u24u2o.cloudfront.net/resized/1200/news/2026-11/27-mom-main-awards-banners-1152-x-840-1.abp6P6Wu.jpg"
+      "published_date": "2026-11-06",
+      "url": "https://lbbonline.com/news/costumes-sky-christmas-campaign",
+      "image_url": "https://d3q27bh1u24u2o.cloudfront.net/resized/1200/news_hero/2026-11/sky-christmas-costumes.snzZbRcy.png"
     },
     {
       "title": "ChatGPT agora cria GIFs com IA; veja como funciona o novo recurso | Fast Company Brasil",
@@ -125,15 +125,15 @@
       "image_url": "https://fastcompanybrasil.com/wp-content/uploads/2026/11/chatgpt-gifs.jpg"
     },
     {
-      "title": "Georgia Natural Gas Brings Simplicity to Chaos â LBB",
-      "original_title": "Georgia Natural Gas Brings Simplicity to Chaos â LBB",
-      "summary": "ArtClass director Oren Kaplanâs Thanksgiving spot is the second film in Georgia Natural Gasâ 'It's That Simple' campaign",
-      "why_it_matters": "Vale observar o que esta publicação revela sobre campanhas e suas implicações para marcas e comunicação.",
-      "category": "Campanhas",
-      "source": "LBB",
-      "published_date": "2026-11-05",
-      "url": "https://lbbonline.com/news/georgia-natural-gas-lots-to-be-thankful-for",
-      "image_url": "https://d3q27bh1u24u2o.cloudfront.net/resized/1200/news/2026-11/artclass.AnJGDN24.png"
+      "title": "Held Together: Bound at Secteur Privé - COOL HUNTING®",
+      "original_title": "Held Together: Bound at Secteur Privé - COOL HUNTING®",
+      "summary": "“Bound,” the autumn exhibition at Secteur Privé, gathers Sonia Navarro, Soojin Choi and Maliha Abidi in a Grade II-listed London townhouse at 35 Portland Place, where wool, clay and pai…",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre criatividade e suas implicações para marcas e comunicação.",
+      "category": "Criatividade",
+      "source": "Cool Hunting",
+      "published_date": "2026-11-06",
+      "url": "https://coolhunting.com/culture/held-together-bound-at-secteur-prive/",
+      "image_url": "https://coolhunting.com/wp-content/uploads/2026/11/Bound_-Exhibition-Installation-View-scaled.jpg"
     }
   ]
 }
