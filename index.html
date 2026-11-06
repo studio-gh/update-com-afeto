@@ -40,10 +40,24 @@ header,main,footer{display:none!important}.print-cover,.print-edition{display:bl
 .source-photo{background:#E0D4C3;}
 @media (prefers-reduced-motion: reduce){.art .source-photo{transition:none}.story:hover .art .source-photo{transform:none}}
 .refresh-edition{background:transparent;border:1px solid var(--orange);color:var(--orange);border-radius:3px;padding:10px 13px;font-size:10px;font-weight:bold;letter-spacing:.04em;text-decoration:none;white-space:nowrap}.refresh-edition:hover{background:var(--orange);color:white}@media(max-width:620px){.top-right{gap:7px;flex-wrap:wrap;justify-content:flex-end}.refresh-edition{padding:8px 9px;font-size:9px}}@media print{.refresh-edition{display:none!important}}
+
+.refresh-edition{background:transparent;border:1px solid var(--orange);color:var(--orange);border-radius:3px;padding:10px 13px;font-size:10px;font-weight:bold;letter-spacing:.04em;text-decoration:none;white-space:nowrap}
+.refresh-edition:hover{background:var(--orange);color:white}
+.refresh-edition:disabled{opacity:.55;cursor:wait}
+.refresh-feedback{position:fixed;right:22px;bottom:22px;z-index:1000;max-width:min(390px,calc(100vw - 30px));background:var(--ink);color:var(--paper);padding:15px 18px;border-radius:5px;box-shadow:0 12px 36px #0F253733;display:flex;gap:12px;align-items:flex-start}
+.refresh-feedback[hidden]{display:none}
+.refresh-spinner{width:17px;height:17px;flex:0 0 17px;border:2px solid #ffffff55;border-top-color:var(--orange);border-radius:50%;animation:refresh-spin .8s linear infinite}
+@keyframes refresh-spin{to{transform:rotate(360deg)}}
+.refresh-feedback strong{display:block;font:16px var(--serif);margin-bottom:3px}
+.refresh-feedback span{display:block;color:#E0D4C3;font-size:11px;line-height:1.45}
+@media(max-width:620px){.top-right{gap:7px;flex-wrap:wrap;justify-content:flex-end}.refresh-edition{padding:8px 9px;font-size:9px}.refresh-feedback{right:15px;bottom:15px}}
+@media print{.refresh-edition,.refresh-feedback{display:none!important}}
+
 </style>
 </head>
 <body>
-<header><div class="shell"><div class="top"><div class="brand"><div class="monogram">a.</div><div><div class="brand-name">Update com Afeto</div><div class="brand-sub">Daily Intelligence Desk</div></div></div><div class="top-right"><span class="status"><i class="dot"></i>Desk editorial</span><span>14 OUT 2026</span><a class="refresh-edition" href="https://github.com/studio-gh/update-com-afeto/actions/workflows/daily-edition.yml" target="_blank" rel="noopener noreferrer" title="Abrir o GitHub Actions para executar uma nova apuração">ATUALIZAR EDIÇÃO ↗</a><button class="print" onclick="window.print()">IMPRIMIR EDIÇÃO ↗</button></div></div><nav><a class="active" href="#hoje">Hoje</a><a href="#editor">Escolha da editora</a><a href="#radar">Radar de campanhas</a><a href="#historias">Cultura &amp; comportamento</a><a href="#fontes">Fontes</a></nav></div></header>
+<header><div class="shell"><div class="top"><div class="brand"><div class="monogram">a.</div><div><div class="brand-name">Update com Afeto</div><div class="brand-sub">Daily Intelligence Desk</div></div></div><div class="top-right"><span class="status"><i class="dot"></i>Desk editorial</span><span>14 OUT 2026</span><a class="refresh-edition" href="https://github.com/studio-gh/update-com-afeto/actions/workflows/daily-edition.yml" target="_blank" rel="noopener noreferrer" title="Abrir o GitHub Actions para executar uma nova apuração">ATUALIZAR EDIÇÃO ↗</a><button class="refresh-edition" id="refresh-edition" type="button">↻ ATUALIZAR EDIÇÃO</button><button class="print" onclick="window.print()">IMPRIMIR EDIÇÃO ↗</button></div></div><nav><a class="active" href="#hoje">Hoje</a><a href="#editor">Escolha da editora</a><a href="#radar">Radar de campanhas</a><a href="#historias">Cultura &amp; comportamento</a><a href="#fontes">Fontes</a></nav></div></header>
+<div class="refresh-feedback" id="refresh-feedback" role="status" aria-live="polite" hidden><div class="refresh-spinner" id="refresh-spinner"></div><div><strong id="refresh-title">Atualizando edição</strong><span id="refresh-message">Estamos iniciando a apuração.</span></div></div>
 <main class="shell" id="hoje">
 <section class="intro"><div><div class="eyebrow">Quarta-feira · Edição diária</div><h1>O que está movendo as marcas e as pessoas.</h1><p>Uma leitura curada de comunicação, experiências de marca, negócios e cultura digital. Menos feed infinito, mais contexto para entender o que importa.</p></div><div class="edition">EDIÇÃO DO DIA<strong>14 outubro 2026</strong><span>10 histórias selecionadas</span></div></section>
 <section class="lead-grid" id="editor"><article class="lead"><div class="lead-art"><img alt="Campanha da Hellmann’s: mesa compartilhada e embalagem da maionese" class="source-photo lead-photo" decoding="async" loading="lazy" onerror="this.dataset.failed='true';this.remove();" referrerpolicy="no-referrer" src="https://www.meioemensagem.com.br/wp-content/uploads/2026/10/Fotos-Divulgacao-2026-10-02T165329.330-616x410.jpg"/></div><div class="lead-copy"><div class="eyebrow">Escolha da editora · pauta aprovada</div><h2>Hellmann’s transforma longevidade em argumento de marca</h2><p>A campanha “Só a verdadeira faz história” revisita um clássico da MPB para atravessar gerações e reforçar preferência. Memória cultural como ativo de marca, não apenas nostalgia.</p><div class="lead-foot"><span>MEIO &amp; MENSAGEM · 05 OUT 2026</span><a href="https://www.meioemensagem.com.br/comunicacao/hellmanns-investe-em-legado-no-brasil-para-nova-campanha" rel="noopener" target="_blank">Ler a matéria ↗</a><span class="pill">Pauta aprovada</span></div></div></article>
@@ -150,4 +164,47 @@ document.querySelectorAll('.filter').forEach(btn=>btn.addEventListener('click',(
 <!-- deploy-refresh: 2026-10-26 edition data sync -->
 
 <!-- edition refresh trigger 2026-10-30 -->
+
+<script id="manual-refresh">
+(function(){
+  const ENDPOINT = ""; // Configure with the deployed Cloudflare Worker URL, ending in /refresh.
+  const button=document.getElementById('refresh-edition');
+  const toast=document.getElementById('refresh-feedback');
+  const title=document.getElementById('refresh-title');
+  const message=document.getElementById('refresh-message');
+  const spinner=document.getElementById('refresh-spinner');
+  if(!button) return;
+  button.addEventListener('click',async function(){
+    if(button.disabled) return;
+    toast.hidden=false;
+    if(!ENDPOINT){
+      spinner.style.display='none';
+      title.textContent='Integração em configuração';
+      message.textContent='O botão já está preparado, mas o canal seguro de acionamento ainda precisa ser publicado no Cloudflare. Nenhum acesso ao GitHub será aberto para a Dani.';
+      return;
+    }
+    button.disabled=true;
+    button.textContent='APURAÇÃO EM ANDAMENTO…';
+    spinner.style.display='block';
+    title.textContent='Iniciando nova edição';
+    message.textContent='Conectando ao serviço de publicação. Esta etapa pode levar alguns minutos.';
+    try{
+      const response=await fetch(ENDPOINT,{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({action:'refresh'})});
+      const result=await response.json();
+      if(!response.ok || !result.ok) throw new Error(result.message || 'Não foi possível iniciar a apuração.');
+      title.textContent='Apuração iniciada';
+      message.textContent='Estamos buscando e validando as matérias. A página será atualizada assim que a nova edição for publicada.';
+      button.textContent='APURAÇÃO SOLICITADA';
+      spinner.style.display='block';
+    }catch(error){
+      spinner.style.display='none';
+      title.textContent='Não foi possível atualizar';
+      message.textContent=error.message || 'Tente novamente em instantes.';
+      button.disabled=false;
+      button.textContent='↻ ATUALIZAR EDIÇÃO';
+    }
+  });
+})();
+</script>
+
 </body></html>
