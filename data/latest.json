@@ -1,9 +1,9 @@
 {
-  "edition_date": "2026-11-06",
+  "edition_date": "2026-11-07",
   "status": "published",
   "notice": "Curadoria automática gratuita baseada em RSS e metadados das fontes originais.",
-  "window_start": "2026-10-31",
-  "window_end": "2026-11-06",
+  "window_start": "2026-11-01",
+  "window_end": "2026-11-07",
   "edition_name": "Update com Afeto",
   "editor_letter": "Esta edição reúne 10 histórias publicadas nos últimos sete dias, selecionadas entre as fontes do registro editorial unificado. A curadoria prioriza campanhas, marcas, estratégia, comportamento e cultura digital. Os resumos partem das descrições publicadas pelas próprias fontes; abra os links originais para ler o contexto completo.",
   "signals": [
@@ -14,12 +14,12 @@
     },
     {
       "title": "Branding",
-      "description": "2 matéria(s) desta edição exploram branding. Veja como as marcas e a cultura estão se movimentando neste tema.",
+      "description": "4 matéria(s) desta edição exploram branding. Veja como as marcas e a cultura estão se movimentando neste tema.",
       "category": "SINAL EDITORIAL"
     },
     {
-      "title": "Estratégia & negócios",
-      "description": "2 matéria(s) desta edição exploram estratégia & negócios. Veja como as marcas e a cultura estão se movimentando neste tema.",
+      "title": "Comportamento",
+      "description": "1 matéria(s) desta edição exploram comportamento. Veja como as marcas e a cultura estão se movimentando neste tema.",
       "category": "SINAL EDITORIAL"
     }
   ],
@@ -92,26 +92,26 @@
       "image_url": "https://storage.ghost.io/c/b8/a4/b8a4ba23-e08d-42f7-b459-b1bcab5b8867/content/images/size/w1200/2026/11/gap-2026.jpg"
     },
     {
-      "title": "OpenAI desenvolve modelo de IA para identificar vulnerabilidades em softwares | Fast Company Brasil",
-      "original_title": "OpenAI desenvolve modelo de IA para identificar vulnerabilidades em softwares | Fast Company Brasil",
-      "summary": "GPT-6 Cyber foi testado em sistemas conhecidos e integra a estratégia da empresa para reforçar a proteção de infraestruturas digitais.",
-      "why_it_matters": "Vale observar o que esta publicação revela sobre estratégia & negócios e suas implicações para marcas e comunicação.",
-      "category": "Estratégia & negócios",
+      "title": "5 cozy games para jogar quando você só quer relaxar | Fast Company Brasil",
+      "original_title": "5 cozy games para jogar quando você só quer relaxar | Fast Company Brasil",
+      "summary": "Exploração, personagens conhecidos e tarefas do dia a dia marcam cinco jogos indicados para momentos de descanso.",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre branding e suas implicações para marcas e comunicação.",
+      "category": "Branding",
       "source": "Fast Company Brasil",
-      "published_date": "2026-11-06",
-      "url": "https://fastcompanybrasil.com/ia/openai-desenvolve-modelo-ia-para-identificar-vulnerabilidade-softwares/",
-      "image_url": "https://fastcompanybrasil.com/wp-content/uploads/2026/11/chatgpt-lancamento.jpg"
+      "published_date": "2026-11-07",
+      "url": "https://fastcompanybrasil.com/games/5-cozy-games-para-jogar-quando-voce-so-quer-relaxar/",
+      "image_url": "https://fastcompanybrasil.com/wp-content/uploads/2026/11/cozy-games.jpg"
     },
     {
-      "title": "5 jogos brasileiros que mostram a criatividade da indústria nacional | Fast Company Brasil",
-      "original_title": "5 jogos brasileiros que mostram a criatividade da indústria nacional | Fast Company Brasil",
-      "summary": "Jogos independentes brasileiros apostam em narrativas originais, combates e desafios para conquistar espaço no mercado.",
-      "why_it_matters": "Vale observar o que esta publicação revela sobre estratégia & negócios e suas implicações para marcas e comunicação.",
-      "category": "Estratégia & negócios",
+      "title": "\"Dizis\": novelas turcas ampliam mercado no Brasil | Fast Company Brasil",
+      "original_title": "\"Dizis\": novelas turcas ampliam mercado no Brasil | Fast Company Brasil",
+      "summary": "Produções turcas ampliam sua presença no país e criam oportunidades de negócio para distribuidoras, plataformas e marcas.",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre branding e suas implicações para marcas e comunicação.",
+      "category": "Branding",
       "source": "Fast Company Brasil",
-      "published_date": "2026-11-06",
-      "url": "https://fastcompanybrasil.com/games/5-jogos-brasileiros-mostram-criatividade-industria-nacional/",
-      "image_url": "https://fastcompanybrasil.com/wp-content/uploads/2026/11/jogos-brasileiros.jpg"
+      "published_date": "2026-11-07",
+      "url": "https://fastcompanybrasil.com/creators-tech/dizis-novelas-turcas-ampliam-mercado-no-brasil/",
+      "image_url": "https://fastcompanybrasil.com/wp-content/uploads/2026/11/novelas-turcas-no-Brasil.jpg"
     },
     {
       "title": "Soon, Not Having Sonic Branding Will Create a Vacuum â LBB",

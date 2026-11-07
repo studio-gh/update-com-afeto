@@ -1,0 +1,139 @@
+{
+  "edition_date": "2026-11-07",
+  "status": "published",
+  "notice": "Curadoria automática gratuita baseada em RSS e metadados das fontes originais.",
+  "window_start": "2026-11-01",
+  "window_end": "2026-11-07",
+  "edition_name": "Update com Afeto",
+  "editor_letter": "Esta edição reúne 10 histórias publicadas nos últimos sete dias, selecionadas entre as fontes do registro editorial unificado. A curadoria prioriza campanhas, marcas, estratégia, comportamento e cultura digital. Os resumos partem das descrições publicadas pelas próprias fontes; abra os links originais para ler o contexto completo.",
+  "signals": [
+    {
+      "title": "Campanhas",
+      "description": "5 matéria(s) desta edição exploram campanhas. Veja como as marcas e a cultura estão se movimentando neste tema.",
+      "category": "SINAL EDITORIAL"
+    },
+    {
+      "title": "Branding",
+      "description": "4 matéria(s) desta edição exploram branding. Veja como as marcas e a cultura estão se movimentando neste tema.",
+      "category": "SINAL EDITORIAL"
+    },
+    {
+      "title": "Comportamento",
+      "description": "1 matéria(s) desta edição exploram comportamento. Veja como as marcas e a cultura estão se movimentando neste tema.",
+      "category": "SINAL EDITORIAL"
+    }
+  ],
+  "lead_url": "https://www.meioemensagem.com.br/comunicacao/realities-ganham-espaco-nas-estrategias-das-marcas",
+  "stories": [
+    {
+      "title": "Realities ganham espaço nas estratégias das marcas",
+      "original_title": "Realities ganham espaço nas estratégias das marcas",
+      "summary": "Com projetos para PepsiCo e Fanta, BR Media e VML discutem como o entretenimento amplia as possibilidades de conexão com os consumidores",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre branding e suas implicações para marcas e comunicação.",
+      "category": "Branding",
+      "source": "Meio & Mensagem",
+      "published_date": "2026-11-06",
+      "url": "https://www.meioemensagem.com.br/comunicacao/realities-ganham-espaco-nas-estrategias-das-marcas",
+      "image_url": "https://www.meioemensagem.com.br/wp-content/uploads/2026/11/realities.jpg"
+    },
+    {
+      "title": "Burberry comemora 170 anos com a fantasia definitiva do Natal britânico",
+      "original_title": "Burberry comemora 170 anos com a fantasia definitiva do Natal britânico",
+      "summary": "Harmony Korine dirige Pierce Brosnan e Fiona Shaw numa festa em uma mansão histórica inglesa que transforma a campanha de fim de ano em síntese da estratégia atual da marca",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre campanhas e suas implicações para marcas e comunicação.",
+      "category": "Campanhas",
+      "source": "B9",
+      "published_date": "2026-11-04",
+      "url": "https://www.b9.com.br/burberry-comemora-170-anos-com-a-fantasia-definitiva-do-natal-britanico/",
+      "image_url": "https://storage.ghost.io/c/b8/a4/b8a4ba23-e08d-42f7-b459-b1bcab5b8867/content/images/size/w1200/2026/11/burberry-170.jpg"
+    },
+    {
+      "title": "Dengo lança campanha de Natal com 12 novidades",
+      "original_title": "Dengo lança campanha de Natal com 12 novidades",
+      "summary": "Com o mote \"Natal é feito com Dengo\", a marca reúne 26 opções de presente, ingredientes brasileiros e embalagens que ganham novos usos depois das festas, com ilustrações inéditas de Winny Tapajós.",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre campanhas e suas implicações para marcas e comunicação.",
+      "category": "Campanhas",
+      "source": "Update or Die!",
+      "published_date": "2026-11-05",
+      "url": "https://updateordie.com/2026/11/05/dengo-lanca-campanha-de-natal-com-12-novidades/",
+      "image_url": "https://updateordie.com/wp-content/uploads/2026/11/maxresdefault-7.jpg"
+    },
+    {
+      "title": "KFC é salvo da destruição do Doutor Destino",
+      "original_title": "KFC é salvo da destruição do Doutor Destino",
+      "summary": "Criada pela Mother, a campanha global marca a maior parceria da KFC até hoje com a Marvel Studios e chega a mais de 100 países com cardápio, embalagens e colecionáveis inspirados no vilão de Vingadores: Doomsday.",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre campanhas e suas implicações para marcas e comunicação.",
+      "category": "Campanhas",
+      "source": "Update or Die!",
+      "published_date": "2026-11-05",
+      "url": "https://updateordie.com/2026/11/05/kfc-e-salvo-da-destruicao-do-doutor-destino/",
+      "image_url": "https://updateordie.com/wp-content/uploads/2026/11/marvel-heroes-villains-crossover-dMQP0LllCy.webp"
+    },
+    {
+      "title": "Intimus: Rebeca Andrade estrela 1ª campanha como embaixadora",
+      "original_title": "Intimus: Rebeca Andrade estrela 1ª campanha como embaixadora",
+      "summary": "Marca associa a trajetória da ginasta à tecnologia do absorvente em campanha criada pela Africa Creative",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre campanhas e suas implicações para marcas e comunicação.",
+      "category": "Campanhas",
+      "source": "Meio & Mensagem",
+      "published_date": "2026-11-05",
+      "url": "https://www.meioemensagem.com.br/comunicacao/intimus-rebeca-andrade-estrela-1a-campanha-como-embaixadora",
+      "image_url": "https://www.meioemensagem.com.br/wp-content/uploads/2026/11/Rebeca-Andrade-Intimus-.jpg"
+    },
+    {
+      "title": "Gap transforma coral em tradição de Natal e revisita Jackson 5 em nova campanha",
+      "original_title": "Gap transforma coral em tradição de Natal e revisita Jackson 5 em nova campanha",
+      "summary": "Terceira edição de “Give Your Gift” reúne três grupos vocais em uma nova versão de “I’ll Be There” e consolida música, comunidade e básicos da marca como fórmula para o fim do ano",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre campanhas e suas implicações para marcas e comunicação.",
+      "category": "Campanhas",
+      "source": "B9",
+      "published_date": "2026-11-04",
+      "url": "https://www.b9.com.br/gap-natal-2026-give-your-gift-jackson-5/",
+      "image_url": "https://storage.ghost.io/c/b8/a4/b8a4ba23-e08d-42f7-b459-b1bcab5b8867/content/images/size/w1200/2026/11/gap-2026.jpg"
+    },
+    {
+      "title": "5 cozy games para jogar quando você só quer relaxar | Fast Company Brasil",
+      "original_title": "5 cozy games para jogar quando você só quer relaxar | Fast Company Brasil",
+      "summary": "Exploração, personagens conhecidos e tarefas do dia a dia marcam cinco jogos indicados para momentos de descanso.",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre branding e suas implicações para marcas e comunicação.",
+      "category": "Branding",
+      "source": "Fast Company Brasil",
+      "published_date": "2026-11-07",
+      "url": "https://fastcompanybrasil.com/games/5-cozy-games-para-jogar-quando-voce-so-quer-relaxar/",
+      "image_url": "https://fastcompanybrasil.com/wp-content/uploads/2026/11/cozy-games.jpg"
+    },
+    {
+      "title": "\"Dizis\": novelas turcas ampliam mercado no Brasil | Fast Company Brasil",
+      "original_title": "\"Dizis\": novelas turcas ampliam mercado no Brasil | Fast Company Brasil",
+      "summary": "Produções turcas ampliam sua presença no país e criam oportunidades de negócio para distribuidoras, plataformas e marcas.",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre branding e suas implicações para marcas e comunicação.",
+      "category": "Branding",
+      "source": "Fast Company Brasil",
+      "published_date": "2026-11-07",
+      "url": "https://fastcompanybrasil.com/creators-tech/dizis-novelas-turcas-ampliam-mercado-no-brasil/",
+      "image_url": "https://fastcompanybrasil.com/wp-content/uploads/2026/11/novelas-turcas-no-Brasil.jpg"
+    },
+    {
+      "title": "Soon, Not Having Sonic Branding Will Create a Vacuum â LBB",
+      "original_title": "Soon, Not Having Sonic Branding Will Create a Vacuum â LBB",
+      "summary": "WithFeeling's John Smeddle explains why sonic branding is about to become a must-have, not a nice-to-have",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre branding e suas implicações para marcas e comunicação.",
+      "category": "Branding",
+      "source": "LBB",
+      "published_date": "2026-11-06",
+      "url": "https://lbbonline.com/news/soon-not-having-sonic-branding-will-create-a-vacuum",
+      "image_url": "https://d3q27bh1u24u2o.cloudfront.net/resized/1200/news/2026-11/withfeeling.Q00mnpoc.png"
+    },
+    {
+      "title": "Quiet Revolt Media Group Launches New Connected Media and Entertainment Production Ecosystem â LBB",
+      "original_title": "Quiet Revolt Media Group Launches New Connected Media and Entertainment Production Ecosystem â LBB",
+      "summary": "Aiming to be a home for world-class storytelling, the company brings together high-end production, distribution, live cultural touchpoints, and original IP incubation, with an active slate of projects covering food, travel, music, lifestyle, and more",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre comportamento e suas implicações para marcas e comunicação.",
+      "category": "Comportamento",
+      "source": "LBB",
+      "published_date": "2026-11-06",
+      "url": "https://lbbonline.com/news/quiet-revolt-media-group-new-launch",
+      "image_url": "https://d3q27bh1u24u2o.cloudfront.net/resized/1200/news/2026-11/quiet-revolt-media-group.EIRkCtyE.jpg"
+    }
+  ]
+}
