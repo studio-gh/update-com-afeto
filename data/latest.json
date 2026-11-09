@@ -13,17 +13,17 @@
       "category": "SINAL EDITORIAL"
     },
     {
-      "title": "Branding",
-      "description": "3 matéria(s) desta edição exploram branding. Veja como as marcas e a cultura estão se movimentando neste tema.",
+      "title": "Experiência de marca",
+      "description": "2 matéria(s) desta edição exploram experiência de marca. Veja como as marcas e a cultura estão se movimentando neste tema.",
       "category": "SINAL EDITORIAL"
     },
     {
-      "title": "Comportamento",
-      "description": "1 matéria(s) desta edição exploram comportamento. Veja como as marcas e a cultura estão se movimentando neste tema.",
+      "title": "Branding",
+      "description": "1 matéria(s) desta edição exploram branding. Veja como as marcas e a cultura estão se movimentando neste tema.",
       "category": "SINAL EDITORIAL"
     }
   ],
-  "lead_url": "https://fastcompanybrasil.com/design/marcas-carros-eletricos-estao-ficando-iguais-estudo-aponta-crise-de-identidade-setor/",
+  "lead_url": "https://www.meioemensagem.com.br/comunicacao/realities-ganham-espaco-nas-estrategias-das-marcas",
   "stories": [
     {
       "title": "Realities ganham espaço nas estratégias das marcas",
@@ -46,17 +46,6 @@
       "published_date": "2026-11-04",
       "url": "https://www.b9.com.br/burberry-comemora-170-anos-com-a-fantasia-definitiva-do-natal-britanico/",
       "image_url": "https://storage.ghost.io/c/b8/a4/b8a4ba23-e08d-42f7-b459-b1bcab5b8867/content/images/size/w1200/2026/11/burberry-170.jpg"
-    },
-    {
-      "title": "Fotos de produtos geradas por IA podem afastar compradores; entenda o motivo | Fast Company Brasil",
-      "original_title": "Fotos de produtos geradas por IA podem afastar compradores; entenda o motivo | Fast Company Brasil",
-      "summary": "Levantamento com consumidores dos EUA mostra que imagens artificiais podem reduzir a confiança nas compras pela internet.",
-      "why_it_matters": "Vale observar o que esta publicação revela sobre comportamento e suas implicações para marcas e comunicação.",
-      "category": "Comportamento",
-      "source": "Fast Company Brasil",
-      "published_date": "2026-11-09",
-      "url": "https://fastcompanybrasil.com/ia/fotos-produtos-geradas-ia-podem-afastar-compradores-entenda-motivo/",
-      "image_url": "https://fastcompanybrasil.com/wp-content/uploads/2026/11/compra-imagem-ia.jpg"
     },
     {
       "title": "Dengo lança campanha de Natal com 12 novidades",
@@ -103,37 +92,48 @@
       "image_url": "https://storage.ghost.io/c/b8/a4/b8a4ba23-e08d-42f7-b459-b1bcab5b8867/content/images/size/w1200/2026/11/gap-2026.jpg"
     },
     {
-      "title": "Marcas de carros elétricos estão ficando iguais? Estudo aponta crise de identidade no setor | Fast Company Brasil",
-      "original_title": "Marcas de carros elétricos estão ficando iguais? Estudo aponta crise de identidade no setor | Fast Company Brasil",
-      "summary": "Mesmo com a preferência crescente pelos veículos elétricos, fabricantes enfrentam dificuldades para construir marcas reconhecíveis.",
-      "why_it_matters": "Vale observar o que esta publicação revela sobre branding e suas implicações para marcas e comunicação.",
-      "category": "Branding",
+      "title": "Menos faltas e mais produtividade: o que o CEO da C&A diz sobre a escala 5x2? | Fast Company Brasil",
+      "original_title": "Menos faltas e mais produtividade: o que o CEO da C&A diz sobre a escala 5x2? | Fast Company Brasil",
+      "summary": "Experiência inicial indica melhora na frequência dos funcionários, enquanto a empresa aposta em tecnologia para elevar a produtividade.",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre experiência de marca e suas implicações para marcas e comunicação.",
+      "category": "Experiência de marca",
       "source": "Fast Company Brasil",
       "published_date": "2026-11-09",
-      "url": "https://fastcompanybrasil.com/design/marcas-carros-eletricos-estao-ficando-iguais-estudo-aponta-crise-de-identidade-setor/",
-      "image_url": "https://fastcompanybrasil.com/wp-content/uploads/2026/11/carro-eletrico.jpg"
+      "url": "https://fastcompanybrasil.com/futuro-do-trabalho/menos-faltas-mais-produtividade-o-que-ceo-cea-diz-sobre-escala-5x2/",
+      "image_url": "https://fastcompanybrasil.com/wp-content/uploads/2026/11/cea-escala5x2.jpg"
     },
     {
-      "title": "The Many Creative Inspirations of Cem Bayazit â LBB",
-      "original_title": "The Many Creative Inspirations of Cem Bayazit â LBB",
-      "summary": "The amp sound branding senior creative on his most memorable musical collaborations, creative heroes, and Tokyo record shops as part of LBBâs Thinking in Sound series",
-      "why_it_matters": "Vale observar o que esta publicação revela sobre branding e suas implicações para marcas e comunicação.",
-      "category": "Branding",
+      "title": "Novo Football Manager amplia recursos para quem gosta de comandar clubes | Fast Company Brasil",
+      "original_title": "Novo Football Manager amplia recursos para quem gosta de comandar clubes | Fast Company Brasil",
+      "summary": "Football Manager 27 aposta em ferramentas de gestão, mudanças na experiência das partidas e um novo modo multiplayer.",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre experiência de marca e suas implicações para marcas e comunicação.",
+      "category": "Experiência de marca",
+      "source": "Fast Company Brasil",
+      "published_date": "2026-11-09",
+      "url": "https://fastcompanybrasil.com/games/novo-football-manager-amplia-recursos-para-quem-gosta-de-comandar-clubes/",
+      "image_url": "https://fastcompanybrasil.com/wp-content/uploads/2026/11/futebol-manager.jpg"
+    },
+    {
+      "title": "The Other Side of the Pitch: Johnny Winn on What Agencies Get Wrong About Clients â LBB",
+      "original_title": "The Other Side of the Pitch: Johnny Winn on What Agencies Get Wrong About Clients â LBB",
+      "summary": "Having swapped Virgin Media O2 for Exposure, the marketing director speaks with LBB about the pressures agencies don't see, the pitfalls of creative testing, and why cultural relevance is easier said than done",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre comportamento e suas implicações para marcas e comunicação.",
+      "category": "Comportamento",
       "source": "LBB",
       "published_date": "2026-11-09",
-      "url": "https://lbbonline.com/news/the-many-creative-inspirations-of-cem-bayazit",
-      "image_url": "https://d3q27bh1u24u2o.cloudfront.net/resized/1200/news/2026-11/cem-bayazit-amp.Gar4K4WZ.png"
+      "url": "https://lbbonline.com/news/the-other-side-of-the-pitch-johnny-winn-on-what-agencies-get-wrong-about-clients",
+      "image_url": "https://d3q27bh1u24u2o.cloudfront.net/resized/1200/news_hero/2026-11/winn-fin.dwqX1HqJ.png"
     },
     {
-      "title": "Carlâs Jr. Takes Steakhouse Dining to New Heights with Burger That Calls for Fancy Pants â LBB",
-      "original_title": "Carlâs Jr. Takes Steakhouse Dining to New Heights with Burger That Calls for Fancy Pants â LBB",
-      "summary": "Comedic campaign from Erich & Kallman, directed by Fatal Farm of Gravy Films, follows comedian Bert Kreischer as he cycles through an increasingly outrageous collection of âfancy pantsâ",
+      "title": "Comedy Duo IMomSoHard Return to Ring in Holiday Season at Famous Footwear â LBB",
+      "original_title": "Comedy Duo IMomSoHard Return to Ring in Holiday Season at Famous Footwear â LBB",
+      "summary": "Campaign from THE MAYOR, directed by Lalou & Joaquin through Chelsea Pictures, trades holiday stress for humour",
       "why_it_matters": "Vale observar o que esta publicação revela sobre campanhas e suas implicações para marcas e comunicação.",
       "category": "Campanhas",
       "source": "LBB",
       "published_date": "2026-11-09",
-      "url": "https://lbbonline.com/news/carl-s-jr-fancy-pants",
-      "image_url": "https://d3q27bh1u24u2o.cloudfront.net/resized/1200/news/2026-11/bert-end.sOiUeE0h.jpg"
+      "url": "https://lbbonline.com/news/comedy-duo-imomsohard-holiday-season-famous-footwear",
+      "image_url": "https://d3q27bh1u24u2o.cloudfront.net/resized/1200/news/2026-11/lbb-4.2y7ln3Ss.jpg"
     }
   ]
 }
