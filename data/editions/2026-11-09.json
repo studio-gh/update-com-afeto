@@ -1,0 +1,139 @@
+{
+  "edition_date": "2026-11-09",
+  "status": "published",
+  "notice": "Curadoria automática gratuita baseada em RSS e metadados das fontes originais.",
+  "window_start": "2026-11-03",
+  "window_end": "2026-11-09",
+  "edition_name": "Update com Afeto",
+  "editor_letter": "Esta edição reúne 10 histórias publicadas nos últimos sete dias, selecionadas entre as fontes do registro editorial unificado. A curadoria prioriza campanhas, marcas, estratégia, comportamento e cultura digital. Os resumos partem das descrições publicadas pelas próprias fontes; abra os links originais para ler o contexto completo.",
+  "signals": [
+    {
+      "title": "Campanhas",
+      "description": "6 matéria(s) desta edição exploram campanhas. Veja como as marcas e a cultura estão se movimentando neste tema.",
+      "category": "SINAL EDITORIAL"
+    },
+    {
+      "title": "Branding",
+      "description": "3 matéria(s) desta edição exploram branding. Veja como as marcas e a cultura estão se movimentando neste tema.",
+      "category": "SINAL EDITORIAL"
+    },
+    {
+      "title": "Comportamento",
+      "description": "1 matéria(s) desta edição exploram comportamento. Veja como as marcas e a cultura estão se movimentando neste tema.",
+      "category": "SINAL EDITORIAL"
+    }
+  ],
+  "lead_url": "https://fastcompanybrasil.com/design/marcas-carros-eletricos-estao-ficando-iguais-estudo-aponta-crise-de-identidade-setor/",
+  "stories": [
+    {
+      "title": "Realities ganham espaço nas estratégias das marcas",
+      "original_title": "Realities ganham espaço nas estratégias das marcas",
+      "summary": "Com projetos para PepsiCo e Fanta, BR Media e VML discutem como o entretenimento amplia as possibilidades de conexão com os consumidores",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre branding e suas implicações para marcas e comunicação.",
+      "category": "Branding",
+      "source": "Meio & Mensagem",
+      "published_date": "2026-11-06",
+      "url": "https://www.meioemensagem.com.br/comunicacao/realities-ganham-espaco-nas-estrategias-das-marcas",
+      "image_url": "https://www.meioemensagem.com.br/wp-content/uploads/2026/11/realities.jpg"
+    },
+    {
+      "title": "Burberry comemora 170 anos com a fantasia definitiva do Natal britânico",
+      "original_title": "Burberry comemora 170 anos com a fantasia definitiva do Natal britânico",
+      "summary": "Harmony Korine dirige Pierce Brosnan e Fiona Shaw numa festa em uma mansão histórica inglesa que transforma a campanha de fim de ano em síntese da estratégia atual da marca",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre campanhas e suas implicações para marcas e comunicação.",
+      "category": "Campanhas",
+      "source": "B9",
+      "published_date": "2026-11-04",
+      "url": "https://www.b9.com.br/burberry-comemora-170-anos-com-a-fantasia-definitiva-do-natal-britanico/",
+      "image_url": "https://storage.ghost.io/c/b8/a4/b8a4ba23-e08d-42f7-b459-b1bcab5b8867/content/images/size/w1200/2026/11/burberry-170.jpg"
+    },
+    {
+      "title": "Fotos de produtos geradas por IA podem afastar compradores; entenda o motivo | Fast Company Brasil",
+      "original_title": "Fotos de produtos geradas por IA podem afastar compradores; entenda o motivo | Fast Company Brasil",
+      "summary": "Levantamento com consumidores dos EUA mostra que imagens artificiais podem reduzir a confiança nas compras pela internet.",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre comportamento e suas implicações para marcas e comunicação.",
+      "category": "Comportamento",
+      "source": "Fast Company Brasil",
+      "published_date": "2026-11-09",
+      "url": "https://fastcompanybrasil.com/ia/fotos-produtos-geradas-ia-podem-afastar-compradores-entenda-motivo/",
+      "image_url": "https://fastcompanybrasil.com/wp-content/uploads/2026/11/compra-imagem-ia.jpg"
+    },
+    {
+      "title": "Dengo lança campanha de Natal com 12 novidades",
+      "original_title": "Dengo lança campanha de Natal com 12 novidades",
+      "summary": "Com o mote \"Natal é feito com Dengo\", a marca reúne 26 opções de presente, ingredientes brasileiros e embalagens que ganham novos usos depois das festas, com ilustrações inéditas de Winny Tapajós.",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre campanhas e suas implicações para marcas e comunicação.",
+      "category": "Campanhas",
+      "source": "Update or Die!",
+      "published_date": "2026-11-05",
+      "url": "https://updateordie.com/2026/11/05/dengo-lanca-campanha-de-natal-com-12-novidades/",
+      "image_url": "https://updateordie.com/wp-content/uploads/2026/11/maxresdefault-7.jpg"
+    },
+    {
+      "title": "KFC é salvo da destruição do Doutor Destino",
+      "original_title": "KFC é salvo da destruição do Doutor Destino",
+      "summary": "Criada pela Mother, a campanha global marca a maior parceria da KFC até hoje com a Marvel Studios e chega a mais de 100 países com cardápio, embalagens e colecionáveis inspirados no vilão de Vingadores: Doomsday.",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre campanhas e suas implicações para marcas e comunicação.",
+      "category": "Campanhas",
+      "source": "Update or Die!",
+      "published_date": "2026-11-05",
+      "url": "https://updateordie.com/2026/11/05/kfc-e-salvo-da-destruicao-do-doutor-destino/",
+      "image_url": "https://updateordie.com/wp-content/uploads/2026/11/marvel-heroes-villains-crossover-dMQP0LllCy.webp"
+    },
+    {
+      "title": "Intimus: Rebeca Andrade estrela 1ª campanha como embaixadora",
+      "original_title": "Intimus: Rebeca Andrade estrela 1ª campanha como embaixadora",
+      "summary": "Marca associa a trajetória da ginasta à tecnologia do absorvente em campanha criada pela Africa Creative",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre campanhas e suas implicações para marcas e comunicação.",
+      "category": "Campanhas",
+      "source": "Meio & Mensagem",
+      "published_date": "2026-11-05",
+      "url": "https://www.meioemensagem.com.br/comunicacao/intimus-rebeca-andrade-estrela-1a-campanha-como-embaixadora",
+      "image_url": "https://www.meioemensagem.com.br/wp-content/uploads/2026/11/Rebeca-Andrade-Intimus-.jpg"
+    },
+    {
+      "title": "Gap transforma coral em tradição de Natal e revisita Jackson 5 em nova campanha",
+      "original_title": "Gap transforma coral em tradição de Natal e revisita Jackson 5 em nova campanha",
+      "summary": "Terceira edição de “Give Your Gift” reúne três grupos vocais em uma nova versão de “I’ll Be There” e consolida música, comunidade e básicos da marca como fórmula para o fim do ano",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre campanhas e suas implicações para marcas e comunicação.",
+      "category": "Campanhas",
+      "source": "B9",
+      "published_date": "2026-11-04",
+      "url": "https://www.b9.com.br/gap-natal-2026-give-your-gift-jackson-5/",
+      "image_url": "https://storage.ghost.io/c/b8/a4/b8a4ba23-e08d-42f7-b459-b1bcab5b8867/content/images/size/w1200/2026/11/gap-2026.jpg"
+    },
+    {
+      "title": "Marcas de carros elétricos estão ficando iguais? Estudo aponta crise de identidade no setor | Fast Company Brasil",
+      "original_title": "Marcas de carros elétricos estão ficando iguais? Estudo aponta crise de identidade no setor | Fast Company Brasil",
+      "summary": "Mesmo com a preferência crescente pelos veículos elétricos, fabricantes enfrentam dificuldades para construir marcas reconhecíveis.",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre branding e suas implicações para marcas e comunicação.",
+      "category": "Branding",
+      "source": "Fast Company Brasil",
+      "published_date": "2026-11-09",
+      "url": "https://fastcompanybrasil.com/design/marcas-carros-eletricos-estao-ficando-iguais-estudo-aponta-crise-de-identidade-setor/",
+      "image_url": "https://fastcompanybrasil.com/wp-content/uploads/2026/11/carro-eletrico.jpg"
+    },
+    {
+      "title": "The Many Creative Inspirations of Cem Bayazit â LBB",
+      "original_title": "The Many Creative Inspirations of Cem Bayazit â LBB",
+      "summary": "The amp sound branding senior creative on his most memorable musical collaborations, creative heroes, and Tokyo record shops as part of LBBâs Thinking in Sound series",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre branding e suas implicações para marcas e comunicação.",
+      "category": "Branding",
+      "source": "LBB",
+      "published_date": "2026-11-09",
+      "url": "https://lbbonline.com/news/the-many-creative-inspirations-of-cem-bayazit",
+      "image_url": "https://d3q27bh1u24u2o.cloudfront.net/resized/1200/news/2026-11/cem-bayazit-amp.Gar4K4WZ.png"
+    },
+    {
+      "title": "Carlâs Jr. Takes Steakhouse Dining to New Heights with Burger That Calls for Fancy Pants â LBB",
+      "original_title": "Carlâs Jr. Takes Steakhouse Dining to New Heights with Burger That Calls for Fancy Pants â LBB",
+      "summary": "Comedic campaign from Erich & Kallman, directed by Fatal Farm of Gravy Films, follows comedian Bert Kreischer as he cycles through an increasingly outrageous collection of âfancy pantsâ",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre campanhas e suas implicações para marcas e comunicação.",
+      "category": "Campanhas",
+      "source": "LBB",
+      "published_date": "2026-11-09",
+      "url": "https://lbbonline.com/news/carl-s-jr-fancy-pants",
+      "image_url": "https://d3q27bh1u24u2o.cloudfront.net/resized/1200/news/2026-11/bert-end.sOiUeE0h.jpg"
+    }
+  ]
+}

@@ -1,9 +1,9 @@
 {
-  "edition_date": "2026-11-08",
+  "edition_date": "2026-11-09",
   "status": "published",
   "notice": "Curadoria automática gratuita baseada em RSS e metadados das fontes originais.",
-  "window_start": "2026-11-02",
-  "window_end": "2026-11-08",
+  "window_start": "2026-11-03",
+  "window_end": "2026-11-09",
   "edition_name": "Update com Afeto",
   "editor_letter": "Esta edição reúne 10 histórias publicadas nos últimos sete dias, selecionadas entre as fontes do registro editorial unificado. A curadoria prioriza campanhas, marcas, estratégia, comportamento e cultura digital. Os resumos partem das descrições publicadas pelas próprias fontes; abra os links originais para ler o contexto completo.",
   "signals": [
@@ -23,7 +23,7 @@
       "category": "SINAL EDITORIAL"
     }
   ],
-  "lead_url": "https://www.meioemensagem.com.br/comunicacao/realities-ganham-espaco-nas-estrategias-das-marcas",
+  "lead_url": "https://fastcompanybrasil.com/design/marcas-carros-eletricos-estao-ficando-iguais-estudo-aponta-crise-de-identidade-setor/",
   "stories": [
     {
       "title": "Realities ganham espaço nas estratégias das marcas",
@@ -46,6 +46,17 @@
       "published_date": "2026-11-04",
       "url": "https://www.b9.com.br/burberry-comemora-170-anos-com-a-fantasia-definitiva-do-natal-britanico/",
       "image_url": "https://storage.ghost.io/c/b8/a4/b8a4ba23-e08d-42f7-b459-b1bcab5b8867/content/images/size/w1200/2026/11/burberry-170.jpg"
+    },
+    {
+      "title": "Fotos de produtos geradas por IA podem afastar compradores; entenda o motivo | Fast Company Brasil",
+      "original_title": "Fotos de produtos geradas por IA podem afastar compradores; entenda o motivo | Fast Company Brasil",
+      "summary": "Levantamento com consumidores dos EUA mostra que imagens artificiais podem reduzir a confiança nas compras pela internet.",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre comportamento e suas implicações para marcas e comunicação.",
+      "category": "Comportamento",
+      "source": "Fast Company Brasil",
+      "published_date": "2026-11-09",
+      "url": "https://fastcompanybrasil.com/ia/fotos-produtos-geradas-ia-podem-afastar-compradores-entenda-motivo/",
+      "image_url": "https://fastcompanybrasil.com/wp-content/uploads/2026/11/compra-imagem-ia.jpg"
     },
     {
       "title": "Dengo lança campanha de Natal com 12 novidades",
@@ -92,48 +103,37 @@
       "image_url": "https://storage.ghost.io/c/b8/a4/b8a4ba23-e08d-42f7-b459-b1bcab5b8867/content/images/size/w1200/2026/11/gap-2026.jpg"
     },
     {
-      "title": "Trump insulta Noruega; país responde com banheiros públicos",
-      "original_title": "Trump insulta Noruega; país responde com banheiros públicos",
-      "summary": "Trump chamou a Noruega de “país de merda”. O país respondeu com uma campanha sobre seus banheiros públicos de design que atraiu milhões de visualizações.",
+      "title": "Marcas de carros elétricos estão ficando iguais? Estudo aponta crise de identidade no setor | Fast Company Brasil",
+      "original_title": "Marcas de carros elétricos estão ficando iguais? Estudo aponta crise de identidade no setor | Fast Company Brasil",
+      "summary": "Mesmo com a preferência crescente pelos veículos elétricos, fabricantes enfrentam dificuldades para construir marcas reconhecíveis.",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre branding e suas implicações para marcas e comunicação.",
+      "category": "Branding",
+      "source": "Fast Company Brasil",
+      "published_date": "2026-11-09",
+      "url": "https://fastcompanybrasil.com/design/marcas-carros-eletricos-estao-ficando-iguais-estudo-aponta-crise-de-identidade-setor/",
+      "image_url": "https://fastcompanybrasil.com/wp-content/uploads/2026/11/carro-eletrico.jpg"
+    },
+    {
+      "title": "The Many Creative Inspirations of Cem Bayazit â LBB",
+      "original_title": "The Many Creative Inspirations of Cem Bayazit â LBB",
+      "summary": "The amp sound branding senior creative on his most memorable musical collaborations, creative heroes, and Tokyo record shops as part of LBBâs Thinking in Sound series",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre branding e suas implicações para marcas e comunicação.",
+      "category": "Branding",
+      "source": "LBB",
+      "published_date": "2026-11-09",
+      "url": "https://lbbonline.com/news/the-many-creative-inspirations-of-cem-bayazit",
+      "image_url": "https://d3q27bh1u24u2o.cloudfront.net/resized/1200/news/2026-11/cem-bayazit-amp.Gar4K4WZ.png"
+    },
+    {
+      "title": "Carlâs Jr. Takes Steakhouse Dining to New Heights with Burger That Calls for Fancy Pants â LBB",
+      "original_title": "Carlâs Jr. Takes Steakhouse Dining to New Heights with Burger That Calls for Fancy Pants â LBB",
+      "summary": "Comedic campaign from Erich & Kallman, directed by Fatal Farm of Gravy Films, follows comedian Bert Kreischer as he cycles through an increasingly outrageous collection of âfancy pantsâ",
       "why_it_matters": "Vale observar o que esta publicação revela sobre campanhas e suas implicações para marcas e comunicação.",
       "category": "Campanhas",
-      "source": "Fast Company Brasil",
-      "published_date": "2026-11-08",
-      "url": "https://fastcompanybrasil.com/design/trump-noruega-banheiros-publicos-campanha-copiar/",
-      "image_url": "https://fastcompanybrasil.com/wp-content/uploads/2026/11/noruega-trump-banheiros-publicos-kv.jpg"
-    },
-    {
-      "title": "5 cozy games para jogar quando você só quer relaxar | Fast Company Brasil",
-      "original_title": "5 cozy games para jogar quando você só quer relaxar | Fast Company Brasil",
-      "summary": "Exploração, personagens conhecidos e tarefas do dia a dia marcam cinco jogos indicados para momentos de descanso.",
-      "why_it_matters": "Vale observar o que esta publicação revela sobre branding e suas implicações para marcas e comunicação.",
-      "category": "Branding",
-      "source": "Fast Company Brasil",
-      "published_date": "2026-11-07",
-      "url": "https://fastcompanybrasil.com/games/5-cozy-games-para-jogar-quando-voce-so-quer-relaxar/",
-      "image_url": "https://fastcompanybrasil.com/wp-content/uploads/2026/11/cozy-games.jpg"
-    },
-    {
-      "title": "Soon, Not Having Sonic Branding Will Create a Vacuum â LBB",
-      "original_title": "Soon, Not Having Sonic Branding Will Create a Vacuum â LBB",
-      "summary": "WithFeeling's John Smeddle explains why sonic branding is about to become a must-have, not a nice-to-have",
-      "why_it_matters": "Vale observar o que esta publicação revela sobre branding e suas implicações para marcas e comunicação.",
-      "category": "Branding",
       "source": "LBB",
-      "published_date": "2026-11-06",
-      "url": "https://lbbonline.com/news/soon-not-having-sonic-branding-will-create-a-vacuum",
-      "image_url": "https://d3q27bh1u24u2o.cloudfront.net/resized/1200/news/2026-11/withfeeling.Q00mnpoc.png"
-    },
-    {
-      "title": "Quiet Revolt Media Group Launches New Connected Media and Entertainment Production Ecosystem â LBB",
-      "original_title": "Quiet Revolt Media Group Launches New Connected Media and Entertainment Production Ecosystem â LBB",
-      "summary": "Aiming to be a home for world-class storytelling, the company brings together high-end production, distribution, live cultural touchpoints, and original IP incubation, with an active slate of projects covering food, travel, music, lifestyle, and more",
-      "why_it_matters": "Vale observar o que esta publicação revela sobre comportamento e suas implicações para marcas e comunicação.",
-      "category": "Comportamento",
-      "source": "LBB",
-      "published_date": "2026-11-06",
-      "url": "https://lbbonline.com/news/quiet-revolt-media-group-new-launch",
-      "image_url": "https://d3q27bh1u24u2o.cloudfront.net/resized/1200/news/2026-11/quiet-revolt-media-group.EIRkCtyE.jpg"
+      "published_date": "2026-11-09",
+      "url": "https://lbbonline.com/news/carl-s-jr-fancy-pants",
+      "image_url": "https://d3q27bh1u24u2o.cloudfront.net/resized/1200/news/2026-11/bert-end.sOiUeE0h.jpg"
     }
   ]
 }
