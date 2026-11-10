@@ -1,0 +1,139 @@
+{
+  "edition_date": "2026-11-10",
+  "status": "published",
+  "notice": "Curadoria automática gratuita baseada em RSS e metadados das fontes originais.",
+  "window_start": "2026-11-04",
+  "window_end": "2026-11-10",
+  "edition_name": "Update com Afeto",
+  "editor_letter": "Esta edição reúne 10 histórias publicadas nos últimos sete dias, selecionadas entre as fontes do registro editorial unificado. A curadoria prioriza campanhas, marcas, estratégia, comportamento e cultura digital. Os resumos partem das descrições publicadas pelas próprias fontes; abra os links originais para ler o contexto completo.",
+  "signals": [
+    {
+      "title": "Campanhas",
+      "description": "6 matéria(s) desta edição exploram campanhas. Veja como as marcas e a cultura estão se movimentando neste tema.",
+      "category": "SINAL EDITORIAL"
+    },
+    {
+      "title": "Branding",
+      "description": "3 matéria(s) desta edição exploram branding. Veja como as marcas e a cultura estão se movimentando neste tema.",
+      "category": "SINAL EDITORIAL"
+    },
+    {
+      "title": "Estratégia & negócios",
+      "description": "1 matéria(s) desta edição exploram estratégia & negócios. Veja como as marcas e a cultura estão se movimentando neste tema.",
+      "category": "SINAL EDITORIAL"
+    }
+  ],
+  "lead_url": "https://www.b9.com.br/hinge-primeira-campanha-america-latina-brasil-hingie/",
+  "stories": [
+    {
+      "title": "Realities ganham espaço nas estratégias das marcas",
+      "original_title": "Realities ganham espaço nas estratégias das marcas",
+      "summary": "Com projetos para PepsiCo e Fanta, BR Media e VML discutem como o entretenimento amplia as possibilidades de conexão com os consumidores",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre branding e suas implicações para marcas e comunicação.",
+      "category": "Branding",
+      "source": "Meio & Mensagem",
+      "published_date": "2026-11-06",
+      "url": "https://www.meioemensagem.com.br/comunicacao/realities-ganham-espaco-nas-estrategias-das-marcas",
+      "image_url": "https://www.meioemensagem.com.br/wp-content/uploads/2026/11/realities.jpg"
+    },
+    {
+      "title": "“Feito para ser deletado”: Hinge leva seu paradoxo de marca à primeira campanha na América Latina",
+      "original_title": "“Feito para ser deletado”: Hinge leva seu paradoxo de marca à primeira campanha na América Latina",
+      "summary": "Primeira campanha do app na região estreia no Brasil e no México, com criação da brasileira 404 Innovation Studio",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre campanhas e suas implicações para marcas e comunicação.",
+      "category": "Campanhas",
+      "source": "B9",
+      "published_date": "2026-11-10",
+      "url": "https://www.b9.com.br/hinge-primeira-campanha-america-latina-brasil-hingie/",
+      "image_url": "https://storage.ghost.io/c/b8/a4/b8a4ba23-e08d-42f7-b459-b1bcab5b8867/content/images/size/w1200/2026/11/hinge-brasil-1.jpg"
+    },
+    {
+      "title": "Netflix quer ser o lugar onde você encontra aquilo que nem sabia que queria assistir",
+      "original_title": "Netflix quer ser o lugar onde você encontra aquilo que nem sabia que queria assistir",
+      "summary": "Campanha da Mother usa um astronauta fã de “Guerreiras do KPop”, um axolote maratonando “Bridgerton” e um vampiro vidrado em “Casamento às Cegas” para transformar descoberta em atributo de marca.",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre campanhas e suas implicações para marcas e comunicação.",
+      "category": "Campanhas",
+      "source": "B9",
+      "published_date": "2026-11-10",
+      "url": "https://www.b9.com.br/netflix-descoberta-campanha/",
+      "image_url": "https://storage.ghost.io/c/b8/a4/b8a4ba23-e08d-42f7-b459-b1bcab5b8867/content/images/size/w1200/2026/11/Netflix_3Up_Posters.jpg"
+    },
+    {
+      "title": "Dengo lança campanha de Natal com 12 novidades",
+      "original_title": "Dengo lança campanha de Natal com 12 novidades",
+      "summary": "Com o mote \"Natal é feito com Dengo\", a marca reúne 26 opções de presente, ingredientes brasileiros e embalagens que ganham novos usos depois das festas, com ilustrações inéditas de Winny Tapajós.",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre campanhas e suas implicações para marcas e comunicação.",
+      "category": "Campanhas",
+      "source": "Update or Die!",
+      "published_date": "2026-11-05",
+      "url": "https://updateordie.com/2026/11/05/dengo-lanca-campanha-de-natal-com-12-novidades/",
+      "image_url": "https://updateordie.com/wp-content/uploads/2026/11/maxresdefault-7.jpg"
+    },
+    {
+      "title": "KFC é salvo da destruição do Doutor Destino",
+      "original_title": "KFC é salvo da destruição do Doutor Destino",
+      "summary": "Criada pela Mother, a campanha global marca a maior parceria da KFC até hoje com a Marvel Studios e chega a mais de 100 países com cardápio, embalagens e colecionáveis inspirados no vilão de Vingadores: Doomsday.",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre campanhas e suas implicações para marcas e comunicação.",
+      "category": "Campanhas",
+      "source": "Update or Die!",
+      "published_date": "2026-11-05",
+      "url": "https://updateordie.com/2026/11/05/kfc-e-salvo-da-destruicao-do-doutor-destino/",
+      "image_url": "https://updateordie.com/wp-content/uploads/2026/11/marvel-heroes-villains-crossover-dMQP0LllCy.webp"
+    },
+    {
+      "title": "Intimus: Rebeca Andrade estrela 1ª campanha como embaixadora",
+      "original_title": "Intimus: Rebeca Andrade estrela 1ª campanha como embaixadora",
+      "summary": "Marca associa a trajetória da ginasta à tecnologia do absorvente em campanha criada pela Africa Creative",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre campanhas e suas implicações para marcas e comunicação.",
+      "category": "Campanhas",
+      "source": "Meio & Mensagem",
+      "published_date": "2026-11-05",
+      "url": "https://www.meioemensagem.com.br/comunicacao/intimus-rebeca-andrade-estrela-1a-campanha-como-embaixadora",
+      "image_url": "https://www.meioemensagem.com.br/wp-content/uploads/2026/11/Rebeca-Andrade-Intimus-.jpg"
+    },
+    {
+      "title": "Xbox: veja os principais jogos que estreiam nesta semana | Fast Company Brasil",
+      "original_title": "Xbox: veja os principais jogos que estreiam nesta semana | Fast Company Brasil",
+      "summary": "Semana de lançamentos do Xbox tem opções de ação, terror, estratégia e jogos cooperativos, além de estreias no Game Pass.",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre estratégia & negócios e suas implicações para marcas e comunicação.",
+      "category": "Estratégia & negócios",
+      "source": "Fast Company Brasil",
+      "published_date": "2026-11-10",
+      "url": "https://fastcompanybrasil.com/games/xbox-veja-principais-jogos-estreiam-nesta-semana/",
+      "image_url": "https://fastcompanybrasil.com/wp-content/uploads/2026/11/xbox-lancamentos.jpg"
+    },
+    {
+      "title": "GTA 6: como fazer o pré-download no PS5 e Xbox antes da estreia | Fast Company Brasil",
+      "original_title": "GTA 6: como fazer o pré-download no PS5 e Xbox antes da estreia | Fast Company Brasil",
+      "summary": "Rockstar libera a instalação antecipada para jogadores que compraram o game; lançamento está marcado para 19 de novembro.",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre branding e suas implicações para marcas e comunicação.",
+      "category": "Branding",
+      "source": "Fast Company Brasil",
+      "published_date": "2026-11-10",
+      "url": "https://fastcompanybrasil.com/games/gta-6-como-fazer-pre-download-ps5-xbox-antes-estreia/",
+      "image_url": "https://fastcompanybrasil.com/wp-content/uploads/2026/11/gta6-preloading.jpg"
+    },
+    {
+      "title": "MANSCAPED Goes Nutso with â90s Advertising Fever Dream â LBB",
+      "original_title": "MANSCAPED Goes Nutso with â90s Advertising Fever Dream â LBB",
+      "summary": "The grooming brandâs social and creator marketing director Jori Evans tells LBB about the Nerf and SunnyD-inspired spot from directors Zach & Ryan, and how they make content people actually want to share",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre campanhas e suas implicações para marcas e comunicação.",
+      "category": "Campanhas",
+      "source": "LBB",
+      "published_date": "2026-11-10",
+      "url": "https://lbbonline.com/news/manscaped-90s-ads-nerf-sunnyd-go-nutso",
+      "image_url": "https://d3q27bh1u24u2o.cloudfront.net/resized/1200/news_hero/2026-11/go-nutso-manscaped-90s-ad.XZV-EjLC.png"
+    },
+    {
+      "title": "Are You Putting Your Community First? â LBB",
+      "original_title": "Are You Putting Your Community First? â LBB",
+      "summary": "Brands can spend hundreds of thousands (millions!) on creators and celebrities but are often ignoring the people that actually show up for them on a regular basis, says TSA founder Harry Foyle",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre branding e suas implicações para marcas e comunicação.",
+      "category": "Branding",
+      "source": "LBB",
+      "published_date": "2026-11-10",
+      "url": "https://lbbonline.com/news/are-you-putting-your-community-first",
+      "image_url": "https://d3q27bh1u24u2o.cloudfront.net/resized/1200/news/2026-11/community-first.2Red4D2M.png"
+    }
+  ]
+}

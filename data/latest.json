@@ -1,9 +1,9 @@
 {
-  "edition_date": "2026-11-09",
+  "edition_date": "2026-11-10",
   "status": "published",
   "notice": "Curadoria automática gratuita baseada em RSS e metadados das fontes originais.",
-  "window_start": "2026-11-03",
-  "window_end": "2026-11-09",
+  "window_start": "2026-11-04",
+  "window_end": "2026-11-10",
   "edition_name": "Update com Afeto",
   "editor_letter": "Esta edição reúne 10 histórias publicadas nos últimos sete dias, selecionadas entre as fontes do registro editorial unificado. A curadoria prioriza campanhas, marcas, estratégia, comportamento e cultura digital. Os resumos partem das descrições publicadas pelas próprias fontes; abra os links originais para ler o contexto completo.",
   "signals": [
@@ -13,17 +13,17 @@
       "category": "SINAL EDITORIAL"
     },
     {
-      "title": "Experiência de marca",
-      "description": "2 matéria(s) desta edição exploram experiência de marca. Veja como as marcas e a cultura estão se movimentando neste tema.",
+      "title": "Branding",
+      "description": "3 matéria(s) desta edição exploram branding. Veja como as marcas e a cultura estão se movimentando neste tema.",
       "category": "SINAL EDITORIAL"
     },
     {
-      "title": "Branding",
-      "description": "1 matéria(s) desta edição exploram branding. Veja como as marcas e a cultura estão se movimentando neste tema.",
+      "title": "Estratégia & negócios",
+      "description": "1 matéria(s) desta edição exploram estratégia & negócios. Veja como as marcas e a cultura estão se movimentando neste tema.",
       "category": "SINAL EDITORIAL"
     }
   ],
-  "lead_url": "https://www.meioemensagem.com.br/comunicacao/realities-ganham-espaco-nas-estrategias-das-marcas",
+  "lead_url": "https://www.b9.com.br/hinge-primeira-campanha-america-latina-brasil-hingie/",
   "stories": [
     {
       "title": "Realities ganham espaço nas estratégias das marcas",
@@ -37,15 +37,26 @@
       "image_url": "https://www.meioemensagem.com.br/wp-content/uploads/2026/11/realities.jpg"
     },
     {
-      "title": "Burberry comemora 170 anos com a fantasia definitiva do Natal britânico",
-      "original_title": "Burberry comemora 170 anos com a fantasia definitiva do Natal britânico",
-      "summary": "Harmony Korine dirige Pierce Brosnan e Fiona Shaw numa festa em uma mansão histórica inglesa que transforma a campanha de fim de ano em síntese da estratégia atual da marca",
+      "title": "“Feito para ser deletado”: Hinge leva seu paradoxo de marca à primeira campanha na América Latina",
+      "original_title": "“Feito para ser deletado”: Hinge leva seu paradoxo de marca à primeira campanha na América Latina",
+      "summary": "Primeira campanha do app na região estreia no Brasil e no México, com criação da brasileira 404 Innovation Studio",
       "why_it_matters": "Vale observar o que esta publicação revela sobre campanhas e suas implicações para marcas e comunicação.",
       "category": "Campanhas",
       "source": "B9",
-      "published_date": "2026-11-04",
-      "url": "https://www.b9.com.br/burberry-comemora-170-anos-com-a-fantasia-definitiva-do-natal-britanico/",
-      "image_url": "https://storage.ghost.io/c/b8/a4/b8a4ba23-e08d-42f7-b459-b1bcab5b8867/content/images/size/w1200/2026/11/burberry-170.jpg"
+      "published_date": "2026-11-10",
+      "url": "https://www.b9.com.br/hinge-primeira-campanha-america-latina-brasil-hingie/",
+      "image_url": "https://storage.ghost.io/c/b8/a4/b8a4ba23-e08d-42f7-b459-b1bcab5b8867/content/images/size/w1200/2026/11/hinge-brasil-1.jpg"
+    },
+    {
+      "title": "Netflix quer ser o lugar onde você encontra aquilo que nem sabia que queria assistir",
+      "original_title": "Netflix quer ser o lugar onde você encontra aquilo que nem sabia que queria assistir",
+      "summary": "Campanha da Mother usa um astronauta fã de “Guerreiras do KPop”, um axolote maratonando “Bridgerton” e um vampiro vidrado em “Casamento às Cegas” para transformar descoberta em atributo de marca.",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre campanhas e suas implicações para marcas e comunicação.",
+      "category": "Campanhas",
+      "source": "B9",
+      "published_date": "2026-11-10",
+      "url": "https://www.b9.com.br/netflix-descoberta-campanha/",
+      "image_url": "https://storage.ghost.io/c/b8/a4/b8a4ba23-e08d-42f7-b459-b1bcab5b8867/content/images/size/w1200/2026/11/Netflix_3Up_Posters.jpg"
     },
     {
       "title": "Dengo lança campanha de Natal com 12 novidades",
@@ -81,59 +92,48 @@
       "image_url": "https://www.meioemensagem.com.br/wp-content/uploads/2026/11/Rebeca-Andrade-Intimus-.jpg"
     },
     {
-      "title": "Gap transforma coral em tradição de Natal e revisita Jackson 5 em nova campanha",
-      "original_title": "Gap transforma coral em tradição de Natal e revisita Jackson 5 em nova campanha",
-      "summary": "Terceira edição de “Give Your Gift” reúne três grupos vocais em uma nova versão de “I’ll Be There” e consolida música, comunidade e básicos da marca como fórmula para o fim do ano",
-      "why_it_matters": "Vale observar o que esta publicação revela sobre campanhas e suas implicações para marcas e comunicação.",
-      "category": "Campanhas",
-      "source": "B9",
-      "published_date": "2026-11-04",
-      "url": "https://www.b9.com.br/gap-natal-2026-give-your-gift-jackson-5/",
-      "image_url": "https://storage.ghost.io/c/b8/a4/b8a4ba23-e08d-42f7-b459-b1bcab5b8867/content/images/size/w1200/2026/11/gap-2026.jpg"
-    },
-    {
-      "title": "Menos faltas e mais produtividade: o que o CEO da C&A diz sobre a escala 5x2? | Fast Company Brasil",
-      "original_title": "Menos faltas e mais produtividade: o que o CEO da C&A diz sobre a escala 5x2? | Fast Company Brasil",
-      "summary": "Experiência inicial indica melhora na frequência dos funcionários, enquanto a empresa aposta em tecnologia para elevar a produtividade.",
-      "why_it_matters": "Vale observar o que esta publicação revela sobre experiência de marca e suas implicações para marcas e comunicação.",
-      "category": "Experiência de marca",
+      "title": "Xbox: veja os principais jogos que estreiam nesta semana | Fast Company Brasil",
+      "original_title": "Xbox: veja os principais jogos que estreiam nesta semana | Fast Company Brasil",
+      "summary": "Semana de lançamentos do Xbox tem opções de ação, terror, estratégia e jogos cooperativos, além de estreias no Game Pass.",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre estratégia & negócios e suas implicações para marcas e comunicação.",
+      "category": "Estratégia & negócios",
       "source": "Fast Company Brasil",
-      "published_date": "2026-11-09",
-      "url": "https://fastcompanybrasil.com/futuro-do-trabalho/menos-faltas-mais-produtividade-o-que-ceo-cea-diz-sobre-escala-5x2/",
-      "image_url": "https://fastcompanybrasil.com/wp-content/uploads/2026/11/cea-escala5x2.jpg"
+      "published_date": "2026-11-10",
+      "url": "https://fastcompanybrasil.com/games/xbox-veja-principais-jogos-estreiam-nesta-semana/",
+      "image_url": "https://fastcompanybrasil.com/wp-content/uploads/2026/11/xbox-lancamentos.jpg"
     },
     {
-      "title": "Novo Football Manager amplia recursos para quem gosta de comandar clubes | Fast Company Brasil",
-      "original_title": "Novo Football Manager amplia recursos para quem gosta de comandar clubes | Fast Company Brasil",
-      "summary": "Football Manager 27 aposta em ferramentas de gestão, mudanças na experiência das partidas e um novo modo multiplayer.",
-      "why_it_matters": "Vale observar o que esta publicação revela sobre experiência de marca e suas implicações para marcas e comunicação.",
-      "category": "Experiência de marca",
+      "title": "GTA 6: como fazer o pré-download no PS5 e Xbox antes da estreia | Fast Company Brasil",
+      "original_title": "GTA 6: como fazer o pré-download no PS5 e Xbox antes da estreia | Fast Company Brasil",
+      "summary": "Rockstar libera a instalação antecipada para jogadores que compraram o game; lançamento está marcado para 19 de novembro.",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre branding e suas implicações para marcas e comunicação.",
+      "category": "Branding",
       "source": "Fast Company Brasil",
-      "published_date": "2026-11-09",
-      "url": "https://fastcompanybrasil.com/games/novo-football-manager-amplia-recursos-para-quem-gosta-de-comandar-clubes/",
-      "image_url": "https://fastcompanybrasil.com/wp-content/uploads/2026/11/futebol-manager.jpg"
+      "published_date": "2026-11-10",
+      "url": "https://fastcompanybrasil.com/games/gta-6-como-fazer-pre-download-ps5-xbox-antes-estreia/",
+      "image_url": "https://fastcompanybrasil.com/wp-content/uploads/2026/11/gta6-preloading.jpg"
     },
     {
-      "title": "The Other Side of the Pitch: Johnny Winn on What Agencies Get Wrong About Clients â LBB",
-      "original_title": "The Other Side of the Pitch: Johnny Winn on What Agencies Get Wrong About Clients â LBB",
-      "summary": "Having swapped Virgin Media O2 for Exposure, the marketing director speaks with LBB about the pressures agencies don't see, the pitfalls of creative testing, and why cultural relevance is easier said than done",
-      "why_it_matters": "Vale observar o que esta publicação revela sobre comportamento e suas implicações para marcas e comunicação.",
-      "category": "Comportamento",
-      "source": "LBB",
-      "published_date": "2026-11-09",
-      "url": "https://lbbonline.com/news/the-other-side-of-the-pitch-johnny-winn-on-what-agencies-get-wrong-about-clients",
-      "image_url": "https://d3q27bh1u24u2o.cloudfront.net/resized/1200/news_hero/2026-11/winn-fin.dwqX1HqJ.png"
-    },
-    {
-      "title": "Comedy Duo IMomSoHard Return to Ring in Holiday Season at Famous Footwear â LBB",
-      "original_title": "Comedy Duo IMomSoHard Return to Ring in Holiday Season at Famous Footwear â LBB",
-      "summary": "Campaign from THE MAYOR, directed by Lalou & Joaquin through Chelsea Pictures, trades holiday stress for humour",
+      "title": "MANSCAPED Goes Nutso with â90s Advertising Fever Dream â LBB",
+      "original_title": "MANSCAPED Goes Nutso with â90s Advertising Fever Dream â LBB",
+      "summary": "The grooming brandâs social and creator marketing director Jori Evans tells LBB about the Nerf and SunnyD-inspired spot from directors Zach & Ryan, and how they make content people actually want to share",
       "why_it_matters": "Vale observar o que esta publicação revela sobre campanhas e suas implicações para marcas e comunicação.",
       "category": "Campanhas",
       "source": "LBB",
-      "published_date": "2026-11-09",
-      "url": "https://lbbonline.com/news/comedy-duo-imomsohard-holiday-season-famous-footwear",
-      "image_url": "https://d3q27bh1u24u2o.cloudfront.net/resized/1200/news/2026-11/lbb-4.2y7ln3Ss.jpg"
+      "published_date": "2026-11-10",
+      "url": "https://lbbonline.com/news/manscaped-90s-ads-nerf-sunnyd-go-nutso",
+      "image_url": "https://d3q27bh1u24u2o.cloudfront.net/resized/1200/news_hero/2026-11/go-nutso-manscaped-90s-ad.XZV-EjLC.png"
+    },
+    {
+      "title": "Are You Putting Your Community First? â LBB",
+      "original_title": "Are You Putting Your Community First? â LBB",
+      "summary": "Brands can spend hundreds of thousands (millions!) on creators and celebrities but are often ignoring the people that actually show up for them on a regular basis, says TSA founder Harry Foyle",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre branding e suas implicações para marcas e comunicação.",
+      "category": "Branding",
+      "source": "LBB",
+      "published_date": "2026-11-10",
+      "url": "https://lbbonline.com/news/are-you-putting-your-community-first",
+      "image_url": "https://d3q27bh1u24u2o.cloudfront.net/resized/1200/news/2026-11/community-first.2Red4D2M.png"
     }
   ]
 }
