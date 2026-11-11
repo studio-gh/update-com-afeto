@@ -1,15 +1,15 @@
 {
-  "edition_date": "2026-11-10",
+  "edition_date": "2026-11-11",
   "status": "published",
   "notice": "Curadoria automática gratuita baseada em RSS e metadados das fontes originais.",
-  "window_start": "2026-11-04",
-  "window_end": "2026-11-10",
+  "window_start": "2026-11-05",
+  "window_end": "2026-11-11",
   "edition_name": "Update com Afeto",
   "editor_letter": "Esta edição reúne 10 histórias publicadas nos últimos sete dias, selecionadas entre as fontes do registro editorial unificado. A curadoria prioriza campanhas, marcas, estratégia, comportamento e cultura digital. Os resumos partem das descrições publicadas pelas próprias fontes; abra os links originais para ler o contexto completo.",
   "signals": [
     {
       "title": "Campanhas",
-      "description": "6 matéria(s) desta edição exploram campanhas. Veja como as marcas e a cultura estão se movimentando neste tema.",
+      "description": "5 matéria(s) desta edição exploram campanhas. Veja como as marcas e a cultura estão se movimentando neste tema.",
       "category": "SINAL EDITORIAL"
     },
     {
@@ -19,12 +19,23 @@
     },
     {
       "title": "Estratégia & negócios",
-      "description": "1 matéria(s) desta edição exploram estratégia & negócios. Veja como as marcas e a cultura estão se movimentando neste tema.",
+      "description": "2 matéria(s) desta edição exploram estratégia & negócios. Veja como as marcas e a cultura estão se movimentando neste tema.",
       "category": "SINAL EDITORIAL"
     }
   ],
-  "lead_url": "https://www.b9.com.br/hinge-primeira-campanha-america-latina-brasil-hingie/",
+  "lead_url": "https://www.b9.com.br/coca-cola-natal-2026-eu-odeio-o-natal/",
   "stories": [
+    {
+      "title": "VML assume conta criativa da Amstel no Brasil",
+      "original_title": "VML assume conta criativa da Amstel no Brasil",
+      "summary": "Agência passa a liderar estratégia, campanhas e conteúdo da marca no país como parte do novo modelo global do Grupo HEINEKEN; operação integral começa em 2027",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre campanhas e suas implicações para marcas e comunicação.",
+      "category": "Campanhas",
+      "source": "B9",
+      "published_date": "2026-11-11",
+      "url": "https://www.b9.com.br/vml-assume-conta-criativa-da-amstel-no-brasil/",
+      "image_url": "https://storage.ghost.io/c/b8/a4/b8a4ba23-e08d-42f7-b459-b1bcab5b8867/content/images/size/w1200/2026/11/Amstel-VML.jpg"
+    },
     {
       "title": "Realities ganham espaço nas estratégias das marcas",
       "original_title": "Realities ganham espaço nas estratégias das marcas",
@@ -37,26 +48,48 @@
       "image_url": "https://www.meioemensagem.com.br/wp-content/uploads/2026/11/realities.jpg"
     },
     {
-      "title": "“Feito para ser deletado”: Hinge leva seu paradoxo de marca à primeira campanha na América Latina",
-      "original_title": "“Feito para ser deletado”: Hinge leva seu paradoxo de marca à primeira campanha na América Latina",
-      "summary": "Primeira campanha do app na região estreia no Brasil e no México, com criação da brasileira 404 Innovation Studio",
+      "title": "Coca-Cola abre campanha de Natal com uma frase improvável: “eu odeio o Natal”",
+      "original_title": "Coca-Cola abre campanha de Natal com uma frase improvável: “eu odeio o Natal”",
+      "summary": "Filme brasileiro admite correria, pressão e imprevistos da data antes de voltar ao território que a marca ocupa há décadas: a vontade de estar junto",
       "why_it_matters": "Vale observar o que esta publicação revela sobre campanhas e suas implicações para marcas e comunicação.",
       "category": "Campanhas",
       "source": "B9",
-      "published_date": "2026-11-10",
-      "url": "https://www.b9.com.br/hinge-primeira-campanha-america-latina-brasil-hingie/",
-      "image_url": "https://storage.ghost.io/c/b8/a4/b8a4ba23-e08d-42f7-b459-b1bcab5b8867/content/images/size/w1200/2026/11/hinge-brasil-1.jpg"
+      "published_date": "2026-11-11",
+      "url": "https://www.b9.com.br/coca-cola-natal-2026-eu-odeio-o-natal/",
+      "image_url": "https://storage.ghost.io/c/b8/a4/b8a4ba23-e08d-42f7-b459-b1bcab5b8867/content/images/size/w1200/2026/11/CCTM_Natal_Foto_Toast.jpg"
     },
     {
-      "title": "Netflix quer ser o lugar onde você encontra aquilo que nem sabia que queria assistir",
-      "original_title": "Netflix quer ser o lugar onde você encontra aquilo que nem sabia que queria assistir",
-      "summary": "Campanha da Mother usa um astronauta fã de “Guerreiras do KPop”, um axolote maratonando “Bridgerton” e um vampiro vidrado em “Casamento às Cegas” para transformar descoberta em atributo de marca.",
+      "title": "Coca-Cola lança campanha de Natal 2026",
+      "original_title": "Coca-Cola lança campanha de Natal 2026",
+      "summary": "Com humor, a marca fala de imprevistos das festas e da importância de estar perto de quem se ama. Filme, influenciadores, árvore em SP e caravanas completam a ação.",
       "why_it_matters": "Vale observar o que esta publicação revela sobre campanhas e suas implicações para marcas e comunicação.",
       "category": "Campanhas",
-      "source": "B9",
+      "source": "Update or Die!",
+      "published_date": "2026-11-11",
+      "url": "https://updateordie.com/2026/11/11/coca-cola-lanca-campanha-de-natal-2026/",
+      "image_url": "https://updateordie.com/wp-content/uploads/2026/11/copia-de-Xmas-OLV-Hero-30s-0-5-screenshot.webp"
+    },
+    {
+      "title": "Crocs faz primeira collab com marca brasileira e escolhe a Carmed | Fast Company Brasil",
+      "original_title": "Crocs faz primeira collab com marca brasileira e escolhe a Carmed | Fast Company Brasil",
+      "summary": "Lançamento amplia a estratégia de colaborações da Crocs, que já reuniu marcas como Coca-Cola, Levi’s e com grupos de K-POP.",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre branding e suas implicações para marcas e comunicação.",
+      "category": "Branding",
+      "source": "Fast Company Brasil",
+      "published_date": "2026-11-11",
+      "url": "https://fastcompanybrasil.com/design/crocs-faz-primeira-collab-com-marca-brasileira-escolhe-carmed/",
+      "image_url": "https://fastcompanybrasil.com/wp-content/uploads/2026/11/crocs-carmed.jpg"
+    },
+    {
+      "title": "VML conquista a conta de Amstel no Brasil",
+      "original_title": "VML conquista a conta de Amstel no Brasil",
+      "summary": "Agência assume a frente de estratégia criativa responsável por desenvolver, campanhas e conteúdos criativos para Amstel",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre campanhas e suas implicações para marcas e comunicação.",
+      "category": "Campanhas",
+      "source": "Meio & Mensagem",
       "published_date": "2026-11-10",
-      "url": "https://www.b9.com.br/netflix-descoberta-campanha/",
-      "image_url": "https://storage.ghost.io/c/b8/a4/b8a4ba23-e08d-42f7-b459-b1bcab5b8867/content/images/size/w1200/2026/11/Netflix_3Up_Posters.jpg"
+      "url": "https://www.meioemensagem.com.br/comunicacao/vml-conquista-a-conta-de-amstel-no-brasil",
+      "image_url": "https://www.meioemensagem.com.br/wp-content/uploads/2026/11/VML-e-amstel.jpg"
     },
     {
       "title": "Dengo lança campanha de Natal com 12 novidades",
@@ -70,70 +103,37 @@
       "image_url": "https://updateordie.com/wp-content/uploads/2026/11/maxresdefault-7.jpg"
     },
     {
-      "title": "KFC é salvo da destruição do Doutor Destino",
-      "original_title": "KFC é salvo da destruição do Doutor Destino",
-      "summary": "Criada pela Mother, a campanha global marca a maior parceria da KFC até hoje com a Marvel Studios e chega a mais de 100 países com cardápio, embalagens e colecionáveis inspirados no vilão de Vingadores: Doomsday.",
-      "why_it_matters": "Vale observar o que esta publicação revela sobre campanhas e suas implicações para marcas e comunicação.",
-      "category": "Campanhas",
-      "source": "Update or Die!",
-      "published_date": "2026-11-05",
-      "url": "https://updateordie.com/2026/11/05/kfc-e-salvo-da-destruicao-do-doutor-destino/",
-      "image_url": "https://updateordie.com/wp-content/uploads/2026/11/marvel-heroes-villains-crossover-dMQP0LllCy.webp"
-    },
-    {
-      "title": "Intimus: Rebeca Andrade estrela 1ª campanha como embaixadora",
-      "original_title": "Intimus: Rebeca Andrade estrela 1ª campanha como embaixadora",
-      "summary": "Marca associa a trajetória da ginasta à tecnologia do absorvente em campanha criada pela Africa Creative",
-      "why_it_matters": "Vale observar o que esta publicação revela sobre campanhas e suas implicações para marcas e comunicação.",
-      "category": "Campanhas",
-      "source": "Meio & Mensagem",
-      "published_date": "2026-11-05",
-      "url": "https://www.meioemensagem.com.br/comunicacao/intimus-rebeca-andrade-estrela-1a-campanha-como-embaixadora",
-      "image_url": "https://www.meioemensagem.com.br/wp-content/uploads/2026/11/Rebeca-Andrade-Intimus-.jpg"
-    },
-    {
-      "title": "Xbox: veja os principais jogos que estreiam nesta semana | Fast Company Brasil",
-      "original_title": "Xbox: veja os principais jogos que estreiam nesta semana | Fast Company Brasil",
-      "summary": "Semana de lançamentos do Xbox tem opções de ação, terror, estratégia e jogos cooperativos, além de estreias no Game Pass.",
+      "title": "Adobe abre sua Creative Cloud para agentes de IA | Fast Company Brasil",
+      "original_title": "Adobe abre sua Creative Cloud para agentes de IA | Fast Company Brasil",
+      "summary": "Estratégia permite que agentes externos acessem arquivos da Creative Cloud, mas levanta dúvidas sobre custos, segurança e direitos autorais.",
       "why_it_matters": "Vale observar o que esta publicação revela sobre estratégia & negócios e suas implicações para marcas e comunicação.",
       "category": "Estratégia & negócios",
       "source": "Fast Company Brasil",
-      "published_date": "2026-11-10",
-      "url": "https://fastcompanybrasil.com/games/xbox-veja-principais-jogos-estreiam-nesta-semana/",
-      "image_url": "https://fastcompanybrasil.com/wp-content/uploads/2026/11/xbox-lancamentos.jpg"
+      "published_date": "2026-11-11",
+      "url": "https://fastcompanybrasil.com/tech/adobe-abre-sua-creative-cloud-para-agentes-de-ia/",
+      "image_url": "https://fastcompanybrasil.com/wp-content/uploads/2026/11/Adobe_agentes-autonomos_Firefly.jpg"
     },
     {
-      "title": "GTA 6: como fazer o pré-download no PS5 e Xbox antes da estreia | Fast Company Brasil",
-      "original_title": "GTA 6: como fazer o pré-download no PS5 e Xbox antes da estreia | Fast Company Brasil",
-      "summary": "Rockstar libera a instalação antecipada para jogadores que compraram o game; lançamento está marcado para 19 de novembro.",
-      "why_it_matters": "Vale observar o que esta publicação revela sobre branding e suas implicações para marcas e comunicação.",
-      "category": "Branding",
-      "source": "Fast Company Brasil",
-      "published_date": "2026-11-10",
-      "url": "https://fastcompanybrasil.com/games/gta-6-como-fazer-pre-download-ps5-xbox-antes-estreia/",
-      "image_url": "https://fastcompanybrasil.com/wp-content/uploads/2026/11/gta6-preloading.jpg"
-    },
-    {
-      "title": "MANSCAPED Goes Nutso with â90s Advertising Fever Dream â LBB",
-      "original_title": "MANSCAPED Goes Nutso with â90s Advertising Fever Dream â LBB",
-      "summary": "The grooming brandâs social and creator marketing director Jori Evans tells LBB about the Nerf and SunnyD-inspired spot from directors Zach & Ryan, and how they make content people actually want to share",
-      "why_it_matters": "Vale observar o que esta publicação revela sobre campanhas e suas implicações para marcas e comunicação.",
-      "category": "Campanhas",
-      "source": "LBB",
-      "published_date": "2026-11-10",
-      "url": "https://lbbonline.com/news/manscaped-90s-ads-nerf-sunnyd-go-nutso",
-      "image_url": "https://d3q27bh1u24u2o.cloudfront.net/resized/1200/news_hero/2026-11/go-nutso-manscaped-90s-ad.XZV-EjLC.png"
-    },
-    {
-      "title": "Are You Putting Your Community First? â LBB",
-      "original_title": "Are You Putting Your Community First? â LBB",
-      "summary": "Brands can spend hundreds of thousands (millions!) on creators and celebrities but are often ignoring the people that actually show up for them on a regular basis, says TSA founder Harry Foyle",
+      "title": "Brand Bonds, Incrementality, and Surviving Q4: A Foolproof Measurement Playbook to Protect Your Budget â LBB",
+      "original_title": "Brand Bonds, Incrementality, and Surviving Q4: A Foolproof Measurement Playbook to Protect Your Budget â LBB",
+      "summary": "Allen & Gerritsen's Tory Navarro on rethinking measurement, making the case for marketing's true impact and turning budget defence into a growth strategy",
       "why_it_matters": "Vale observar o que esta publicação revela sobre branding e suas implicações para marcas e comunicação.",
       "category": "Branding",
       "source": "LBB",
-      "published_date": "2026-11-10",
-      "url": "https://lbbonline.com/news/are-you-putting-your-community-first",
-      "image_url": "https://d3q27bh1u24u2o.cloudfront.net/resized/1200/news/2026-11/community-first.2Red4D2M.png"
+      "published_date": "2026-11-11",
+      "url": "https://lbbonline.com/news/brand-bonds-incrementality-and-surviving-q4-a-foolproof-measurement-playbook-to-protect-your-budget",
+      "image_url": "https://d3q27bh1u24u2o.cloudfront.net/resized/1200/news/2026-11/tory-navarro-1.u2F__VI5.png"
+    },
+    {
+      "title": "Dentsu Creative US Is Turning Hits into Home Runs â LBB",
+      "original_title": "Dentsu Creative US Is Turning Hits into Home Runs â LBB",
+      "summary": "Americas CEO Phil Gaughran and new US CCO Michael Aimette on plans to evolve âcreative ideasâ into âagency ideasâ, and the leaps of faith that will take the agency from second plate to home",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre estratégia & negócios e suas implicações para marcas e comunicação.",
+      "category": "Estratégia & negócios",
+      "source": "LBB",
+      "published_date": "2026-11-11",
+      "url": "https://lbbonline.com/news/dentsu-creative-us-michael-aimette-cco-phil-gaughran-ceo",
+      "image_url": "https://d3q27bh1u24u2o.cloudfront.net/resized/1200/news_hero/2026-11/dentsu-creative-us-ceo-cco-michael-aimette-phil-gaughran.TzbrueGO.png"
     }
   ]
 }

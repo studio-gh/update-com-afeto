@@ -1,0 +1,139 @@
+{
+  "edition_date": "2026-11-11",
+  "status": "published",
+  "notice": "Curadoria automática gratuita baseada em RSS e metadados das fontes originais.",
+  "window_start": "2026-11-05",
+  "window_end": "2026-11-11",
+  "edition_name": "Update com Afeto",
+  "editor_letter": "Esta edição reúne 10 histórias publicadas nos últimos sete dias, selecionadas entre as fontes do registro editorial unificado. A curadoria prioriza campanhas, marcas, estratégia, comportamento e cultura digital. Os resumos partem das descrições publicadas pelas próprias fontes; abra os links originais para ler o contexto completo.",
+  "signals": [
+    {
+      "title": "Campanhas",
+      "description": "5 matéria(s) desta edição exploram campanhas. Veja como as marcas e a cultura estão se movimentando neste tema.",
+      "category": "SINAL EDITORIAL"
+    },
+    {
+      "title": "Branding",
+      "description": "3 matéria(s) desta edição exploram branding. Veja como as marcas e a cultura estão se movimentando neste tema.",
+      "category": "SINAL EDITORIAL"
+    },
+    {
+      "title": "Estratégia & negócios",
+      "description": "2 matéria(s) desta edição exploram estratégia & negócios. Veja como as marcas e a cultura estão se movimentando neste tema.",
+      "category": "SINAL EDITORIAL"
+    }
+  ],
+  "lead_url": "https://www.b9.com.br/coca-cola-natal-2026-eu-odeio-o-natal/",
+  "stories": [
+    {
+      "title": "VML assume conta criativa da Amstel no Brasil",
+      "original_title": "VML assume conta criativa da Amstel no Brasil",
+      "summary": "Agência passa a liderar estratégia, campanhas e conteúdo da marca no país como parte do novo modelo global do Grupo HEINEKEN; operação integral começa em 2027",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre campanhas e suas implicações para marcas e comunicação.",
+      "category": "Campanhas",
+      "source": "B9",
+      "published_date": "2026-11-11",
+      "url": "https://www.b9.com.br/vml-assume-conta-criativa-da-amstel-no-brasil/",
+      "image_url": "https://storage.ghost.io/c/b8/a4/b8a4ba23-e08d-42f7-b459-b1bcab5b8867/content/images/size/w1200/2026/11/Amstel-VML.jpg"
+    },
+    {
+      "title": "Realities ganham espaço nas estratégias das marcas",
+      "original_title": "Realities ganham espaço nas estratégias das marcas",
+      "summary": "Com projetos para PepsiCo e Fanta, BR Media e VML discutem como o entretenimento amplia as possibilidades de conexão com os consumidores",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre branding e suas implicações para marcas e comunicação.",
+      "category": "Branding",
+      "source": "Meio & Mensagem",
+      "published_date": "2026-11-06",
+      "url": "https://www.meioemensagem.com.br/comunicacao/realities-ganham-espaco-nas-estrategias-das-marcas",
+      "image_url": "https://www.meioemensagem.com.br/wp-content/uploads/2026/11/realities.jpg"
+    },
+    {
+      "title": "Coca-Cola abre campanha de Natal com uma frase improvável: “eu odeio o Natal”",
+      "original_title": "Coca-Cola abre campanha de Natal com uma frase improvável: “eu odeio o Natal”",
+      "summary": "Filme brasileiro admite correria, pressão e imprevistos da data antes de voltar ao território que a marca ocupa há décadas: a vontade de estar junto",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre campanhas e suas implicações para marcas e comunicação.",
+      "category": "Campanhas",
+      "source": "B9",
+      "published_date": "2026-11-11",
+      "url": "https://www.b9.com.br/coca-cola-natal-2026-eu-odeio-o-natal/",
+      "image_url": "https://storage.ghost.io/c/b8/a4/b8a4ba23-e08d-42f7-b459-b1bcab5b8867/content/images/size/w1200/2026/11/CCTM_Natal_Foto_Toast.jpg"
+    },
+    {
+      "title": "Coca-Cola lança campanha de Natal 2026",
+      "original_title": "Coca-Cola lança campanha de Natal 2026",
+      "summary": "Com humor, a marca fala de imprevistos das festas e da importância de estar perto de quem se ama. Filme, influenciadores, árvore em SP e caravanas completam a ação.",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre campanhas e suas implicações para marcas e comunicação.",
+      "category": "Campanhas",
+      "source": "Update or Die!",
+      "published_date": "2026-11-11",
+      "url": "https://updateordie.com/2026/11/11/coca-cola-lanca-campanha-de-natal-2026/",
+      "image_url": "https://updateordie.com/wp-content/uploads/2026/11/copia-de-Xmas-OLV-Hero-30s-0-5-screenshot.webp"
+    },
+    {
+      "title": "Crocs faz primeira collab com marca brasileira e escolhe a Carmed | Fast Company Brasil",
+      "original_title": "Crocs faz primeira collab com marca brasileira e escolhe a Carmed | Fast Company Brasil",
+      "summary": "Lançamento amplia a estratégia de colaborações da Crocs, que já reuniu marcas como Coca-Cola, Levi’s e com grupos de K-POP.",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre branding e suas implicações para marcas e comunicação.",
+      "category": "Branding",
+      "source": "Fast Company Brasil",
+      "published_date": "2026-11-11",
+      "url": "https://fastcompanybrasil.com/design/crocs-faz-primeira-collab-com-marca-brasileira-escolhe-carmed/",
+      "image_url": "https://fastcompanybrasil.com/wp-content/uploads/2026/11/crocs-carmed.jpg"
+    },
+    {
+      "title": "VML conquista a conta de Amstel no Brasil",
+      "original_title": "VML conquista a conta de Amstel no Brasil",
+      "summary": "Agência assume a frente de estratégia criativa responsável por desenvolver, campanhas e conteúdos criativos para Amstel",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre campanhas e suas implicações para marcas e comunicação.",
+      "category": "Campanhas",
+      "source": "Meio & Mensagem",
+      "published_date": "2026-11-10",
+      "url": "https://www.meioemensagem.com.br/comunicacao/vml-conquista-a-conta-de-amstel-no-brasil",
+      "image_url": "https://www.meioemensagem.com.br/wp-content/uploads/2026/11/VML-e-amstel.jpg"
+    },
+    {
+      "title": "Dengo lança campanha de Natal com 12 novidades",
+      "original_title": "Dengo lança campanha de Natal com 12 novidades",
+      "summary": "Com o mote \"Natal é feito com Dengo\", a marca reúne 26 opções de presente, ingredientes brasileiros e embalagens que ganham novos usos depois das festas, com ilustrações inéditas de Winny Tapajós.",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre campanhas e suas implicações para marcas e comunicação.",
+      "category": "Campanhas",
+      "source": "Update or Die!",
+      "published_date": "2026-11-05",
+      "url": "https://updateordie.com/2026/11/05/dengo-lanca-campanha-de-natal-com-12-novidades/",
+      "image_url": "https://updateordie.com/wp-content/uploads/2026/11/maxresdefault-7.jpg"
+    },
+    {
+      "title": "Adobe abre sua Creative Cloud para agentes de IA | Fast Company Brasil",
+      "original_title": "Adobe abre sua Creative Cloud para agentes de IA | Fast Company Brasil",
+      "summary": "Estratégia permite que agentes externos acessem arquivos da Creative Cloud, mas levanta dúvidas sobre custos, segurança e direitos autorais.",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre estratégia & negócios e suas implicações para marcas e comunicação.",
+      "category": "Estratégia & negócios",
+      "source": "Fast Company Brasil",
+      "published_date": "2026-11-11",
+      "url": "https://fastcompanybrasil.com/tech/adobe-abre-sua-creative-cloud-para-agentes-de-ia/",
+      "image_url": "https://fastcompanybrasil.com/wp-content/uploads/2026/11/Adobe_agentes-autonomos_Firefly.jpg"
+    },
+    {
+      "title": "Brand Bonds, Incrementality, and Surviving Q4: A Foolproof Measurement Playbook to Protect Your Budget â LBB",
+      "original_title": "Brand Bonds, Incrementality, and Surviving Q4: A Foolproof Measurement Playbook to Protect Your Budget â LBB",
+      "summary": "Allen & Gerritsen's Tory Navarro on rethinking measurement, making the case for marketing's true impact and turning budget defence into a growth strategy",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre branding e suas implicações para marcas e comunicação.",
+      "category": "Branding",
+      "source": "LBB",
+      "published_date": "2026-11-11",
+      "url": "https://lbbonline.com/news/brand-bonds-incrementality-and-surviving-q4-a-foolproof-measurement-playbook-to-protect-your-budget",
+      "image_url": "https://d3q27bh1u24u2o.cloudfront.net/resized/1200/news/2026-11/tory-navarro-1.u2F__VI5.png"
+    },
+    {
+      "title": "Dentsu Creative US Is Turning Hits into Home Runs â LBB",
+      "original_title": "Dentsu Creative US Is Turning Hits into Home Runs â LBB",
+      "summary": "Americas CEO Phil Gaughran and new US CCO Michael Aimette on plans to evolve âcreative ideasâ into âagency ideasâ, and the leaps of faith that will take the agency from second plate to home",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre estratégia & negócios e suas implicações para marcas e comunicação.",
+      "category": "Estratégia & negócios",
+      "source": "LBB",
+      "published_date": "2026-11-11",
+      "url": "https://lbbonline.com/news/dentsu-creative-us-michael-aimette-cco-phil-gaughran-ceo",
+      "image_url": "https://d3q27bh1u24u2o.cloudfront.net/resized/1200/news_hero/2026-11/dentsu-creative-us-ceo-cco-michael-aimette-phil-gaughran.TzbrueGO.png"
+    }
+  ]
+}
