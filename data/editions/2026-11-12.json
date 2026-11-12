@@ -1,0 +1,139 @@
+{
+  "edition_date": "2026-11-12",
+  "status": "published",
+  "notice": "Curadoria automática gratuita baseada em RSS e metadados das fontes originais.",
+  "window_start": "2026-11-06",
+  "window_end": "2026-11-12",
+  "edition_name": "Update com Afeto",
+  "editor_letter": "Esta edição reúne 10 histórias publicadas nos últimos sete dias, selecionadas entre as fontes do registro editorial unificado. A curadoria prioriza campanhas, marcas, estratégia, comportamento e cultura digital. Os resumos partem das descrições publicadas pelas próprias fontes; abra os links originais para ler o contexto completo.",
+  "signals": [
+    {
+      "title": "Campanhas",
+      "description": "5 matéria(s) desta edição exploram campanhas. Veja como as marcas e a cultura estão se movimentando neste tema.",
+      "category": "SINAL EDITORIAL"
+    },
+    {
+      "title": "Branding",
+      "description": "5 matéria(s) desta edição exploram branding. Veja como as marcas e a cultura estão se movimentando neste tema.",
+      "category": "SINAL EDITORIAL"
+    },
+    {
+      "title": "Repertório em movimento",
+      "description": "Acompanhe as publicações originais para identificar exemplos e ideias aplicáveis à comunicação.",
+      "category": "SINAL EDITORIAL"
+    }
+  ],
+  "lead_url": "https://www.b9.com.br/rexona-suores-invisiveis-mulheres-juntas-pra-qualquer-suor/",
+  "stories": [
+    {
+      "title": "VML assume conta criativa da Amstel no Brasil",
+      "original_title": "VML assume conta criativa da Amstel no Brasil",
+      "summary": "Agência passa a liderar estratégia, campanhas e conteúdo da marca no país como parte do novo modelo global do Grupo HEINEKEN; operação integral começa em 2027",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre campanhas e suas implicações para marcas e comunicação.",
+      "category": "Campanhas",
+      "source": "B9",
+      "published_date": "2026-11-11",
+      "url": "https://www.b9.com.br/vml-assume-conta-criativa-da-amstel-no-brasil/",
+      "image_url": "https://storage.ghost.io/c/b8/a4/b8a4ba23-e08d-42f7-b459-b1bcab5b8867/content/images/size/w1200/2026/11/Amstel-VML.jpg"
+    },
+    {
+      "title": "Realities ganham espaço nas estratégias das marcas",
+      "original_title": "Realities ganham espaço nas estratégias das marcas",
+      "summary": "Com projetos para PepsiCo e Fanta, BR Media e VML discutem como o entretenimento amplia as possibilidades de conexão com os consumidores",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre branding e suas implicações para marcas e comunicação.",
+      "category": "Branding",
+      "source": "Meio & Mensagem",
+      "published_date": "2026-11-06",
+      "url": "https://www.meioemensagem.com.br/comunicacao/realities-ganham-espaco-nas-estrategias-das-marcas",
+      "image_url": "https://www.meioemensagem.com.br/wp-content/uploads/2026/11/realities.jpg"
+    },
+    {
+      "title": "Rexona transforma pressões do cotidiano feminino em “suores invisíveis” na nova campanha",
+      "original_title": "Rexona transforma pressões do cotidiano feminino em “suores invisíveis” na nova campanha",
+      "summary": "Criada pela DRUM, “Juntas pra qualquer suor” leva o território de tensão que a marca já explorava para uma plataforma feminina com novela, cinema, podcasts e Copa do Mundo de 2027",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre campanhas e suas implicações para marcas e comunicação.",
+      "category": "Campanhas",
+      "source": "B9",
+      "published_date": "2026-11-12",
+      "url": "https://www.b9.com.br/rexona-suores-invisiveis-mulheres-juntas-pra-qualquer-suor/",
+      "image_url": "https://storage.ghost.io/c/b8/a4/b8a4ba23-e08d-42f7-b459-b1bcab5b8867/content/images/size/w1200/2026/11/rexona.jpg"
+    },
+    {
+      "title": "Como as marcas saem das urnas em 2026?",
+      "original_title": "Como as marcas saem das urnas em 2026?",
+      "summary": "As eleições revelam mais do que preferências políticas. Elas também oferecem pistas sobre os medos, desejos e expectativas dos consumidores.",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre branding e suas implicações para marcas e comunicação.",
+      "category": "Branding",
+      "source": "Fast Company Brasil",
+      "published_date": "2026-11-12",
+      "url": "https://fastcompanybrasil.com/coluna/marcas-eleicoes-2026-comportamento-consumo/",
+      "image_url": "https://fastcompanybrasil.com/wp-content/uploads/2026/11/eleicoes-2026-marcas-comportamento-consumidor.jpg"
+    },
+    {
+      "title": "Lima Duarte estrela 96 anos do Banco Bmg",
+      "original_title": "Lima Duarte estrela 96 anos do Banco Bmg",
+      "summary": "Criada pela Milà, a campanha \"Cabe na sua vida\" reúne dois personagens de 96 anos, o ator e o banco, e aposta nas origens mineiras da marca.",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre campanhas e suas implicações para marcas e comunicação.",
+      "category": "Campanhas",
+      "source": "Update or Die!",
+      "published_date": "2026-11-11",
+      "url": "https://updateordie.com/2026/11/11/lima-duarte-estrela-96-anos-do-banco-bmg/",
+      "image_url": "https://updateordie.com/wp-content/uploads/2026/11/maxresdefault-18.jpg"
+    },
+    {
+      "title": "Coca-Cola lança campanha de Natal 2026",
+      "original_title": "Coca-Cola lança campanha de Natal 2026",
+      "summary": "Com humor, a marca fala de imprevistos das festas e da importância de estar perto de quem se ama. Filme, influenciadores, árvore em SP e caravanas completam a ação.",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre campanhas e suas implicações para marcas e comunicação.",
+      "category": "Campanhas",
+      "source": "Update or Die!",
+      "published_date": "2026-11-11",
+      "url": "https://updateordie.com/2026/11/11/coca-cola-lanca-campanha-de-natal-2026/",
+      "image_url": "https://updateordie.com/wp-content/uploads/2026/11/copia-de-Xmas-OLV-Hero-30s-0-5-screenshot.webp"
+    },
+    {
+      "title": "VML conquista a conta de Amstel no Brasil",
+      "original_title": "VML conquista a conta de Amstel no Brasil",
+      "summary": "Agência assume a frente de estratégia criativa responsável por desenvolver, campanhas e conteúdos criativos para Amstel",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre campanhas e suas implicações para marcas e comunicação.",
+      "category": "Campanhas",
+      "source": "Meio & Mensagem",
+      "published_date": "2026-11-10",
+      "url": "https://www.meioemensagem.com.br/comunicacao/vml-conquista-a-conta-de-amstel-no-brasil",
+      "image_url": "https://www.meioemensagem.com.br/wp-content/uploads/2026/11/VML-e-amstel.jpg"
+    },
+    {
+      "title": "Quem é Colette Kress, executiva que assume o comando da Nvidia após saída de Jensen Huang? | Fast Company Brasil",
+      "original_title": "Quem é Colette Kress, executiva que assume o comando da Nvidia após saída de Jensen Huang? | Fast Company Brasil",
+      "summary": "Kress assume após a saída de Huang, marcada por denúncias de relacionamentos extraconjugais e investigação sobre possível espionagem.",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre branding e suas implicações para marcas e comunicação.",
+      "category": "Branding",
+      "source": "Fast Company Brasil",
+      "published_date": "2026-11-12",
+      "url": "https://fastcompanybrasil.com/news/quem-e-colette-kress-executiva-que-assume-o-comando-da-nvidia-apos-saida-de-jensen-huang/",
+      "image_url": "https://fastcompanybrasil.com/wp-content/uploads/2026/11/colette-nvidia.jpg"
+    },
+    {
+      "title": "Welcome Back to the Real World: The Opportunity for Brands to Make Something That Matters â LBB",
+      "original_title": "Welcome Back to the Real World: The Opportunity for Brands to Make Something That Matters â LBB",
+      "summary": "Hosted by Prominate Group's Will Rust, the fireside chat brought together five perspectives from across the creative and marketing industries: Ted Jones, Tara Austin, Walter Toft, Milana Karaica and Fran Langdon",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre branding e suas implicações para marcas e comunicação.",
+      "category": "Branding",
+      "source": "LBB",
+      "published_date": "2026-11-12",
+      "url": "https://lbbonline.com/news/welcome-back-to-the-real-world-the-opportunity-for-brands-to-make-something-that-matters",
+      "image_url": "https://d3q27bh1u24u2o.cloudfront.net/resized/1200/news/2026-11/prominate-group.kvwN3Nu8.png"
+    },
+    {
+      "title": "Chelsea FCâs Marketing Canât Be Tamed â LBB",
+      "original_title": "Chelsea FCâs Marketing Canât Be Tamed â LBB",
+      "summary": "Chelsea FCâs brand director Scott Fenton on unpredictability as a creative imperative, deliberately leaking the clubâs kit with Madonna, and a global âLondon to the worldâ strategy",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre branding e suas implicações para marcas e comunicação.",
+      "category": "Branding",
+      "source": "LBB",
+      "published_date": "2026-11-12",
+      "url": "https://lbbonline.com/news/chelsea-football-club-scott-fenton-brand-director-advertising-marketing",
+      "image_url": "https://d3q27bh1u24u2o.cloudfront.net/resized/1200/news/2026-11/chelsea-main-imagw.-ytVebBQ.png"
+    }
+  ]
+}

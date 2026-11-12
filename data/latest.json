@@ -1,9 +1,9 @@
 {
-  "edition_date": "2026-11-11",
+  "edition_date": "2026-11-12",
   "status": "published",
   "notice": "Curadoria automática gratuita baseada em RSS e metadados das fontes originais.",
-  "window_start": "2026-11-05",
-  "window_end": "2026-11-11",
+  "window_start": "2026-11-06",
+  "window_end": "2026-11-12",
   "edition_name": "Update com Afeto",
   "editor_letter": "Esta edição reúne 10 histórias publicadas nos últimos sete dias, selecionadas entre as fontes do registro editorial unificado. A curadoria prioriza campanhas, marcas, estratégia, comportamento e cultura digital. Os resumos partem das descrições publicadas pelas próprias fontes; abra os links originais para ler o contexto completo.",
   "signals": [
@@ -14,16 +14,16 @@
     },
     {
       "title": "Branding",
-      "description": "3 matéria(s) desta edição exploram branding. Veja como as marcas e a cultura estão se movimentando neste tema.",
+      "description": "5 matéria(s) desta edição exploram branding. Veja como as marcas e a cultura estão se movimentando neste tema.",
       "category": "SINAL EDITORIAL"
     },
     {
-      "title": "Estratégia & negócios",
-      "description": "2 matéria(s) desta edição exploram estratégia & negócios. Veja como as marcas e a cultura estão se movimentando neste tema.",
+      "title": "Repertório em movimento",
+      "description": "Acompanhe as publicações originais para identificar exemplos e ideias aplicáveis à comunicação.",
       "category": "SINAL EDITORIAL"
     }
   ],
-  "lead_url": "https://www.b9.com.br/coca-cola-natal-2026-eu-odeio-o-natal/",
+  "lead_url": "https://www.b9.com.br/rexona-suores-invisiveis-mulheres-juntas-pra-qualquer-suor/",
   "stories": [
     {
       "title": "VML assume conta criativa da Amstel no Brasil",
@@ -48,15 +48,37 @@
       "image_url": "https://www.meioemensagem.com.br/wp-content/uploads/2026/11/realities.jpg"
     },
     {
-      "title": "Coca-Cola abre campanha de Natal com uma frase improvável: “eu odeio o Natal”",
-      "original_title": "Coca-Cola abre campanha de Natal com uma frase improvável: “eu odeio o Natal”",
-      "summary": "Filme brasileiro admite correria, pressão e imprevistos da data antes de voltar ao território que a marca ocupa há décadas: a vontade de estar junto",
+      "title": "Rexona transforma pressões do cotidiano feminino em “suores invisíveis” na nova campanha",
+      "original_title": "Rexona transforma pressões do cotidiano feminino em “suores invisíveis” na nova campanha",
+      "summary": "Criada pela DRUM, “Juntas pra qualquer suor” leva o território de tensão que a marca já explorava para uma plataforma feminina com novela, cinema, podcasts e Copa do Mundo de 2027",
       "why_it_matters": "Vale observar o que esta publicação revela sobre campanhas e suas implicações para marcas e comunicação.",
       "category": "Campanhas",
       "source": "B9",
+      "published_date": "2026-11-12",
+      "url": "https://www.b9.com.br/rexona-suores-invisiveis-mulheres-juntas-pra-qualquer-suor/",
+      "image_url": "https://storage.ghost.io/c/b8/a4/b8a4ba23-e08d-42f7-b459-b1bcab5b8867/content/images/size/w1200/2026/11/rexona.jpg"
+    },
+    {
+      "title": "Como as marcas saem das urnas em 2026?",
+      "original_title": "Como as marcas saem das urnas em 2026?",
+      "summary": "As eleições revelam mais do que preferências políticas. Elas também oferecem pistas sobre os medos, desejos e expectativas dos consumidores.",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre branding e suas implicações para marcas e comunicação.",
+      "category": "Branding",
+      "source": "Fast Company Brasil",
+      "published_date": "2026-11-12",
+      "url": "https://fastcompanybrasil.com/coluna/marcas-eleicoes-2026-comportamento-consumo/",
+      "image_url": "https://fastcompanybrasil.com/wp-content/uploads/2026/11/eleicoes-2026-marcas-comportamento-consumidor.jpg"
+    },
+    {
+      "title": "Lima Duarte estrela 96 anos do Banco Bmg",
+      "original_title": "Lima Duarte estrela 96 anos do Banco Bmg",
+      "summary": "Criada pela Milà, a campanha \"Cabe na sua vida\" reúne dois personagens de 96 anos, o ator e o banco, e aposta nas origens mineiras da marca.",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre campanhas e suas implicações para marcas e comunicação.",
+      "category": "Campanhas",
+      "source": "Update or Die!",
       "published_date": "2026-11-11",
-      "url": "https://www.b9.com.br/coca-cola-natal-2026-eu-odeio-o-natal/",
-      "image_url": "https://storage.ghost.io/c/b8/a4/b8a4ba23-e08d-42f7-b459-b1bcab5b8867/content/images/size/w1200/2026/11/CCTM_Natal_Foto_Toast.jpg"
+      "url": "https://updateordie.com/2026/11/11/lima-duarte-estrela-96-anos-do-banco-bmg/",
+      "image_url": "https://updateordie.com/wp-content/uploads/2026/11/maxresdefault-18.jpg"
     },
     {
       "title": "Coca-Cola lança campanha de Natal 2026",
@@ -70,17 +92,6 @@
       "image_url": "https://updateordie.com/wp-content/uploads/2026/11/copia-de-Xmas-OLV-Hero-30s-0-5-screenshot.webp"
     },
     {
-      "title": "Crocs faz primeira collab com marca brasileira e escolhe a Carmed | Fast Company Brasil",
-      "original_title": "Crocs faz primeira collab com marca brasileira e escolhe a Carmed | Fast Company Brasil",
-      "summary": "Lançamento amplia a estratégia de colaborações da Crocs, que já reuniu marcas como Coca-Cola, Levi’s e com grupos de K-POP.",
-      "why_it_matters": "Vale observar o que esta publicação revela sobre branding e suas implicações para marcas e comunicação.",
-      "category": "Branding",
-      "source": "Fast Company Brasil",
-      "published_date": "2026-11-11",
-      "url": "https://fastcompanybrasil.com/design/crocs-faz-primeira-collab-com-marca-brasileira-escolhe-carmed/",
-      "image_url": "https://fastcompanybrasil.com/wp-content/uploads/2026/11/crocs-carmed.jpg"
-    },
-    {
       "title": "VML conquista a conta de Amstel no Brasil",
       "original_title": "VML conquista a conta de Amstel no Brasil",
       "summary": "Agência assume a frente de estratégia criativa responsável por desenvolver, campanhas e conteúdos criativos para Amstel",
@@ -92,48 +103,37 @@
       "image_url": "https://www.meioemensagem.com.br/wp-content/uploads/2026/11/VML-e-amstel.jpg"
     },
     {
-      "title": "Dengo lança campanha de Natal com 12 novidades",
-      "original_title": "Dengo lança campanha de Natal com 12 novidades",
-      "summary": "Com o mote \"Natal é feito com Dengo\", a marca reúne 26 opções de presente, ingredientes brasileiros e embalagens que ganham novos usos depois das festas, com ilustrações inéditas de Winny Tapajós.",
-      "why_it_matters": "Vale observar o que esta publicação revela sobre campanhas e suas implicações para marcas e comunicação.",
-      "category": "Campanhas",
-      "source": "Update or Die!",
-      "published_date": "2026-11-05",
-      "url": "https://updateordie.com/2026/11/05/dengo-lanca-campanha-de-natal-com-12-novidades/",
-      "image_url": "https://updateordie.com/wp-content/uploads/2026/11/maxresdefault-7.jpg"
-    },
-    {
-      "title": "Adobe abre sua Creative Cloud para agentes de IA | Fast Company Brasil",
-      "original_title": "Adobe abre sua Creative Cloud para agentes de IA | Fast Company Brasil",
-      "summary": "Estratégia permite que agentes externos acessem arquivos da Creative Cloud, mas levanta dúvidas sobre custos, segurança e direitos autorais.",
-      "why_it_matters": "Vale observar o que esta publicação revela sobre estratégia & negócios e suas implicações para marcas e comunicação.",
-      "category": "Estratégia & negócios",
+      "title": "Quem é Colette Kress, executiva que assume o comando da Nvidia após saída de Jensen Huang? | Fast Company Brasil",
+      "original_title": "Quem é Colette Kress, executiva que assume o comando da Nvidia após saída de Jensen Huang? | Fast Company Brasil",
+      "summary": "Kress assume após a saída de Huang, marcada por denúncias de relacionamentos extraconjugais e investigação sobre possível espionagem.",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre branding e suas implicações para marcas e comunicação.",
+      "category": "Branding",
       "source": "Fast Company Brasil",
-      "published_date": "2026-11-11",
-      "url": "https://fastcompanybrasil.com/tech/adobe-abre-sua-creative-cloud-para-agentes-de-ia/",
-      "image_url": "https://fastcompanybrasil.com/wp-content/uploads/2026/11/Adobe_agentes-autonomos_Firefly.jpg"
+      "published_date": "2026-11-12",
+      "url": "https://fastcompanybrasil.com/news/quem-e-colette-kress-executiva-que-assume-o-comando-da-nvidia-apos-saida-de-jensen-huang/",
+      "image_url": "https://fastcompanybrasil.com/wp-content/uploads/2026/11/colette-nvidia.jpg"
     },
     {
-      "title": "Brand Bonds, Incrementality, and Surviving Q4: A Foolproof Measurement Playbook to Protect Your Budget â LBB",
-      "original_title": "Brand Bonds, Incrementality, and Surviving Q4: A Foolproof Measurement Playbook to Protect Your Budget â LBB",
-      "summary": "Allen & Gerritsen's Tory Navarro on rethinking measurement, making the case for marketing's true impact and turning budget defence into a growth strategy",
+      "title": "Welcome Back to the Real World: The Opportunity for Brands to Make Something That Matters â LBB",
+      "original_title": "Welcome Back to the Real World: The Opportunity for Brands to Make Something That Matters â LBB",
+      "summary": "Hosted by Prominate Group's Will Rust, the fireside chat brought together five perspectives from across the creative and marketing industries: Ted Jones, Tara Austin, Walter Toft, Milana Karaica and Fran Langdon",
       "why_it_matters": "Vale observar o que esta publicação revela sobre branding e suas implicações para marcas e comunicação.",
       "category": "Branding",
       "source": "LBB",
-      "published_date": "2026-11-11",
-      "url": "https://lbbonline.com/news/brand-bonds-incrementality-and-surviving-q4-a-foolproof-measurement-playbook-to-protect-your-budget",
-      "image_url": "https://d3q27bh1u24u2o.cloudfront.net/resized/1200/news/2026-11/tory-navarro-1.u2F__VI5.png"
+      "published_date": "2026-11-12",
+      "url": "https://lbbonline.com/news/welcome-back-to-the-real-world-the-opportunity-for-brands-to-make-something-that-matters",
+      "image_url": "https://d3q27bh1u24u2o.cloudfront.net/resized/1200/news/2026-11/prominate-group.kvwN3Nu8.png"
     },
     {
-      "title": "Dentsu Creative US Is Turning Hits into Home Runs â LBB",
-      "original_title": "Dentsu Creative US Is Turning Hits into Home Runs â LBB",
-      "summary": "Americas CEO Phil Gaughran and new US CCO Michael Aimette on plans to evolve âcreative ideasâ into âagency ideasâ, and the leaps of faith that will take the agency from second plate to home",
-      "why_it_matters": "Vale observar o que esta publicação revela sobre estratégia & negócios e suas implicações para marcas e comunicação.",
-      "category": "Estratégia & negócios",
+      "title": "Chelsea FCâs Marketing Canât Be Tamed â LBB",
+      "original_title": "Chelsea FCâs Marketing Canât Be Tamed â LBB",
+      "summary": "Chelsea FCâs brand director Scott Fenton on unpredictability as a creative imperative, deliberately leaking the clubâs kit with Madonna, and a global âLondon to the worldâ strategy",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre branding e suas implicações para marcas e comunicação.",
+      "category": "Branding",
       "source": "LBB",
-      "published_date": "2026-11-11",
-      "url": "https://lbbonline.com/news/dentsu-creative-us-michael-aimette-cco-phil-gaughran-ceo",
-      "image_url": "https://d3q27bh1u24u2o.cloudfront.net/resized/1200/news_hero/2026-11/dentsu-creative-us-ceo-cco-michael-aimette-phil-gaughran.TzbrueGO.png"
+      "published_date": "2026-11-12",
+      "url": "https://lbbonline.com/news/chelsea-football-club-scott-fenton-brand-director-advertising-marketing",
+      "image_url": "https://d3q27bh1u24u2o.cloudfront.net/resized/1200/news/2026-11/chelsea-main-imagw.-ytVebBQ.png"
     }
   ]
 }
