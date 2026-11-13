@@ -13,17 +13,17 @@
       "category": "SINAL EDITORIAL"
     },
     {
-      "title": "Branding",
-      "description": "2 matéria(s) desta edição exploram branding. Veja como as marcas e a cultura estão se movimentando neste tema.",
+      "title": "Comportamento",
+      "description": "2 matéria(s) desta edição exploram comportamento. Veja como as marcas e a cultura estão se movimentando neste tema.",
       "category": "SINAL EDITORIAL"
     },
     {
-      "title": "Experiência de marca",
-      "description": "1 matéria(s) desta edição exploram experiência de marca. Veja como as marcas e a cultura estão se movimentando neste tema.",
+      "title": "Branding",
+      "description": "1 matéria(s) desta edição exploram branding. Veja como as marcas e a cultura estão se movimentando neste tema.",
       "category": "SINAL EDITORIAL"
     }
   ],
-  "lead_url": "https://www.b9.com.br/heinz-maionese-culinaria-gaiola-nao-volta-atras/",
+  "lead_url": "https://fastcompanybrasil.com/tech/black-friday-e-mudancas-no-comportamento-do-consumidor/",
   "stories": [
     {
       "title": "VML assume conta criativa da Amstel no Brasil",
@@ -35,6 +35,17 @@
       "published_date": "2026-11-11",
       "url": "https://www.b9.com.br/vml-assume-conta-criativa-da-amstel-no-brasil/",
       "image_url": "https://storage.ghost.io/c/b8/a4/b8a4ba23-e08d-42f7-b459-b1bcab5b8867/content/images/size/w1200/2026/11/Amstel-VML.jpg"
+    },
+    {
+      "title": "Black Friday e mudanças no comportamento do consumidor | Fast Company Brasil",
+      "original_title": "Black Friday e mudanças no comportamento do consumidor | Fast Company Brasil",
+      "summary": "Brasileiro está mais criterioso, pesquisa com antecedência, conhece melhor os preços e começa a usar IA para promoções.",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre comportamento e suas implicações para marcas e comunicação.",
+      "category": "Comportamento",
+      "source": "Fast Company Brasil",
+      "published_date": "2026-11-13",
+      "url": "https://fastcompanybrasil.com/tech/black-friday-e-mudancas-no-comportamento-do-consumidor/",
+      "image_url": "https://fastcompanybrasil.com/wp-content/uploads/2026/11/Black-Friday_consumidor-desconfiado.jpg"
     },
     {
       "title": "O smartphone vai perder seu domínio? A disputa já começou | Fast Company Brasil",
@@ -92,17 +103,6 @@
       "image_url": "https://www.meioemensagem.com.br/wp-content/uploads/2026/11/VML-e-amstel.jpg"
     },
     {
-      "title": "A economia dos especialistas está prestes a explodir | Fast Company Brasil",
-      "original_title": "A economia dos especialistas está prestes a explodir | Fast Company Brasil",
-      "summary": "Especialistas com décadas de experiência estão conquistando espaço em um ambiente digital saturado de conteúdos produzidos para viralizar.",
-      "why_it_matters": "Vale observar o que esta publicação revela sobre experiência de marca e suas implicações para marcas e comunicação.",
-      "category": "Experiência de marca",
-      "source": "Fast Company Brasil",
-      "published_date": "2026-11-12",
-      "url": "https://fastcompanybrasil.com/creators-tech/a-economia-dos-especialistas-esta-prestes-a-explodir/",
-      "image_url": "https://fastcompanybrasil.com/wp-content/uploads/2026/11/influenciadores_criadores_especialistas.jpg"
-    },
-    {
       "title": "Novembro Negro: a publicidade vai além do discurso?",
       "original_title": "Novembro Negro: a publicidade vai além do discurso?",
       "summary": "Artplan, IDW Company e Droga5 discutem os desafios em transformar iniciativas de representatividade em compromissos permanentes",
@@ -114,26 +114,26 @@
       "image_url": "https://www.meioemensagem.com.br/wp-content/uploads/2026/11/pessoas-negras.jpg"
     },
     {
-      "title": "The Curiosity That Drove VÃ­ctor Duque to VFX â LBB",
-      "original_title": "The Curiosity That Drove VÃ­ctor Duque to VFX â LBB",
-      "summary": "The Bandido VFX artist on misconceptions of VFX in advertising, why he remains an advocate for practical effects, as well as his lifelong love for special effects, as part of LBBâs âThe VFX Factorâ series",
+      "title": "ANA Unveils Winners of 2026 Multicultural and Inclusive Marketing Excellence Awards â LBB",
+      "original_title": "ANA Unveils Winners of 2026 Multicultural and Inclusive Marketing Excellence Awards â LBB",
+      "summary": "Coffee mate and Casanova McCann awarded Best In Show for 'The last of the non-coffee lovers'",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre comportamento e suas implicações para marcas e comunicação.",
+      "category": "Comportamento",
+      "source": "LBB",
+      "published_date": "2026-11-13",
+      "url": "https://lbbonline.com/news/ana-unveils-winners-of-2026-multicultural-and-inclusive-marketing-excellence-awards",
+      "image_url": "https://d3q27bh1u24u2o.cloudfront.net/resized/1200/news/2026-11/ana.F_BAqVaI.png"
+    },
+    {
+      "title": "Getting to Knowâ¦ KDSP â LBB",
+      "original_title": "Getting to Knowâ¦ KDSP â LBB",
+      "summary": "Mollie Partesotti, co-founder of the New York-based advertising agency, spoke with LBB about its latest and greatest work as well as the KDSP philosophy",
       "why_it_matters": "Vale observar o que esta publicação revela sobre campanhas e suas implicações para marcas e comunicação.",
       "category": "Campanhas",
       "source": "LBB",
       "published_date": "2026-11-13",
-      "url": "https://lbbonline.com/news/the-curiosity-that-drove-victor-duque-to-vfx",
-      "image_url": "https://d3q27bh1u24u2o.cloudfront.net/resized/1200/news/2026-11/victor-duque.lfdTo9nK.png"
-    },
-    {
-      "title": "A Million Views. But Whose Brand Do You Remember? â LBB",
-      "original_title": "A Million Views. But Whose Brand Do You Remember? â LBB",
-      "summary": "As brands chase the next viral skit, award-winning social-first creative studio Thumbstoppers questions whether fleeting entertainment is building anything lasting. Founder and ECD John Barton explains why repeatable entertainment, distinctive brand worlds and real human connection deserve a bigger role in the feed",
-      "why_it_matters": "Vale observar o que esta publicação revela sobre branding e suas implicações para marcas e comunicação.",
-      "category": "Branding",
-      "source": "LBB",
-      "published_date": "2026-11-13",
-      "url": "https://lbbonline.com/news/thumpstoppers-shottails-shot-tales-shs-drinks-spill-the-g",
-      "image_url": "https://d3q27bh1u24u2o.cloudfront.net/resized/1200/news/2026-11/thumbstoppers-shottails-shottales.KoVVBDQf.jpg"
+      "url": "https://lbbonline.com/news/getting-to-know-kdsp",
+      "image_url": "https://d3q27bh1u24u2o.cloudfront.net/resized/1200/news/2026-11/kdsp.WW7wi65L.png"
     }
   ]
 }
