@@ -1,0 +1,139 @@
+{
+  "edition_date": "2026-11-13",
+  "status": "published",
+  "notice": "Curadoria automática gratuita baseada em RSS e metadados das fontes originais.",
+  "window_start": "2026-11-07",
+  "window_end": "2026-11-13",
+  "edition_name": "Update com Afeto",
+  "editor_letter": "Esta edição reúne 10 histórias publicadas nos últimos sete dias, selecionadas entre as fontes do registro editorial unificado. A curadoria prioriza campanhas, marcas, estratégia, comportamento e cultura digital. Os resumos partem das descrições publicadas pelas próprias fontes; abra os links originais para ler o contexto completo.",
+  "signals": [
+    {
+      "title": "Campanhas",
+      "description": "7 matéria(s) desta edição exploram campanhas. Veja como as marcas e a cultura estão se movimentando neste tema.",
+      "category": "SINAL EDITORIAL"
+    },
+    {
+      "title": "Branding",
+      "description": "2 matéria(s) desta edição exploram branding. Veja como as marcas e a cultura estão se movimentando neste tema.",
+      "category": "SINAL EDITORIAL"
+    },
+    {
+      "title": "Experiência de marca",
+      "description": "1 matéria(s) desta edição exploram experiência de marca. Veja como as marcas e a cultura estão se movimentando neste tema.",
+      "category": "SINAL EDITORIAL"
+    }
+  ],
+  "lead_url": "https://www.b9.com.br/heinz-maionese-culinaria-gaiola-nao-volta-atras/",
+  "stories": [
+    {
+      "title": "VML assume conta criativa da Amstel no Brasil",
+      "original_title": "VML assume conta criativa da Amstel no Brasil",
+      "summary": "Agência passa a liderar estratégia, campanhas e conteúdo da marca no país como parte do novo modelo global do Grupo HEINEKEN; operação integral começa em 2027",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre campanhas e suas implicações para marcas e comunicação.",
+      "category": "Campanhas",
+      "source": "B9",
+      "published_date": "2026-11-11",
+      "url": "https://www.b9.com.br/vml-assume-conta-criativa-da-amstel-no-brasil/",
+      "image_url": "https://storage.ghost.io/c/b8/a4/b8a4ba23-e08d-42f7-b459-b1bcab5b8867/content/images/size/w1200/2026/11/Amstel-VML.jpg"
+    },
+    {
+      "title": "O smartphone vai perder seu domínio? A disputa já começou | Fast Company Brasil",
+      "original_title": "O smartphone vai perder seu domínio? A disputa já começou | Fast Company Brasil",
+      "summary": "Apple, Amazon, Meta e OpenAI disputam o futuro da interação digital, enquanto a IA ameaça mudar a relação entre marcas e consumidores.",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre branding e suas implicações para marcas e comunicação.",
+      "category": "Branding",
+      "source": "Fast Company Brasil",
+      "published_date": "2026-11-13",
+      "url": "https://fastcompanybrasil.com/tech/o-smartphone-vai-perder-seu-dominio-a-disputa-ja-comecou/",
+      "image_url": "https://fastcompanybrasil.com/wp-content/uploads/2026/11/substituto-do-smartphone.jpg"
+    },
+    {
+      "title": "Nova campanha da Heinz quer libertar receitas da “maionese de sempre”",
+      "original_title": "Nova campanha da Heinz quer libertar receitas da “maionese de sempre”",
+      "summary": "Campanha da DAVID transforma hábito de cozinha em prisão literal para apresentar nova Maionese Culinária e atualizar o “não volta atrás” da marca",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre campanhas e suas implicações para marcas e comunicação.",
+      "category": "Campanhas",
+      "source": "B9",
+      "published_date": "2026-11-12",
+      "url": "https://www.b9.com.br/heinz-maionese-culinaria-gaiola-nao-volta-atras/",
+      "image_url": "https://storage.ghost.io/c/b8/a4/b8a4ba23-e08d-42f7-b459-b1bcab5b8867/content/images/size/w1200/2026/11/Captura-de-Tela-2026-11-12-a--s-15.49.26.png"
+    },
+    {
+      "title": "Lima Duarte estrela 96 anos do Banco Bmg",
+      "original_title": "Lima Duarte estrela 96 anos do Banco Bmg",
+      "summary": "Criada pela Milà, a campanha \"Cabe na sua vida\" reúne dois personagens de 96 anos, o ator e o banco, e aposta nas origens mineiras da marca.",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre campanhas e suas implicações para marcas e comunicação.",
+      "category": "Campanhas",
+      "source": "Update or Die!",
+      "published_date": "2026-11-11",
+      "url": "https://updateordie.com/2026/11/11/lima-duarte-estrela-96-anos-do-banco-bmg/",
+      "image_url": "https://updateordie.com/wp-content/uploads/2026/11/maxresdefault-18.jpg"
+    },
+    {
+      "title": "Coca-Cola lança campanha de Natal 2026",
+      "original_title": "Coca-Cola lança campanha de Natal 2026",
+      "summary": "Com humor, a marca fala de imprevistos das festas e da importância de estar perto de quem se ama. Filme, influenciadores, árvore em SP e caravanas completam a ação.",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre campanhas e suas implicações para marcas e comunicação.",
+      "category": "Campanhas",
+      "source": "Update or Die!",
+      "published_date": "2026-11-11",
+      "url": "https://updateordie.com/2026/11/11/coca-cola-lanca-campanha-de-natal-2026/",
+      "image_url": "https://updateordie.com/wp-content/uploads/2026/11/copia-de-Xmas-OLV-Hero-30s-0-5-screenshot.webp"
+    },
+    {
+      "title": "VML conquista a conta de Amstel no Brasil",
+      "original_title": "VML conquista a conta de Amstel no Brasil",
+      "summary": "Agência assume a frente de estratégia criativa responsável por desenvolver, campanhas e conteúdos criativos para Amstel",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre campanhas e suas implicações para marcas e comunicação.",
+      "category": "Campanhas",
+      "source": "Meio & Mensagem",
+      "published_date": "2026-11-10",
+      "url": "https://www.meioemensagem.com.br/comunicacao/vml-conquista-a-conta-de-amstel-no-brasil",
+      "image_url": "https://www.meioemensagem.com.br/wp-content/uploads/2026/11/VML-e-amstel.jpg"
+    },
+    {
+      "title": "A economia dos especialistas está prestes a explodir | Fast Company Brasil",
+      "original_title": "A economia dos especialistas está prestes a explodir | Fast Company Brasil",
+      "summary": "Especialistas com décadas de experiência estão conquistando espaço em um ambiente digital saturado de conteúdos produzidos para viralizar.",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre experiência de marca e suas implicações para marcas e comunicação.",
+      "category": "Experiência de marca",
+      "source": "Fast Company Brasil",
+      "published_date": "2026-11-12",
+      "url": "https://fastcompanybrasil.com/creators-tech/a-economia-dos-especialistas-esta-prestes-a-explodir/",
+      "image_url": "https://fastcompanybrasil.com/wp-content/uploads/2026/11/influenciadores_criadores_especialistas.jpg"
+    },
+    {
+      "title": "Novembro Negro: a publicidade vai além do discurso?",
+      "original_title": "Novembro Negro: a publicidade vai além do discurso?",
+      "summary": "Artplan, IDW Company e Droga5 discutem os desafios em transformar iniciativas de representatividade em compromissos permanentes",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre campanhas e suas implicações para marcas e comunicação.",
+      "category": "Campanhas",
+      "source": "Meio & Mensagem",
+      "published_date": "2026-11-11",
+      "url": "https://www.meioemensagem.com.br/comunicacao/novembro-negro-a-publicidade-vai-alem-do-discurso",
+      "image_url": "https://www.meioemensagem.com.br/wp-content/uploads/2026/11/pessoas-negras.jpg"
+    },
+    {
+      "title": "The Curiosity That Drove VÃ­ctor Duque to VFX â LBB",
+      "original_title": "The Curiosity That Drove VÃ­ctor Duque to VFX â LBB",
+      "summary": "The Bandido VFX artist on misconceptions of VFX in advertising, why he remains an advocate for practical effects, as well as his lifelong love for special effects, as part of LBBâs âThe VFX Factorâ series",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre campanhas e suas implicações para marcas e comunicação.",
+      "category": "Campanhas",
+      "source": "LBB",
+      "published_date": "2026-11-13",
+      "url": "https://lbbonline.com/news/the-curiosity-that-drove-victor-duque-to-vfx",
+      "image_url": "https://d3q27bh1u24u2o.cloudfront.net/resized/1200/news/2026-11/victor-duque.lfdTo9nK.png"
+    },
+    {
+      "title": "A Million Views. But Whose Brand Do You Remember? â LBB",
+      "original_title": "A Million Views. But Whose Brand Do You Remember? â LBB",
+      "summary": "As brands chase the next viral skit, award-winning social-first creative studio Thumbstoppers questions whether fleeting entertainment is building anything lasting. Founder and ECD John Barton explains why repeatable entertainment, distinctive brand worlds and real human connection deserve a bigger role in the feed",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre branding e suas implicações para marcas e comunicação.",
+      "category": "Branding",
+      "source": "LBB",
+      "published_date": "2026-11-13",
+      "url": "https://lbbonline.com/news/thumpstoppers-shottails-shot-tales-shs-drinks-spill-the-g",
+      "image_url": "https://d3q27bh1u24u2o.cloudfront.net/resized/1200/news/2026-11/thumbstoppers-shottails-shottales.KoVVBDQf.jpg"
+    }
+  ]
+}
