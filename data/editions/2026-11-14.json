@@ -1,0 +1,139 @@
+{
+  "edition_date": "2026-11-14",
+  "status": "published",
+  "notice": "Curadoria automática gratuita baseada em RSS e metadados das fontes originais.",
+  "window_start": "2026-11-08",
+  "window_end": "2026-11-14",
+  "edition_name": "Update com Afeto",
+  "editor_letter": "Esta edição reúne 10 histórias publicadas nos últimos sete dias, selecionadas entre as fontes do registro editorial unificado. A curadoria prioriza campanhas, marcas, estratégia, comportamento e cultura digital. Os resumos partem das descrições publicadas pelas próprias fontes; abra os links originais para ler o contexto completo.",
+  "signals": [
+    {
+      "title": "Campanhas",
+      "description": "7 matéria(s) desta edição exploram campanhas. Veja como as marcas e a cultura estão se movimentando neste tema.",
+      "category": "SINAL EDITORIAL"
+    },
+    {
+      "title": "Estratégia & negócios",
+      "description": "1 matéria(s) desta edição exploram estratégia & negócios. Veja como as marcas e a cultura estão se movimentando neste tema.",
+      "category": "SINAL EDITORIAL"
+    },
+    {
+      "title": "Experiência de marca",
+      "description": "1 matéria(s) desta edição exploram experiência de marca. Veja como as marcas e a cultura estão se movimentando neste tema.",
+      "category": "SINAL EDITORIAL"
+    }
+  ],
+  "lead_url": "https://fastcompanybrasil.com/money/da-passarela-a-lua-a-nova-experiencia-da-prada-em-milao/",
+  "stories": [
+    {
+      "title": "VML assume conta criativa da Amstel no Brasil",
+      "original_title": "VML assume conta criativa da Amstel no Brasil",
+      "summary": "Agência passa a liderar estratégia, campanhas e conteúdo da marca no país como parte do novo modelo global do Grupo HEINEKEN; operação integral começa em 2027",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre campanhas e suas implicações para marcas e comunicação.",
+      "category": "Campanhas",
+      "source": "B9",
+      "published_date": "2026-11-11",
+      "url": "https://www.b9.com.br/vml-assume-conta-criativa-da-amstel-no-brasil/",
+      "image_url": "https://storage.ghost.io/c/b8/a4/b8a4ba23-e08d-42f7-b459-b1bcab5b8867/content/images/size/w1200/2026/11/Amstel-VML.jpg"
+    },
+    {
+      "title": "Nova campanha da Heinz quer libertar receitas da “maionese de sempre”",
+      "original_title": "Nova campanha da Heinz quer libertar receitas da “maionese de sempre”",
+      "summary": "Campanha da DAVID transforma hábito de cozinha em prisão literal para apresentar nova Maionese Culinária e atualizar o “não volta atrás” da marca",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre campanhas e suas implicações para marcas e comunicação.",
+      "category": "Campanhas",
+      "source": "B9",
+      "published_date": "2026-11-12",
+      "url": "https://www.b9.com.br/heinz-maionese-culinaria-gaiola-nao-volta-atras/",
+      "image_url": "https://storage.ghost.io/c/b8/a4/b8a4ba23-e08d-42f7-b459-b1bcab5b8867/content/images/size/w1200/2026/11/Captura-de-Tela-2026-11-12-a--s-15.49.26.png"
+    },
+    {
+      "title": "Lima Duarte estrela 96 anos do Banco Bmg",
+      "original_title": "Lima Duarte estrela 96 anos do Banco Bmg",
+      "summary": "Criada pela Milà, a campanha \"Cabe na sua vida\" reúne dois personagens de 96 anos, o ator e o banco, e aposta nas origens mineiras da marca.",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre campanhas e suas implicações para marcas e comunicação.",
+      "category": "Campanhas",
+      "source": "Update or Die!",
+      "published_date": "2026-11-11",
+      "url": "https://updateordie.com/2026/11/11/lima-duarte-estrela-96-anos-do-banco-bmg/",
+      "image_url": "https://updateordie.com/wp-content/uploads/2026/11/maxresdefault-18.jpg"
+    },
+    {
+      "title": "Coca-Cola lança campanha de Natal 2026",
+      "original_title": "Coca-Cola lança campanha de Natal 2026",
+      "summary": "Com humor, a marca fala de imprevistos das festas e da importância de estar perto de quem se ama. Filme, influenciadores, árvore em SP e caravanas completam a ação.",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre campanhas e suas implicações para marcas e comunicação.",
+      "category": "Campanhas",
+      "source": "Update or Die!",
+      "published_date": "2026-11-11",
+      "url": "https://updateordie.com/2026/11/11/coca-cola-lanca-campanha-de-natal-2026/",
+      "image_url": "https://updateordie.com/wp-content/uploads/2026/11/copia-de-Xmas-OLV-Hero-30s-0-5-screenshot.webp"
+    },
+    {
+      "title": "VML conquista a conta de Amstel no Brasil",
+      "original_title": "VML conquista a conta de Amstel no Brasil",
+      "summary": "Agência assume a frente de estratégia criativa responsável por desenvolver, campanhas e conteúdos criativos para Amstel",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre campanhas e suas implicações para marcas e comunicação.",
+      "category": "Campanhas",
+      "source": "Meio & Mensagem",
+      "published_date": "2026-11-10",
+      "url": "https://www.meioemensagem.com.br/comunicacao/vml-conquista-a-conta-de-amstel-no-brasil",
+      "image_url": "https://www.meioemensagem.com.br/wp-content/uploads/2026/11/VML-e-amstel.jpg"
+    },
+    {
+      "title": "Quem vai proteger a internet das ameaças criadas pela própria IA? | Fast Company Brasil",
+      "original_title": "Quem vai proteger a internet das ameaças criadas pela própria IA? | Fast Company Brasil",
+      "summary": "Empresas como OpenAI e Anthropic alertam sobre ameaças enquanto oferecem ferramentas para combatê-las, colocando em risco a internet aberta.",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre estratégia & negócios e suas implicações para marcas e comunicação.",
+      "category": "Estratégia & negócios",
+      "source": "Fast Company Brasil",
+      "published_date": "2026-11-14",
+      "url": "https://fastcompanybrasil.com/ia/quem-vai-proteger-a-internet-das-ameacas-criadas-pela-propria-ia/",
+      "image_url": "https://fastcompanybrasil.com/wp-content/uploads/2026/11/internet_seguranca-digital_pesquisa.jpg"
+    },
+    {
+      "title": "Da passarela à Lua: a nova experiência da Prada em Milão | Fast Company Brasil",
+      "original_title": "Da passarela à Lua: a nova experiência da Prada em Milão | Fast Company Brasil",
+      "summary": "O aplicativo e o portal contam com centenas de aulas distribuídas em diferentes níveis de proficiência | Fast Company Brasil",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre experiência de marca e suas implicações para marcas e comunicação.",
+      "category": "Experiência de marca",
+      "source": "Fast Company Brasil",
+      "published_date": "2026-11-14",
+      "url": "https://fastcompanybrasil.com/money/da-passarela-a-lua-a-nova-experiencia-da-prada-em-milao/",
+      "image_url": "https://fastcompanybrasil.com/wp-content/uploads/2026/11/Prada_exposicao.jpg"
+    },
+    {
+      "title": "Novembro Negro: a publicidade vai além do discurso?",
+      "original_title": "Novembro Negro: a publicidade vai além do discurso?",
+      "summary": "Artplan, IDW Company e Droga5 discutem os desafios em transformar iniciativas de representatividade em compromissos permanentes",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre campanhas e suas implicações para marcas e comunicação.",
+      "category": "Campanhas",
+      "source": "Meio & Mensagem",
+      "published_date": "2026-11-11",
+      "url": "https://www.meioemensagem.com.br/comunicacao/novembro-negro-a-publicidade-vai-alem-do-discurso",
+      "image_url": "https://www.meioemensagem.com.br/wp-content/uploads/2026/11/pessoas-negras.jpg"
+    },
+    {
+      "title": "ANA Unveils Winners of 2026 Multicultural and Inclusive Marketing Excellence Awards â LBB",
+      "original_title": "ANA Unveils Winners of 2026 Multicultural and Inclusive Marketing Excellence Awards â LBB",
+      "summary": "Coffee mate and Casanova McCann awarded Best In Show for 'The last of the non-coffee lovers'",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre comportamento e suas implicações para marcas e comunicação.",
+      "category": "Comportamento",
+      "source": "LBB",
+      "published_date": "2026-11-13",
+      "url": "https://lbbonline.com/news/ana-unveils-winners-of-2026-multicultural-and-inclusive-marketing-excellence-awards",
+      "image_url": "https://d3q27bh1u24u2o.cloudfront.net/resized/1200/news/2026-11/ana.F_BAqVaI.png"
+    },
+    {
+      "title": "Getting to Knowâ¦ KDSP â LBB",
+      "original_title": "Getting to Knowâ¦ KDSP â LBB",
+      "summary": "Mollie Partesotti, co-founder of the New York-based advertising agency, spoke with LBB about its latest and greatest work as well as the KDSP philosophy",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre campanhas e suas implicações para marcas e comunicação.",
+      "category": "Campanhas",
+      "source": "LBB",
+      "published_date": "2026-11-13",
+      "url": "https://lbbonline.com/news/getting-to-know-kdsp",
+      "image_url": "https://d3q27bh1u24u2o.cloudfront.net/resized/1200/news/2026-11/kdsp.WW7wi65L.png"
+    }
+  ]
+}
