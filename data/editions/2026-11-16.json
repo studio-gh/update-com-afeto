@@ -9,17 +9,17 @@
   "signals": [
     {
       "title": "Campanhas",
-      "description": "7 matéria(s) desta edição exploram campanhas. Veja como as marcas e a cultura estão se movimentando neste tema.",
-      "category": "SINAL EDITORIAL"
-    },
-    {
-      "title": "Branding",
-      "description": "2 matéria(s) desta edição exploram branding. Veja como as marcas e a cultura estão se movimentando neste tema.",
+      "description": "6 matéria(s) desta edição exploram campanhas. Veja como as marcas e a cultura estão se movimentando neste tema.",
       "category": "SINAL EDITORIAL"
     },
     {
       "title": "Estratégia & negócios",
-      "description": "1 matéria(s) desta edição exploram estratégia & negócios. Veja como as marcas e a cultura estão se movimentando neste tema.",
+      "description": "3 matéria(s) desta edição exploram estratégia & negócios. Veja como as marcas e a cultura estão se movimentando neste tema.",
+      "category": "SINAL EDITORIAL"
+    },
+    {
+      "title": "Branding",
+      "description": "1 matéria(s) desta edição exploram branding. Veja como as marcas e a cultura estão se movimentando neste tema.",
       "category": "SINAL EDITORIAL"
     }
   ],
@@ -81,28 +81,6 @@
       "image_url": "https://www.meioemensagem.com.br/wp-content/uploads/2026/11/VML-e-amstel.jpg"
     },
     {
-      "title": "Economia da intenção: o que revela a pesquisa da Netflix",
-      "original_title": "Economia da intenção: o que revela a pesquisa da Netflix",
-      "summary": "Pesquisa da Netflix aponta que jovens estão mais seletivos com o que consomem. Entenda a economia da intenção e seus efeitos na mídia e na publicidade.",
-      "why_it_matters": "Vale observar o que esta publicação revela sobre campanhas e suas implicações para marcas e comunicação.",
-      "category": "Campanhas",
-      "source": "Fast Company Brasil",
-      "published_date": "2026-11-16",
-      "url": "https://fastcompanybrasil.com/creators-tech/economia-da-intencao-netflix-geracao-z/",
-      "image_url": "https://fastcompanybrasil.com/wp-content/uploads/2026/11/economia-da-intencao-netflix-geracao-z-kv.jpg"
-    },
-    {
-      "title": "Omoda and Jaecoo Appoint Havas London as Lead Marketing and Growth Agency â LBB",
-      "original_title": "Omoda and Jaecoo Appoint Havas London as Lead Marketing and Growth Agency â LBB",
-      "summary": "Havas London is tasked with building on this successful launch to establish OMODA&JAECOO as the UKâs leading challenger automotive brand",
-      "why_it_matters": "Vale observar o que esta publicação revela sobre branding e suas implicações para marcas e comunicação.",
-      "category": "Branding",
-      "source": "LBB",
-      "published_date": "2026-11-16",
-      "url": "https://lbbonline.com/news/omoda-jaecoo-havas-london-marketing-growth-agency",
-      "image_url": "https://d3q27bh1u24u2o.cloudfront.net/resized/1200/news/2026-11/omoda-jaecoo.RVfyw9EU.png"
-    },
-    {
       "title": "Novembro Negro: a publicidade vai além do discurso?",
       "original_title": "Novembro Negro: a publicidade vai além do discurso?",
       "summary": "Artplan, IDW Company e Droga5 discutem os desafios em transformar iniciativas de representatividade em compromissos permanentes",
@@ -125,15 +103,37 @@
       "image_url": "https://coolhunting.com/wp-content/uploads/2026/11/VU40119U5626X-02.jpg"
     },
     {
-      "title": "Conexão não é relacionamento | Fast Company Brasil",
-      "original_title": "Conexão não é relacionamento | Fast Company Brasil",
-      "summary": "Receita, margem e caixa são importantes, mas não revelam sozinhos a qualidade das relações que sustentam um negócio.",
+      "title": "Pane da Microsoft coloca cortes ligados à IA sob escrutínio | Fast Company Brasil",
+      "original_title": "Pane da Microsoft coloca cortes ligados à IA sob escrutínio | Fast Company Brasil",
+      "summary": "Enquanto investe bilhões em IA, empresa reduz equipes e enfrenta questionamentos sobre a confiabilidade de seus serviços.",
       "why_it_matters": "Vale observar o que esta publicação revela sobre estratégia & negócios e suas implicações para marcas e comunicação.",
       "category": "Estratégia & negócios",
       "source": "Fast Company Brasil",
       "published_date": "2026-11-16",
-      "url": "https://fastcompanybrasil.com/futuro-do-trabalho/conexao-nao-e-relacionamento/",
-      "image_url": "https://fastcompanybrasil.com/wp-content/uploads/2026/11/conexao_relacionamento_aperto-de-mao.jpg"
+      "url": "https://fastcompanybrasil.com/tech/pane-da-microsoft-coloca-cortes-ligados-a-ia-sob-escrutinio/",
+      "image_url": "https://fastcompanybrasil.com/wp-content/uploads/2026/11/Microsoft_pane_demissoes.jpg"
+    },
+    {
+      "title": "Geladeiras e freezers são alvos de ataques hackers em nove países europeus | Fast Company Brasil",
+      "original_title": "Geladeiras e freezers são alvos de ataques hackers em nove países europeus | Fast Company Brasil",
+      "summary": "Ataques alteraram a temperatura dos freezers e provocaram perdas de alimentos em supermercados. Confira na íntegra.",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre estratégia & negócios e suas implicações para marcas e comunicação.",
+      "category": "Estratégia & negócios",
+      "source": "Fast Company Brasil",
+      "published_date": "2026-11-16",
+      "url": "https://fastcompanybrasil.com/ia/geladeiras-freezers-sao-alvos-ataques-hackers-nove-paises-europeus/",
+      "image_url": "https://fastcompanybrasil.com/wp-content/uploads/2026/11/Freezers-hackers.jpg"
+    },
+    {
+      "title": "The Beardwood Leaders on Culture, DNA and United Confidence â LBB",
+      "original_title": "The Beardwood Leaders on Culture, DNA and United Confidence â LBB",
+      "summary": "The coâCEOâs of Beardwood, Ryan Lynch and Sarah Williams, discus leading as a duo, the endurance game of managing an agency, and why failure is essential to the creative process, as part of LBBâs Bossing It series",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre estratégia & negócios e suas implicações para marcas e comunicação.",
+      "category": "Estratégia & negócios",
+      "source": "LBB",
+      "published_date": "2026-11-16",
+      "url": "https://lbbonline.com/news/the-beardwood-leaders-on-culture-dna-and-united-confidence",
+      "image_url": "https://d3q27bh1u24u2o.cloudfront.net/resized/1200/news/2026-11/beardwood-co.B6WrcSfE.png"
     }
   ]
 }
