@@ -1,9 +1,9 @@
 {
-  "edition_date": "2026-11-15",
+  "edition_date": "2026-11-16",
   "status": "published",
   "notice": "Curadoria automática gratuita baseada em RSS e metadados das fontes originais.",
-  "window_start": "2026-11-09",
-  "window_end": "2026-11-15",
+  "window_start": "2026-11-10",
+  "window_end": "2026-11-16",
   "edition_name": "Update com Afeto",
   "editor_letter": "Esta edição reúne 10 histórias publicadas nos últimos sete dias, selecionadas entre as fontes do registro editorial unificado. A curadoria prioriza campanhas, marcas, estratégia, comportamento e cultura digital. Os resumos partem das descrições publicadas pelas próprias fontes; abra os links originais para ler o contexto completo.",
   "signals": [
@@ -13,17 +13,17 @@
       "category": "SINAL EDITORIAL"
     },
     {
-      "title": "Estratégia & negócios",
-      "description": "1 matéria(s) desta edição exploram estratégia & negócios. Veja como as marcas e a cultura estão se movimentando neste tema.",
+      "title": "Branding",
+      "description": "2 matéria(s) desta edição exploram branding. Veja como as marcas e a cultura estão se movimentando neste tema.",
       "category": "SINAL EDITORIAL"
     },
     {
-      "title": "Experiência de marca",
-      "description": "1 matéria(s) desta edição exploram experiência de marca. Veja como as marcas e a cultura estão se movimentando neste tema.",
+      "title": "Estratégia & negócios",
+      "description": "1 matéria(s) desta edição exploram estratégia & negócios. Veja como as marcas e a cultura estão se movimentando neste tema.",
       "category": "SINAL EDITORIAL"
     }
   ],
-  "lead_url": "https://fastcompanybrasil.com/money/da-passarela-a-lua-a-nova-experiencia-da-prada-em-milao/",
+  "lead_url": "https://www.b9.com.br/heinz-maionese-culinaria-gaiola-nao-volta-atras/",
   "stories": [
     {
       "title": "VML assume conta criativa da Amstel no Brasil",
@@ -81,26 +81,26 @@
       "image_url": "https://www.meioemensagem.com.br/wp-content/uploads/2026/11/VML-e-amstel.jpg"
     },
     {
-      "title": "Quem vai proteger a internet das ameaças criadas pela própria IA? | Fast Company Brasil",
-      "original_title": "Quem vai proteger a internet das ameaças criadas pela própria IA? | Fast Company Brasil",
-      "summary": "Empresas como OpenAI e Anthropic alertam sobre ameaças enquanto oferecem ferramentas para combatê-las, colocando em risco a internet aberta.",
-      "why_it_matters": "Vale observar o que esta publicação revela sobre estratégia & negócios e suas implicações para marcas e comunicação.",
-      "category": "Estratégia & negócios",
+      "title": "Economia da intenção: o que revela a pesquisa da Netflix",
+      "original_title": "Economia da intenção: o que revela a pesquisa da Netflix",
+      "summary": "Pesquisa da Netflix aponta que jovens estão mais seletivos com o que consomem. Entenda a economia da intenção e seus efeitos na mídia e na publicidade.",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre campanhas e suas implicações para marcas e comunicação.",
+      "category": "Campanhas",
       "source": "Fast Company Brasil",
-      "published_date": "2026-11-14",
-      "url": "https://fastcompanybrasil.com/ia/quem-vai-proteger-a-internet-das-ameacas-criadas-pela-propria-ia/",
-      "image_url": "https://fastcompanybrasil.com/wp-content/uploads/2026/11/internet_seguranca-digital_pesquisa.jpg"
+      "published_date": "2026-11-16",
+      "url": "https://fastcompanybrasil.com/creators-tech/economia-da-intencao-netflix-geracao-z/",
+      "image_url": "https://fastcompanybrasil.com/wp-content/uploads/2026/11/economia-da-intencao-netflix-geracao-z-kv.jpg"
     },
     {
-      "title": "Da passarela à Lua: a nova experiência da Prada em Milão | Fast Company Brasil",
-      "original_title": "Da passarela à Lua: a nova experiência da Prada em Milão | Fast Company Brasil",
-      "summary": "O aplicativo e o portal contam com centenas de aulas distribuídas em diferentes níveis de proficiência | Fast Company Brasil",
-      "why_it_matters": "Vale observar o que esta publicação revela sobre experiência de marca e suas implicações para marcas e comunicação.",
-      "category": "Experiência de marca",
-      "source": "Fast Company Brasil",
-      "published_date": "2026-11-14",
-      "url": "https://fastcompanybrasil.com/money/da-passarela-a-lua-a-nova-experiencia-da-prada-em-milao/",
-      "image_url": "https://fastcompanybrasil.com/wp-content/uploads/2026/11/Prada_exposicao.jpg"
+      "title": "Omoda and Jaecoo Appoint Havas London as Lead Marketing and Growth Agency â LBB",
+      "original_title": "Omoda and Jaecoo Appoint Havas London as Lead Marketing and Growth Agency â LBB",
+      "summary": "Havas London is tasked with building on this successful launch to establish OMODA&JAECOO as the UKâs leading challenger automotive brand",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre branding e suas implicações para marcas e comunicação.",
+      "category": "Branding",
+      "source": "LBB",
+      "published_date": "2026-11-16",
+      "url": "https://lbbonline.com/news/omoda-jaecoo-havas-london-marketing-growth-agency",
+      "image_url": "https://d3q27bh1u24u2o.cloudfront.net/resized/1200/news/2026-11/omoda-jaecoo.RVfyw9EU.png"
     },
     {
       "title": "Novembro Negro: a publicidade vai além do discurso?",
@@ -114,26 +114,26 @@
       "image_url": "https://www.meioemensagem.com.br/wp-content/uploads/2026/11/pessoas-negras.jpg"
     },
     {
-      "title": "ANA Unveils Winners of 2026 Multicultural and Inclusive Marketing Excellence Awards â LBB",
-      "original_title": "ANA Unveils Winners of 2026 Multicultural and Inclusive Marketing Excellence Awards â LBB",
-      "summary": "Coffee mate and Casanova McCann awarded Best In Show for 'The last of the non-coffee lovers'",
-      "why_it_matters": "Vale observar o que esta publicação revela sobre comportamento e suas implicações para marcas e comunicação.",
-      "category": "Comportamento",
-      "source": "LBB",
-      "published_date": "2026-11-13",
-      "url": "https://lbbonline.com/news/ana-unveils-winners-of-2026-multicultural-and-inclusive-marketing-excellence-awards",
-      "image_url": "https://d3q27bh1u24u2o.cloudfront.net/resized/1200/news/2026-11/ana.F_BAqVaI.png"
+      "title": "PEAK Sunglasses - COOL HUNTING®",
+      "original_title": "PEAK Sunglasses - COOL HUNTING®",
+      "summary": "Vuarnet’s new PEAK sunglasses are inspired by the brands iconic Glacier model launched in 1974. They feature a streamlined hybrid nylon frame with metal arms, and fabric coated side removable…",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre branding e suas implicações para marcas e comunicação.",
+      "category": "Branding",
+      "source": "Cool Hunting",
+      "published_date": "2026-11-16",
+      "url": "https://coolhunting.com/buy/peak-sunglasses/",
+      "image_url": "https://coolhunting.com/wp-content/uploads/2026/11/VU40119U5626X-02.jpg"
     },
     {
-      "title": "Getting to Knowâ¦ KDSP â LBB",
-      "original_title": "Getting to Knowâ¦ KDSP â LBB",
-      "summary": "Mollie Partesotti, co-founder of the New York-based advertising agency, spoke with LBB about its latest and greatest work as well as the KDSP philosophy",
-      "why_it_matters": "Vale observar o que esta publicação revela sobre campanhas e suas implicações para marcas e comunicação.",
-      "category": "Campanhas",
-      "source": "LBB",
-      "published_date": "2026-11-13",
-      "url": "https://lbbonline.com/news/getting-to-know-kdsp",
-      "image_url": "https://d3q27bh1u24u2o.cloudfront.net/resized/1200/news/2026-11/kdsp.WW7wi65L.png"
+      "title": "Conexão não é relacionamento | Fast Company Brasil",
+      "original_title": "Conexão não é relacionamento | Fast Company Brasil",
+      "summary": "Receita, margem e caixa são importantes, mas não revelam sozinhos a qualidade das relações que sustentam um negócio.",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre estratégia & negócios e suas implicações para marcas e comunicação.",
+      "category": "Estratégia & negócios",
+      "source": "Fast Company Brasil",
+      "published_date": "2026-11-16",
+      "url": "https://fastcompanybrasil.com/futuro-do-trabalho/conexao-nao-e-relacionamento/",
+      "image_url": "https://fastcompanybrasil.com/wp-content/uploads/2026/11/conexao_relacionamento_aperto-de-mao.jpg"
     }
   ]
 }
