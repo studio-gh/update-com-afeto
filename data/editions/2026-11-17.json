@@ -1,0 +1,139 @@
+{
+  "edition_date": "2026-11-17",
+  "status": "published",
+  "notice": "Curadoria automática gratuita baseada em RSS e metadados das fontes originais.",
+  "window_start": "2026-11-11",
+  "window_end": "2026-11-17",
+  "edition_name": "Update com Afeto",
+  "editor_letter": "Esta edição reúne 10 histórias publicadas nos últimos sete dias, selecionadas entre as fontes do registro editorial unificado. A curadoria prioriza campanhas, marcas, estratégia, comportamento e cultura digital. Os resumos partem das descrições publicadas pelas próprias fontes; abra os links originais para ler o contexto completo.",
+  "signals": [
+    {
+      "title": "Campanhas",
+      "description": "7 matéria(s) desta edição exploram campanhas. Veja como as marcas e a cultura estão se movimentando neste tema.",
+      "category": "SINAL EDITORIAL"
+    },
+    {
+      "title": "Estratégia & negócios",
+      "description": "2 matéria(s) desta edição exploram estratégia & negócios. Veja como as marcas e a cultura estão se movimentando neste tema.",
+      "category": "SINAL EDITORIAL"
+    },
+    {
+      "title": "Branding",
+      "description": "1 matéria(s) desta edição exploram branding. Veja como as marcas e a cultura estão se movimentando neste tema.",
+      "category": "SINAL EDITORIAL"
+    }
+  ],
+  "lead_url": "https://updateordie.com/2026/11/16/seguros-unimed-leva-campanha-de-seguranca-ao-cinema/",
+  "stories": [
+    {
+      "title": "VML assume conta criativa da Amstel no Brasil",
+      "original_title": "VML assume conta criativa da Amstel no Brasil",
+      "summary": "Agência passa a liderar estratégia, campanhas e conteúdo da marca no país como parte do novo modelo global do Grupo HEINEKEN; operação integral começa em 2027",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre campanhas e suas implicações para marcas e comunicação.",
+      "category": "Campanhas",
+      "source": "B9",
+      "published_date": "2026-11-11",
+      "url": "https://www.b9.com.br/vml-assume-conta-criativa-da-amstel-no-brasil/",
+      "image_url": "https://storage.ghost.io/c/b8/a4/b8a4ba23-e08d-42f7-b459-b1bcab5b8867/content/images/size/w1200/2026/11/Amstel-VML.jpg"
+    },
+    {
+      "title": "Nova campanha da Heinz quer libertar receitas da “maionese de sempre”",
+      "original_title": "Nova campanha da Heinz quer libertar receitas da “maionese de sempre”",
+      "summary": "Campanha da DAVID transforma hábito de cozinha em prisão literal para apresentar nova Maionese Culinária e atualizar o “não volta atrás” da marca",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre campanhas e suas implicações para marcas e comunicação.",
+      "category": "Campanhas",
+      "source": "B9",
+      "published_date": "2026-11-12",
+      "url": "https://www.b9.com.br/heinz-maionese-culinaria-gaiola-nao-volta-atras/",
+      "image_url": "https://storage.ghost.io/c/b8/a4/b8a4ba23-e08d-42f7-b459-b1bcab5b8867/content/images/size/w1200/2026/11/Captura-de-Tela-2026-11-12-a--s-15.49.26.png"
+    },
+    {
+      "title": "Lima Duarte estrela 96 anos do Banco Bmg",
+      "original_title": "Lima Duarte estrela 96 anos do Banco Bmg",
+      "summary": "Criada pela Milà, a campanha \"Cabe na sua vida\" reúne dois personagens de 96 anos, o ator e o banco, e aposta nas origens mineiras da marca.",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre campanhas e suas implicações para marcas e comunicação.",
+      "category": "Campanhas",
+      "source": "Update or Die!",
+      "published_date": "2026-11-11",
+      "url": "https://updateordie.com/2026/11/11/lima-duarte-estrela-96-anos-do-banco-bmg/",
+      "image_url": "https://updateordie.com/wp-content/uploads/2026/11/maxresdefault-18.jpg"
+    },
+    {
+      "title": "Seguros Unimed leva campanha de segurança ao cinema",
+      "original_title": "Seguros Unimed leva campanha de segurança ao cinema",
+      "summary": "Batizado de \"Sessão Assegurada\", o novo trailer da DPZ transforma os incômodos clássicos das salas de cinema em personagens animados e mistura craft tradicional com inteligência artificial.",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre campanhas e suas implicações para marcas e comunicação.",
+      "category": "Campanhas",
+      "source": "Update or Die!",
+      "published_date": "2026-11-16",
+      "url": "https://updateordie.com/2026/11/16/seguros-unimed-leva-campanha-de-seguranca-ao-cinema/",
+      "image_url": "https://updateordie.com/wp-content/uploads/2026/11/alien-cinema-etiquette.webp"
+    },
+    {
+      "title": "Novembro Negro: a publicidade vai além do discurso?",
+      "original_title": "Novembro Negro: a publicidade vai além do discurso?",
+      "summary": "Artplan, IDW Company e Droga5 discutem os desafios em transformar iniciativas de representatividade em compromissos permanentes",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre campanhas e suas implicações para marcas e comunicação.",
+      "category": "Campanhas",
+      "source": "Meio & Mensagem",
+      "published_date": "2026-11-11",
+      "url": "https://www.meioemensagem.com.br/comunicacao/novembro-negro-a-publicidade-vai-alem-do-discurso",
+      "image_url": "https://www.meioemensagem.com.br/wp-content/uploads/2026/11/pessoas-negras.jpg"
+    },
+    {
+      "title": "Placas de trânsito descartadas viram mesas para refeições nas ruas de Nova York | Fast Company Brasil",
+      "original_title": "Placas de trânsito descartadas viram mesas para refeições nas ruas de Nova York | Fast Company Brasil",
+      "summary": "Projeto usa placas retiradas de circulação para oferecer apoio a clientes de barracas e mercados ao ar livre.",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre estratégia & negócios e suas implicações para marcas e comunicação.",
+      "category": "Estratégia & negócios",
+      "source": "Fast Company Brasil",
+      "published_date": "2026-11-17",
+      "url": "https://fastcompanybrasil.com/design/placas-de-transito-descartadas-viram-mesas-refeicoes-ruas-nova-york/",
+      "image_url": "https://fastcompanybrasil.com/wp-content/uploads/2026/11/Placa-de-transito-mesa.jpg"
+    },
+    {
+      "title": "Uber confirma vazamento de dados de 149 mil pessoas após ataque hacker | Fast Company Brasil",
+      "original_title": "Uber confirma vazamento de dados de 149 mil pessoas após ataque hacker | Fast Company Brasil",
+      "summary": "A Uber identificou o acesso indevido em outubro e interrompeu a conexão com a empresa responsável pelo serviço.",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre estratégia & negócios e suas implicações para marcas e comunicação.",
+      "category": "Estratégia & negócios",
+      "source": "Fast Company Brasil",
+      "published_date": "2026-11-17",
+      "url": "https://fastcompanybrasil.com/ia/uber-confirma-vazamento-dados-149-mil-pessoas-apos-ataque-hacker/",
+      "image_url": "https://fastcompanybrasil.com/wp-content/uploads/2026/11/ataque-uber.jpg"
+    },
+    {
+      "title": "The Shipyard Welcomes GearShift Advertising â LBB",
+      "original_title": "The Shipyard Welcomes GearShift Advertising â LBB",
+      "summary": "Addition brings Yamaha Motorsports relationship, specialised creative talent, and deep industry expertise to The Shipyardâs growing outdoor adventure and lifestyle offering",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre campanhas e suas implicações para marcas e comunicação.",
+      "category": "Campanhas",
+      "source": "LBB",
+      "published_date": "2026-11-17",
+      "url": "https://lbbonline.com/news/the-shipyard-welcomes-gearshift-advertising",
+      "image_url": "https://d3q27bh1u24u2o.cloudfront.net/resized/1200/news/2026-11/shipyard.ANBRhDMZ.png"
+    },
+    {
+      "title": "Macaulay Culkin Returns as Kevin McCallister for McDonaldâs Home Alone-Inspired Christmas Campaign â LBB",
+      "original_title": "Macaulay Culkin Returns as Kevin McCallister for McDonaldâs Home Alone-Inspired Christmas Campaign â LBB",
+      "summary": "Directed by Ramy Youssef and Amir Farhang, the Wieden+Kennedy Toronto campaign brings the Home Alone universe to McDonaldâs, with Kevin getting creative with the menu",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre campanhas e suas implicações para marcas e comunicação.",
+      "category": "Campanhas",
+      "source": "LBB",
+      "published_date": "2026-11-17",
+      "url": "https://lbbonline.com/news/macaulay-culkin-Kevin-McCallister-mcdonald-christmas",
+      "image_url": "https://d3q27bh1u24u2o.cloudfront.net/resized/1200/news_hero/2026-11/mcdonalds-home-alone.drpoSN32.png"
+    },
+    {
+      "title": "PEAK Sunglasses - COOL HUNTING®",
+      "original_title": "PEAK Sunglasses - COOL HUNTING®",
+      "summary": "Vuarnet’s new PEAK sunglasses are inspired by the brands iconic Glacier model launched in 1974. They feature a streamlined hybrid nylon frame with metal arms, and fabric coated side removable…",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre branding e suas implicações para marcas e comunicação.",
+      "category": "Branding",
+      "source": "Cool Hunting",
+      "published_date": "2026-11-16",
+      "url": "https://coolhunting.com/buy/peak-sunglasses/",
+      "image_url": "https://coolhunting.com/wp-content/uploads/2026/11/VU40119U5626X-02.jpg"
+    }
+  ]
+}
