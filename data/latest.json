@@ -1,25 +1,25 @@
 {
-  "edition_date": "2026-11-18",
+  "edition_date": "2026-11-19",
   "status": "published",
   "notice": "Curadoria automática gratuita baseada em RSS e metadados das fontes originais.",
-  "window_start": "2026-11-12",
-  "window_end": "2026-11-18",
+  "window_start": "2026-11-13",
+  "window_end": "2026-11-19",
   "edition_name": "Update com Afeto",
   "editor_letter": "Esta edição reúne 10 histórias publicadas nos últimos sete dias, selecionadas entre as fontes do registro editorial unificado. A curadoria prioriza campanhas, marcas, estratégia, comportamento e cultura digital. Os resumos partem das descrições publicadas pelas próprias fontes; abra os links originais para ler o contexto completo.",
   "signals": [
     {
       "title": "Campanhas",
-      "description": "7 matéria(s) desta edição exploram campanhas. Veja como as marcas e a cultura estão se movimentando neste tema.",
+      "description": "4 matéria(s) desta edição exploram campanhas. Veja como as marcas e a cultura estão se movimentando neste tema.",
       "category": "SINAL EDITORIAL"
     },
     {
       "title": "Branding",
-      "description": "2 matéria(s) desta edição exploram branding. Veja como as marcas e a cultura estão se movimentando neste tema.",
+      "description": "3 matéria(s) desta edição exploram branding. Veja como as marcas e a cultura estão se movimentando neste tema.",
       "category": "SINAL EDITORIAL"
     },
     {
-      "title": "Comportamento",
-      "description": "1 matéria(s) desta edição exploram comportamento. Veja como as marcas e a cultura estão se movimentando neste tema.",
+      "title": "Estratégia & negócios",
+      "description": "2 matéria(s) desta edição exploram estratégia & negócios. Veja como as marcas e a cultura estão se movimentando neste tema.",
       "category": "SINAL EDITORIAL"
     }
   ],
@@ -37,48 +37,59 @@
       "image_url": "https://www.meioemensagem.com.br/wp-content/uploads/2026/11/Fotos-Divulgacao-2026-11-13T150419.541.jpg"
     },
     {
-      "title": "Nova campanha da Heinz quer libertar receitas da “maionese de sempre”",
-      "original_title": "Nova campanha da Heinz quer libertar receitas da “maionese de sempre”",
-      "summary": "Campanha da DAVID transforma hábito de cozinha em prisão literal para apresentar nova Maionese Culinária e atualizar o “não volta atrás” da marca",
-      "why_it_matters": "Vale observar o que esta publicação revela sobre campanhas e suas implicações para marcas e comunicação.",
-      "category": "Campanhas",
-      "source": "B9",
-      "published_date": "2026-11-12",
-      "url": "https://www.b9.com.br/heinz-maionese-culinaria-gaiola-nao-volta-atras/",
-      "image_url": "https://storage.ghost.io/c/b8/a4/b8a4ba23-e08d-42f7-b459-b1bcab5b8867/content/images/size/w1200/2026/11/Captura-de-Tela-2026-11-12-a--s-15.49.26.png"
-    },
-    {
-      "title": "Rexona transforma pressões do cotidiano feminino em “suores invisíveis” na nova campanha",
-      "original_title": "Rexona transforma pressões do cotidiano feminino em “suores invisíveis” na nova campanha",
-      "summary": "Criada pela DRUM, “Juntas pra qualquer suor” leva o território de tensão que a marca já explorava para uma plataforma feminina com novela, cinema, podcasts e Copa do Mundo de 2027",
-      "why_it_matters": "Vale observar o que esta publicação revela sobre campanhas e suas implicações para marcas e comunicação.",
-      "category": "Campanhas",
-      "source": "B9",
-      "published_date": "2026-11-12",
-      "url": "https://www.b9.com.br/rexona-suores-invisiveis-mulheres-juntas-pra-qualquer-suor/",
-      "image_url": "https://storage.ghost.io/c/b8/a4/b8a4ba23-e08d-42f7-b459-b1bcab5b8867/content/images/size/w1200/2026/11/rexona.jpg"
-    },
-    {
-      "title": "Natura e Priscila Senna transformam brega em estratégia de marca",
-      "original_title": "Natura e Priscila Senna transformam brega em estratégia de marca",
-      "summary": "“Mulher Cheirosa” faz referência ao universo dos relacionamentos para apresentar a categoria de body splashes do grupo",
+      "title": "FutureBrand redesenha marca global com um “F” modular criado em São Paulo",
+      "original_title": "FutureBrand redesenha marca global com um “F” modular criado em São Paulo",
+      "summary": "Projeto reúne texturas feitas à mão, tipografia em perspectiva e uma ferramenta para os escritórios criarem suas próprias aplicações",
       "why_it_matters": "Vale observar o que esta publicação revela sobre branding e suas implicações para marcas e comunicação.",
       "category": "Branding",
-      "source": "Meio & Mensagem",
-      "published_date": "2026-11-12",
-      "url": "https://www.meioemensagem.com.br/comunicacao/natura-e-priscila-senna-transformam-brega-em-estrategia",
-      "image_url": "https://www.meioemensagem.com.br/wp-content/uploads/2026/11/natura-priscila-senna-cred-div-1280x852-1.jpg"
+      "source": "B9",
+      "published_date": "2026-11-19",
+      "url": "https://www.b9.com.br/futurebrand-nova-identidade-global-sao-paulo/",
+      "image_url": "https://storage.ghost.io/c/b8/a4/b8a4ba23-e08d-42f7-b459-b1bcab5b8867/content/images/size/w1200/2026/11/FurureBrand---New-Brand.jpg"
     },
     {
-      "title": "Pesquisa revela como os brasileiros pretendem gastar na Black Friday 2026 | Fast Company Brasil",
-      "original_title": "Pesquisa revela como os brasileiros pretendem gastar na Black Friday 2026 | Fast Company Brasil",
-      "summary": "Os consumidores esperam descontos de 42%, mas pretendem gastar menos do que na Black Friday de 2023. Confira na íntegra.",
-      "why_it_matters": "Vale observar o que esta publicação revela sobre comportamento e suas implicações para marcas e comunicação.",
-      "category": "Comportamento",
-      "source": "Fast Company Brasil",
+      "title": "Veridooh Expands US Leadership Team with 3 Senior Hires â LBB",
+      "original_title": "Veridooh Expands US Leadership Team with 3 Senior Hires â LBB",
+      "summary": "Tammy Blythe Goodman joins as VP of marketing, alongside sales director Marc Navarino and business operations director Andy Liu",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre estratégia & negócios e suas implicações para marcas e comunicação.",
+      "category": "Estratégia & negócios",
+      "source": "LBB",
+      "published_date": "2026-11-19",
+      "url": "https://lbbonline.com/news/veridooh-us-leadership-senior-hires",
+      "image_url": "https://d3q27bh1u24u2o.cloudfront.net/resized/1200/news/2026-11/veridooh.Nzm_xjAq.png"
+    },
+    {
+      "title": "Muita fama, pouco recall: o risco dos rostos repetidos",
+      "original_title": "Muita fama, pouco recall: o risco dos rostos repetidos",
+      "summary": "Agências e gestores detalham como contratos de exclusividade, curadoria e dados evitam a fadiga de imagem nas campanhas",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre campanhas e suas implicações para marcas e comunicação.",
+      "category": "Campanhas",
+      "source": "Meio & Mensagem",
+      "published_date": "2026-11-19",
+      "url": "https://www.meioemensagem.com.br/comunicacao/famosos-repetidos-nas-campanhas-qual-o-impacto-nas-marcas",
+      "image_url": "https://www.meioemensagem.com.br/wp-content/uploads/2026/11/Colagem-editorial-de-campanhas-publicitarias-1.jpg"
+    },
+    {
+      "title": "Vivo troca dinheiro de GTA Online por saldo real no Vivo Pay",
+      "original_title": "Vivo troca dinheiro de GTA Online por saldo real no Vivo Pay",
+      "summary": "Criada pela Africa Creative, “The Last Mission” colocou um personagem da marca em Los Santos para receber créditos de jogadores na véspera de GTA VI",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre branding e suas implicações para marcas e comunicação.",
+      "category": "Branding",
+      "source": "B9",
       "published_date": "2026-11-18",
-      "url": "https://fastcompanybrasil.com/money/pesquisa-como-brasileiros-pretendem-gastar-black-friday-2026/",
-      "image_url": "https://fastcompanybrasil.com/wp-content/uploads/2026/11/pesquisa-black-friday.jpg"
+      "url": "https://www.b9.com.br/vivo-pay-gta-online-dinheiro-real/",
+      "image_url": "https://storage.ghost.io/c/b8/a4/b8a4ba23-e08d-42f7-b459-b1bcab5b8867/content/images/size/w1200/2026/11/PR_horizontal.png"
+    },
+    {
+      "title": "As marcas estão perdendo o controle de como são encontradas",
+      "original_title": "As marcas estão perdendo o controle de como são encontradas",
+      "summary": "Durante duas décadas, as empresas aprenderam a disputar posições no Google. Agora, a inteligência artificial começa a mudar não apenas onde procuramos respostas, mas quem decide quais marcas merecem aparecer.",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre branding e suas implicações para marcas e comunicação.",
+      "category": "Branding",
+      "source": "Update or Die!",
+      "published_date": "2026-11-18",
+      "url": "https://updateordie.com/2026/11/18/as-marcas-estao-perdendo-o-controle-de-como-sao-encontradas/",
+      "image_url": "https://updateordie.com/wp-content/uploads/2026/11/Barra-de-Pesquisa-do-ChatGPT-en-3D.png"
     },
     {
       "title": "Seguros Unimed leva campanha de segurança ao cinema",
@@ -92,48 +103,37 @@
       "image_url": "https://updateordie.com/wp-content/uploads/2026/11/alien-cinema-etiquette.webp"
     },
     {
-      "title": "Mariah Carey estrela campanha de Natal da Gucci",
-      "original_title": "Mariah Carey estrela campanha de Natal da Gucci",
-      "summary": "A rainha do Natal vira rosto da grife italiana em filme dirigido por Harmony Korine, enquanto a cantora chega ao Brasil para dois shows natalinos.",
-      "why_it_matters": "Vale observar o que esta publicação revela sobre campanhas e suas implicações para marcas e comunicação.",
-      "category": "Campanhas",
-      "source": "Update or Die!",
-      "published_date": "2026-11-16",
-      "url": "https://updateordie.com/2026/11/16/mariah-carey-estrela-campanha-de-natal-da-gucci/",
-      "image_url": "https://updateordie.com/wp-content/uploads/2026/11/maxresdefault-23.jpg"
-    },
-    {
-      "title": "Meta lança Achados, aplicativo que reúne anúncios do Facebook e Instagram | Fast Company Brasil",
-      "original_title": "Meta lança Achados, aplicativo que reúne anúncios do Facebook e Instagram | Fast Company Brasil",
-      "summary": "Novidade busca facilitar a busca por produtos e reúne recursos já disponíveis em outras plataformas da Meta.",
-      "why_it_matters": "Vale observar o que esta publicação revela sobre campanhas e suas implicações para marcas e comunicação.",
-      "category": "Campanhas",
+      "title": "Brasil tem 10,4 milhões de mulheres empreendedoras; veja os desafios do setor | Fast Company Brasil",
+      "original_title": "Brasil tem 10,4 milhões de mulheres empreendedoras; veja os desafios do setor | Fast Company Brasil",
+      "summary": "Levantamento destaca a participação feminina nos negócios e aponta caminhos para fortalecer empresas lideradas por mulheres.",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre estratégia & negócios e suas implicações para marcas e comunicação.",
+      "category": "Estratégia & negócios",
       "source": "Fast Company Brasil",
-      "published_date": "2026-11-18",
-      "url": "https://fastcompanybrasil.com/tech/meta-lanca-achados-aplicativo-que-reune-anuncios-do-facebook-e-instagram/",
-      "image_url": "https://fastcompanybrasil.com/wp-content/uploads/2026/11/Achados-meta.jpg"
+      "published_date": "2026-11-19",
+      "url": "https://fastcompanybrasil.com/money/brasil-10-milhoes-mulheres-empreendedoras-desafios-setor/",
+      "image_url": "https://fastcompanybrasil.com/wp-content/uploads/2026/11/empreendedorismo-mulher.jpg"
     },
     {
-      "title": "LG2 Named Agency of Record for Burger King Canada â LBB",
-      "original_title": "LG2 Named Agency of Record for Burger King Canada â LBB",
-      "summary": "LG2 will build on the recent Burger King 'Better than Ever' campaign to create the first distinct, long-term platform created specifically for the Canadian market",
+      "title": "A busca pelo parceiro ideal virou pressão para a Geração Z? | Fast Company Brasil",
+      "original_title": "A busca pelo parceiro ideal virou pressão para a Geração Z? | Fast Company Brasil",
+      "summary": "O relatório mostra por que a busca por um relacionamento pode envolver expectativas sobre identidade, sucesso e futuro.",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre comportamento e suas implicações para marcas e comunicação.",
+      "category": "Comportamento",
+      "source": "Fast Company Brasil",
+      "published_date": "2026-11-19",
+      "url": "https://fastcompanybrasil.com/worklife/bem-estar/busca-parceiro-ideal-virou-pressao-geracao-z/",
+      "image_url": "https://fastcompanybrasil.com/wp-content/uploads/2026/11/relatorio-relacionamento.jpg"
+    },
+    {
+      "title": "Pushing the Optics, Defying Physics and Making the Unexpected with Bob Partington â LBB",
+      "original_title": "Pushing the Optics, Defying Physics and Making the Unexpected with Bob Partington â LBB",
+      "summary": "The Good Times director on bringing visual metaphors to life through artistic spectacles, the return of the âartful approachâ to advertising, as well as his proudest work, as part of LBBâs 'The Directors' series",
       "why_it_matters": "Vale observar o que esta publicação revela sobre campanhas e suas implicações para marcas e comunicação.",
       "category": "Campanhas",
       "source": "LBB",
-      "published_date": "2026-11-18",
-      "url": "https://lbbonline.com/news/lg2-named-agency-of-record-for-burger-king-canada",
-      "image_url": "https://d3q27bh1u24u2o.cloudfront.net/resized/1200/news/2026-11/lg2-burger-king.xDG9yNq9.png"
-    },
-    {
-      "title": "Human Magic, Machine Help: AIâs Role in Christmas Shopping â LBB",
-      "original_title": "Human Magic, Machine Help: AIâs Role in Christmas Shopping â LBB",
-      "summary": "As AI becomes an increasingly important part of Christmas shopping, Alannah Phillips, research and insight manager at the7stars, explores how consumers are balancing convenience with the personal meaning of gifting â and what the changing landscape of AI-driven discovery means for brands",
-      "why_it_matters": "Vale observar o que esta publicação revela sobre branding e suas implicações para marcas e comunicação.",
-      "category": "Branding",
-      "source": "LBB",
-      "published_date": "2026-11-18",
-      "url": "https://lbbonline.com/news/human-magic-machine-help-ai-s-role-in-christmas-shopping",
-      "image_url": "https://d3q27bh1u24u2o.cloudfront.net/resized/1200/news/2026-11/the7stars.aT2oFvuk.png"
+      "published_date": "2026-11-19",
+      "url": "https://lbbonline.com/news/pushing-the-optics-defying-physics-and-making-the-unexpected-with-bob-partington",
+      "image_url": "https://d3q27bh1u24u2o.cloudfront.net/resized/1200/news/2026-11/bob-partington-good-time.fF7RjmNw.png"
     }
   ]
 }
