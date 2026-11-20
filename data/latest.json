@@ -1,40 +1,51 @@
 {
-  "edition_date": "2026-11-19",
+  "edition_date": "2026-11-20",
   "status": "published",
   "notice": "Curadoria automática gratuita baseada em RSS e metadados das fontes originais.",
-  "window_start": "2026-11-13",
-  "window_end": "2026-11-19",
+  "window_start": "2026-11-14",
+  "window_end": "2026-11-20",
   "edition_name": "Update com Afeto",
   "editor_letter": "Esta edição reúne 10 histórias publicadas nos últimos sete dias, selecionadas entre as fontes do registro editorial unificado. A curadoria prioriza campanhas, marcas, estratégia, comportamento e cultura digital. Os resumos partem das descrições publicadas pelas próprias fontes; abra os links originais para ler o contexto completo.",
   "signals": [
     {
-      "title": "Campanhas",
-      "description": "4 matéria(s) desta edição exploram campanhas. Veja como as marcas e a cultura estão se movimentando neste tema.",
+      "title": "Branding",
+      "description": "4 matéria(s) desta edição exploram branding. Veja como as marcas e a cultura estão se movimentando neste tema.",
       "category": "SINAL EDITORIAL"
     },
     {
-      "title": "Branding",
-      "description": "3 matéria(s) desta edição exploram branding. Veja como as marcas e a cultura estão se movimentando neste tema.",
+      "title": "Campanhas",
+      "description": "3 matéria(s) desta edição exploram campanhas. Veja como as marcas e a cultura estão se movimentando neste tema.",
       "category": "SINAL EDITORIAL"
     },
     {
       "title": "Estratégia & negócios",
-      "description": "2 matéria(s) desta edição exploram estratégia & negócios. Veja como as marcas e a cultura estão se movimentando neste tema.",
+      "description": "1 matéria(s) desta edição exploram estratégia & negócios. Veja como as marcas e a cultura estão se movimentando neste tema.",
       "category": "SINAL EDITORIAL"
     }
   ],
-  "lead_url": "https://www.meioemensagem.com.br/comunicacao/campanhas-da-semana-marcas-iniciam-clima-de-natal",
+  "lead_url": "https://fastcompanybrasil.com/tech/o-que-as-marcas-podem-aprender-com-o-gta-vi/",
   "stories": [
     {
-      "title": "Campanhas da Semana: marcas iniciam clima de Natal",
-      "original_title": "Campanhas da Semana: marcas iniciam clima de Natal",
-      "summary": "Coca-Cola abre sua temporada de Natal e Ofner celebra os rituais de fim de ano com panettones artesanais",
-      "why_it_matters": "Vale observar o que esta publicação revela sobre campanhas e suas implicações para marcas e comunicação.",
-      "category": "Campanhas",
-      "source": "Meio & Mensagem",
-      "published_date": "2026-11-13",
-      "url": "https://www.meioemensagem.com.br/comunicacao/campanhas-da-semana-marcas-iniciam-clima-de-natal",
-      "image_url": "https://www.meioemensagem.com.br/wp-content/uploads/2026/11/Fotos-Divulgacao-2026-11-13T150419.541.jpg"
+      "title": "O que as marcas podem aprender com o GTA VI? | Fast Company Brasil",
+      "original_title": "O que as marcas podem aprender com o GTA VI? | Fast Company Brasil",
+      "summary": "A força de Grand Theft Auto está em seus detalhes, na irreverência e na capacidade de criar um universo que vai muito além do produto.",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre branding e suas implicações para marcas e comunicação.",
+      "category": "Branding",
+      "source": "Fast Company Brasil",
+      "published_date": "2026-11-20",
+      "url": "https://fastcompanybrasil.com/tech/o-que-as-marcas-podem-aprender-com-o-gta-vi/",
+      "image_url": "https://fastcompanybrasil.com/wp-content/uploads/2026/11/marcas_games_GTA-VI_KV.jpg"
+    },
+    {
+      "title": "Vai aproveitar o feriado jogando? Veja as novidades que chegam ao Xbox | Fast Company Brasil",
+      "original_title": "Vai aproveitar o feriado jogando? Veja as novidades que chegam ao Xbox | Fast Company Brasil",
+      "summary": "A semana reúne lançamentos de aventura, estratégia e simuladores, com opções para diferentes estilos de jogadores no Xbox.",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre estratégia & negócios e suas implicações para marcas e comunicação.",
+      "category": "Estratégia & negócios",
+      "source": "Fast Company Brasil",
+      "published_date": "2026-11-20",
+      "url": "https://fastcompanybrasil.com/games/vai-aproveitar-feriado-jogando-veja-novidades-chegam-xbox/",
+      "image_url": "https://fastcompanybrasil.com/wp-content/uploads/2026/11/feriado-xbox.jpg"
     },
     {
       "title": "FutureBrand redesenha marca global com um “F” modular criado em São Paulo",
@@ -48,15 +59,15 @@
       "image_url": "https://storage.ghost.io/c/b8/a4/b8a4ba23-e08d-42f7-b459-b1bcab5b8867/content/images/size/w1200/2026/11/FurureBrand---New-Brand.jpg"
     },
     {
-      "title": "Veridooh Expands US Leadership Team with 3 Senior Hires â LBB",
-      "original_title": "Veridooh Expands US Leadership Team with 3 Senior Hires â LBB",
-      "summary": "Tammy Blythe Goodman joins as VP of marketing, alongside sales director Marc Navarino and business operations director Andy Liu",
-      "why_it_matters": "Vale observar o que esta publicação revela sobre estratégia & negócios e suas implicações para marcas e comunicação.",
-      "category": "Estratégia & negócios",
-      "source": "LBB",
+      "title": "Campanhas da Semana: empreendedorismo, humor e verão",
+      "original_title": "Campanhas da Semana: empreendedorismo, humor e verão",
+      "summary": "Itaú Empresas valoriza trajetórias de empresários e Smirnoff convida Ary Fontoura para sair da mesmice",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre campanhas e suas implicações para marcas e comunicação.",
+      "category": "Campanhas",
+      "source": "Meio & Mensagem",
       "published_date": "2026-11-19",
-      "url": "https://lbbonline.com/news/veridooh-us-leadership-senior-hires",
-      "image_url": "https://d3q27bh1u24u2o.cloudfront.net/resized/1200/news/2026-11/veridooh.Nzm_xjAq.png"
+      "url": "https://www.meioemensagem.com.br/comunicacao/campanhas-da-semana-empreendedorismo-humor-e-verao",
+      "image_url": "https://www.meioemensagem.com.br/wp-content/uploads/2026/11/smirnoff-ary-fountora-cred-div-1280x852-1.jpg"
     },
     {
       "title": "Muita fama, pouco recall: o risco dos rostos repetidos",
@@ -103,37 +114,26 @@
       "image_url": "https://updateordie.com/wp-content/uploads/2026/11/alien-cinema-etiquette.webp"
     },
     {
-      "title": "Brasil tem 10,4 milhões de mulheres empreendedoras; veja os desafios do setor | Fast Company Brasil",
-      "original_title": "Brasil tem 10,4 milhões de mulheres empreendedoras; veja os desafios do setor | Fast Company Brasil",
-      "summary": "Levantamento destaca a participação feminina nos negócios e aponta caminhos para fortalecer empresas lideradas por mulheres.",
-      "why_it_matters": "Vale observar o que esta publicação revela sobre estratégia & negócios e suas implicações para marcas e comunicação.",
-      "category": "Estratégia & negócios",
-      "source": "Fast Company Brasil",
+      "title": "Meiomi’s Club Noir Trades the Slopes for the Skating Rink - COOL HUNTING®",
+      "original_title": "Meiomi’s Club Noir Trades the Slopes for the Skating Rink - COOL HUNTING®",
+      "summary": "Après-ski is a flexible idea. You do not actually need a mountain, only a reason to come in from the cold.",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre experiência de marca e suas implicações para marcas e comunicação.",
+      "category": "Experiência de marca",
+      "source": "Cool Hunting",
       "published_date": "2026-11-19",
-      "url": "https://fastcompanybrasil.com/money/brasil-10-milhoes-mulheres-empreendedoras-desafios-setor/",
-      "image_url": "https://fastcompanybrasil.com/wp-content/uploads/2026/11/empreendedorismo-mulher.jpg"
+      "url": "https://coolhunting.com/food-drink/meiomis-club-noir-trades-the-slopes-for-the-skating-rink/",
+      "image_url": "https://coolhunting.com/wp-content/uploads/2026/11/DU3A8106-Credit-Andrea-Sabugo-cropped.jpg"
     },
     {
-      "title": "A busca pelo parceiro ideal virou pressão para a Geração Z? | Fast Company Brasil",
-      "original_title": "A busca pelo parceiro ideal virou pressão para a Geração Z? | Fast Company Brasil",
-      "summary": "O relatório mostra por que a busca por um relacionamento pode envolver expectativas sobre identidade, sucesso e futuro.",
-      "why_it_matters": "Vale observar o que esta publicação revela sobre comportamento e suas implicações para marcas e comunicação.",
-      "category": "Comportamento",
-      "source": "Fast Company Brasil",
-      "published_date": "2026-11-19",
-      "url": "https://fastcompanybrasil.com/worklife/bem-estar/busca-parceiro-ideal-virou-pressao-geracao-z/",
-      "image_url": "https://fastcompanybrasil.com/wp-content/uploads/2026/11/relatorio-relacionamento.jpg"
-    },
-    {
-      "title": "Pushing the Optics, Defying Physics and Making the Unexpected with Bob Partington â LBB",
-      "original_title": "Pushing the Optics, Defying Physics and Making the Unexpected with Bob Partington â LBB",
-      "summary": "The Good Times director on bringing visual metaphors to life through artistic spectacles, the return of the âartful approachâ to advertising, as well as his proudest work, as part of LBBâs 'The Directors' series",
-      "why_it_matters": "Vale observar o que esta publicação revela sobre campanhas e suas implicações para marcas e comunicação.",
-      "category": "Campanhas",
-      "source": "LBB",
-      "published_date": "2026-11-19",
-      "url": "https://lbbonline.com/news/pushing-the-optics-defying-physics-and-making-the-unexpected-with-bob-partington",
-      "image_url": "https://d3q27bh1u24u2o.cloudfront.net/resized/1200/news/2026-11/bob-partington-good-time.fF7RjmNw.png"
+      "title": "Holiday Gift Guide 2026: Keith Haring - COOL HUNTING®",
+      "original_title": "Holiday Gift Guide 2026: Keith Haring - COOL HUNTING®",
+      "summary": "Keith Haring’s one of the most iconic American artists of the 1980s; his accessible Pop Art style is practically synonymous with New York’s downtown art, graffiti and queer culture of t…",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre criatividade e suas implicações para marcas e comunicação.",
+      "category": "Criatividade",
+      "source": "Cool Hunting",
+      "published_date": "2026-11-20",
+      "url": "https://coolhunting.com/design/holiday-gift-guide-2026-keith-haring/",
+      "image_url": "https://coolhunting.com/wp-content/uploads/2026/11/keith-header.jpg"
     }
   ]
 }

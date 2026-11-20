@@ -1,0 +1,139 @@
+{
+  "edition_date": "2026-11-20",
+  "status": "published",
+  "notice": "Curadoria automática gratuita baseada em RSS e metadados das fontes originais.",
+  "window_start": "2026-11-14",
+  "window_end": "2026-11-20",
+  "edition_name": "Update com Afeto",
+  "editor_letter": "Esta edição reúne 10 histórias publicadas nos últimos sete dias, selecionadas entre as fontes do registro editorial unificado. A curadoria prioriza campanhas, marcas, estratégia, comportamento e cultura digital. Os resumos partem das descrições publicadas pelas próprias fontes; abra os links originais para ler o contexto completo.",
+  "signals": [
+    {
+      "title": "Branding",
+      "description": "4 matéria(s) desta edição exploram branding. Veja como as marcas e a cultura estão se movimentando neste tema.",
+      "category": "SINAL EDITORIAL"
+    },
+    {
+      "title": "Campanhas",
+      "description": "3 matéria(s) desta edição exploram campanhas. Veja como as marcas e a cultura estão se movimentando neste tema.",
+      "category": "SINAL EDITORIAL"
+    },
+    {
+      "title": "Estratégia & negócios",
+      "description": "1 matéria(s) desta edição exploram estratégia & negócios. Veja como as marcas e a cultura estão se movimentando neste tema.",
+      "category": "SINAL EDITORIAL"
+    }
+  ],
+  "lead_url": "https://fastcompanybrasil.com/tech/o-que-as-marcas-podem-aprender-com-o-gta-vi/",
+  "stories": [
+    {
+      "title": "O que as marcas podem aprender com o GTA VI? | Fast Company Brasil",
+      "original_title": "O que as marcas podem aprender com o GTA VI? | Fast Company Brasil",
+      "summary": "A força de Grand Theft Auto está em seus detalhes, na irreverência e na capacidade de criar um universo que vai muito além do produto.",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre branding e suas implicações para marcas e comunicação.",
+      "category": "Branding",
+      "source": "Fast Company Brasil",
+      "published_date": "2026-11-20",
+      "url": "https://fastcompanybrasil.com/tech/o-que-as-marcas-podem-aprender-com-o-gta-vi/",
+      "image_url": "https://fastcompanybrasil.com/wp-content/uploads/2026/11/marcas_games_GTA-VI_KV.jpg"
+    },
+    {
+      "title": "Vai aproveitar o feriado jogando? Veja as novidades que chegam ao Xbox | Fast Company Brasil",
+      "original_title": "Vai aproveitar o feriado jogando? Veja as novidades que chegam ao Xbox | Fast Company Brasil",
+      "summary": "A semana reúne lançamentos de aventura, estratégia e simuladores, com opções para diferentes estilos de jogadores no Xbox.",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre estratégia & negócios e suas implicações para marcas e comunicação.",
+      "category": "Estratégia & negócios",
+      "source": "Fast Company Brasil",
+      "published_date": "2026-11-20",
+      "url": "https://fastcompanybrasil.com/games/vai-aproveitar-feriado-jogando-veja-novidades-chegam-xbox/",
+      "image_url": "https://fastcompanybrasil.com/wp-content/uploads/2026/11/feriado-xbox.jpg"
+    },
+    {
+      "title": "FutureBrand redesenha marca global com um “F” modular criado em São Paulo",
+      "original_title": "FutureBrand redesenha marca global com um “F” modular criado em São Paulo",
+      "summary": "Projeto reúne texturas feitas à mão, tipografia em perspectiva e uma ferramenta para os escritórios criarem suas próprias aplicações",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre branding e suas implicações para marcas e comunicação.",
+      "category": "Branding",
+      "source": "B9",
+      "published_date": "2026-11-19",
+      "url": "https://www.b9.com.br/futurebrand-nova-identidade-global-sao-paulo/",
+      "image_url": "https://storage.ghost.io/c/b8/a4/b8a4ba23-e08d-42f7-b459-b1bcab5b8867/content/images/size/w1200/2026/11/FurureBrand---New-Brand.jpg"
+    },
+    {
+      "title": "Campanhas da Semana: empreendedorismo, humor e verão",
+      "original_title": "Campanhas da Semana: empreendedorismo, humor e verão",
+      "summary": "Itaú Empresas valoriza trajetórias de empresários e Smirnoff convida Ary Fontoura para sair da mesmice",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre campanhas e suas implicações para marcas e comunicação.",
+      "category": "Campanhas",
+      "source": "Meio & Mensagem",
+      "published_date": "2026-11-19",
+      "url": "https://www.meioemensagem.com.br/comunicacao/campanhas-da-semana-empreendedorismo-humor-e-verao",
+      "image_url": "https://www.meioemensagem.com.br/wp-content/uploads/2026/11/smirnoff-ary-fountora-cred-div-1280x852-1.jpg"
+    },
+    {
+      "title": "Muita fama, pouco recall: o risco dos rostos repetidos",
+      "original_title": "Muita fama, pouco recall: o risco dos rostos repetidos",
+      "summary": "Agências e gestores detalham como contratos de exclusividade, curadoria e dados evitam a fadiga de imagem nas campanhas",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre campanhas e suas implicações para marcas e comunicação.",
+      "category": "Campanhas",
+      "source": "Meio & Mensagem",
+      "published_date": "2026-11-19",
+      "url": "https://www.meioemensagem.com.br/comunicacao/famosos-repetidos-nas-campanhas-qual-o-impacto-nas-marcas",
+      "image_url": "https://www.meioemensagem.com.br/wp-content/uploads/2026/11/Colagem-editorial-de-campanhas-publicitarias-1.jpg"
+    },
+    {
+      "title": "Vivo troca dinheiro de GTA Online por saldo real no Vivo Pay",
+      "original_title": "Vivo troca dinheiro de GTA Online por saldo real no Vivo Pay",
+      "summary": "Criada pela Africa Creative, “The Last Mission” colocou um personagem da marca em Los Santos para receber créditos de jogadores na véspera de GTA VI",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre branding e suas implicações para marcas e comunicação.",
+      "category": "Branding",
+      "source": "B9",
+      "published_date": "2026-11-18",
+      "url": "https://www.b9.com.br/vivo-pay-gta-online-dinheiro-real/",
+      "image_url": "https://storage.ghost.io/c/b8/a4/b8a4ba23-e08d-42f7-b459-b1bcab5b8867/content/images/size/w1200/2026/11/PR_horizontal.png"
+    },
+    {
+      "title": "As marcas estão perdendo o controle de como são encontradas",
+      "original_title": "As marcas estão perdendo o controle de como são encontradas",
+      "summary": "Durante duas décadas, as empresas aprenderam a disputar posições no Google. Agora, a inteligência artificial começa a mudar não apenas onde procuramos respostas, mas quem decide quais marcas merecem aparecer.",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre branding e suas implicações para marcas e comunicação.",
+      "category": "Branding",
+      "source": "Update or Die!",
+      "published_date": "2026-11-18",
+      "url": "https://updateordie.com/2026/11/18/as-marcas-estao-perdendo-o-controle-de-como-sao-encontradas/",
+      "image_url": "https://updateordie.com/wp-content/uploads/2026/11/Barra-de-Pesquisa-do-ChatGPT-en-3D.png"
+    },
+    {
+      "title": "Seguros Unimed leva campanha de segurança ao cinema",
+      "original_title": "Seguros Unimed leva campanha de segurança ao cinema",
+      "summary": "Batizado de \"Sessão Assegurada\", o novo trailer da DPZ transforma os incômodos clássicos das salas de cinema em personagens animados e mistura craft tradicional com inteligência artificial.",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre campanhas e suas implicações para marcas e comunicação.",
+      "category": "Campanhas",
+      "source": "Update or Die!",
+      "published_date": "2026-11-16",
+      "url": "https://updateordie.com/2026/11/16/seguros-unimed-leva-campanha-de-seguranca-ao-cinema/",
+      "image_url": "https://updateordie.com/wp-content/uploads/2026/11/alien-cinema-etiquette.webp"
+    },
+    {
+      "title": "Meiomi’s Club Noir Trades the Slopes for the Skating Rink - COOL HUNTING®",
+      "original_title": "Meiomi’s Club Noir Trades the Slopes for the Skating Rink - COOL HUNTING®",
+      "summary": "Après-ski is a flexible idea. You do not actually need a mountain, only a reason to come in from the cold.",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre experiência de marca e suas implicações para marcas e comunicação.",
+      "category": "Experiência de marca",
+      "source": "Cool Hunting",
+      "published_date": "2026-11-19",
+      "url": "https://coolhunting.com/food-drink/meiomis-club-noir-trades-the-slopes-for-the-skating-rink/",
+      "image_url": "https://coolhunting.com/wp-content/uploads/2026/11/DU3A8106-Credit-Andrea-Sabugo-cropped.jpg"
+    },
+    {
+      "title": "Holiday Gift Guide 2026: Keith Haring - COOL HUNTING®",
+      "original_title": "Holiday Gift Guide 2026: Keith Haring - COOL HUNTING®",
+      "summary": "Keith Haring’s one of the most iconic American artists of the 1980s; his accessible Pop Art style is practically synonymous with New York’s downtown art, graffiti and queer culture of t…",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre criatividade e suas implicações para marcas e comunicação.",
+      "category": "Criatividade",
+      "source": "Cool Hunting",
+      "published_date": "2026-11-20",
+      "url": "https://coolhunting.com/design/holiday-gift-guide-2026-keith-haring/",
+      "image_url": "https://coolhunting.com/wp-content/uploads/2026/11/keith-header.jpg"
+    }
+  ]
+}
