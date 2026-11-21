@@ -1,15 +1,15 @@
 {
-  "edition_date": "2026-11-20",
+  "edition_date": "2026-11-21",
   "status": "published",
   "notice": "Curadoria automática gratuita baseada em RSS e metadados das fontes originais.",
-  "window_start": "2026-11-14",
-  "window_end": "2026-11-20",
+  "window_start": "2026-11-15",
+  "window_end": "2026-11-21",
   "edition_name": "Update com Afeto",
   "editor_letter": "Esta edição reúne 10 histórias publicadas nos últimos sete dias, selecionadas entre as fontes do registro editorial unificado. A curadoria prioriza campanhas, marcas, estratégia, comportamento e cultura digital. Os resumos partem das descrições publicadas pelas próprias fontes; abra os links originais para ler o contexto completo.",
   "signals": [
     {
       "title": "Branding",
-      "description": "4 matéria(s) desta edição exploram branding. Veja como as marcas e a cultura estão se movimentando neste tema.",
+      "description": "3 matéria(s) desta edição exploram branding. Veja como as marcas e a cultura estão se movimentando neste tema.",
       "category": "SINAL EDITORIAL"
     },
     {
@@ -18,34 +18,34 @@
       "category": "SINAL EDITORIAL"
     },
     {
-      "title": "Estratégia & negócios",
-      "description": "1 matéria(s) desta edição exploram estratégia & negócios. Veja como as marcas e a cultura estão se movimentando neste tema.",
+      "title": "Comportamento",
+      "description": "2 matéria(s) desta edição exploram comportamento. Veja como as marcas e a cultura estão se movimentando neste tema.",
       "category": "SINAL EDITORIAL"
     }
   ],
-  "lead_url": "https://fastcompanybrasil.com/tech/o-que-as-marcas-podem-aprender-com-o-gta-vi/",
+  "lead_url": "https://www.b9.com.br/futurebrand-nova-identidade-global-sao-paulo/",
   "stories": [
     {
-      "title": "O que as marcas podem aprender com o GTA VI? | Fast Company Brasil",
-      "original_title": "O que as marcas podem aprender com o GTA VI? | Fast Company Brasil",
-      "summary": "A força de Grand Theft Auto está em seus detalhes, na irreverência e na capacidade de criar um universo que vai muito além do produto.",
-      "why_it_matters": "Vale observar o que esta publicação revela sobre branding e suas implicações para marcas e comunicação.",
-      "category": "Branding",
+      "title": "5 direitos do consumidor que você precisa conhecer para não sair no prejuízo | Fast Company Brasil",
+      "original_title": "5 direitos do consumidor que você precisa conhecer para não sair no prejuízo | Fast Company Brasil",
+      "summary": "Regras sobre preços, garantias, ofertas e compras pela internet estão entre as proteções previstas no Código de Defesa do Consumidor.",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre comportamento e suas implicações para marcas e comunicação.",
+      "category": "Comportamento",
       "source": "Fast Company Brasil",
-      "published_date": "2026-11-20",
-      "url": "https://fastcompanybrasil.com/tech/o-que-as-marcas-podem-aprender-com-o-gta-vi/",
-      "image_url": "https://fastcompanybrasil.com/wp-content/uploads/2026/11/marcas_games_GTA-VI_KV.jpg"
+      "published_date": "2026-11-21",
+      "url": "https://fastcompanybrasil.com/money/5-direitos-consumidor-voce-precisa-conhecer-nao-sair-prejuizo/",
+      "image_url": "https://fastcompanybrasil.com/wp-content/uploads/2026/11/direito-consumidor.jpg"
     },
     {
-      "title": "Vai aproveitar o feriado jogando? Veja as novidades que chegam ao Xbox | Fast Company Brasil",
-      "original_title": "Vai aproveitar o feriado jogando? Veja as novidades que chegam ao Xbox | Fast Company Brasil",
-      "summary": "A semana reúne lançamentos de aventura, estratégia e simuladores, com opções para diferentes estilos de jogadores no Xbox.",
-      "why_it_matters": "Vale observar o que esta publicação revela sobre estratégia & negócios e suas implicações para marcas e comunicação.",
-      "category": "Estratégia & negócios",
+      "title": "Cansaço mental: 4 sinais de que você precisa desacelerar a rotina | Fast Company Brasil",
+      "original_title": "Cansaço mental: 4 sinais de que você precisa desacelerar a rotina | Fast Company Brasil",
+      "summary": "O cansaço mental pode ir além da falta de energia e aparecer em sintomas físicos e mudanças de comportamento.",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre comportamento e suas implicações para marcas e comunicação.",
+      "category": "Comportamento",
       "source": "Fast Company Brasil",
-      "published_date": "2026-11-20",
-      "url": "https://fastcompanybrasil.com/games/vai-aproveitar-feriado-jogando-veja-novidades-chegam-xbox/",
-      "image_url": "https://fastcompanybrasil.com/wp-content/uploads/2026/11/feriado-xbox.jpg"
+      "published_date": "2026-11-21",
+      "url": "https://fastcompanybrasil.com/worklife/bem-estar/cansaco-mental-4-sinais-voce-precisa-desacelerar-rotina/",
+      "image_url": "https://fastcompanybrasil.com/wp-content/uploads/2026/11/cansaco-mental.jpg"
     },
     {
       "title": "FutureBrand redesenha marca global com um “F” modular criado em São Paulo",
