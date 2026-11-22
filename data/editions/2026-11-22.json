@@ -1,0 +1,139 @@
+{
+  "edition_date": "2026-11-22",
+  "status": "published",
+  "notice": "Curadoria automática gratuita baseada em RSS e metadados das fontes originais.",
+  "window_start": "2026-11-16",
+  "window_end": "2026-11-22",
+  "edition_name": "Update com Afeto",
+  "editor_letter": "Esta edição reúne 10 histórias publicadas nos últimos sete dias, selecionadas entre as fontes do registro editorial unificado. A curadoria prioriza campanhas, marcas, estratégia, comportamento e cultura digital. Os resumos partem das descrições publicadas pelas próprias fontes; abra os links originais para ler o contexto completo.",
+  "signals": [
+    {
+      "title": "Branding",
+      "description": "5 matéria(s) desta edição exploram branding. Veja como as marcas e a cultura estão se movimentando neste tema.",
+      "category": "SINAL EDITORIAL"
+    },
+    {
+      "title": "Campanhas",
+      "description": "3 matéria(s) desta edição exploram campanhas. Veja como as marcas e a cultura estão se movimentando neste tema.",
+      "category": "SINAL EDITORIAL"
+    },
+    {
+      "title": "Estratégia & negócios",
+      "description": "1 matéria(s) desta edição exploram estratégia & negócios. Veja como as marcas e a cultura estão se movimentando neste tema.",
+      "category": "SINAL EDITORIAL"
+    }
+  ],
+  "lead_url": "https://fastcompanybrasil.com/design/guerra-ao-poliester-marca-faz-roupa-intima-de-la-organica/",
+  "stories": [
+    {
+      "title": "GTA 6 fatura US$ 3,8 bi em 24h",
+      "original_title": "GTA 6 fatura US$ 3,8 bi em 24h",
+      "summary": "Take-Two anuncia que o novo título da Rockstar fez o maior lançamento da história do entretenimento em receita, impulsionado por pré-vendas inéditas e por uma estratégia que mistura games, música e cultura pop.",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre estratégia & negócios e suas implicações para marcas e comunicação.",
+      "category": "Estratégia & negócios",
+      "source": "Update or Die!",
+      "published_date": "2026-11-22",
+      "url": "https://updateordie.com/2026/11/22/gta-6-fatura-us-38-bi-em-24h/",
+      "image_url": "https://updateordie.com/wp-content/uploads/2026/11/gta6_ESTREIA-scaled.jpg"
+    },
+    {
+      "title": "Guerra ao poliéster! Marca faz roupa íntima de lã orgânica | Fast Company Brasil",
+      "original_title": "Guerra ao poliéster! Marca faz roupa íntima de lã orgânica | Fast Company Brasil",
+      "summary": "O algodão tem sido, há muito tempo, a fibra natural preferida na roupa íntima feminina. Mas algo novo está por vir.",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre branding e suas implicações para marcas e comunicação.",
+      "category": "Branding",
+      "source": "Fast Company Brasil",
+      "published_date": "2026-11-22",
+      "url": "https://fastcompanybrasil.com/design/guerra-ao-poliester-marca-faz-roupa-intima-de-la-organica/",
+      "image_url": "https://fastcompanybrasil.com/wp-content/uploads/2026/11/poliester_moda_tecido-organico.jpg"
+    },
+    {
+      "title": "Cansaço mental: 4 sinais de que você precisa desacelerar a rotina | Fast Company Brasil",
+      "original_title": "Cansaço mental: 4 sinais de que você precisa desacelerar a rotina | Fast Company Brasil",
+      "summary": "O cansaço mental pode ir além da falta de energia e aparecer em sintomas físicos e mudanças de comportamento.",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre comportamento e suas implicações para marcas e comunicação.",
+      "category": "Comportamento",
+      "source": "Fast Company Brasil",
+      "published_date": "2026-11-21",
+      "url": "https://fastcompanybrasil.com/worklife/bem-estar/cansaco-mental-4-sinais-voce-precisa-desacelerar-rotina/",
+      "image_url": "https://fastcompanybrasil.com/wp-content/uploads/2026/11/cansaco-mental.jpg"
+    },
+    {
+      "title": "FutureBrand redesenha marca global com um “F” modular criado em São Paulo",
+      "original_title": "FutureBrand redesenha marca global com um “F” modular criado em São Paulo",
+      "summary": "Projeto reúne texturas feitas à mão, tipografia em perspectiva e uma ferramenta para os escritórios criarem suas próprias aplicações",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre branding e suas implicações para marcas e comunicação.",
+      "category": "Branding",
+      "source": "B9",
+      "published_date": "2026-11-19",
+      "url": "https://www.b9.com.br/futurebrand-nova-identidade-global-sao-paulo/",
+      "image_url": "https://storage.ghost.io/c/b8/a4/b8a4ba23-e08d-42f7-b459-b1bcab5b8867/content/images/size/w1200/2026/11/FurureBrand---New-Brand.jpg"
+    },
+    {
+      "title": "Campanhas da Semana: empreendedorismo, humor e verão",
+      "original_title": "Campanhas da Semana: empreendedorismo, humor e verão",
+      "summary": "Itaú Empresas valoriza trajetórias de empresários e Smirnoff convida Ary Fontoura para sair da mesmice",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre campanhas e suas implicações para marcas e comunicação.",
+      "category": "Campanhas",
+      "source": "Meio & Mensagem",
+      "published_date": "2026-11-19",
+      "url": "https://www.meioemensagem.com.br/comunicacao/campanhas-da-semana-empreendedorismo-humor-e-verao",
+      "image_url": "https://www.meioemensagem.com.br/wp-content/uploads/2026/11/smirnoff-ary-fountora-cred-div-1280x852-1.jpg"
+    },
+    {
+      "title": "Muita fama, pouco recall: o risco dos rostos repetidos",
+      "original_title": "Muita fama, pouco recall: o risco dos rostos repetidos",
+      "summary": "Agências e gestores detalham como contratos de exclusividade, curadoria e dados evitam a fadiga de imagem nas campanhas",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre campanhas e suas implicações para marcas e comunicação.",
+      "category": "Campanhas",
+      "source": "Meio & Mensagem",
+      "published_date": "2026-11-19",
+      "url": "https://www.meioemensagem.com.br/comunicacao/famosos-repetidos-nas-campanhas-qual-o-impacto-nas-marcas",
+      "image_url": "https://www.meioemensagem.com.br/wp-content/uploads/2026/11/Colagem-editorial-de-campanhas-publicitarias-1.jpg"
+    },
+    {
+      "title": "Vivo troca dinheiro de GTA Online por saldo real no Vivo Pay",
+      "original_title": "Vivo troca dinheiro de GTA Online por saldo real no Vivo Pay",
+      "summary": "Criada pela Africa Creative, “The Last Mission” colocou um personagem da marca em Los Santos para receber créditos de jogadores na véspera de GTA VI",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre branding e suas implicações para marcas e comunicação.",
+      "category": "Branding",
+      "source": "B9",
+      "published_date": "2026-11-18",
+      "url": "https://www.b9.com.br/vivo-pay-gta-online-dinheiro-real/",
+      "image_url": "https://storage.ghost.io/c/b8/a4/b8a4ba23-e08d-42f7-b459-b1bcab5b8867/content/images/size/w1200/2026/11/PR_horizontal.png"
+    },
+    {
+      "title": "As marcas estão perdendo o controle de como são encontradas",
+      "original_title": "As marcas estão perdendo o controle de como são encontradas",
+      "summary": "Durante duas décadas, as empresas aprenderam a disputar posições no Google. Agora, a inteligência artificial começa a mudar não apenas onde procuramos respostas, mas quem decide quais marcas merecem aparecer.",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre branding e suas implicações para marcas e comunicação.",
+      "category": "Branding",
+      "source": "Update or Die!",
+      "published_date": "2026-11-18",
+      "url": "https://updateordie.com/2026/11/18/as-marcas-estao-perdendo-o-controle-de-como-sao-encontradas/",
+      "image_url": "https://updateordie.com/wp-content/uploads/2026/11/Barra-de-Pesquisa-do-ChatGPT-en-3D.png"
+    },
+    {
+      "title": "The Best Campaigns This Week #170",
+      "original_title": "The Best Campaigns This Week #170",
+      "summary": "Your weekly hit of inspo from the universe of creative brand marketing",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre campanhas e suas implicações para marcas e comunicação.",
+      "category": "Campanhas",
+      "source": "Famous Campaigns",
+      "published_date": "2026-11-19",
+      "url": "https://famouscampaigns.substack.com/p/the-best-campaigns-this-week-170",
+      "image_url": "https://substackcdn.com/image/fetch/$s_!-fMD!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,$fp_!0.4895:0.4993!/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F237ca372-57dd-471f-9807-56f7b1fb4d02_1100x744.webp"
+    },
+    {
+      "title": "#310 | O valor da música",
+      "original_title": "#310 | O valor da música",
+      "summary": "A matéria aborda “#310 | O valor da música”. Abra a publicação original para conferir os detalhes, o contexto e os exemplos apresentados pela fonte.",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre branding e suas implicações para marcas e comunicação.",
+      "category": "Branding",
+      "source": "Bits to Brands",
+      "published_date": "2026-11-19",
+      "url": "https://bitstobrands.substack.com/p/310-o-valor-da-musica",
+      "image_url": "https://substackcdn.com/image/youtube/w_728,c_limit/Y0NA8l0ncj8"
+    }
+  ]
+}

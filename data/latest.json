@@ -1,15 +1,15 @@
 {
-  "edition_date": "2026-11-21",
+  "edition_date": "2026-11-22",
   "status": "published",
   "notice": "Curadoria automática gratuita baseada em RSS e metadados das fontes originais.",
-  "window_start": "2026-11-15",
-  "window_end": "2026-11-21",
+  "window_start": "2026-11-16",
+  "window_end": "2026-11-22",
   "edition_name": "Update com Afeto",
   "editor_letter": "Esta edição reúne 10 histórias publicadas nos últimos sete dias, selecionadas entre as fontes do registro editorial unificado. A curadoria prioriza campanhas, marcas, estratégia, comportamento e cultura digital. Os resumos partem das descrições publicadas pelas próprias fontes; abra os links originais para ler o contexto completo.",
   "signals": [
     {
       "title": "Branding",
-      "description": "3 matéria(s) desta edição exploram branding. Veja como as marcas e a cultura estão se movimentando neste tema.",
+      "description": "5 matéria(s) desta edição exploram branding. Veja como as marcas e a cultura estão se movimentando neste tema.",
       "category": "SINAL EDITORIAL"
     },
     {
@@ -18,23 +18,34 @@
       "category": "SINAL EDITORIAL"
     },
     {
-      "title": "Comportamento",
-      "description": "2 matéria(s) desta edição exploram comportamento. Veja como as marcas e a cultura estão se movimentando neste tema.",
+      "title": "Estratégia & negócios",
+      "description": "1 matéria(s) desta edição exploram estratégia & negócios. Veja como as marcas e a cultura estão se movimentando neste tema.",
       "category": "SINAL EDITORIAL"
     }
   ],
-  "lead_url": "https://www.b9.com.br/futurebrand-nova-identidade-global-sao-paulo/",
+  "lead_url": "https://fastcompanybrasil.com/design/guerra-ao-poliester-marca-faz-roupa-intima-de-la-organica/",
   "stories": [
     {
-      "title": "5 direitos do consumidor que você precisa conhecer para não sair no prejuízo | Fast Company Brasil",
-      "original_title": "5 direitos do consumidor que você precisa conhecer para não sair no prejuízo | Fast Company Brasil",
-      "summary": "Regras sobre preços, garantias, ofertas e compras pela internet estão entre as proteções previstas no Código de Defesa do Consumidor.",
-      "why_it_matters": "Vale observar o que esta publicação revela sobre comportamento e suas implicações para marcas e comunicação.",
-      "category": "Comportamento",
+      "title": "GTA 6 fatura US$ 3,8 bi em 24h",
+      "original_title": "GTA 6 fatura US$ 3,8 bi em 24h",
+      "summary": "Take-Two anuncia que o novo título da Rockstar fez o maior lançamento da história do entretenimento em receita, impulsionado por pré-vendas inéditas e por uma estratégia que mistura games, música e cultura pop.",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre estratégia & negócios e suas implicações para marcas e comunicação.",
+      "category": "Estratégia & negócios",
+      "source": "Update or Die!",
+      "published_date": "2026-11-22",
+      "url": "https://updateordie.com/2026/11/22/gta-6-fatura-us-38-bi-em-24h/",
+      "image_url": "https://updateordie.com/wp-content/uploads/2026/11/gta6_ESTREIA-scaled.jpg"
+    },
+    {
+      "title": "Guerra ao poliéster! Marca faz roupa íntima de lã orgânica | Fast Company Brasil",
+      "original_title": "Guerra ao poliéster! Marca faz roupa íntima de lã orgânica | Fast Company Brasil",
+      "summary": "O algodão tem sido, há muito tempo, a fibra natural preferida na roupa íntima feminina. Mas algo novo está por vir.",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre branding e suas implicações para marcas e comunicação.",
+      "category": "Branding",
       "source": "Fast Company Brasil",
-      "published_date": "2026-11-21",
-      "url": "https://fastcompanybrasil.com/money/5-direitos-consumidor-voce-precisa-conhecer-nao-sair-prejuizo/",
-      "image_url": "https://fastcompanybrasil.com/wp-content/uploads/2026/11/direito-consumidor.jpg"
+      "published_date": "2026-11-22",
+      "url": "https://fastcompanybrasil.com/design/guerra-ao-poliester-marca-faz-roupa-intima-de-la-organica/",
+      "image_url": "https://fastcompanybrasil.com/wp-content/uploads/2026/11/poliester_moda_tecido-organico.jpg"
     },
     {
       "title": "Cansaço mental: 4 sinais de que você precisa desacelerar a rotina | Fast Company Brasil",
@@ -103,37 +114,26 @@
       "image_url": "https://updateordie.com/wp-content/uploads/2026/11/Barra-de-Pesquisa-do-ChatGPT-en-3D.png"
     },
     {
-      "title": "Seguros Unimed leva campanha de segurança ao cinema",
-      "original_title": "Seguros Unimed leva campanha de segurança ao cinema",
-      "summary": "Batizado de \"Sessão Assegurada\", o novo trailer da DPZ transforma os incômodos clássicos das salas de cinema em personagens animados e mistura craft tradicional com inteligência artificial.",
+      "title": "The Best Campaigns This Week #170",
+      "original_title": "The Best Campaigns This Week #170",
+      "summary": "Your weekly hit of inspo from the universe of creative brand marketing",
       "why_it_matters": "Vale observar o que esta publicação revela sobre campanhas e suas implicações para marcas e comunicação.",
       "category": "Campanhas",
-      "source": "Update or Die!",
-      "published_date": "2026-11-16",
-      "url": "https://updateordie.com/2026/11/16/seguros-unimed-leva-campanha-de-seguranca-ao-cinema/",
-      "image_url": "https://updateordie.com/wp-content/uploads/2026/11/alien-cinema-etiquette.webp"
-    },
-    {
-      "title": "Meiomi’s Club Noir Trades the Slopes for the Skating Rink - COOL HUNTING®",
-      "original_title": "Meiomi’s Club Noir Trades the Slopes for the Skating Rink - COOL HUNTING®",
-      "summary": "Après-ski is a flexible idea. You do not actually need a mountain, only a reason to come in from the cold.",
-      "why_it_matters": "Vale observar o que esta publicação revela sobre experiência de marca e suas implicações para marcas e comunicação.",
-      "category": "Experiência de marca",
-      "source": "Cool Hunting",
+      "source": "Famous Campaigns",
       "published_date": "2026-11-19",
-      "url": "https://coolhunting.com/food-drink/meiomis-club-noir-trades-the-slopes-for-the-skating-rink/",
-      "image_url": "https://coolhunting.com/wp-content/uploads/2026/11/DU3A8106-Credit-Andrea-Sabugo-cropped.jpg"
+      "url": "https://famouscampaigns.substack.com/p/the-best-campaigns-this-week-170",
+      "image_url": "https://substackcdn.com/image/fetch/$s_!-fMD!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,$fp_!0.4895:0.4993!/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F237ca372-57dd-471f-9807-56f7b1fb4d02_1100x744.webp"
     },
     {
-      "title": "Holiday Gift Guide 2026: Keith Haring - COOL HUNTING®",
-      "original_title": "Holiday Gift Guide 2026: Keith Haring - COOL HUNTING®",
-      "summary": "Keith Haring’s one of the most iconic American artists of the 1980s; his accessible Pop Art style is practically synonymous with New York’s downtown art, graffiti and queer culture of t…",
-      "why_it_matters": "Vale observar o que esta publicação revela sobre criatividade e suas implicações para marcas e comunicação.",
-      "category": "Criatividade",
-      "source": "Cool Hunting",
-      "published_date": "2026-11-20",
-      "url": "https://coolhunting.com/design/holiday-gift-guide-2026-keith-haring/",
-      "image_url": "https://coolhunting.com/wp-content/uploads/2026/11/keith-header.jpg"
+      "title": "#310 | O valor da música",
+      "original_title": "#310 | O valor da música",
+      "summary": "A matéria aborda “#310 | O valor da música”. Abra a publicação original para conferir os detalhes, o contexto e os exemplos apresentados pela fonte.",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre branding e suas implicações para marcas e comunicação.",
+      "category": "Branding",
+      "source": "Bits to Brands",
+      "published_date": "2026-11-19",
+      "url": "https://bitstobrands.substack.com/p/310-o-valor-da-musica",
+      "image_url": "https://substackcdn.com/image/youtube/w_728,c_limit/Y0NA8l0ncj8"
     }
   ]
 }
