@@ -9,32 +9,65 @@
   "signals": [
     {
       "title": "Criatividade",
-      "description": "5 matéria(s) desta edição exploram criatividade. Veja como as marcas e a cultura estão se movimentando neste tema.",
+      "description": "4 matéria(s) desta edição exploram criatividade. Veja como as marcas e a cultura estão se movimentando neste tema.",
       "category": "SINAL EDITORIAL"
     },
     {
-      "title": "Estratégia & negócios",
-      "description": "2 matéria(s) desta edição exploram estratégia & negócios. Veja como as marcas e a cultura estão se movimentando neste tema.",
+      "title": "Branding",
+      "description": "3 matéria(s) desta edição exploram branding. Veja como as marcas e a cultura estão se movimentando neste tema.",
       "category": "SINAL EDITORIAL"
     },
     {
-      "title": "Campanhas",
-      "description": "2 matéria(s) desta edição exploram campanhas. Veja como as marcas e a cultura estão se movimentando neste tema.",
+      "title": "Comportamento",
+      "description": "1 matéria(s) desta edição exploram comportamento. Veja como as marcas e a cultura estão se movimentando neste tema.",
       "category": "SINAL EDITORIAL"
     }
   ],
-  "lead_url": "https://www.meioemensagem.com.br/comunicacao/campanhas-da-semana-empreendedorismo-humor-e-verao",
+  "lead_url": "https://fastcompanybrasil.com/money/ikea-lojas-menores-nova-experiencia-compra/",
   "stories": [
     {
-      "title": "Luana Génot: por que a igualdade racial precisa fazer parte das decisões das empresas",
-      "original_title": "Luana Génot: por que a igualdade racial precisa fazer parte das decisões das empresas",
-      "summary": "Quem recebe investimentos? Quem é promovido?",
-      "why_it_matters": "Vale observar o que esta publicação revela sobre estratégia & negócios e suas implicações para marcas e comunicação.",
-      "category": "Estratégia & negócios",
+      "title": "Ikea aposta em lojas menores para retomar crescimento",
+      "original_title": "Ikea aposta em lojas menores para retomar crescimento",
+      "summary": "A Ikea aposta em lojas menores e atendimento personalizado para facilitar as compras e recuperar as vendas. Entenda a nova estratégia da marca.",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre branding e suas implicações para marcas e comunicação.",
+      "category": "Branding",
       "source": "Fast Company Brasil",
       "published_date": "2026-11-23",
-      "url": "https://fastcompanybrasil.com/5-perguntas/5-perguntas-luana-genot-id-br/",
-      "image_url": "https://fastcompanybrasil.com/wp-content/uploads/2026/11/KV_5-perguntas-com-Luana-Genot-CO-do-ID_BR.jpg"
+      "url": "https://fastcompanybrasil.com/money/ikea-lojas-menores-nova-experiencia-compra/",
+      "image_url": "https://fastcompanybrasil.com/wp-content/uploads/2026/11/ikea-lojas-menores-nova-experiencia-compra-kv.jpg"
+    },
+    {
+      "title": "Pela primeira vez em 17 anos, COP termina sem consenso entre países | Fast Company Brasil",
+      "original_title": "Pela primeira vez em 17 anos, COP termina sem consenso entre países | Fast Company Brasil",
+      "summary": "Divergências entre países sobre a transição energética marcaram as negociações da COP31; confira na íntegra.",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre branding e suas implicações para marcas e comunicação.",
+      "category": "Branding",
+      "source": "Fast Company Brasil",
+      "published_date": "2026-11-23",
+      "url": "https://fastcompanybrasil.com/impacto/pela-primeira-vez-17-anos-cop-termina-sem-consenso-entre-paises/",
+      "image_url": "https://fastcompanybrasil.com/wp-content/uploads/2026/11/cop31-acordo.jpg"
+    },
+    {
+      "title": "Rafa Kalimann e salsicha: Seara debocha da polêmica",
+      "original_title": "Rafa Kalimann e salsicha: Seara debocha da polêmica",
+      "summary": "Após Rafa Kalimann ter sido processada pela Perdigão, marca convida apresentadora para estrelar uma ação oficial",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre branding e suas implicações para marcas e comunicação.",
+      "category": "Branding",
+      "source": "Meio & Mensagem",
+      "published_date": "2026-11-23",
+      "url": "https://www.meioemensagem.com.br/comunicacao/rafa-kalimann-e-salsicha-seara-debocha-da-polemica",
+      "image_url": "https://www.meioemensagem.com.br/wp-content/uploads/2026/11/Rafa-Kalimann-Seara-Credito-Reproducao.jpg"
+    },
+    {
+      "title": "Itaú lança websérie sobre nova geração do tênis brasileiro",
+      "original_title": "Itaú lança websérie sobre nova geração do tênis brasileiro",
+      "summary": "Com participação de Bia Haddad Maia, produção da Galeria retrata a formação de Naná Silva e Victoria Barros",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre comportamento e suas implicações para marcas e comunicação.",
+      "category": "Comportamento",
+      "source": "Meio & Mensagem",
+      "published_date": "2026-11-23",
+      "url": "https://www.meioemensagem.com.br/comunicacao/itau-mostra-nova-geracao-do-tenis-brasileiro-em-webserie",
+      "image_url": "https://www.meioemensagem.com.br/wp-content/uploads/2026/11/Fotos-Divulgacao-2026-11-23T174454.591.jpg"
     },
     {
       "title": "Barista Champion Morgan Eckroth Brews “Coffee, for Here” - COOL HUNTING®",
@@ -57,17 +90,6 @@
       "published_date": "2026-11-23",
       "url": "https://coolhunting.com/buy/no-title/",
       "image_url": "https://coolhunting.com/wp-content/uploads/2026/11/5CBCB5E6-CE5C-4077-978A-B695869782E8_1_201_a.jpeg"
-    },
-    {
-      "title": "As horas trabalhadas precisam ser corretamente registradas | Fast Company Brasil",
-      "original_title": "As horas trabalhadas precisam ser corretamente registradas | Fast Company Brasil",
-      "summary": "A legislação exige que o que era administrado por um supervisor atento agora seja registrado, auditável e acessível aos trabalhadores.",
-      "why_it_matters": "Vale observar o que esta publicação revela sobre criatividade e suas implicações para marcas e comunicação.",
-      "category": "Criatividade",
-      "source": "Fast Company Brasil",
-      "published_date": "2026-11-23",
-      "url": "https://fastcompanybrasil.com/worklife/as-horas-trabalhadas-precisam-ser-corretamente-registradas/",
-      "image_url": "https://fastcompanybrasil.com/wp-content/uploads/2026/11/tempo_horas-extras.jpg"
     },
     {
       "title": "Naruhodo Entrevista #81: Rosy Isaías",
@@ -112,28 +134,6 @@
       "published_date": "2026-11-22",
       "url": "https://www.b9.com.br/gta-vi-e-o-preco-de-ser-o-assunto-de-todo-mundo/",
       "image_url": "https://storage.ghost.io/c/b8/a4/b8a4ba23-e08d-42f7-b459-b1bcab5b8867/content/images/size/w1200/2026/11/gta-onibus-ooh.jpg"
-    },
-    {
-      "title": "Campanhas da Semana: empreendedorismo, humor e verão",
-      "original_title": "Campanhas da Semana: empreendedorismo, humor e verão",
-      "summary": "Itaú Empresas valoriza trajetórias de empresários e Smirnoff convida Ary Fontoura para sair da mesmice",
-      "why_it_matters": "Vale observar o que esta publicação revela sobre campanhas e suas implicações para marcas e comunicação.",
-      "category": "Campanhas",
-      "source": "Meio & Mensagem",
-      "published_date": "2026-11-19",
-      "url": "https://www.meioemensagem.com.br/comunicacao/campanhas-da-semana-empreendedorismo-humor-e-verao",
-      "image_url": "https://www.meioemensagem.com.br/wp-content/uploads/2026/11/smirnoff-ary-fountora-cred-div-1280x852-1.jpg"
-    },
-    {
-      "title": "Muita fama, pouco recall: o risco dos rostos repetidos",
-      "original_title": "Muita fama, pouco recall: o risco dos rostos repetidos",
-      "summary": "Agências e gestores detalham como contratos de exclusividade, curadoria e dados evitam a fadiga de imagem nas campanhas",
-      "why_it_matters": "Vale observar o que esta publicação revela sobre campanhas e suas implicações para marcas e comunicação.",
-      "category": "Campanhas",
-      "source": "Meio & Mensagem",
-      "published_date": "2026-11-19",
-      "url": "https://www.meioemensagem.com.br/comunicacao/famosos-repetidos-nas-campanhas-qual-o-impacto-nas-marcas",
-      "image_url": "https://www.meioemensagem.com.br/wp-content/uploads/2026/11/Colagem-editorial-de-campanhas-publicitarias-1.jpg"
     }
   ]
 }
