@@ -8,8 +8,8 @@
   "editor_letter": "Esta edição reúne 10 histórias publicadas nos últimos sete dias, selecionadas entre as fontes do registro editorial unificado. A curadoria prioriza campanhas, marcas, estratégia, comportamento e cultura digital. Os resumos partem das descrições publicadas pelas próprias fontes; abra os links originais para ler o contexto completo.",
   "signals": [
     {
-      "title": "Branding",
-      "description": "4 matéria(s) desta edição exploram branding. Veja como as marcas e a cultura estão se movimentando neste tema.",
+      "title": "Criatividade",
+      "description": "5 matéria(s) desta edição exploram criatividade. Veja como as marcas e a cultura estão se movimentando neste tema.",
       "category": "SINAL EDITORIAL"
     },
     {
@@ -23,8 +23,74 @@
       "category": "SINAL EDITORIAL"
     }
   ],
-  "lead_url": "https://fastcompanybrasil.com/design/guerra-ao-poliester-marca-faz-roupa-intima-de-la-organica/",
+  "lead_url": "https://www.meioemensagem.com.br/comunicacao/campanhas-da-semana-empreendedorismo-humor-e-verao",
   "stories": [
+    {
+      "title": "Luana Génot: por que a igualdade racial precisa fazer parte das decisões das empresas",
+      "original_title": "Luana Génot: por que a igualdade racial precisa fazer parte das decisões das empresas",
+      "summary": "Quem recebe investimentos? Quem é promovido?",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre estratégia & negócios e suas implicações para marcas e comunicação.",
+      "category": "Estratégia & negócios",
+      "source": "Fast Company Brasil",
+      "published_date": "2026-11-23",
+      "url": "https://fastcompanybrasil.com/5-perguntas/5-perguntas-luana-genot-id-br/",
+      "image_url": "https://fastcompanybrasil.com/wp-content/uploads/2026/11/KV_5-perguntas-com-Luana-Genot-CO-do-ID_BR.jpg"
+    },
+    {
+      "title": "Barista Champion Morgan Eckroth Brews “Coffee, for Here” - COOL HUNTING®",
+      "original_title": "Barista Champion Morgan Eckroth Brews “Coffee, for Here” - COOL HUNTING®",
+      "summary": "Coffee educator, barista champion, and video creator, Morgan Eckroth captivates coffee enthusiasts around the world to have fun while learning about coffee. Their popular Morgan Drinks Coffee Insta…",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre cultura digital e suas implicações para marcas e comunicação.",
+      "category": "Cultura digital",
+      "source": "Cool Hunting",
+      "published_date": "2026-11-23",
+      "url": "https://coolhunting.com/food-drink/barista-champion-morgan-eckroth-brews-coffee-for-here/",
+      "image_url": "https://coolhunting.com/wp-content/uploads/2026/11/Eckroth-hero-2.jpg"
+    },
+    {
+      "title": "vowels x LCS Wendon Sneaker - COOL HUNTING®",
+      "original_title": "vowels x LCS Wendon Sneaker - COOL HUNTING®",
+      "summary": "vowels takes on Le Coq Sportif’s classic Wendon vintage running shoe silhouette in this tasteful and restrained collaboration. A perfect match for commuting, errands around town, taking the d…",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre criatividade e suas implicações para marcas e comunicação.",
+      "category": "Criatividade",
+      "source": "Cool Hunting",
+      "published_date": "2026-11-23",
+      "url": "https://coolhunting.com/buy/no-title/",
+      "image_url": "https://coolhunting.com/wp-content/uploads/2026/11/5CBCB5E6-CE5C-4077-978A-B695869782E8_1_201_a.jpeg"
+    },
+    {
+      "title": "As horas trabalhadas precisam ser corretamente registradas | Fast Company Brasil",
+      "original_title": "As horas trabalhadas precisam ser corretamente registradas | Fast Company Brasil",
+      "summary": "A legislação exige que o que era administrado por um supervisor atento agora seja registrado, auditável e acessível aos trabalhadores.",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre criatividade e suas implicações para marcas e comunicação.",
+      "category": "Criatividade",
+      "source": "Fast Company Brasil",
+      "published_date": "2026-11-23",
+      "url": "https://fastcompanybrasil.com/worklife/as-horas-trabalhadas-precisam-ser-corretamente-registradas/",
+      "image_url": "https://fastcompanybrasil.com/wp-content/uploads/2026/11/tempo_horas-extras.jpg"
+    },
+    {
+      "title": "Naruhodo Entrevista #81: Rosy Isaías",
+      "original_title": "Naruhodo Entrevista #81: Rosy Isaías",
+      "summary": "A matéria aborda “Naruhodo Entrevista #81: Rosy Isaías”. Abra a publicação original para conferir os detalhes, o contexto e os exemplos apresentados pela fonte.",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre criatividade e suas implicações para marcas e comunicação.",
+      "category": "Criatividade",
+      "source": "B9",
+      "published_date": "2026-11-23",
+      "url": "https://www.b9.com.br/naruhodo/naruhodo-entrevista-81-rosy-isaias/",
+      "image_url": "https://storage.ghost.io/c/b8/a4/b8a4ba23-e08d-42f7-b459-b1bcab5b8867/content/images/size/w1200/2026/11/naruhodo-entrevista-capa-retangulo-81.png"
+    },
+    {
+      "title": "A solidão também tem uma estética",
+      "original_title": "A solidão também tem uma estética",
+      "summary": "Total 0 Shares Share 0 Tweet 0 Share 0 Share 0 Pin it 0 Share 0 Share 0…",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre criatividade e suas implicações para marcas e comunicação.",
+      "category": "Criatividade",
+      "source": "Update or Die!",
+      "published_date": "2026-11-23",
+      "url": "https://updateordie.com/2026/11/23/a-solidao-tambem-tem-uma-estetica/",
+      "image_url": "https://updateordie.com/wp-content/uploads/2026/11/Solidao-a-Beira-Mar-sob-Ceu-Tempestuoso.png"
+    },
     {
       "title": "GTA 6 fatura US$ 3,8 bi em 24h",
       "original_title": "GTA 6 fatura US$ 3,8 bi em 24h",
@@ -37,26 +103,15 @@
       "image_url": "https://updateordie.com/wp-content/uploads/2026/11/gta6_ESTREIA-scaled.jpg"
     },
     {
-      "title": "Guerra ao poliéster! Marca faz roupa íntima de lã orgânica | Fast Company Brasil",
-      "original_title": "Guerra ao poliéster! Marca faz roupa íntima de lã orgânica | Fast Company Brasil",
-      "summary": "O algodão tem sido, há muito tempo, a fibra natural preferida na roupa íntima feminina. Mas algo novo está por vir.",
-      "why_it_matters": "Vale observar o que esta publicação revela sobre branding e suas implicações para marcas e comunicação.",
-      "category": "Branding",
-      "source": "Fast Company Brasil",
-      "published_date": "2026-11-22",
-      "url": "https://fastcompanybrasil.com/design/guerra-ao-poliester-marca-faz-roupa-intima-de-la-organica/",
-      "image_url": "https://fastcompanybrasil.com/wp-content/uploads/2026/11/poliester_moda_tecido-organico.jpg"
-    },
-    {
-      "title": "FutureBrand redesenha marca global com um “F” modular criado em São Paulo",
-      "original_title": "FutureBrand redesenha marca global com um “F” modular criado em São Paulo",
-      "summary": "Projeto reúne texturas feitas à mão, tipografia em perspectiva e uma ferramenta para os escritórios criarem suas próprias aplicações",
-      "why_it_matters": "Vale observar o que esta publicação revela sobre branding e suas implicações para marcas e comunicação.",
-      "category": "Branding",
+      "title": "GTA VI e o preço de ser o assunto de todo mundo",
+      "original_title": "GTA VI e o preço de ser o assunto de todo mundo",
+      "summary": "Se GTA VI já mobiliza milhões de fãs, por que a Rockstar ainda precisa comprar tanta atenção?",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre criatividade e suas implicações para marcas e comunicação.",
+      "category": "Criatividade",
       "source": "B9",
-      "published_date": "2026-11-19",
-      "url": "https://www.b9.com.br/futurebrand-nova-identidade-global-sao-paulo/",
-      "image_url": "https://storage.ghost.io/c/b8/a4/b8a4ba23-e08d-42f7-b459-b1bcab5b8867/content/images/size/w1200/2026/11/FurureBrand---New-Brand.jpg"
+      "published_date": "2026-11-22",
+      "url": "https://www.b9.com.br/gta-vi-e-o-preco-de-ser-o-assunto-de-todo-mundo/",
+      "image_url": "https://storage.ghost.io/c/b8/a4/b8a4ba23-e08d-42f7-b459-b1bcab5b8867/content/images/size/w1200/2026/11/gta-onibus-ooh.jpg"
     },
     {
       "title": "Campanhas da Semana: empreendedorismo, humor e verão",
@@ -79,61 +134,6 @@
       "published_date": "2026-11-19",
       "url": "https://www.meioemensagem.com.br/comunicacao/famosos-repetidos-nas-campanhas-qual-o-impacto-nas-marcas",
       "image_url": "https://www.meioemensagem.com.br/wp-content/uploads/2026/11/Colagem-editorial-de-campanhas-publicitarias-1.jpg"
-    },
-    {
-      "title": "Vivo troca dinheiro de GTA Online por saldo real no Vivo Pay",
-      "original_title": "Vivo troca dinheiro de GTA Online por saldo real no Vivo Pay",
-      "summary": "Criada pela Africa Creative, “The Last Mission” colocou um personagem da marca em Los Santos para receber créditos de jogadores na véspera de GTA VI",
-      "why_it_matters": "Vale observar o que esta publicação revela sobre branding e suas implicações para marcas e comunicação.",
-      "category": "Branding",
-      "source": "B9",
-      "published_date": "2026-11-18",
-      "url": "https://www.b9.com.br/vivo-pay-gta-online-dinheiro-real/",
-      "image_url": "https://storage.ghost.io/c/b8/a4/b8a4ba23-e08d-42f7-b459-b1bcab5b8867/content/images/size/w1200/2026/11/PR_horizontal.png"
-    },
-    {
-      "title": "As marcas estão perdendo o controle de como são encontradas",
-      "original_title": "As marcas estão perdendo o controle de como são encontradas",
-      "summary": "Durante duas décadas, as empresas aprenderam a disputar posições no Google. Agora, a inteligência artificial começa a mudar não apenas onde procuramos respostas, mas quem decide quais marcas merecem aparecer.",
-      "why_it_matters": "Vale observar o que esta publicação revela sobre branding e suas implicações para marcas e comunicação.",
-      "category": "Branding",
-      "source": "Update or Die!",
-      "published_date": "2026-11-18",
-      "url": "https://updateordie.com/2026/11/18/as-marcas-estao-perdendo-o-controle-de-como-sao-encontradas/",
-      "image_url": "https://updateordie.com/wp-content/uploads/2026/11/Barra-de-Pesquisa-do-ChatGPT-en-3D.png"
-    },
-    {
-      "title": "Luana Génot: por que a igualdade racial precisa fazer parte das decisões das empresas",
-      "original_title": "Luana Génot: por que a igualdade racial precisa fazer parte das decisões das empresas",
-      "summary": "Quem recebe investimentos? Quem é promovido?",
-      "why_it_matters": "Vale observar o que esta publicação revela sobre estratégia & negócios e suas implicações para marcas e comunicação.",
-      "category": "Estratégia & negócios",
-      "source": "Fast Company Brasil",
-      "published_date": "2026-11-23",
-      "url": "https://fastcompanybrasil.com/5-perguntas/5-perguntas-luana-genot-id-br/",
-      "image_url": "https://fastcompanybrasil.com/wp-content/uploads/2026/11/KV_5-perguntas-com-Luana-Genot-CO-do-ID_BR.jpg"
-    },
-    {
-      "title": "Meiomi’s Club Noir Trades the Slopes for the Skating Rink - COOL HUNTING®",
-      "original_title": "Meiomi’s Club Noir Trades the Slopes for the Skating Rink - COOL HUNTING®",
-      "summary": "Après-ski is a flexible idea. You do not actually need a mountain, only a reason to come in from the cold.",
-      "why_it_matters": "Vale observar o que esta publicação revela sobre experiência de marca e suas implicações para marcas e comunicação.",
-      "category": "Experiência de marca",
-      "source": "Cool Hunting",
-      "published_date": "2026-11-19",
-      "url": "https://coolhunting.com/food-drink/meiomis-club-noir-trades-the-slopes-for-the-skating-rink/",
-      "image_url": "https://coolhunting.com/wp-content/uploads/2026/11/DU3A8106-Credit-Andrea-Sabugo-cropped.jpg"
-    },
-    {
-      "title": "Barista Champion Morgan Eckroth Brews “Coffee, for Here” - COOL HUNTING®",
-      "original_title": "Barista Champion Morgan Eckroth Brews “Coffee, for Here” - COOL HUNTING®",
-      "summary": "Coffee educator, barista champion, and video creator, Morgan Eckroth captivates coffee enthusiasts around the world to have fun while learning about coffee. Their popular Morgan Drinks Coffee Insta…",
-      "why_it_matters": "Vale observar o que esta publicação revela sobre cultura digital e suas implicações para marcas e comunicação.",
-      "category": "Cultura digital",
-      "source": "Cool Hunting",
-      "published_date": "2026-11-23",
-      "url": "https://coolhunting.com/food-drink/barista-champion-morgan-eckroth-brews-coffee-for-here/",
-      "image_url": "https://coolhunting.com/wp-content/uploads/2026/11/Eckroth-hero-2.jpg"
     }
   ]
 }
