@@ -296,7 +296,7 @@ def choose_stories(stories, target=10, max_per_source=2, min_sources=6):
         if s["category"] in preferred[:5]: val += 2
         if len(s.get("_description", "")) > 100: val += 1
         return val
-    ordered = sorted(stories, key=lambda s: (score(s), s["published_date"]), reverse=True)
+    ordered = sorted(stories, key=lambda s: (s["published_date"], score(s)), reverse=True)
     chosen, counts = [], {}
     for s in ordered:
         if counts.get(s["source"], 0) >= max_per_source:
