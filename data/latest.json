@@ -1,25 +1,25 @@
 {
-  "edition_date": "2026-11-22",
+  "edition_date": "2026-11-23",
   "status": "published",
   "notice": "Curadoria automática gratuita baseada em RSS e metadados das fontes originais.",
-  "window_start": "2026-11-16",
-  "window_end": "2026-11-22",
+  "window_start": "2026-11-17",
+  "window_end": "2026-11-23",
   "edition_name": "Update com Afeto",
   "editor_letter": "Esta edição reúne 10 histórias publicadas nos últimos sete dias, selecionadas entre as fontes do registro editorial unificado. A curadoria prioriza campanhas, marcas, estratégia, comportamento e cultura digital. Os resumos partem das descrições publicadas pelas próprias fontes; abra os links originais para ler o contexto completo.",
   "signals": [
     {
       "title": "Branding",
-      "description": "5 matéria(s) desta edição exploram branding. Veja como as marcas e a cultura estão se movimentando neste tema.",
-      "category": "SINAL EDITORIAL"
-    },
-    {
-      "title": "Campanhas",
-      "description": "3 matéria(s) desta edição exploram campanhas. Veja como as marcas e a cultura estão se movimentando neste tema.",
+      "description": "4 matéria(s) desta edição exploram branding. Veja como as marcas e a cultura estão se movimentando neste tema.",
       "category": "SINAL EDITORIAL"
     },
     {
       "title": "Estratégia & negócios",
-      "description": "1 matéria(s) desta edição exploram estratégia & negócios. Veja como as marcas e a cultura estão se movimentando neste tema.",
+      "description": "2 matéria(s) desta edição exploram estratégia & negócios. Veja como as marcas e a cultura estão se movimentando neste tema.",
+      "category": "SINAL EDITORIAL"
+    },
+    {
+      "title": "Campanhas",
+      "description": "2 matéria(s) desta edição exploram campanhas. Veja como as marcas e a cultura estão se movimentando neste tema.",
       "category": "SINAL EDITORIAL"
     }
   ],
@@ -46,17 +46,6 @@
       "published_date": "2026-11-22",
       "url": "https://fastcompanybrasil.com/design/guerra-ao-poliester-marca-faz-roupa-intima-de-la-organica/",
       "image_url": "https://fastcompanybrasil.com/wp-content/uploads/2026/11/poliester_moda_tecido-organico.jpg"
-    },
-    {
-      "title": "Cansaço mental: 4 sinais de que você precisa desacelerar a rotina | Fast Company Brasil",
-      "original_title": "Cansaço mental: 4 sinais de que você precisa desacelerar a rotina | Fast Company Brasil",
-      "summary": "O cansaço mental pode ir além da falta de energia e aparecer em sintomas físicos e mudanças de comportamento.",
-      "why_it_matters": "Vale observar o que esta publicação revela sobre comportamento e suas implicações para marcas e comunicação.",
-      "category": "Comportamento",
-      "source": "Fast Company Brasil",
-      "published_date": "2026-11-21",
-      "url": "https://fastcompanybrasil.com/worklife/bem-estar/cansaco-mental-4-sinais-voce-precisa-desacelerar-rotina/",
-      "image_url": "https://fastcompanybrasil.com/wp-content/uploads/2026/11/cansaco-mental.jpg"
     },
     {
       "title": "FutureBrand redesenha marca global com um “F” modular criado em São Paulo",
@@ -114,26 +103,37 @@
       "image_url": "https://updateordie.com/wp-content/uploads/2026/11/Barra-de-Pesquisa-do-ChatGPT-en-3D.png"
     },
     {
-      "title": "The Best Campaigns This Week #170",
-      "original_title": "The Best Campaigns This Week #170",
-      "summary": "Your weekly hit of inspo from the universe of creative brand marketing",
-      "why_it_matters": "Vale observar o que esta publicação revela sobre campanhas e suas implicações para marcas e comunicação.",
-      "category": "Campanhas",
-      "source": "Famous Campaigns",
-      "published_date": "2026-11-19",
-      "url": "https://famouscampaigns.substack.com/p/the-best-campaigns-this-week-170",
-      "image_url": "https://substackcdn.com/image/fetch/$s_!-fMD!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,$fp_!0.4895:0.4993!/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F237ca372-57dd-471f-9807-56f7b1fb4d02_1100x744.webp"
+      "title": "Luana Génot: por que a igualdade racial precisa fazer parte das decisões das empresas",
+      "original_title": "Luana Génot: por que a igualdade racial precisa fazer parte das decisões das empresas",
+      "summary": "Quem recebe investimentos? Quem é promovido?",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre estratégia & negócios e suas implicações para marcas e comunicação.",
+      "category": "Estratégia & negócios",
+      "source": "Fast Company Brasil",
+      "published_date": "2026-11-23",
+      "url": "https://fastcompanybrasil.com/5-perguntas/5-perguntas-luana-genot-id-br/",
+      "image_url": "https://fastcompanybrasil.com/wp-content/uploads/2026/11/KV_5-perguntas-com-Luana-Genot-CO-do-ID_BR.jpg"
     },
     {
-      "title": "#310 | O valor da música",
-      "original_title": "#310 | O valor da música",
-      "summary": "A matéria aborda “#310 | O valor da música”. Abra a publicação original para conferir os detalhes, o contexto e os exemplos apresentados pela fonte.",
-      "why_it_matters": "Vale observar o que esta publicação revela sobre branding e suas implicações para marcas e comunicação.",
-      "category": "Branding",
-      "source": "Bits to Brands",
+      "title": "Meiomi’s Club Noir Trades the Slopes for the Skating Rink - COOL HUNTING®",
+      "original_title": "Meiomi’s Club Noir Trades the Slopes for the Skating Rink - COOL HUNTING®",
+      "summary": "Après-ski is a flexible idea. You do not actually need a mountain, only a reason to come in from the cold.",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre experiência de marca e suas implicações para marcas e comunicação.",
+      "category": "Experiência de marca",
+      "source": "Cool Hunting",
       "published_date": "2026-11-19",
-      "url": "https://bitstobrands.substack.com/p/310-o-valor-da-musica",
-      "image_url": "https://substackcdn.com/image/youtube/w_728,c_limit/Y0NA8l0ncj8"
+      "url": "https://coolhunting.com/food-drink/meiomis-club-noir-trades-the-slopes-for-the-skating-rink/",
+      "image_url": "https://coolhunting.com/wp-content/uploads/2026/11/DU3A8106-Credit-Andrea-Sabugo-cropped.jpg"
+    },
+    {
+      "title": "Barista Champion Morgan Eckroth Brews “Coffee, for Here” - COOL HUNTING®",
+      "original_title": "Barista Champion Morgan Eckroth Brews “Coffee, for Here” - COOL HUNTING®",
+      "summary": "Coffee educator, barista champion, and video creator, Morgan Eckroth captivates coffee enthusiasts around the world to have fun while learning about coffee. Their popular Morgan Drinks Coffee Insta…",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre cultura digital e suas implicações para marcas e comunicação.",
+      "category": "Cultura digital",
+      "source": "Cool Hunting",
+      "published_date": "2026-11-23",
+      "url": "https://coolhunting.com/food-drink/barista-champion-morgan-eckroth-brews-coffee-for-here/",
+      "image_url": "https://coolhunting.com/wp-content/uploads/2026/11/Eckroth-hero-2.jpg"
     }
   ]
 }
