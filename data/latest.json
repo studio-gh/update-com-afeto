@@ -1,9 +1,9 @@
 {
-  "edition_date": "2026-11-23",
+  "edition_date": "2026-11-24",
   "status": "published",
   "notice": "Curadoria automática gratuita baseada em RSS e metadados das fontes originais.",
-  "window_start": "2026-11-17",
-  "window_end": "2026-11-23",
+  "window_start": "2026-11-18",
+  "window_end": "2026-11-24",
   "edition_name": "Update com Afeto",
   "editor_letter": "Esta edição reúne 10 histórias publicadas nos últimos sete dias, selecionadas entre as fontes do registro editorial unificado. A curadoria prioriza campanhas, marcas, estratégia, comportamento e cultura digital. Os resumos partem das descrições publicadas pelas próprias fontes; abra os links originais para ler o contexto completo.",
   "signals": [
@@ -13,127 +13,127 @@
       "category": "SINAL EDITORIAL"
     },
     {
-      "title": "Branding",
-      "description": "3 matéria(s) desta edição exploram branding. Veja como as marcas e a cultura estão se movimentando neste tema.",
+      "title": "Campanhas",
+      "description": "3 matéria(s) desta edição exploram campanhas. Veja como as marcas e a cultura estão se movimentando neste tema.",
       "category": "SINAL EDITORIAL"
     },
     {
-      "title": "Comportamento",
-      "description": "1 matéria(s) desta edição exploram comportamento. Veja como as marcas e a cultura estão se movimentando neste tema.",
+      "title": "Estratégia & negócios",
+      "description": "2 matéria(s) desta edição exploram estratégia & negócios. Veja como as marcas e a cultura estão se movimentando neste tema.",
       "category": "SINAL EDITORIAL"
     }
   ],
-  "lead_url": "https://fastcompanybrasil.com/money/ikea-lojas-menores-nova-experiencia-compra/",
+  "lead_url": "https://www.b9.com.br/hering-transforma-o-medo-de-errar-no-amigo-secreto-em-campanha-de-natal/",
   "stories": [
     {
-      "title": "Ikea aposta em lojas menores para retomar crescimento",
-      "original_title": "Ikea aposta em lojas menores para retomar crescimento",
-      "summary": "A Ikea aposta em lojas menores e atendimento personalizado para facilitar as compras e recuperar as vendas. Entenda a nova estratégia da marca.",
-      "why_it_matters": "Vale observar o que esta publicação revela sobre branding e suas implicações para marcas e comunicação.",
-      "category": "Branding",
-      "source": "Fast Company Brasil",
-      "published_date": "2026-11-23",
-      "url": "https://fastcompanybrasil.com/money/ikea-lojas-menores-nova-experiencia-compra/",
-      "image_url": "https://fastcompanybrasil.com/wp-content/uploads/2026/11/ikea-lojas-menores-nova-experiencia-compra-kv.jpg"
+      "title": "Hering transforma o medo de errar no amigo secreto em campanha de Natal",
+      "original_title": "Hering transforma o medo de errar no amigo secreto em campanha de Natal",
+      "summary": "Criada pela AlmapBBDO, série começa com um avô que tira a neta da geração Z e apresenta a variedade da marca como solução para os sorteios mais difíceis",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre campanhas e suas implicações para marcas e comunicação.",
+      "category": "Campanhas",
+      "source": "B9",
+      "published_date": "2026-11-24",
+      "url": "https://www.b9.com.br/hering-transforma-o-medo-de-errar-no-amigo-secreto-em-campanha-de-natal/",
+      "image_url": "https://storage.ghost.io/c/b8/a4/b8a4ba23-e08d-42f7-b459-b1bcab5b8867/content/images/size/w1200/2026/11/hering-natal-2026.jpg"
     },
     {
-      "title": "Pela primeira vez em 17 anos, COP termina sem consenso entre países | Fast Company Brasil",
-      "original_title": "Pela primeira vez em 17 anos, COP termina sem consenso entre países | Fast Company Brasil",
-      "summary": "Divergências entre países sobre a transição energética marcaram as negociações da COP31; confira na íntegra.",
-      "why_it_matters": "Vale observar o que esta publicação revela sobre branding e suas implicações para marcas e comunicação.",
-      "category": "Branding",
-      "source": "Fast Company Brasil",
-      "published_date": "2026-11-23",
-      "url": "https://fastcompanybrasil.com/impacto/pela-primeira-vez-17-anos-cop-termina-sem-consenso-entre-paises/",
-      "image_url": "https://fastcompanybrasil.com/wp-content/uploads/2026/11/cop31-acordo.jpg"
-    },
-    {
-      "title": "Rafa Kalimann e salsicha: Seara debocha da polêmica",
-      "original_title": "Rafa Kalimann e salsicha: Seara debocha da polêmica",
-      "summary": "Após Rafa Kalimann ter sido processada pela Perdigão, marca convida apresentadora para estrelar uma ação oficial",
-      "why_it_matters": "Vale observar o que esta publicação revela sobre branding e suas implicações para marcas e comunicação.",
-      "category": "Branding",
-      "source": "Meio & Mensagem",
-      "published_date": "2026-11-23",
-      "url": "https://www.meioemensagem.com.br/comunicacao/rafa-kalimann-e-salsicha-seara-debocha-da-polemica",
-      "image_url": "https://www.meioemensagem.com.br/wp-content/uploads/2026/11/Rafa-Kalimann-Seara-Credito-Reproducao.jpg"
-    },
-    {
-      "title": "Itaú lança websérie sobre nova geração do tênis brasileiro",
-      "original_title": "Itaú lança websérie sobre nova geração do tênis brasileiro",
-      "summary": "Com participação de Bia Haddad Maia, produção da Galeria retrata a formação de Naná Silva e Victoria Barros",
+      "title": "Atendimento por chatbot agrada apenas 20% dos brasileiros, aponta levantamento | Fast Company Brasil",
+      "original_title": "Atendimento por chatbot agrada apenas 20% dos brasileiros, aponta levantamento | Fast Company Brasil",
+      "summary": "Apesar do avanço da inteligência artificial, os consumidores valorizam a possibilidade de transferir o atendimento para uma pessoa.",
       "why_it_matters": "Vale observar o que esta publicação revela sobre comportamento e suas implicações para marcas e comunicação.",
       "category": "Comportamento",
-      "source": "Meio & Mensagem",
-      "published_date": "2026-11-23",
-      "url": "https://www.meioemensagem.com.br/comunicacao/itau-mostra-nova-geracao-do-tenis-brasileiro-em-webserie",
-      "image_url": "https://www.meioemensagem.com.br/wp-content/uploads/2026/11/Fotos-Divulgacao-2026-11-23T174454.591.jpg"
+      "source": "Fast Company Brasil",
+      "published_date": "2026-11-24",
+      "url": "https://fastcompanybrasil.com/worklife/atendimento-chatbot-nao-agrada-brasileiros-aponta-levantamento/",
+      "image_url": "https://fastcompanybrasil.com/wp-content/uploads/2026/11/Atendimento-IA.jpg"
     },
     {
-      "title": "Barista Champion Morgan Eckroth Brews “Coffee, for Here” - COOL HUNTING®",
-      "original_title": "Barista Champion Morgan Eckroth Brews “Coffee, for Here” - COOL HUNTING®",
-      "summary": "Coffee educator, barista champion, and video creator, Morgan Eckroth captivates coffee enthusiasts around the world to have fun while learning about coffee. Their popular Morgan Drinks Coffee Insta…",
-      "why_it_matters": "Vale observar o que esta publicação revela sobre cultura digital e suas implicações para marcas e comunicação.",
-      "category": "Cultura digital",
-      "source": "Cool Hunting",
-      "published_date": "2026-11-23",
-      "url": "https://coolhunting.com/food-drink/barista-champion-morgan-eckroth-brews-coffee-for-here/",
-      "image_url": "https://coolhunting.com/wp-content/uploads/2026/11/Eckroth-hero-2.jpg"
-    },
-    {
-      "title": "vowels x LCS Wendon Sneaker - COOL HUNTING®",
-      "original_title": "vowels x LCS Wendon Sneaker - COOL HUNTING®",
-      "summary": "vowels takes on Le Coq Sportif’s classic Wendon vintage running shoe silhouette in this tasteful and restrained collaboration. A perfect match for commuting, errands around town, taking the d…",
-      "why_it_matters": "Vale observar o que esta publicação revela sobre criatividade e suas implicações para marcas e comunicação.",
-      "category": "Criatividade",
-      "source": "Cool Hunting",
-      "published_date": "2026-11-23",
-      "url": "https://coolhunting.com/buy/no-title/",
-      "image_url": "https://coolhunting.com/wp-content/uploads/2026/11/5CBCB5E6-CE5C-4077-978A-B695869782E8_1_201_a.jpeg"
-    },
-    {
-      "title": "Naruhodo Entrevista #81: Rosy Isaías",
-      "original_title": "Naruhodo Entrevista #81: Rosy Isaías",
-      "summary": "A matéria aborda “Naruhodo Entrevista #81: Rosy Isaías”. Abra a publicação original para conferir os detalhes, o contexto e os exemplos apresentados pela fonte.",
-      "why_it_matters": "Vale observar o que esta publicação revela sobre criatividade e suas implicações para marcas e comunicação.",
-      "category": "Criatividade",
-      "source": "B9",
-      "published_date": "2026-11-23",
-      "url": "https://www.b9.com.br/naruhodo/naruhodo-entrevista-81-rosy-isaias/",
-      "image_url": "https://storage.ghost.io/c/b8/a4/b8a4ba23-e08d-42f7-b459-b1bcab5b8867/content/images/size/w1200/2026/11/naruhodo-entrevista-capa-retangulo-81.png"
-    },
-    {
-      "title": "A solidão também tem uma estética",
-      "original_title": "A solidão também tem uma estética",
-      "summary": "Total 0 Shares Share 0 Tweet 0 Share 0 Share 0 Pin it 0 Share 0 Share 0…",
-      "why_it_matters": "Vale observar o que esta publicação revela sobre criatividade e suas implicações para marcas e comunicação.",
-      "category": "Criatividade",
-      "source": "Update or Die!",
-      "published_date": "2026-11-23",
-      "url": "https://updateordie.com/2026/11/23/a-solidao-tambem-tem-uma-estetica/",
-      "image_url": "https://updateordie.com/wp-content/uploads/2026/11/Solidao-a-Beira-Mar-sob-Ceu-Tempestuoso.png"
-    },
-    {
-      "title": "GTA 6 fatura US$ 3,8 bi em 24h",
-      "original_title": "GTA 6 fatura US$ 3,8 bi em 24h",
-      "summary": "Take-Two anuncia que o novo título da Rockstar fez o maior lançamento da história do entretenimento em receita, impulsionado por pré-vendas inéditas e por uma estratégia que mistura games, música e cultura pop.",
+      "title": "Filipe Bartholomeu é nomeado CEO do Omnicom no País",
+      "original_title": "Filipe Bartholomeu é nomeado CEO do Omnicom no País",
+      "summary": "Filipe Bartholomeu será o primeiro CEO do Omnicom no Brasil. Com isso, o profissional, que até então era sócio e CEO da AlmapBBDO, assumirá a estratégia",
       "why_it_matters": "Vale observar o que esta publicação revela sobre estratégia & negócios e suas implicações para marcas e comunicação.",
       "category": "Estratégia & negócios",
-      "source": "Update or Die!",
-      "published_date": "2026-11-22",
-      "url": "https://updateordie.com/2026/11/22/gta-6-fatura-us-38-bi-em-24h/",
-      "image_url": "https://updateordie.com/wp-content/uploads/2026/11/gta6_ESTREIA-scaled.jpg"
+      "source": "Meio & Mensagem",
+      "published_date": "2026-11-24",
+      "url": "https://www.meioemensagem.com.br/comunicacao/filipe-bartholomeu-e-nomeado-ceo-do-omnicom-no-pais",
+      "image_url": "https://www.meioemensagem.com.br/wp-content/uploads/2026/11/Retrato-Filipe-20262170.1.jpg-1280x852-1.jpg"
     },
     {
-      "title": "GTA VI e o preço de ser o assunto de todo mundo",
-      "original_title": "GTA VI e o preço de ser o assunto de todo mundo",
-      "summary": "Se GTA VI já mobiliza milhões de fãs, por que a Rockstar ainda precisa comprar tanta atenção?",
+      "title": "Com vovós brasileiras, OpenAI quer reforçar recursos de voz",
+      "original_title": "Com vovós brasileiras, OpenAI quer reforçar recursos de voz",
+      "summary": "Dona do ChatGPT usa campanha para traduzir hábito dos brasileiros de conversar com as plataformas de IA e torná-las assistentes",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre campanhas e suas implicações para marcas e comunicação.",
+      "category": "Campanhas",
+      "source": "Meio & Mensagem",
+      "published_date": "2026-11-24",
+      "url": "https://www.meioemensagem.com.br/comunicacao/com-vovos-brasileiras-openai-quer-reforcar-recursos-de-voz",
+      "image_url": "https://www.meioemensagem.com.br/wp-content/uploads/2026/11/ChatGPT_Campanha-Credito-Divulgacao.jpg"
+    },
+    {
+      "title": "GTA 6: a maior campanha do ano sem vender espaço de mídia",
+      "original_title": "GTA 6: a maior campanha do ano sem vender espaço de mídia",
+      "summary": "A matéria aborda “GTA 6: a maior campanha do ano sem vender espaço de mídia”. Abra a publicação original para conferir os detalhes, o contexto e os exemplos apresentados pela fonte.",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre campanhas e suas implicações para marcas e comunicação.",
+      "category": "Campanhas",
+      "source": "Update or Die!",
+      "published_date": "2026-11-24",
+      "url": "https://updateordie.com/2026/11/24/gta-6-a-maior-campanha-do-ano-e-de-uma-marca-que-nao-vende-anuncio/",
+      "image_url": "https://updateordie.com/wp-content/uploads/2026/11/action-duo-on-dock-mrpugNKW12.webp"
+    },
+    {
+      "title": "Elon Musk admite que SpaceX está ficando para trás na corrida pela inteligência artificial | Fast Company Brasil",
+      "original_title": "Elon Musk admite que SpaceX está ficando para trás na corrida pela inteligência artificial | Fast Company Brasil",
+      "summary": "Mudanças internas e cortes em projetos mostram a tentativa de Musk de reposicionar a empresa na disputa pelo mercado de IA.",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre estratégia & negócios e suas implicações para marcas e comunicação.",
+      "category": "Estratégia & negócios",
+      "source": "Fast Company Brasil",
+      "published_date": "2026-11-24",
+      "url": "https://fastcompanybrasil.com/ia/elon-musk-spacex-ficando-para-tras-corrida-inteligencia-artificial/",
+      "image_url": "https://fastcompanybrasil.com/wp-content/uploads/2026/11/Elon-Musk.jpg"
+    },
+    {
+      "title": "Havaianas põe os pares do Brasil no ritmo de “Carolina”",
+      "original_title": "Havaianas põe os pares do Brasil no ritmo de “Carolina”",
+      "summary": "Depois de um verão com Fernanda Torres, a GALERIA.ag chama Wilson Simoninha para cantar o que anda junto no país, do arroz com feijão ao tio e a piada do pavê",
       "why_it_matters": "Vale observar o que esta publicação revela sobre criatividade e suas implicações para marcas e comunicação.",
       "category": "Criatividade",
       "source": "B9",
-      "published_date": "2026-11-22",
-      "url": "https://www.b9.com.br/gta-vi-e-o-preco-de-ser-o-assunto-de-todo-mundo/",
-      "image_url": "https://storage.ghost.io/c/b8/a4/b8a4ba23-e08d-42f7-b459-b1bcab5b8867/content/images/size/w1200/2026/11/gta-onibus-ooh.jpg"
+      "published_date": "2026-11-24",
+      "url": "https://www.b9.com.br/havaianas-pares-originais-brasil-carolina/",
+      "image_url": "https://storage.ghost.io/c/b8/a4/b8a4ba23-e08d-42f7-b459-b1bcab5b8867/content/images/size/w1200/2026/11/havaianas.jpg"
+    },
+    {
+      "title": "Invincible: teaser da 5ª temporada chega",
+      "original_title": "Invincible: teaser da 5ª temporada chega",
+      "summary": "Prime Video divulga o primeiro teaser da quinta temporada da animação, com Damien Darkblood pedindo desculpas no Burger Mart e viltrumitas escondidos entre os humanos.",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre criatividade e suas implicações para marcas e comunicação.",
+      "category": "Criatividade",
+      "source": "Update or Die!",
+      "published_date": "2026-11-24",
+      "url": "https://updateordie.com/2026/11/24/invincible-teaser-da-5a-temporada-chega/",
+      "image_url": "https://updateordie.com/wp-content/uploads/2026/11/animated_superhero_flying-nd8RB_qXpO.webp"
+    },
+    {
+      "title": "Inside Heineken’s Las Vegas Grand Prix: Fan Pairings, Padel and Tonic Foam - COOL HUNTING®",
+      "original_title": "Inside Heineken’s Las Vegas Grand Prix: Fan Pairings, Padel and Tonic Foam - COOL HUNTING®",
+      "summary": "Heineken’s program for the 2026 Las Vegas Grand Prix included pairing up fans, a padel challenge and a beer topped with tonic-infused foam. The race’s title partner—and a global partner…",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre criatividade e suas implicações para marcas e comunicação.",
+      "category": "Criatividade",
+      "source": "Cool Hunting",
+      "published_date": "2026-11-24",
+      "url": "https://coolhunting.com/culture/inside-heinekens-las-vegas-grand-prix-fan-pairings-padel-and-tonic-foam/",
+      "image_url": "https://coolhunting.com/wp-content/uploads/2026/11/Heineken_F1_LasVegas_Backdrop-scaled.jpg"
+    },
+    {
+      "title": "The Alinea Residency Returns to Big Sky - COOL HUNTING®",
+      "original_title": "The Alinea Residency Returns to Big Sky - COOL HUNTING®",
+      "summary": "Walking across the plaza at the main base area of Big Sky Resort last March under a blanket of stars, we couldn’t help but note the stillness. A light breeze carried the smell of the firepits we co…",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre criatividade e suas implicações para marcas e comunicação.",
+      "category": "Criatividade",
+      "source": "Cool Hunting",
+      "published_date": "2026-11-24",
+      "url": "https://coolhunting.com/design/the-alinea-residency-returns-to-big-sky/",
+      "image_url": "https://coolhunting.com/wp-content/uploads/2026/11/big_sky_resort_dining_m_by_tag_photo_SHOT_15_PULLED_BACK_WIDE_072-1-2-hero-scaled.jpg"
     }
   ]
 }
