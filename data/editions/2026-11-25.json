@@ -1,0 +1,139 @@
+{
+  "edition_date": "2026-11-25",
+  "status": "published",
+  "notice": "Curadoria automática gratuita baseada em RSS e metadados das fontes originais.",
+  "window_start": "2026-11-19",
+  "window_end": "2026-11-25",
+  "edition_name": "Update com Afeto",
+  "editor_letter": "Esta edição reúne 10 histórias publicadas nos últimos sete dias, selecionadas entre as fontes do registro editorial unificado. A curadoria prioriza campanhas, marcas, estratégia, comportamento e cultura digital. Os resumos partem das descrições publicadas pelas próprias fontes; abra os links originais para ler o contexto completo.",
+  "signals": [
+    {
+      "title": "Criatividade",
+      "description": "5 matéria(s) desta edição exploram criatividade. Veja como as marcas e a cultura estão se movimentando neste tema.",
+      "category": "SINAL EDITORIAL"
+    },
+    {
+      "title": "Branding",
+      "description": "2 matéria(s) desta edição exploram branding. Veja como as marcas e a cultura estão se movimentando neste tema.",
+      "category": "SINAL EDITORIAL"
+    },
+    {
+      "title": "Campanhas",
+      "description": "2 matéria(s) desta edição exploram campanhas. Veja como as marcas e a cultura estão se movimentando neste tema.",
+      "category": "SINAL EDITORIAL"
+    }
+  ],
+  "lead_url": "https://updateordie.com/2026/11/25/na-era-dos-videos-curtos-uma-marca-ainda-consegue-falar-com-todo-mundo/",
+  "stories": [
+    {
+      "title": "Na era dos vídeos curtos, uma marca ainda consegue falar com todo mundo?",
+      "original_title": "Na era dos vídeos curtos, uma marca ainda consegue falar com todo mundo?",
+      "summary": "A matéria aborda “Na era dos vídeos curtos, uma marca ainda consegue falar com todo mundo?”. Abra a publicação original para conferir os detalhes, o contexto e os exemplos apresentados pela fonte.",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre branding e suas implicações para marcas e comunicação.",
+      "category": "Branding",
+      "source": "Update or Die!",
+      "published_date": "2026-11-25",
+      "url": "https://updateordie.com/2026/11/25/na-era-dos-videos-curtos-uma-marca-ainda-consegue-falar-com-todo-mundo/",
+      "image_url": "https://updateordie.com/wp-content/uploads/2026/11/featured-megafone-cyan-1200x675-1.jpg"
+    },
+    {
+      "title": "Chevrolet leva o Natal da família no porta-malas em filme sobre dois irmãos",
+      "original_title": "Chevrolet leva o Natal da família no porta-malas em filme sobre dois irmãos",
+      "summary": "Sexto \"Holiday Card to America\" da marca, \"Always There\" foi criado pela Anomaly e acompanha uma irmã que cruza o país com as decorações da infância para o irmão que acabou de se mudar",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre campanhas e suas implicações para marcas e comunicação.",
+      "category": "Campanhas",
+      "source": "B9",
+      "published_date": "2026-11-25",
+      "url": "https://www.b9.com.br/chevrolet-natal-2026-always-there-irmaos/",
+      "image_url": "https://storage.ghost.io/c/b8/a4/b8a4ba23-e08d-42f7-b459-b1bcab5b8867/content/images/size/w1200/2026/11/Chevrolets-2026-Holiday-Card-lifelong-bond-siblings-2.jpg"
+    },
+    {
+      "title": "GTA 6 bate recorde e se torna o maior lançamento da história do PlayStation | Fast Company Brasil",
+      "original_title": "GTA 6 bate recorde e se torna o maior lançamento da história do PlayStation | Fast Company Brasil",
+      "summary": "Jogo da Rockstar superou 39 milhões de jogadores únicos no PS5 e estabeleceu novas marcas de participação na plataforma.",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre branding e suas implicações para marcas e comunicação.",
+      "category": "Branding",
+      "source": "Fast Company Brasil",
+      "published_date": "2026-11-25",
+      "url": "https://fastcompanybrasil.com/games/gta-6-bate-recorde-maior-lancamento-historia-playstation/",
+      "image_url": "https://fastcompanybrasil.com/wp-content/uploads/2026/11/GTA-6-PS5.jpg"
+    },
+    {
+      "title": "O caso Nvidia mostra os limites entre governo e mercado | Fast Company Brasil",
+      "original_title": "O caso Nvidia mostra os limites entre governo e mercado | Fast Company Brasil",
+      "summary": "A volta do executivo ao comando da gigante dos chips, com participação da Casa Branca, levanta questões sobre o poder político nas empresas.",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre estratégia & negócios e suas implicações para marcas e comunicação.",
+      "category": "Estratégia & negócios",
+      "source": "Fast Company Brasil",
+      "published_date": "2026-11-25",
+      "url": "https://fastcompanybrasil.com/money/o-caso-nvidia-mostra-os-limites-entre-governo-e-mercado/",
+      "image_url": "https://fastcompanybrasil.com/wp-content/uploads/2026/11/livre-mercado_Jensen-Huang.jpg"
+    },
+    {
+      "title": "No Natal do Google Pixel, o Fantasma do Natal Passado cai na triagem de chamadas",
+      "original_title": "No Natal do Google Pixel, o Fantasma do Natal Passado cai na triagem de chamadas",
+      "summary": "Criado pela WPP, \"Scrooge: UnScrooged\" coloca Tom Davis, Asim Chaudhry e Diane Morgan num escritório atual, onde o celular faz o trabalho que antes cabia a três espíritos",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre criatividade e suas implicações para marcas e comunicação.",
+      "category": "Criatividade",
+      "source": "B9",
+      "published_date": "2026-11-25",
+      "url": "https://www.b9.com.br/google-pixel-11-natal-scrooge-unscrooged-diane-morgan/",
+      "image_url": "https://storage.ghost.io/c/b8/a4/b8a4ba23-e08d-42f7-b459-b1bcab5b8867/content/images/size/w1200/2026/11/Captura-de-Tela-2026-11-25-a--s-12.09.05.png"
+    },
+    {
+      "title": "In Las Vegas, Moët & Chandon Lets Every Guest Step Onto the Podium - COOL HUNTING®",
+      "original_title": "In Las Vegas, Moët & Chandon Lets Every Guest Step Onto the Podium - COOL HUNTING®",
+      "summary": "The Las Vegas Grand Prix ran from 19 to 21 November, with three nights of Formula 1 racing on a street circuit along the Strip. As the sport’s Official Champagne, Moët & Chandon supplied …",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre criatividade e suas implicações para marcas e comunicação.",
+      "category": "Criatividade",
+      "source": "Cool Hunting",
+      "published_date": "2026-11-25",
+      "url": "https://coolhunting.com/culture/in-las-vegas-moet-chandon-lets-every-guest-step-onto-the-podium/",
+      "image_url": "https://coolhunting.com/wp-content/uploads/2026/11/MC_F1LVGP_2026_4-1-scaled.jpg"
+    },
+    {
+      "title": "GMD quer levar Luísa Sonza ao mundo dos games",
+      "original_title": "GMD quer levar Luísa Sonza ao mundo dos games",
+      "summary": "Agência terá a missão de desenvolver projetos envolvendo a imagem da cantora Luísa Sonza no ambiente dos eSports",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre criatividade e suas implicações para marcas e comunicação.",
+      "category": "Criatividade",
+      "source": "Meio & Mensagem",
+      "published_date": "2026-11-25",
+      "url": "https://www.meioemensagem.com.br/comunicacao/gmd-quer-levar-luisa-sonza-ao-mundo-dos-games",
+      "image_url": "https://www.meioemensagem.com.br/wp-content/uploads/2026/11/luisa-souza-cred-reproducao.jpg"
+    },
+    {
+      "title": "Governo do Brasil lança jingle da Copa do Mundo feminina",
+      "original_title": "Governo do Brasil lança jingle da Copa do Mundo feminina",
+      "summary": "Com vídeo criado pela Fields, música tema terá mistura de funk e piseiro",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre criatividade e suas implicações para marcas e comunicação.",
+      "category": "Criatividade",
+      "source": "Meio & Mensagem",
+      "published_date": "2026-11-25",
+      "url": "https://www.meioemensagem.com.br/comunicacao/copa-mais-brasileira-do-mundo-conheca-o-jingle-do-mundial",
+      "image_url": "https://www.meioemensagem.com.br/wp-content/uploads/2026/11/marca-brasil-para-copa-cred-reproducao-x-2-1280x852-1.jpg"
+    },
+    {
+      "title": "GTA 6: a maior campanha do ano sem vender espaço de mídia",
+      "original_title": "GTA 6: a maior campanha do ano sem vender espaço de mídia",
+      "summary": "A matéria aborda “GTA 6: a maior campanha do ano sem vender espaço de mídia”. Abra a publicação original para conferir os detalhes, o contexto e os exemplos apresentados pela fonte.",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre campanhas e suas implicações para marcas e comunicação.",
+      "category": "Campanhas",
+      "source": "Update or Die!",
+      "published_date": "2026-11-24",
+      "url": "https://updateordie.com/2026/11/24/gta-6-a-maior-campanha-do-ano-e-de-uma-marca-que-nao-vende-anuncio/",
+      "image_url": "https://updateordie.com/wp-content/uploads/2026/11/action-duo-on-dock-mrpugNKW12.webp"
+    },
+    {
+      "title": "The Conifur Frozen Treat Toy - COOL HUNTING®",
+      "original_title": "The Conifur Frozen Treat Toy - COOL HUNTING®",
+      "summary": "Wilderdog’s pinecone-inspired, refillable treat dispenser keeps your furry pal content and occupied for up to 30 minutes at a time. The food-safe silicone is BPA-free and friendly on teeth an…",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre criatividade e suas implicações para marcas e comunicação.",
+      "category": "Criatividade",
+      "source": "Cool Hunting",
+      "published_date": "2026-11-24",
+      "url": "https://coolhunting.com/buy/the-conifur/",
+      "image_url": "https://coolhunting.com/wp-content/uploads/2026/11/CONIFUR3_1800x1800.png"
+    }
+  ]
+}
