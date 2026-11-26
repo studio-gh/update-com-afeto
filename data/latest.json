@@ -1,30 +1,96 @@
 {
-  "edition_date": "2026-11-25",
+  "edition_date": "2026-11-26",
   "status": "published",
   "notice": "Curadoria automática gratuita baseada em RSS e metadados das fontes originais.",
-  "window_start": "2026-11-19",
-  "window_end": "2026-11-25",
+  "window_start": "2026-11-20",
+  "window_end": "2026-11-26",
   "edition_name": "Update com Afeto",
   "editor_letter": "Esta edição reúne 10 histórias publicadas nos últimos sete dias, selecionadas entre as fontes do registro editorial unificado. A curadoria prioriza campanhas, marcas, estratégia, comportamento e cultura digital. Os resumos partem das descrições publicadas pelas próprias fontes; abra os links originais para ler o contexto completo.",
   "signals": [
     {
-      "title": "Criatividade",
-      "description": "5 matéria(s) desta edição exploram criatividade. Veja como as marcas e a cultura estão se movimentando neste tema.",
+      "title": "Campanhas",
+      "description": "4 matéria(s) desta edição exploram campanhas. Veja como as marcas e a cultura estão se movimentando neste tema.",
       "category": "SINAL EDITORIAL"
     },
     {
       "title": "Branding",
-      "description": "2 matéria(s) desta edição exploram branding. Veja como as marcas e a cultura estão se movimentando neste tema.",
+      "description": "3 matéria(s) desta edição exploram branding. Veja como as marcas e a cultura estão se movimentando neste tema.",
       "category": "SINAL EDITORIAL"
     },
     {
-      "title": "Campanhas",
-      "description": "2 matéria(s) desta edição exploram campanhas. Veja como as marcas e a cultura estão se movimentando neste tema.",
+      "title": "Criatividade",
+      "description": "2 matéria(s) desta edição exploram criatividade. Veja como as marcas e a cultura estão se movimentando neste tema.",
       "category": "SINAL EDITORIAL"
     }
   ],
-  "lead_url": "https://updateordie.com/2026/11/25/na-era-dos-videos-curtos-uma-marca-ainda-consegue-falar-com-todo-mundo/",
+  "lead_url": "https://updateordie.com/2026/11/26/carrefour-lanca-campanha-de-natal-pai-e-filha/",
   "stories": [
+    {
+      "title": "Africa Creative assume comunicação de Rexona para a Copa Feminina de 2027",
+      "original_title": "Africa Creative assume comunicação de Rexona para a Copa Feminina de 2027",
+      "summary": "Agência cuidará do patrocínio no Brasil; a DRUM permanece responsável pelas campanhas regulares da marca",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre campanhas e suas implicações para marcas e comunicação.",
+      "category": "Campanhas",
+      "source": "B9",
+      "published_date": "2026-11-26",
+      "url": "https://www.b9.com.br/africa-creative-rexona-copa-feminina-2027/",
+      "image_url": "https://storage.ghost.io/c/b8/a4/b8a4ba23-e08d-42f7-b459-b1bcab5b8867/content/images/size/w1200/2026/11/rexona-brasil-copa-2027.jpg"
+    },
+    {
+      "title": "Carrefour lança campanha de Natal pai e filha",
+      "original_title": "Carrefour lança campanha de Natal pai e filha",
+      "summary": "Criada pela Publicis Conseil, a ação aposta em clima de conto natalino, pratos típicos e suéteres de Natal para falar de generosidade e preços acessíveis nas festas.",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre campanhas e suas implicações para marcas e comunicação.",
+      "category": "Campanhas",
+      "source": "Update or Die!",
+      "published_date": "2026-11-26",
+      "url": "https://updateordie.com/2026/11/26/carrefour-lanca-campanha-de-natal-pai-e-filha/",
+      "image_url": "https://updateordie.com/wp-content/uploads/2026/11/maxresdefault-31.jpg"
+    },
+    {
+      "title": "Temperatura da Terra ultrapassa a marca de 2°C por seis dias consecutivos | Fast Company Brasil",
+      "original_title": "Temperatura da Terra ultrapassa a marca de 2°C por seis dias consecutivos | Fast Company Brasil",
+      "summary": "Temperaturas extremas já provocaram dezenas de milhares de mortes na Europa e ameaçam serviços essenciais.",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre branding e suas implicações para marcas e comunicação.",
+      "category": "Branding",
+      "source": "Fast Company Brasil",
+      "published_date": "2026-11-26",
+      "url": "https://fastcompanybrasil.com/impacto/temperatura-terra-ultrapassa-2-graus-seis-dias-consecutivos/",
+      "image_url": "https://fastcompanybrasil.com/wp-content/uploads/2026/11/temperatura-terra.jpg"
+    },
+    {
+      "title": "Senacon lança cartilha com regras para evitar prejuízos nas compras da Black Friday | Fast Company Brasil",
+      "original_title": "Senacon lança cartilha com regras para evitar prejuízos nas compras da Black Friday | Fast Company Brasil",
+      "summary": "Senacon orienta consumidores a guardar anúncios e comprovantes para contestar cobranças ou exigir o cumprimento de ofertas.",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre campanhas e suas implicações para marcas e comunicação.",
+      "category": "Campanhas",
+      "source": "Fast Company Brasil",
+      "published_date": "2026-11-26",
+      "url": "https://fastcompanybrasil.com/money/senacon-cartilha-regras-evitar-prejuizos-compras-black-friday/",
+      "image_url": "https://fastcompanybrasil.com/wp-content/uploads/2026/11/compras-guia.jpg"
+    },
+    {
+      "title": "Um ciclope de brinquedo cansa antes do iPhone 18 Pro Max em novo comercial da Apple",
+      "original_title": "Um ciclope de brinquedo cansa antes do iPhone 18 Pro Max em novo comercial da Apple",
+      "summary": "O boneco usa câmera, jogos, música, mapa e lanterna até cair no sono, e o celular ainda fica com cerca de metade da carga. O filme encena a nova medida de \"uso típico\" que a Apple adotou este ano",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre campanhas e suas implicações para marcas e comunicação.",
+      "category": "Campanhas",
+      "source": "B9",
+      "published_date": "2026-11-26",
+      "url": "https://www.b9.com.br/apple-iphone-18-pro-max-bateria-ciclope-brinquedo/",
+      "image_url": "https://storage.ghost.io/c/b8/a4/b8a4ba23-e08d-42f7-b459-b1bcab5b8867/content/images/size/w1200/2026/11/Captura-de-Tela-2026-11-26-a--s-14.29.42.png"
+    },
+    {
+      "title": "Branding e planejamento estratégico em 2027",
+      "original_title": "Branding e planejamento estratégico em 2027",
+      "summary": "Branding e planejamento estratégico precisam dividir prioridades e orçamento. Veja como traduzir metas de negócio em desafios de marca no plano de 2027.",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre branding e suas implicações para marcas e comunicação.",
+      "category": "Branding",
+      "source": "Ana Couto",
+      "published_date": "2026-11-25",
+      "url": "https://anacouto.com.br/artigos/2026/11/25/marca-e-negocio-alinhar-planejamento-estrategico-2027/",
+      "image_url": "https://anacouto.com.br/wp-content/uploads/2026/11/cropped-artigo-ac-1.png"
+    },
     {
       "title": "Na era dos vídeos curtos, uma marca ainda consegue falar com todo mundo?",
       "original_title": "Na era dos vídeos curtos, uma marca ainda consegue falar com todo mundo?",
@@ -37,59 +103,15 @@
       "image_url": "https://updateordie.com/wp-content/uploads/2026/11/featured-megafone-cyan-1200x675-1.jpg"
     },
     {
-      "title": "Chevrolet leva o Natal da família no porta-malas em filme sobre dois irmãos",
-      "original_title": "Chevrolet leva o Natal da família no porta-malas em filme sobre dois irmãos",
-      "summary": "Sexto \"Holiday Card to America\" da marca, \"Always There\" foi criado pela Anomaly e acompanha uma irmã que cruza o país com as decorações da infância para o irmão que acabou de se mudar",
-      "why_it_matters": "Vale observar o que esta publicação revela sobre campanhas e suas implicações para marcas e comunicação.",
-      "category": "Campanhas",
-      "source": "B9",
-      "published_date": "2026-11-25",
-      "url": "https://www.b9.com.br/chevrolet-natal-2026-always-there-irmaos/",
-      "image_url": "https://storage.ghost.io/c/b8/a4/b8a4ba23-e08d-42f7-b459-b1bcab5b8867/content/images/size/w1200/2026/11/Chevrolets-2026-Holiday-Card-lifelong-bond-siblings-2.jpg"
-    },
-    {
-      "title": "GTA 6 bate recorde e se torna o maior lançamento da história do PlayStation | Fast Company Brasil",
-      "original_title": "GTA 6 bate recorde e se torna o maior lançamento da história do PlayStation | Fast Company Brasil",
-      "summary": "Jogo da Rockstar superou 39 milhões de jogadores únicos no PS5 e estabeleceu novas marcas de participação na plataforma.",
-      "why_it_matters": "Vale observar o que esta publicação revela sobre branding e suas implicações para marcas e comunicação.",
-      "category": "Branding",
-      "source": "Fast Company Brasil",
-      "published_date": "2026-11-25",
-      "url": "https://fastcompanybrasil.com/games/gta-6-bate-recorde-maior-lancamento-historia-playstation/",
-      "image_url": "https://fastcompanybrasil.com/wp-content/uploads/2026/11/GTA-6-PS5.jpg"
-    },
-    {
-      "title": "O caso Nvidia mostra os limites entre governo e mercado | Fast Company Brasil",
-      "original_title": "O caso Nvidia mostra os limites entre governo e mercado | Fast Company Brasil",
-      "summary": "A volta do executivo ao comando da gigante dos chips, com participação da Casa Branca, levanta questões sobre o poder político nas empresas.",
+      "title": "IA no planejamento estratégico de 2027",
+      "original_title": "IA no planejamento estratégico de 2027",
+      "summary": "Como tratar a IA no planejamento estratégico: onde ela muda o negócio, como apoia o próprio plano e como priorizar iniciativas e recursos para 2027.",
       "why_it_matters": "Vale observar o que esta publicação revela sobre estratégia & negócios e suas implicações para marcas e comunicação.",
       "category": "Estratégia & negócios",
-      "source": "Fast Company Brasil",
+      "source": "Ana Couto",
       "published_date": "2026-11-25",
-      "url": "https://fastcompanybrasil.com/money/o-caso-nvidia-mostra-os-limites-entre-governo-e-mercado/",
-      "image_url": "https://fastcompanybrasil.com/wp-content/uploads/2026/11/livre-mercado_Jensen-Huang.jpg"
-    },
-    {
-      "title": "No Natal do Google Pixel, o Fantasma do Natal Passado cai na triagem de chamadas",
-      "original_title": "No Natal do Google Pixel, o Fantasma do Natal Passado cai na triagem de chamadas",
-      "summary": "Criado pela WPP, \"Scrooge: UnScrooged\" coloca Tom Davis, Asim Chaudhry e Diane Morgan num escritório atual, onde o celular faz o trabalho que antes cabia a três espíritos",
-      "why_it_matters": "Vale observar o que esta publicação revela sobre criatividade e suas implicações para marcas e comunicação.",
-      "category": "Criatividade",
-      "source": "B9",
-      "published_date": "2026-11-25",
-      "url": "https://www.b9.com.br/google-pixel-11-natal-scrooge-unscrooged-diane-morgan/",
-      "image_url": "https://storage.ghost.io/c/b8/a4/b8a4ba23-e08d-42f7-b459-b1bcab5b8867/content/images/size/w1200/2026/11/Captura-de-Tela-2026-11-25-a--s-12.09.05.png"
-    },
-    {
-      "title": "In Las Vegas, Moët & Chandon Lets Every Guest Step Onto the Podium - COOL HUNTING®",
-      "original_title": "In Las Vegas, Moët & Chandon Lets Every Guest Step Onto the Podium - COOL HUNTING®",
-      "summary": "The Las Vegas Grand Prix ran from 19 to 21 November, with three nights of Formula 1 racing on a street circuit along the Strip. As the sport’s Official Champagne, Moët & Chandon supplied …",
-      "why_it_matters": "Vale observar o que esta publicação revela sobre criatividade e suas implicações para marcas e comunicação.",
-      "category": "Criatividade",
-      "source": "Cool Hunting",
-      "published_date": "2026-11-25",
-      "url": "https://coolhunting.com/culture/in-las-vegas-moet-chandon-lets-every-guest-step-onto-the-podium/",
-      "image_url": "https://coolhunting.com/wp-content/uploads/2026/11/MC_F1LVGP_2026_4-1-scaled.jpg"
+      "url": "https://anacouto.com.br/artigos/2026/11/25/ia-no-planejamento-estrategico-2027/",
+      "image_url": "https://anacouto.com.br/wp-content/uploads/2026/11/cropped-artigo-ac-3.png"
     },
     {
       "title": "GMD quer levar Luísa Sonza ao mundo dos games",
@@ -112,28 +134,6 @@
       "published_date": "2026-11-25",
       "url": "https://www.meioemensagem.com.br/comunicacao/copa-mais-brasileira-do-mundo-conheca-o-jingle-do-mundial",
       "image_url": "https://www.meioemensagem.com.br/wp-content/uploads/2026/11/marca-brasil-para-copa-cred-reproducao-x-2-1280x852-1.jpg"
-    },
-    {
-      "title": "GTA 6: a maior campanha do ano sem vender espaço de mídia",
-      "original_title": "GTA 6: a maior campanha do ano sem vender espaço de mídia",
-      "summary": "A matéria aborda “GTA 6: a maior campanha do ano sem vender espaço de mídia”. Abra a publicação original para conferir os detalhes, o contexto e os exemplos apresentados pela fonte.",
-      "why_it_matters": "Vale observar o que esta publicação revela sobre campanhas e suas implicações para marcas e comunicação.",
-      "category": "Campanhas",
-      "source": "Update or Die!",
-      "published_date": "2026-11-24",
-      "url": "https://updateordie.com/2026/11/24/gta-6-a-maior-campanha-do-ano-e-de-uma-marca-que-nao-vende-anuncio/",
-      "image_url": "https://updateordie.com/wp-content/uploads/2026/11/action-duo-on-dock-mrpugNKW12.webp"
-    },
-    {
-      "title": "The Conifur Frozen Treat Toy - COOL HUNTING®",
-      "original_title": "The Conifur Frozen Treat Toy - COOL HUNTING®",
-      "summary": "Wilderdog’s pinecone-inspired, refillable treat dispenser keeps your furry pal content and occupied for up to 30 minutes at a time. The food-safe silicone is BPA-free and friendly on teeth an…",
-      "why_it_matters": "Vale observar o que esta publicação revela sobre criatividade e suas implicações para marcas e comunicação.",
-      "category": "Criatividade",
-      "source": "Cool Hunting",
-      "published_date": "2026-11-24",
-      "url": "https://coolhunting.com/buy/the-conifur/",
-      "image_url": "https://coolhunting.com/wp-content/uploads/2026/11/CONIFUR3_1800x1800.png"
     }
   ]
 }

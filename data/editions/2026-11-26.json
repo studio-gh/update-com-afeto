@@ -1,0 +1,139 @@
+{
+  "edition_date": "2026-11-26",
+  "status": "published",
+  "notice": "Curadoria automática gratuita baseada em RSS e metadados das fontes originais.",
+  "window_start": "2026-11-20",
+  "window_end": "2026-11-26",
+  "edition_name": "Update com Afeto",
+  "editor_letter": "Esta edição reúne 10 histórias publicadas nos últimos sete dias, selecionadas entre as fontes do registro editorial unificado. A curadoria prioriza campanhas, marcas, estratégia, comportamento e cultura digital. Os resumos partem das descrições publicadas pelas próprias fontes; abra os links originais para ler o contexto completo.",
+  "signals": [
+    {
+      "title": "Campanhas",
+      "description": "4 matéria(s) desta edição exploram campanhas. Veja como as marcas e a cultura estão se movimentando neste tema.",
+      "category": "SINAL EDITORIAL"
+    },
+    {
+      "title": "Branding",
+      "description": "3 matéria(s) desta edição exploram branding. Veja como as marcas e a cultura estão se movimentando neste tema.",
+      "category": "SINAL EDITORIAL"
+    },
+    {
+      "title": "Criatividade",
+      "description": "2 matéria(s) desta edição exploram criatividade. Veja como as marcas e a cultura estão se movimentando neste tema.",
+      "category": "SINAL EDITORIAL"
+    }
+  ],
+  "lead_url": "https://updateordie.com/2026/11/26/carrefour-lanca-campanha-de-natal-pai-e-filha/",
+  "stories": [
+    {
+      "title": "Africa Creative assume comunicação de Rexona para a Copa Feminina de 2027",
+      "original_title": "Africa Creative assume comunicação de Rexona para a Copa Feminina de 2027",
+      "summary": "Agência cuidará do patrocínio no Brasil; a DRUM permanece responsável pelas campanhas regulares da marca",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre campanhas e suas implicações para marcas e comunicação.",
+      "category": "Campanhas",
+      "source": "B9",
+      "published_date": "2026-11-26",
+      "url": "https://www.b9.com.br/africa-creative-rexona-copa-feminina-2027/",
+      "image_url": "https://storage.ghost.io/c/b8/a4/b8a4ba23-e08d-42f7-b459-b1bcab5b8867/content/images/size/w1200/2026/11/rexona-brasil-copa-2027.jpg"
+    },
+    {
+      "title": "Carrefour lança campanha de Natal pai e filha",
+      "original_title": "Carrefour lança campanha de Natal pai e filha",
+      "summary": "Criada pela Publicis Conseil, a ação aposta em clima de conto natalino, pratos típicos e suéteres de Natal para falar de generosidade e preços acessíveis nas festas.",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre campanhas e suas implicações para marcas e comunicação.",
+      "category": "Campanhas",
+      "source": "Update or Die!",
+      "published_date": "2026-11-26",
+      "url": "https://updateordie.com/2026/11/26/carrefour-lanca-campanha-de-natal-pai-e-filha/",
+      "image_url": "https://updateordie.com/wp-content/uploads/2026/11/maxresdefault-31.jpg"
+    },
+    {
+      "title": "Temperatura da Terra ultrapassa a marca de 2°C por seis dias consecutivos | Fast Company Brasil",
+      "original_title": "Temperatura da Terra ultrapassa a marca de 2°C por seis dias consecutivos | Fast Company Brasil",
+      "summary": "Temperaturas extremas já provocaram dezenas de milhares de mortes na Europa e ameaçam serviços essenciais.",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre branding e suas implicações para marcas e comunicação.",
+      "category": "Branding",
+      "source": "Fast Company Brasil",
+      "published_date": "2026-11-26",
+      "url": "https://fastcompanybrasil.com/impacto/temperatura-terra-ultrapassa-2-graus-seis-dias-consecutivos/",
+      "image_url": "https://fastcompanybrasil.com/wp-content/uploads/2026/11/temperatura-terra.jpg"
+    },
+    {
+      "title": "Senacon lança cartilha com regras para evitar prejuízos nas compras da Black Friday | Fast Company Brasil",
+      "original_title": "Senacon lança cartilha com regras para evitar prejuízos nas compras da Black Friday | Fast Company Brasil",
+      "summary": "Senacon orienta consumidores a guardar anúncios e comprovantes para contestar cobranças ou exigir o cumprimento de ofertas.",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre campanhas e suas implicações para marcas e comunicação.",
+      "category": "Campanhas",
+      "source": "Fast Company Brasil",
+      "published_date": "2026-11-26",
+      "url": "https://fastcompanybrasil.com/money/senacon-cartilha-regras-evitar-prejuizos-compras-black-friday/",
+      "image_url": "https://fastcompanybrasil.com/wp-content/uploads/2026/11/compras-guia.jpg"
+    },
+    {
+      "title": "Um ciclope de brinquedo cansa antes do iPhone 18 Pro Max em novo comercial da Apple",
+      "original_title": "Um ciclope de brinquedo cansa antes do iPhone 18 Pro Max em novo comercial da Apple",
+      "summary": "O boneco usa câmera, jogos, música, mapa e lanterna até cair no sono, e o celular ainda fica com cerca de metade da carga. O filme encena a nova medida de \"uso típico\" que a Apple adotou este ano",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre campanhas e suas implicações para marcas e comunicação.",
+      "category": "Campanhas",
+      "source": "B9",
+      "published_date": "2026-11-26",
+      "url": "https://www.b9.com.br/apple-iphone-18-pro-max-bateria-ciclope-brinquedo/",
+      "image_url": "https://storage.ghost.io/c/b8/a4/b8a4ba23-e08d-42f7-b459-b1bcab5b8867/content/images/size/w1200/2026/11/Captura-de-Tela-2026-11-26-a--s-14.29.42.png"
+    },
+    {
+      "title": "Branding e planejamento estratégico em 2027",
+      "original_title": "Branding e planejamento estratégico em 2027",
+      "summary": "Branding e planejamento estratégico precisam dividir prioridades e orçamento. Veja como traduzir metas de negócio em desafios de marca no plano de 2027.",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre branding e suas implicações para marcas e comunicação.",
+      "category": "Branding",
+      "source": "Ana Couto",
+      "published_date": "2026-11-25",
+      "url": "https://anacouto.com.br/artigos/2026/11/25/marca-e-negocio-alinhar-planejamento-estrategico-2027/",
+      "image_url": "https://anacouto.com.br/wp-content/uploads/2026/11/cropped-artigo-ac-1.png"
+    },
+    {
+      "title": "Na era dos vídeos curtos, uma marca ainda consegue falar com todo mundo?",
+      "original_title": "Na era dos vídeos curtos, uma marca ainda consegue falar com todo mundo?",
+      "summary": "A matéria aborda “Na era dos vídeos curtos, uma marca ainda consegue falar com todo mundo?”. Abra a publicação original para conferir os detalhes, o contexto e os exemplos apresentados pela fonte.",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre branding e suas implicações para marcas e comunicação.",
+      "category": "Branding",
+      "source": "Update or Die!",
+      "published_date": "2026-11-25",
+      "url": "https://updateordie.com/2026/11/25/na-era-dos-videos-curtos-uma-marca-ainda-consegue-falar-com-todo-mundo/",
+      "image_url": "https://updateordie.com/wp-content/uploads/2026/11/featured-megafone-cyan-1200x675-1.jpg"
+    },
+    {
+      "title": "IA no planejamento estratégico de 2027",
+      "original_title": "IA no planejamento estratégico de 2027",
+      "summary": "Como tratar a IA no planejamento estratégico: onde ela muda o negócio, como apoia o próprio plano e como priorizar iniciativas e recursos para 2027.",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre estratégia & negócios e suas implicações para marcas e comunicação.",
+      "category": "Estratégia & negócios",
+      "source": "Ana Couto",
+      "published_date": "2026-11-25",
+      "url": "https://anacouto.com.br/artigos/2026/11/25/ia-no-planejamento-estrategico-2027/",
+      "image_url": "https://anacouto.com.br/wp-content/uploads/2026/11/cropped-artigo-ac-3.png"
+    },
+    {
+      "title": "GMD quer levar Luísa Sonza ao mundo dos games",
+      "original_title": "GMD quer levar Luísa Sonza ao mundo dos games",
+      "summary": "Agência terá a missão de desenvolver projetos envolvendo a imagem da cantora Luísa Sonza no ambiente dos eSports",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre criatividade e suas implicações para marcas e comunicação.",
+      "category": "Criatividade",
+      "source": "Meio & Mensagem",
+      "published_date": "2026-11-25",
+      "url": "https://www.meioemensagem.com.br/comunicacao/gmd-quer-levar-luisa-sonza-ao-mundo-dos-games",
+      "image_url": "https://www.meioemensagem.com.br/wp-content/uploads/2026/11/luisa-souza-cred-reproducao.jpg"
+    },
+    {
+      "title": "Governo do Brasil lança jingle da Copa do Mundo feminina",
+      "original_title": "Governo do Brasil lança jingle da Copa do Mundo feminina",
+      "summary": "Com vídeo criado pela Fields, música tema terá mistura de funk e piseiro",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre criatividade e suas implicações para marcas e comunicação.",
+      "category": "Criatividade",
+      "source": "Meio & Mensagem",
+      "published_date": "2026-11-25",
+      "url": "https://www.meioemensagem.com.br/comunicacao/copa-mais-brasileira-do-mundo-conheca-o-jingle-do-mundial",
+      "image_url": "https://www.meioemensagem.com.br/wp-content/uploads/2026/11/marca-brasil-para-copa-cred-reproducao-x-2-1280x852-1.jpg"
+    }
+  ]
+}
