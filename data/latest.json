@@ -1,40 +1,95 @@
 {
-  "edition_date": "2026-11-26",
+  "edition_date": "2026-11-27",
   "status": "published",
   "notice": "Curadoria automática gratuita baseada em RSS e metadados das fontes originais.",
-  "window_start": "2026-11-20",
-  "window_end": "2026-11-26",
+  "window_start": "2026-11-21",
+  "window_end": "2026-11-27",
   "edition_name": "Update com Afeto",
   "editor_letter": "Esta edição reúne 10 histórias publicadas nos últimos sete dias, selecionadas entre as fontes do registro editorial unificado. A curadoria prioriza campanhas, marcas, estratégia, comportamento e cultura digital. Os resumos partem das descrições publicadas pelas próprias fontes; abra os links originais para ler o contexto completo.",
   "signals": [
     {
+      "title": "Criatividade",
+      "description": "4 matéria(s) desta edição exploram criatividade. Veja como as marcas e a cultura estão se movimentando neste tema.",
+      "category": "SINAL EDITORIAL"
+    },
+    {
       "title": "Campanhas",
-      "description": "4 matéria(s) desta edição exploram campanhas. Veja como as marcas e a cultura estão se movimentando neste tema.",
+      "description": "3 matéria(s) desta edição exploram campanhas. Veja como as marcas e a cultura estão se movimentando neste tema.",
       "category": "SINAL EDITORIAL"
     },
     {
       "title": "Branding",
-      "description": "3 matéria(s) desta edição exploram branding. Veja como as marcas e a cultura estão se movimentando neste tema.",
-      "category": "SINAL EDITORIAL"
-    },
-    {
-      "title": "Criatividade",
-      "description": "2 matéria(s) desta edição exploram criatividade. Veja como as marcas e a cultura estão se movimentando neste tema.",
+      "description": "2 matéria(s) desta edição exploram branding. Veja como as marcas e a cultura estão se movimentando neste tema.",
       "category": "SINAL EDITORIAL"
     }
   ],
-  "lead_url": "https://updateordie.com/2026/11/26/carrefour-lanca-campanha-de-natal-pai-e-filha/",
+  "lead_url": "https://fastcompanybrasil.com/impacto/black-friday-quando-as-marcas-escolhem-nao-vender/",
   "stories": [
     {
-      "title": "Africa Creative assume comunicação de Rexona para a Copa Feminina de 2027",
-      "original_title": "Africa Creative assume comunicação de Rexona para a Copa Feminina de 2027",
-      "summary": "Agência cuidará do patrocínio no Brasil; a DRUM permanece responsável pelas campanhas regulares da marca",
+      "title": "Black Friday: quando as marcas escolhem não vender | Fast Company Brasil",
+      "original_title": "Black Friday: quando as marcas escolhem não vender | Fast Company Brasil",
+      "summary": "Em vez de descontos, empresas apostam em consertos, trocas de produtos e campanhas ambientais para questionar o consumo desenfreado.",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre campanhas e suas implicações para marcas e comunicação.",
+      "category": "Campanhas",
+      "source": "Fast Company Brasil",
+      "published_date": "2026-11-27",
+      "url": "https://fastcompanybrasil.com/impacto/black-friday-quando-as-marcas-escolhem-nao-vender/",
+      "image_url": "https://fastcompanybrasil.com/wp-content/uploads/2026/11/consumismo-sem-compras.jpg"
+    },
+    {
+      "title": "No Natal da Piracanjuba, menino autista pede ao Papai Noel um abraço para a mãe",
+      "original_title": "No Natal da Piracanjuba, menino autista pede ao Papai Noel um abraço para a mãe",
+      "summary": "\"O Presente\" acompanha os preparativos de fim de ano de uma família com um menino autista e continua o trabalho que a marca começou em abril nas embalagens",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre branding e suas implicações para marcas e comunicação.",
+      "category": "Branding",
+      "source": "B9",
+      "published_date": "2026-11-27",
+      "url": "https://www.b9.com.br/piracanjuba-natal-2026-o-presente-autismo-almapbbdo/",
+      "image_url": "https://storage.ghost.io/c/b8/a4/b8a4ba23-e08d-42f7-b459-b1bcab5b8867/content/images/size/w1200/2026/11/piracanjuba-natal.jpg"
+    },
+    {
+      "title": "Zack Snyder dirige e Matt Damon narra o filme da Ford para a volta a Le Mans",
+      "original_title": "Zack Snyder dirige e Matt Damon narra o filme da Ford para a volta a Le Mans",
+      "summary": "\"Go Like Hell\" apresenta o GT41, carro com que a Ford tenta sua primeira vitória geral nas 24 Horas desde 1969",
       "why_it_matters": "Vale observar o que esta publicação revela sobre campanhas e suas implicações para marcas e comunicação.",
       "category": "Campanhas",
       "source": "B9",
-      "published_date": "2026-11-26",
-      "url": "https://www.b9.com.br/africa-creative-rexona-copa-feminina-2027/",
-      "image_url": "https://storage.ghost.io/c/b8/a4/b8a4ba23-e08d-42f7-b459-b1bcab5b8867/content/images/size/w1200/2026/11/rexona-brasil-copa-2027.jpg"
+      "published_date": "2026-11-27",
+      "url": "https://www.b9.com.br/ford-gt41-le-mans-zack-snyder-matt-damon-go-like-hell/",
+      "image_url": "https://storage.ghost.io/c/b8/a4/b8a4ba23-e08d-42f7-b459-b1bcab5b8867/content/images/size/w1200/2026/11/ford-lemans.jpg"
+    },
+    {
+      "title": "Porque o PL dos Mercados Digitais importa para anunciantes | Fast Company Brasil",
+      "original_title": "Porque o PL dos Mercados Digitais importa para anunciantes | Fast Company Brasil",
+      "summary": "Quem depende economicamente de uma plataforma não deve ser obrigado a confiar apenas nos números que ela mesma produz.",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre estratégia & negócios e suas implicações para marcas e comunicação.",
+      "category": "Estratégia & negócios",
+      "source": "Fast Company Brasil",
+      "published_date": "2026-11-27",
+      "url": "https://fastcompanybrasil.com/tech/porque-o-pl-dos-mercados-digitais-importa-para-empreendedores-e-anunciantes/",
+      "image_url": "https://fastcompanybrasil.com/wp-content/uploads/2026/11/internet_legislacao_Mercados-Digitais.jpg"
+    },
+    {
+      "title": "Holiday Gift Guide 2026: Kids + Pets - COOL HUNTING®",
+      "original_title": "Holiday Gift Guide 2026: Kids + Pets - COOL HUNTING®",
+      "summary": "We all know that finding that perfect present for a pet or little one can be tricky: there’s a lot to choose from, many products are poorly made and it’s just hard to know where to star…",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre criatividade e suas implicações para marcas e comunicação.",
+      "category": "Criatividade",
+      "source": "Cool Hunting",
+      "published_date": "2026-11-27",
+      "url": "https://coolhunting.com/design/holiday-gift-guide-2026-kids-pets/",
+      "image_url": "https://coolhunting.com/wp-content/uploads/2026/11/Googly-Eyes-Mini-Notebook-5.png"
+    },
+    {
+      "title": "Trackside Dining and Milanese Design at The Venetian - COOL HUNTING®",
+      "original_title": "Trackside Dining and Milanese Design at The Venetian - COOL HUNTING®",
+      "summary": "Formula 1 returned to the Las Vegas Strip for the 50-lap Grand Prix on Saturday, 21 November. The Venetian Resort Las Vegas sits at Turn 12, with views overlooking roughly a fifth of the circuit.",
+      "why_it_matters": "Vale observar o que esta publicação revela sobre criatividade e suas implicações para marcas e comunicação.",
+      "category": "Criatividade",
+      "source": "Cool Hunting",
+      "published_date": "2026-11-27",
+      "url": "https://coolhunting.com/culture/trackside-dining-and-milanese-design-at-the-venetian/",
+      "image_url": "https://coolhunting.com/wp-content/uploads/2026/11/Velocity-Club-scaled.jpg"
     },
     {
       "title": "Carrefour lança campanha de Natal pai e filha",
@@ -48,50 +103,6 @@
       "image_url": "https://updateordie.com/wp-content/uploads/2026/11/maxresdefault-31.jpg"
     },
     {
-      "title": "Temperatura da Terra ultrapassa a marca de 2°C por seis dias consecutivos | Fast Company Brasil",
-      "original_title": "Temperatura da Terra ultrapassa a marca de 2°C por seis dias consecutivos | Fast Company Brasil",
-      "summary": "Temperaturas extremas já provocaram dezenas de milhares de mortes na Europa e ameaçam serviços essenciais.",
-      "why_it_matters": "Vale observar o que esta publicação revela sobre branding e suas implicações para marcas e comunicação.",
-      "category": "Branding",
-      "source": "Fast Company Brasil",
-      "published_date": "2026-11-26",
-      "url": "https://fastcompanybrasil.com/impacto/temperatura-terra-ultrapassa-2-graus-seis-dias-consecutivos/",
-      "image_url": "https://fastcompanybrasil.com/wp-content/uploads/2026/11/temperatura-terra.jpg"
-    },
-    {
-      "title": "Senacon lança cartilha com regras para evitar prejuízos nas compras da Black Friday | Fast Company Brasil",
-      "original_title": "Senacon lança cartilha com regras para evitar prejuízos nas compras da Black Friday | Fast Company Brasil",
-      "summary": "Senacon orienta consumidores a guardar anúncios e comprovantes para contestar cobranças ou exigir o cumprimento de ofertas.",
-      "why_it_matters": "Vale observar o que esta publicação revela sobre campanhas e suas implicações para marcas e comunicação.",
-      "category": "Campanhas",
-      "source": "Fast Company Brasil",
-      "published_date": "2026-11-26",
-      "url": "https://fastcompanybrasil.com/money/senacon-cartilha-regras-evitar-prejuizos-compras-black-friday/",
-      "image_url": "https://fastcompanybrasil.com/wp-content/uploads/2026/11/compras-guia.jpg"
-    },
-    {
-      "title": "Um ciclope de brinquedo cansa antes do iPhone 18 Pro Max em novo comercial da Apple",
-      "original_title": "Um ciclope de brinquedo cansa antes do iPhone 18 Pro Max em novo comercial da Apple",
-      "summary": "O boneco usa câmera, jogos, música, mapa e lanterna até cair no sono, e o celular ainda fica com cerca de metade da carga. O filme encena a nova medida de \"uso típico\" que a Apple adotou este ano",
-      "why_it_matters": "Vale observar o que esta publicação revela sobre campanhas e suas implicações para marcas e comunicação.",
-      "category": "Campanhas",
-      "source": "B9",
-      "published_date": "2026-11-26",
-      "url": "https://www.b9.com.br/apple-iphone-18-pro-max-bateria-ciclope-brinquedo/",
-      "image_url": "https://storage.ghost.io/c/b8/a4/b8a4ba23-e08d-42f7-b459-b1bcab5b8867/content/images/size/w1200/2026/11/Captura-de-Tela-2026-11-26-a--s-14.29.42.png"
-    },
-    {
-      "title": "Branding e planejamento estratégico em 2027",
-      "original_title": "Branding e planejamento estratégico em 2027",
-      "summary": "Branding e planejamento estratégico precisam dividir prioridades e orçamento. Veja como traduzir metas de negócio em desafios de marca no plano de 2027.",
-      "why_it_matters": "Vale observar o que esta publicação revela sobre branding e suas implicações para marcas e comunicação.",
-      "category": "Branding",
-      "source": "Ana Couto",
-      "published_date": "2026-11-25",
-      "url": "https://anacouto.com.br/artigos/2026/11/25/marca-e-negocio-alinhar-planejamento-estrategico-2027/",
-      "image_url": "https://anacouto.com.br/wp-content/uploads/2026/11/cropped-artigo-ac-1.png"
-    },
-    {
       "title": "Na era dos vídeos curtos, uma marca ainda consegue falar com todo mundo?",
       "original_title": "Na era dos vídeos curtos, uma marca ainda consegue falar com todo mundo?",
       "summary": "A matéria aborda “Na era dos vídeos curtos, uma marca ainda consegue falar com todo mundo?”. Abra a publicação original para conferir os detalhes, o contexto e os exemplos apresentados pela fonte.",
@@ -101,17 +112,6 @@
       "published_date": "2026-11-25",
       "url": "https://updateordie.com/2026/11/25/na-era-dos-videos-curtos-uma-marca-ainda-consegue-falar-com-todo-mundo/",
       "image_url": "https://updateordie.com/wp-content/uploads/2026/11/featured-megafone-cyan-1200x675-1.jpg"
-    },
-    {
-      "title": "IA no planejamento estratégico de 2027",
-      "original_title": "IA no planejamento estratégico de 2027",
-      "summary": "Como tratar a IA no planejamento estratégico: onde ela muda o negócio, como apoia o próprio plano e como priorizar iniciativas e recursos para 2027.",
-      "why_it_matters": "Vale observar o que esta publicação revela sobre estratégia & negócios e suas implicações para marcas e comunicação.",
-      "category": "Estratégia & negócios",
-      "source": "Ana Couto",
-      "published_date": "2026-11-25",
-      "url": "https://anacouto.com.br/artigos/2026/11/25/ia-no-planejamento-estrategico-2027/",
-      "image_url": "https://anacouto.com.br/wp-content/uploads/2026/11/cropped-artigo-ac-3.png"
     },
     {
       "title": "GMD quer levar Luísa Sonza ao mundo dos games",
